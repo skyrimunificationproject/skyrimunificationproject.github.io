@@ -20,16 +20,16 @@
 
 title: Skyrim Unification Project
 email: ra2phoenix@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/docs/" # the subpath of your site, e.g. /blog
+description: A modlist for Skyrim Special Edition.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  skyrimunificationproject
 
 # Build settings
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
