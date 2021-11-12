@@ -251,22 +251,21 @@ dt {
 
 #wrapper {
 nav {
-  width: 200px;
   position: fixed;
-  top: 150px;
+  top: 120px;
   left:70%;
-  margin-right:20px;
+  margin-right:10px;
   text-align: left;
 
   ul {
     list-style: none;
     list-style-image:none;
-    font-size: 14px;
+    font-size: 12px;
     line-height:24px;
 
     li {
       padding: 5px 0px;
-      line-height: 16px;
+      line-height: 18px;
       // padding-right:17px;
       // position:relative;
       // right:-12px;

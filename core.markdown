@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 title: "Skyrim Unification Project"
 ---
@@ -326,6 +323,64 @@ Download: | Main FIles - Windhelm Fake Windows Fix
 # Gameplay Tweaks
 
 ---
+
+# User Interface
+
+---
+
+# Heads Up Display
+
+---
+
+# Camera and World Map
+
+---
+
+# Character Creation
+
+---
+
+# Follower Framework
+
+---
+
+# Audio, Music, and Sounds
+
+---
+
+# World Expansion
+
+---
+
+# World Expansion - Guilds and Factions
+
+---
+
+# Modified Vanilla Content
+
+---
+
+# Modified Vanilla Content - Quest and Radiant Systems
+
+---
+
+# Modified Vanilla Content - New Content
+
+---
+
+# New Items - Clothing and Jewelry Expansions
+
+---
+
+# New Items - Armor and Weapon Expansions
+
+---
+
+# LOD Generation - Dynamic LOD
+
+---
+
+
 
 ### Placeholder
 
