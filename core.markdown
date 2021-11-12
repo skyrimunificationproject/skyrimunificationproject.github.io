@@ -287,6 +287,7 @@ Download: | Main Files - Sound Hammering Sounds
 Download: | Main Files - Unofficial Material Fix
 
 ### Vanilla Script (micro)Optimizations
+
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.1a` | Author: `Subhuman0100` | ![Core] |
 Download: | Main Files - Vanilla Script microOptimizations
 
