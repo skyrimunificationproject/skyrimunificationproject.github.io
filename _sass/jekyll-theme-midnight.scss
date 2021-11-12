@@ -230,7 +230,13 @@ dt {
   }
 }
 
+td.author::before {
+  content: "before";
+}
 
+td.author::after {
+  content: "after";
+}
 
 
 #wrapper {
@@ -260,7 +266,7 @@ nav {
 
         a {
           font-weight: bold;
-          color: #333;
+          color: #666;
         }
 
         + .tag-h2 {
@@ -301,7 +307,7 @@ section {
     outline: none;
     margin: 0 0 50px 0;
     padding: 0 0 5px 0;
-
+	
     h1 {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
@@ -332,11 +338,9 @@ section {
       &.right {
         float: right;
       }
-    }
-
-  }
+    }	
 }
-
+}
 }
 
 @media print, screen and (max-width: 720px) {
