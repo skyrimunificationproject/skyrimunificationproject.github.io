@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 5px;
 }
 
 h1, h2, h3 {
@@ -30,7 +30,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:34px;
 }
 
 h2 {
@@ -94,9 +94,9 @@ blockquote {
 }
 
 code {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
-  color:#efefef;
-  font-size:13px;
+  font-family: 'Roboto Mono', monospace;
+  color:#f0e7d5;
+  font-size:14px;
   margin: 0 4px;
   padding: 4px 6px;
   border-radius: 2px;
@@ -110,9 +110,10 @@ pre {
   box-shadow: inset 0 1px 3px rgba(0,0,0,.3);
   overflow: auto;
   overflow-y: hidden;
+  margin-bottom: 25px;
+  margin-left: 20px;
 
   code {
-    color: #efefef;
     text-shadow: 0px 1px 0px #000;
     margin: 0;
     padding: 0;
@@ -163,7 +164,7 @@ hr {
   outline: none;
   height: 3px;
   background: transparent url('../images/hr.gif') center center repeat-x;
-  margin: 0 0 20px;
+  margin: 20px 0 20px;
 }
 
 dt {
