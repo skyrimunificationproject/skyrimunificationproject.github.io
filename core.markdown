@@ -675,13 +675,13 @@ Resave Saddlebags.esp in the Creation Kit.
 
 ## Lucidity Sound FX
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1841) | Version: `v2u` | Author: `Foggypath` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1841) | Version: `v2u` | Author: `Foggypath` | ![Core] ![CAO]|
 Download: | Main Files - Lucidity Sound FX v2u
 
 ![PostInstall]
 ~~~
 Delete LSFX-SSE-Audiosettings.esp.
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Audio Overhaul for Skyrim
@@ -691,7 +691,7 @@ Download: | Main Files - Audio Overhaul Skyrim (3.3.2)
 
 ## Immersive Sounds - Compendium
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/523) | Version: `3.0` | Author: `lazygecko` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/523) | Version: `3.0` | Author: `lazygecko` | ![Core] ![CAO]|
 Download: | Main Files - Immersive Sounds Compendium 3.0
 
 ![FOMOD]
@@ -726,7 +726,7 @@ Misc Options:
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Immersive Sounds - Compendium - AOS Patch
@@ -736,23 +736,23 @@ Download: | Main Files - Audio Overhaul Skyrim - Immersive Sounds Compendium Int
 
 ## Barefoot Footstep Extended
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40308) | Version: `1.0` | Author: `epsadin` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40308) | Version: `1.0` | Author: `epsadin` | ![Core] ![CAO]|
 Download: | Main Files - Barefoot Footstep Extended SE
 | Optional Files - ESP flagged as ESL.
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Heart of the Beast - Werewolf Sound Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/13779) | Version: `1.8` | Author: `NsJones` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrim/mods/13779) | Version: `1.8` | Author: `NsJones` | ![Core] ![CAO]|
 Download: | Main Files - Alpha werewolf sounds - VERY VICIOUS AND AGGRESSIVE
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Thundering Shouts
@@ -773,12 +773,12 @@ Download: | Main Files - Black-Briar Banners - Woven Edition
 
 ## Dark Anchors Ruins and Dolmens
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51010) | Version: `2.1` | Author: `s606t` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51010) | Version: `2.1` | Author: `s606t` | ![Core] ![CAO]|
 Download: | Main Files - s6o6t Lore - Dark Anchors Ruins and Dolmens
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Dungeons - Revisited
@@ -793,7 +793,7 @@ Download: | Main Files - EasierRider's Dungeon Pack SSE v1.5
 
 ## Farmhouse Chimneys
 
-[![mod]](nexusurl) | Version: `4.0.5` | Author: `Scarla` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] ![Adventures] |
 Download: | Main Files - Farmhouse Chimneys SE v4.0.5
 
 ![FOMOD] ![CoreLg]
@@ -829,12 +829,12 @@ Download: | Main Files - Immersive Fallen Trees SSE
 
 ## Mundus Stones
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51191?tab=files) | Version: `3.1` | Author: `s6o6t` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51191?tab=files) | Version: `3.1` | Author: `s6o6t` | ![Core] ![CAO]|
 Download: | Main Files - s6o6t Lore - Mundus Stones
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Northern Marsh Bridges
@@ -844,22 +844,22 @@ Download: | Main Files - Northern Marsh Bridges SE
 
 ## Oblivion Gates
 
-[![mod]](nexusurl) | Version: `3.1` | Author: `s6o6t` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50933) | Version: `3.1` | Author: `s6o6t` | ![Core] ![CAO]|
 Download: | Main Files - s6o6t Lore - Oblivion Gates
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Outlaws Refuges
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8445) | Version: `1.2` | Author: `Sokkvabekk` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8445) | Version: `1.2` | Author: `Sokkvabekk` | ![Core] ![CAO]|
 Download: | Main Files - Outlaws Refuges 1.2
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Road Signs Overhaul
@@ -869,13 +869,13 @@ Download: | Main Files - Road Signs Overhaul
 
 ## Sepolcri - A complete Burial Sites Overhaul
 
-[![mod]](nexusurl) | Version: `1.2` | Author: `WiZkiD` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34105) | Version: `1.2` | Author: `WiZkiD` | ![Core] ![CAO]|
 Download: | Main Files - Sepolcri - A Complete Burial Sites Overhaul
 | Optional Files - Sepolcri - DynDOLOD patch
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Skyrim Bridges 
@@ -922,12 +922,12 @@ Download: | Main Files - Waymark - A Road Signs Mod
 
 ## Windhelm Lighthouse
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8453) | Version: `1.3` | Author: `dwemer156` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8453) | Version: `1.3` | Author: `dwemer156` | ![Core] ![CAO]|
 Download: | Main Files - Windhelm Lighthouse V1.3
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ---
@@ -958,12 +958,12 @@ Delete OCW_CellSetting.esp.
 
 ## Your Choices Matter - A Dark Brotherhood Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46871) | Version: `2.0.6` | Author: `WhiteWolf424242` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46871) | Version: `2.0.6` | Author: `WhiteWolf424242` | ![Core] ![CAO]|
 Download: | Main Files - Your Choices Matter - Dark Brotherhood Expansion main file SSE
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ---
@@ -1005,12 +1005,12 @@ Download: | Main Files - Better Courier
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.0.6` | Author: `AndrealphusVIII` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.0.6` | Author: `AndrealphusVIII` | ![Core] ![CAO]|
 Download: | Main Files - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Choose Your Own Arch-Mage
@@ -1073,12 +1073,12 @@ Download: | Main Files - Gildergreen Regrown
 
 ## House of Horrors - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57285) | Version: `1.02` | Author: `JaySerpa` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57285) | Version: `1.02` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - House of Horrors - Quest Expansion
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Immersive College NPCs
@@ -1141,22 +1141,22 @@ Inescapable Insights:
 
 ## Nilheim - Misc Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.11` | Author: `JaySerpa` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.11` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - Nilheim - Quest Expansion
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Paarthurnax - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.02` | Author: `1.02` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.02` | Author: `1.02` | ![Core] ![CAO]|
 Download: | Main Files - Paarthurnax Quest Expansion
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Save the Icerunner - Lights Out Alternate Routes
@@ -1357,12 +1357,12 @@ Download: | Main Files - Bandolier Bags and Pouches Classic SE
 
 ![PostInstall]
 ~~~
-Repack the mod with CAO.
+Repack the mod with CAO. (Poorly optimized)
 ~~~
 
 ## Cloaks of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6369) | Version: `1.2.1` | Author: `Nikinoodles and Nazenn` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6369) | Version: `1.2.1` | Author: `Nikinoodles and Nazenn` | ![Core] ![CAO]|
 Download: | Main Files - Cloaks of Skyrim SSE - v1.2.1
 
 ![FOMOD]
@@ -1374,7 +1374,7 @@ Pick Version:
 ![PostInstall]
 ~~~
 Delete Cloaks - USSEP Patch.esp.
-Repack the mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Cloaks of Skyrim - Retexture
