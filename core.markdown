@@ -409,7 +409,7 @@ Download: | Main Files - Vanilla Plus Writing Purity Patch
 
 ## SkyUI
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Version: `5.2SE` | Author: `SkyUI Team` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Version: `5.2SE` | Author: `SkyUI Team` | ![Core] ![BSA]|
 Download: | Main Files - SkyUI_5_2_SE
 
 ## SkyUI - Better Config - Smart Sorting by Type
