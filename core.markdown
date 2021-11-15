@@ -793,7 +793,7 @@ Download: | Main Files - EasierRider's Dungeon Pack SSE v1.5
 
 ## Farmhouse Chimneys
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] |
 Download: | Main Files - Farmhouse Chimneys SE v4.0.5
 
 ![FOMOD] ![CoreLg]
@@ -802,14 +802,6 @@ New Lands:
    None
 Vanilla Villages:
    None
-~~~
-
-![FOMOD] ![AdventuresLg]
-~~~
-New Lands:
-   Falskaar
-Vanilla Villages:
-   Helgen Reborn
 ~~~
 
 ## Hold Border Banners
@@ -1321,8 +1313,6 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.03` | Author: `AndrealphusVIII` | ![Core] |
 Download: | Main Files - Missives - Solstheim Patch SE v2.03
-![Adventures] | Main Files - Missives - Falskaar Patch
-![Adventures] | Main Files - Missives - Wyrmstooth patch
 
 ## Missives - Notes Retexture
 
@@ -1520,6 +1510,4 @@ Delete HD Lods SSE.bsa.
 [visuals]: https://img.shields.io/badge/Visuals-informational?style=flat-square
 [fomod]: https://img.shields.io/badge/FOMOD%20Instructions-informational?style=for-the-badge
 [postinstall]: https://img.shields.io/badge/Post--Install%20Instructions-00B000?style=for-the-badge
-[adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
-[adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
