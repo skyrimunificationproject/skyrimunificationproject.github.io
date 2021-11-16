@@ -268,7 +268,8 @@ Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
 ~~~
-All-In-One - .esl
+All-In-One
+   * .esl
 ~~~
 
 ## No Grass in Caves
@@ -284,7 +285,7 @@ Download: | Main Files - Skyrim Landscape and Water Fixes - FOMOD
 ![FOMOD]
 ~~~
 Walkway Wall Fix:
-   Walkway Wall Fix SMIM
+   * Walkway Wall Fix SMIM
 ~~~
 
 ## Skyrim Particle Patch
@@ -352,9 +353,9 @@ Download: | Main Files - Dwemer Gates Don't Reset
 ![FOMOD]
 ~~~
 Version:     
-   Complete
+   * Complete
 Plugin Type: 
-   ESM
+   * ESM
 ~~~
 
 ## Dynamic Things Alternative
@@ -381,14 +382,14 @@ Download: | Main Files - YASTM (FOMOD)
 ![FOMOD]
 ~~~
 Select Basic Components:
-   YASTM MCM
+   * YASTM MCM
 Select SKSE Plugin:
-   Release
+   * Release
 Select Patch:
-   None
+   * None
 Select Miscellaneous Patches:
-   Inigo
-   Reliquary of Myth
+   * Inigo
+   * Reliquary of Myth
 ~~~
 
 ![PostInstall]
@@ -445,9 +446,9 @@ Download: | Main Files - Scribes of Skyrim - a font extension
 ![FOMOD]
 ~~~
 Select an Option:
-   Vanilla
+   * Vanilla
 Select an Option:
-   Sovngarde - A Nordic Font
+   * Sovngarde - A Nordic Font
 ~~~
 
 ## UI Extensions
@@ -494,11 +495,11 @@ Download: | Main Files - SkyHUD v090B v4
 ![FOMOD]
 ~~~
 Please Select Installation Type:
-   Loose Files
+   * Loose Files
 Choose a Preset:
-   SkyHUD Default
+   * SkyHUD Default
 Optional:
-   Install iHUD Compatibility Patch
+   * Install iHUD Compatibility Patch
 ~~~
 
 ## NORDIC UI - Interface Overhaul
@@ -509,23 +510,23 @@ Download: | Main Files - NORDIC UI (Final Design)
 ![FOMOD]
 ~~~
 Main:
-   HUD (SkyHUD)
-   Boxes
-   RaceMenu (Vanilla)
-   Cursor
-   Dialogue Menu
-   Favorite Menu
-   Icons
-   Pause Menu (Journal)
-   Skill Menu
-   Skill Menu 3D Visuals
-   Start Menu
-   Start Menu 3D Background
-   Game Menus
-   UI Sounds
-   SkyHUD Preset
+   * HUD (SkyHUD)
+   * Boxes
+   * RaceMenu (Vanilla)
+   * Cursor
+   * Dialogue Menu
+   * Favorite Menu
+   * Icons
+   * Pause Menu (Journal)
+   * Skill Menu
+   * Skill Menu 3D Visuals
+   * Start Menu
+   * Start Menu 3D Background
+   * Game Menus
+   * UI Sounds
+   * SkyHUD Preset
 Loading Screen:
-   Default
+   * Default
 ~~~
 
 ## NORDIC UI - Miscellaneous Patches
@@ -536,21 +537,21 @@ Download: | Main Files - NORDIC UI - Miscellaneous Patches
 ![FOMOD]
 ~~~
 MoreHUD Inventory:
-   Vanilla
+   * Vanilla
 Stat Screen Colored Icons:
-   2.4.1 Style Icons
+   * 2.4.1 Style Icons
 Even Better MessageBox Controls:
-   Install
+   * Install
 MCM:
-   Even Wider Rescaled MCM
+   * Even Wider Rescaled MCM
 Remove QuickSave from System Menu:
-   Install
+   * Install
 Loading Screen:
-   Install
+   * Install
 Tween Menu:
-   Install
+   * Install
 Spacing:
-   SkyUI Item Card Fixes Spacing
+   * SkyUI Item Card Fixes Spacing
 ~~~
 
 ---
@@ -572,9 +573,9 @@ Download: | Main Files - SmoothCam
 ![FOMOD]
 ~~~
 Select Version:
-   SmoothCam AVX
+   * SmoothCam AVX
 Select Plugin Type:
-   ESL
+   * ESL
 ~~~
 
 ## A Quality World Map
@@ -605,15 +606,15 @@ Download: | Main Files - CoMAP
 ![FOMOD]
 ~~~
 Configs:
-   CoMAP Config Pack
+   * CoMAP Config Pack
 Obscured Undiscovered Options:
-   Obscured Undiscovered HUD Markers - Question Mark
+   * Obscured Undiscovered HUD Markers - Question Mark
 Author's Cut Options:
-   None
+   * None
 Author's Cut Options:
-   None
+   * None
 Khajiit Caravan Markers:
-   None
+   * None
 ~~~
 
 ## Dynamic Snow for Map
@@ -646,15 +647,15 @@ Download: | Main Files - Nether's Follower Framework - Universal Installer (LE o
 ![FOMOD]
 ~~~
 Game Version:
-   Skyrim Special Edition
+   * Skyrim Special Edition
 Core Options:
-   Followers Avoid Traps
+   * Followers Avoid Traps
 Core Mod Support:
-   Interesting NPCs
-   Relationship Dialogue Overhaul (RDO)
-   RDO Comments
+   * Interesting NPCs
+   * Relationship Dialogue Overhaul (RDO)
+   * RDO Comments
 Spell Perk Item Distributor Files:
-   Friendly Fire
+   * Friendly Fire
 ~~~
 
 ## Saddlebags
@@ -697,31 +698,31 @@ Download: | Main Files - Immersive Sounds Compendium 3.0
 ![FOMOD]
 ~~~
 Weapon Impact Sounds:
-   Less Intense + Instant Impacts
+   * Less Intense + Instant Impacts
 Unarmed Impact Options:
-   S'wit Fighter Turbo
+   * S'wit Fighter Turbo
 Weapon Draw/Sheath Options:
-   Semi-Smooth Equip
+   * Semi-Smooth Equip
 Bow Shot Options:
-   High Fantasy
+   * High Fantasy
 Bow Pull Options:
-   IS Default
+   * IS Default
 Arrow Impact Options:
-   High Fantasy
+   * High Fantasy
 Soul Trap Options:
-   Soul Suck
+   * Soul Suck
 Restoration Options:
-   Templar
+   * Templar
 Firebolt Options:
-   Swooshy
+   * Swooshy
 Creature Options:
-   Demonic Draugr
-   Well-Mannered Wolves
-   Brutal Bears
+   * Demonic Draugr
+   * Well-Mannered Wolves
+   * Brutal Bears
 Nirnroot Options:
-   High Fantasy
+   * High Fantasy
 Misc Options:
-   TESO Summoning
+   * TESO Summoning
 ~~~
 
 ![PostInstall]
@@ -799,9 +800,9 @@ Download: | Main Files - Farmhouse Chimneys SE v4.0.5
 ![FOMOD] ![CoreLg]
 ~~~
 New Lands:
-   None
+   * None
 Vanilla Villages:
-   None
+   * None
 ~~~
 
 ## Hold Border Banners
@@ -888,7 +889,7 @@ Download: | Main Files - Stendarr Rising
 ![FOMOD]
 ~~~
 Patches
-   No Snow Under the Roof
+   * No Snow Under the Roof
 ~~~
 
 ![PostInstall]
@@ -936,11 +937,11 @@ Download: | Main Files - Obscure's College of Winterhold
 ![FOMOD]
 ~~~
 Optional Lighting Adjustments:
-   Recommended Interiors
+   * Recommended Interiors
 Music Options
-   New Music Only
+   * New Music Only
 Asset Patches
-   Rudy HQ Misc. for Superior Silverware
+   * Rudy HQ Misc. for Superior Silverware
 ~~~
 
 ![PostInstall]
@@ -1023,7 +1024,7 @@ Download: | Main Files - Finding Derkeethus
 ![FOMOD]
 ~~~
 Objective Patches:
-   None
+   * None
 ~~~
 
 ![PostInstall]
@@ -1050,7 +1051,7 @@ Download: | Main Files - Finding Susanna Alive
 ![FOMOD]
 ~~~
 Finding Susanna Alive
-   Finding Susanna Alive
+   * Finding Susanna Alive
 ~~~
 
 ## Finding Velehk Sain
@@ -1081,7 +1082,7 @@ Download: | Main Files - Immersive College NPCs
 ![FOMOD]
 ~~~
 FaceGens:
-   Standard FaceGens
+   * Standard FaceGens
 ~~~
 
 ## Improved College Entry - Questline Tweak
@@ -1107,28 +1108,28 @@ Download: | Main Files - Misc. College of Winterhold Tweaks
 ![FOMOD]
 ~~~
 Arniel's Appeals:
-   Arniel's Appeals
+   * Arniel's Appeals
 The Augur's Admonishment:
-   None
+   * None
 A College Coup:
-   A College Coup
-   Obscure's College of Winterhold Add-on
-   Immersive College NPCs Add-on
-   Interesting NPCs Add-on
+   * A College Coup
+   * Obscure's College of Winterhold Add-on
+   * Immersive College NPCs Add-on
+   * Interesting NPCs Add-on
 Dead Dunmer Delivery:
-   Dead Dunmer Delivery
+   * Dead Dunmer Delivery
 Governable Gatekeeper:
-   Governable Gatekeeper
+   * Governable Gatekeeper
 Expedite the Expirate:
-   Exedite the Expirate
+   * Exedite the Expirate
 Unflappable Faculty:
-   Unflappable Faculty
+   * Unflappable Faculty
 Erratum Etc:
-   None
+   * None
 The Early Elementalist:
-   None
+   * None
 Inescapable Insights:
-   None
+   * None
 ~~~
 
 ## Nilheim - Misc Quest Expansion
@@ -1164,7 +1165,7 @@ Download: | Main Files - Skyrim Unbound Reborn
 ![FOMOD]
 ~~~
 SkyUILib (Required):
-   Install SkyUILib
+   * Install SkyUILib
 ~~~
 
 ## Stackable Stones of Barenziah
@@ -1200,7 +1201,7 @@ Download: | Main Files - True Hunter
 ![FOMOD]
 ~~~
 Mod Version:
-   MCM
+   * MCM
 ~~~
 
 ---
@@ -1258,13 +1259,13 @@ Download: | Main Files - Alchemical Treatise
 ![FOMOD]
 ~~~
 CACO or No:
-   CACO
+   * CACO
 Scripted or Unscripted:
-   Scripted
+   * Scripted
 ESL:
-   ESL
+   * ESL
 Skill Books:
-   No
+   * No
 ~~~
 
 ## C.O.I.N. - Coins of Interesting Natures
@@ -1275,9 +1276,9 @@ Download: | Main Files - C.O.I.N.
 ![FOMOD]
 ~~~
 Asset Selection:
-   Author's Choice
+   * Author's Choice
 Auto-Conversion:
-   Enabled
+   * Enabled
 ~~~
 
 ## Extended Encounters
@@ -1293,10 +1294,10 @@ Download: | Main Files - Headhunter - Bounties Redone
 ![FOMOD]
 ~~~
 ALLGUD:
-   None
+   * None
 Missives:
-   Missives General Patch
-   Missives Solstheim
+   * Missives General Patch
+   * Missives Solstheim
 ~~~
 
 ## Missives
@@ -1327,11 +1328,11 @@ Download: | Main Files - Missives - The Witcher Board HD
 ![FOMOD]
 ~~~
 Main Textures:
-   4K Textures
+   * 4K Textures
 Main Model:
-   Candles + ENB Light
+   * Candles + ENB Light
 Notes Textures:
-   JaySerpa's Retexture
+   * JaySerpa's Retexture
 ~~~
 
 ---
@@ -1358,7 +1359,7 @@ Download: | Main Files - Cloaks of Skyrim SSE - v1.2.1
 ![FOMOD]
 ~~~
 Pick Version:
-   Main Version
+   * Main Version
 ~~~
 
 ![PostInstall]
@@ -1427,7 +1428,7 @@ Download: | Main Files - JaySuS Swords SE - All in one
 ![FOMOD]
 ~~~
 Core Files:
-   JaySus Swords-Craft Only Version
+   * JaySus Swords-Craft Only Version
 ~~~
 
 ![PostInstall]
@@ -1476,13 +1477,13 @@ Download: | Main Files - DynDOLOD Resources SE 3
 ![FOMOD]
 ~~~
 Visual Options:
-   Whiterun Exterior
-   Whiterun Exterior Grass
-   Solitude Exterior
-   High Hrothgar Window Glow
-   Dlc2 Vvardenfell 3D Plume
+   * Whiterun Exterior
+   * Whiterun Exterior Grass
+   * Solitude Exterior
+   * High Hrothgar Window Glow
+   * Dlc2 Vvardenfell 3D Plume
 Misc Options:
-   Desync Birds of Prey
+   * Desync Birds of Prey
 ~~~
 
 ## DynDOLOD Modders Resource Fixes
