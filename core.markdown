@@ -373,24 +373,6 @@ Download: | Main Files - Missing Encounter Zones FIXED - Vanilla Fixes - v2.2
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | Version: `1.1d` | Author: `Andrelo` | ![Core] |
 Download: | Main Files - TavernAIFix
 
-## YASTM - Yet Another Soul Trap Manager
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.6.2` | Author: `Seally25` | ![Core] |
-Download: | Main Files - YASTM (FOMOD)
-
-
-![FOMOD]
-~~~
-Select Basic Components:
-   * YASTM MCM
-Select SKSE Plugin:
-   * Release
-Select Patch:
-   * None
-Select Miscellaneous Patches:
-   * Reliquary of Myth
-~~~
-
 ## Vanilla Plus Writing Purity Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51232) | Version: `1.1` | Author: `Kriana` | ![Core] |
@@ -1093,38 +1075,6 @@ Download: | Main Files - Companions Questline Tweaks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9476) | Version: `1.1` | Author: `Ruhadre` | ![Core] |
 Download: | Main Files - Keeper Carcette Survives SSE 1.1
-
-## Misc. College of Winterhold Tweaks
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22653) | Version: `1.5.1` | Author: `SomethingObscure` | ![Core] |
-Download: | Main Files - Misc. College of Winterhold Tweaks
-
-![FOMOD]
-~~~
-Arniel's Appeals:
-   * Arniel's Appeals
-The Augur's Admonishment:
-   * None
-A College Coup:
-   * A College Coup
-   * Obscure's College of Winterhold Add-on
-   * Immersive College NPCs Add-on
-   * Interesting NPCs Add-on
-Dead Dunmer Delivery:
-   * Dead Dunmer Delivery
-Governable Gatekeeper:
-   * Governable Gatekeeper
-Expedite the Expirate:
-   * Exedite the Expirate
-Unflappable Faculty:
-   * Unflappable Faculty
-Erratum Etc:
-   * None
-The Early Elementalist:
-   * None
-Inescapable Insights:
-   * None
-~~~
 
 ## Nilheim - Misc Quest Expansion
 

@@ -75,6 +75,56 @@ title: "Skyrim Unification Project"
 
 ---
 
+## Misc. College of Winterhold Tweaks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22653) | Version: `1.5.1` | Author: `SomethingObscure` | ![Core] |
+Download: | Main Files - Misc. College of Winterhold Tweaks
+
+![FOMOD]
+~~~
+Arniel's Appeals:
+   * Arniel's Appeals
+The Augur's Admonishment:
+   * None
+A College Coup:
+   * A College Coup
+   * Obscure's College of Winterhold Add-on
+   * Immersive College NPCs Add-on
+   * Interesting NPCs Add-on
+Dead Dunmer Delivery:
+   * Dead Dunmer Delivery
+Governable Gatekeeper:
+   * Governable Gatekeeper
+Expedite the Expirate:
+   * Exedite the Expirate
+Unflappable Faculty:
+   * Unflappable Faculty
+Erratum Etc:
+   * None
+The Early Elementalist:
+   * None
+Inescapable Insights:
+   * None
+~~~
+
+## YASTM - Yet Another Soul Trap Manager
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.6.2` | Author: `Seally25` | ![Core] |
+Download: | Main Files - YASTM (FOMOD)
+
+
+![FOMOD]
+~~~
+Select Basic Components:
+   * YASTM MCM
+Select SKSE Plugin:
+   * Release
+Select Patch:
+   * None
+Select Miscellaneous Patches:
+   * Reliquary of Myth
+~~~
+
 # Late Loaders - ENB, Meshes and Textures
 
 ---
