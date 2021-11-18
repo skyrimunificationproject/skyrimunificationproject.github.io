@@ -3,6 +3,8 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# Adventures - Mod Changes
+
 ## Farmhouse Chimneys
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] ![Adventures] |
@@ -38,6 +40,11 @@ Falskaar:
 Expanded Towns and Cities:
    * None / (If installing Project Arch) Expanded Towns and Cities
 ~~~
+
+## Ancient Dwemer Metal - Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
 
 ## Placeholder
 
