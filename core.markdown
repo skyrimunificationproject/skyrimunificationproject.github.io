@@ -109,7 +109,7 @@ Download: | Main Files - Dynamic Volumetric Lighting and Sun Shadows
 
 ## Equip Enchantment Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.2.4` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.0` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Equip Enchantment Fix
 
 ## Fuz Ro D-oh - Silent Voice
@@ -388,13 +388,7 @@ Select SKSE Plugin:
 Select Patch:
    * None
 Select Miscellaneous Patches:
-   * Inigo
    * Reliquary of Myth
-~~~
-
-![PostInstall]
-~~~
-Delete YASTM_InigoPatch.esp
 ~~~
 
 ## Vanilla Plus Writing Purity Patch
@@ -567,13 +561,13 @@ Download: | Main Files - Alternate Conversation Camera Plus
 
 ## SmoothCam
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41252) | Version: `1.5` | Author: `mwilsnd` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41252) | Version: `1.6` | Author: `mwilsnd` | ![Core] |
 Download: | Main Files - SmoothCam
 
 ![FOMOD]
 ~~~
 Select Version:
-   * SmoothCam AVX
+   * SmoothCam SSE
 Select Plugin Type:
    * ESL
 ~~~
