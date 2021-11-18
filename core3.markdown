@@ -149,6 +149,11 @@ Download: | Main Files - Whiterun Skyforge - Reforged
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32598) | Version: `1.0` | Author: `Geevo` | ![Core] |
 Download: | Main Files - Whiterun Wall Fix for Noble Skyrim Vanilla and Other Retextures
 
+## Dynamic Things Alternative
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Dynamic Things Alternative
+
 # Utilities
 
 ---

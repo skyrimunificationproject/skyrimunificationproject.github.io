@@ -358,11 +358,6 @@ Plugin Type:
    * ESM
 ~~~
 
-## Dynamic Things Alternative
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.14` | Author: `wSkeever` | ![Core] |
-Download: | Main Files - Dynamic Things Alternative
-
 ## MEZF - Missing Encounter Zones FIXED
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23609) | Version: `2.2` | Author: `gobbldygook` | ![Core] |
