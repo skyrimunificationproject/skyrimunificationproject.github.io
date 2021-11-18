@@ -178,7 +178,7 @@ dt {
   z-index: 100;
   left:0;
   top: 0px;
-  height: 80px;
+  height: 120px;
   width: 100%;
   position: fixed;
   background: url(../images/nav-bg.gif) #353535;
@@ -186,7 +186,7 @@ dt {
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
 
   nav {
-    max-width: 600px;
+    max-width: 800px;
   padding: 10px 30px 0px 200px;
   margin: 50px;
   margin-top: 0px;
@@ -203,29 +203,24 @@ dt {
         list-style: none;
         display: inline;
         color: white;
-        line-height: 50px;
+        line-height: 30px;
         text-shadow: 0px 1px 0px rgba(0,0,0,.2);
         font-size: 14px;
 
         a {
           color: white;
-          border: 1px solid #5d910b;
-          background: linear-gradient(#93bd20, #659e10);
           border-radius: 2px;
           box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
-          background-color: #93bd20;
-          padding: 10px 12px;
-          margin-top: 6px;
+          background-color: #006000;
+          padding: 6px 8px;
+          margin-top: 2px;
           line-height:14px;
           font-size:14px;
           display:inline-block;
           text-align:center;
 
           &:hover {
-            background: linear-gradient(#749619, #527f0e);
-            background-color: #659e10;
-            border: 1px solid #527f0e;
             box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
           }
         }

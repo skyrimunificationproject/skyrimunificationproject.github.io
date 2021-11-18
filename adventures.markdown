@@ -11,51 +11,32 @@ Download: | Main Files - Farmhouse Chimneys SE v4.0.5
 ![FOMOD]
 ~~~
 New Lands:
-   Falskaar
+   *Falskaar
 Vanilla Villages:
-   Helgen Reborn
+   *Helgen Reborn
 ~~~
 
 ## Missives - Worldspace Additions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.03` | Author: `AndrealphusVIII` | ![Core] |
-Download: | Main Files - Missives - Solstheim Patch SE v2.03
-![Adventures] | Main Files - Missives - Falskaar Patch
-![Adventures] | Main Files - Missives - Wyrmstooth patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.03` | Author: `AndrealphusVIII` | ![Core] ![Adventures]|
+Download and merge into previous install: | Main Files - Missives - Falskaar Patch
+ | Main Files - Missives - Wyrmstooth patch
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
 Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
 ~~~
 Versions:
    * Weathered Version - 4K-2K
-Weathered Road Signs:
-   * None
-Aurora Village:
-   * None
-Cutting Room Floor:
-   * None
-Keld-Nar:
-   * None
-Oakwood:
-   * None
-Point the Way:
-   * None
-Whistling Mine:
-   * None
-Skyrim Underground:
-   * None
 Wyrmstooth:
    * Wyrmstooth
-Beyond Skyrim - Bruma:
-   * None   
 Falskaar:
    * Falskaar
 Expanded Towns and Cities:
-   * None
+   * None / (If installing Project Arch) Expanded Towns and Cities
 ~~~
 
 ## Placeholder
