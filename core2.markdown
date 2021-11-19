@@ -653,60 +653,163 @@ Download: | Main Files - RUSTIC RELIEFS
 
 ---
 
-## Placeholder
+## All-Maker Stones HD Retexture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34988) | Version: `1.0` | Author: `TheEye2108` | ![Visuals] |
+Download: | Main Files - All-Maker Stones HD Retexture - Majestic Mountains - Darkside
 
-## Placeholder
+## Ancient Falmer - Auriel's Chantry Throne Replacer HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47203) | Version: `1.0` | Author: `PraedythXVI` | ![Core] ![Visual] |
+Download: | Main Files - Ancient Falmer Throne 4K
 
-## Placeholder
+![PostInstall]
+~~~
+Delete Praedy's AncientFalmerThrone.esp
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Giant Paintings Variants
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22397) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - 1K ElSopa HD - Giant Paintings Variants
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Step 1:
+   * Yellow Vanilla
+~~~
 
-## Placeholder
+## JS Shrines of the Divines
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | Version: `1.2` | Author: `johnskyrim` | ![Visuals] |
+Download: | Main Files - JS Shrines of the Divines SE - 4K
 
-## Placeholder
+## JS Shrines of the Divines - HD Glaze
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56447) | Version: `1.4` | Author: `MoonMods` | ![Core] |
+Download: | Main Files - HD Glazed Shrines - JS Shrines - The Lunar Reliquary Special Release
 
-## Placeholder
+![FOMOD]
+~~~
+Choose an Installation:
+   * Chef's Choice (Automatic)
+Cloth Colors for JS Shrines Base:
+   * Default
+Vanilla Shrine Base:
+   * 4K Textures for Vanilla Shrine Base
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## LeanWolf's Better-Shaped Talos Statue with Greatsword
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4752) | Version: `1.3` | Author: `LeanWolf` | ![Visuals] |
+Download: | Main Files - LeanWolf's Better-Shaped Talos with Greatsword SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Talos Statue:
+   * High-Poly Statue
+Weapon:
+   * Nord Hero Greatsword
+~~~
 
-## Placeholder
+## Solitude and Temple Frescoes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29695) | Version: `1.3` | Author: `Arduunos` | ![Core] ![Visuals] |
+Download: | Main Files - Solitude Temple Frescoes - Complete SSE
 
-## Placeholder
+## Solitude and Temple Frescoes - Mesh Fix and Cubemap Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33514) | Version: `1.1` | Author: `Arduunos` | ![Core] ![Visuals]|
+Download: | Main Files - Solitude Temple Frescoes 2019 - eye cubemap patch
 
-## Placeholder
+## Solitude and Temple Frescoes - HD Retextures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56341) | Version: `1.3` | Author: `MoonMods` | ![Core] ![Visuals]|
+Download: | Main Files - Solitude and Temple Frescoes HD
+
+![FOMOD]
+~~~
+Welcome:
+   * Frescoes HD Update
+Stained Glass:
+   * Updated HD Stained Glass
+Glowmaps:
+   * Updated Glowmaps
+Shrine Base Textures:
+   * Dark Variant
+Optional Lantern Textures:
+   * Special Textures for Solitude and Temple Frescoes
+~~~
+
+## Stunning Statues of Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3375) | Version: `1.5` | Author: `AnTiWoMaAgNoT` | ![Core] ![Visuals]|
+Download: | Main Files - SSoS - Installer Fix
+
+![FOMOD]
+~~~
+Choose your statues:
+   * Select everything except Wakened Winterhold and Spicy Skyforge.
+
+Bella Dibella:
+   * HD Meshe
+   * Dibella 2k
+Neat Nocturnal:
+   * HD Meshe
+   * Nocturnal 2k
+Astonich Azura:
+   * HD Meshe
+   * None
+Terrific Talos:
+   * None
+   * Talos 2k
+Ysterical Ysgramor:
+   * HD Meshe
+   * Ysgramor 2k
+Melancholic Meridia:
+   * HD Meshe
+   * Meridia white 4k
+Madness Malacath:
+   * HD Meshe No Glow (for stone texture)
+   * Malacath Stone 2k
+Clever Clavicus:
+   * HD Meshe Default Mask
+   * None
+Bucolic Boethiah:
+   * HD Mesh
+   * None
+Necrotic Namira:
+   * HD Meshe
+   * Namira 2k
+Magnetic Mara:
+   * HD Meshe
+   * Mara 2k
+Malefic Mehrunes:
+   * HD Meshe
+   * None
+Vehement Vaermina:
+   * HD Meshe
+   * Vaermina 4k
+Fancy Falmer:
+   * HD Meshe
+   * Falmer Rusty Copper 4k
+Sweet Sovngarde:
+   * HD Meshe
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/clutter/statues/statuedibella.nif
+~~~
+
+## Remiros' Statues HD 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50744) | Version: `1.0` | Author: `Remiros` | ![Core] ![Visuals]|
+Download: | Main Files - Remiros' Statue of Azura HD
+| Main Files - Remiros' Statue of Boethiah HD
+| Main Files - Remiros' Statue of Clavicus Vile HD
+| Main Files - Remiros' Statue of Mehrunes Dagon HD
 
 ---
 
@@ -714,40 +817,87 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Septentrional Landscapes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29842) | Version: `1.3.2` | Author: `winedave` | ![Core] ![Visuals]|
+Download: | Main Files - Septentrional Landscapes 4K SE
 
-## Placeholder
+## Northern Shores
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27041) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]|
+Download: | Main Files - Northern Shores 4K
 
-## Placeholder
+## Glacies - Snow Retexture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49331) | Version: `1.1` | Author: `odinsmods, ra2phoenix` | ![Core] ![Visuals]|
+Download: | Main Files - Glacies 4K
 
-## Placeholder
+## Majestic Mountains
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | Version: `3.2` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+Download: | Main Files - 2. Majestic Mountains Darkside
+| Update Files - Majestic Mountains - Mesh Tangent Space Fixes
+| Optional Files - DynDoLod V 3.0 Lod pack (all versions)
 
-## Placeholder
+![FOMOD]
+~~~
+Snow Mountain Type:
+   * Snow Mountain New Version ESL
+Sun Direction:
+   * None
+   
+LOD Textures:
+   * Darkside
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete meshes/clutter/mehrunes/shrinemehrunes01.nif
+Delete textures/clutter/mehrunes/shrinemehrunes01.nif
+Delete textures/clutter/statues.
+~~~
 
-## Placeholder
+## Majestic Mountains - Northside
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27981) | Version: `2.0` | Author: `THRAGFIRE` | ![Core] ![Visual] |
+Download: | Main Files - Majestic Mountains - Northside
 
-## Placeholder
+![FOMOD]
+~~~
+Mountain Textures:
+   * Dark Northside
+Normal Maps:
+   * Main Rocky
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## HD Stone Quarry and Clay Deposit 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37985) | Version: `1.1` | Author: `skyrimaguas-TechAngel85` | ![Core] ![Visuals]|
+Download: | Main Files - HD Stone Quarry and Clay Deposit SE - 4K v1.0.1
+| Optional Files - HD Stone Quarry - Majestic Mountains Patch
+
+![FOMOD]
+~~~
+Options:
+   * Darkside
+~~~
+
+![PostInstall]
+~~~
+Delete HD Stone Quarry and Clay Deposits SE.esp.
+~~~
+
+## Skyrim Remastered - Glaciers and Ice
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41432) | Version: `1.00` | Author: `gravos8890` | ![Core] ![Visuals] ![CK]|
+Download: | Main Files - Skyrim Remastered - Glaciers and Ice Quality Version
+| Update Files - Skyrim Remastered - Glaciers and Ice Replacer ESP
+| Optional Files - Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD
+
+![PostInstall]
+~~~
+Resave Skyrim Remastered - Glaciers and Ice.esp in the Creation Kit.
+~~~
 
 ---
 
@@ -755,30 +905,49 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Ashbound - Solstheim Enhanced
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14663) | Version: `1.1` | Author: `Ruse` | ![Core] |
+Download: | Main Files - Ashbound 1.1
 
-## Placeholder
+## Better Dynamic Ash
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54754) | Version: `2.1.1` | Author: `Arlekin-SparrowPrince-Step Modifications` | ![Core] |
+Download: | Main Files - Better Dynamic Ash SE v2.1.1
 
-## Placeholder
+## Simplicity of Snow
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.4` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Simplicity of Snow
 
-## Placeholder
+![PostInstall]
+~~~
+Delete meshes/dlc01/dungeons/castle/exterior.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## No Snow Under the Roof - WiZkiD Edition 
 
-## Placeholder
+[![mod]](https://drive.google.com/file/d/1AZ_fljHSpfsM2VxKF0ecHQ55ls48YHfv/view) | Version: `5.1.7` | Author: `WiZKiD` | ![Core] |
+Download: | Main Files - No Snow Under the Roof - WiZkiD Edition
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Water for ENB
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.48` | Author: `mindflux` | ![Core] |
+Download: | Main Files - Water for ENB
+
+![FOMOD]
+~~~
+Water Color Customization:
+   * Shades of Skyrim
+-iNeed:
+   * No iNeed Support
+Water Texture Resolution:
+   * 4K
+Waterfalls And Effects Add-On:
+   * 4K  
+Patches:
+   * None   
+~~~
 
 ---
 
@@ -786,30 +955,60 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Veydosebrom Regions 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26293) | Version: `1.1.2` | Author: `Elyem` | ![Core] ![Visuals]|
+Download: | Main Files - Veydosebrom Regions
 
-## Placeholder
+![FOMOD]
+~~~
+Mod Manager:
+   * Mod Organizer 2
+Options:
+   * Fresh Install
+Vegetation Quality:
+   * High Quality
+Style:
+   * Dense Landscape
+Grass Density:
+   * Default
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Happy Little Trees 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.0` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+Download: | Main Files - Happy Little Trees
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Trees:
+   * All Trees
+Add on:
+   * None
+~~~
 
-## Placeholder
+## Happy Little Trees Add-On - DynDOLOD 3
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `0.9.1` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
+Download: | Main Files - Happy Little Trees 3D Lods performance
 
-## Placeholder
+## Aspens Ablaze
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39998) | Version: `2.32` | Author: `mindflux` | ![Core] ![Visuals]|
+Download: | Main Files - Aspens Ablaze 2.0
+
+![FOMOD]
+~~~
+Leaf Color:
+   * Autumnal
+LOD Assets:
+   * Install
+~~~
+
+## Aspens Ablaze - Add-On - DynDOLOD 3
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51135) | Version: `1.0.0` | Author: `z929669` | ![Core] ![Visuals]|
+Download: | Main Files - Aspens Ablaze 2.32 - Autumnal - DynDOLOD
 
 ---
 
