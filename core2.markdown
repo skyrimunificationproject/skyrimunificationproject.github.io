@@ -660,7 +660,7 @@ Download: | Main Files - All-Maker Stones HD Retexture - Majestic Mountains - Da
 
 ## Ancient Falmer - Auriel's Chantry Throne Replacer HD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47203) | Version: `1.0` | Author: `PraedythXVI` | ![Core] ![Visual] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47203) | Version: `1.0` | Author: `PraedythXVI` | ![Core] ![Visuals] |
 Download: | Main Files - Ancient Falmer Throne 4K
 
 ![PostInstall]
@@ -686,7 +686,7 @@ Download: | Main Files - JS Shrines of the Divines SE - 4K
 
 ## JS Shrines of the Divines - HD Glaze
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56447) | Version: `1.4` | Author: `MoonMods` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56447) | Version: `1.4` | Author: `MoonMods` | ![Visuals] |
 Download: | Main Files - HD Glazed Shrines - JS Shrines - The Lunar Reliquary Special Release
 
 ![FOMOD]
@@ -859,7 +859,7 @@ Delete textures/clutter/statues.
 
 ## Majestic Mountains - Northside
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27981) | Version: `2.0` | Author: `THRAGFIRE` | ![Core] ![Visual] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27981) | Version: `2.0` | Author: `THRAGFIRE` | ![Core] ![Visuals] |
 Download: | Main Files - Majestic Mountains - Northside
 
 ![FOMOD]
@@ -932,7 +932,7 @@ Download: | Main Files - No Snow Under the Roof - WiZkiD Edition
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.48` | Author: `mindflux` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.48` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
