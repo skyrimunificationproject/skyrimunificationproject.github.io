@@ -749,50 +749,52 @@ Download: | Main Files - SSoS - Installer Fix
 ![FOMOD]
 ~~~
 Choose your statues:
-   * Select everything except Wakened Winterhold and Spicy Skyforge.
+   * Bella Dibella
+   * Neat Nocturnal
+   * Astonich Azura
+   * Madness Malacath
+   * Clever Clavicus
+   * Bucolic Boethiah
+   * Necrotic Namira
+   * Magnetic Mara
+   * Malefic Mehrunes
+   * Vehement Vaermina
+   * Fancy Falmer
+   * Sweet Sovngarde
 
 Bella Dibella:
    * HD Meshe
-   * Dibella 2k
+   * None
 Neat Nocturnal:
    * HD Meshe
-   * Nocturnal 2k
+   * None
 Astonich Azura:
    * HD Meshe
    * None
-Terrific Talos:
-   * None
-   * Talos 2k
-Ysterical Ysgramor:
-   * HD Meshe
-   * Ysgramor 2k
-Melancholic Meridia:
-   * HD Meshe
-   * Meridia white 4k
 Madness Malacath:
    * HD Meshe No Glow (for stone texture)
-   * Malacath Stone 2k
+   * Malacath Stone 1k
 Clever Clavicus:
    * HD Meshe Default Mask
    * None
 Bucolic Boethiah:
-   * HD Mesh
+   * HD Meshe
    * None
 Necrotic Namira:
    * HD Meshe
-   * Namira 2k
+   * None
 Magnetic Mara:
    * HD Meshe
-   * Mara 2k
+   * Mara 1k
 Malefic Mehrunes:
    * HD Meshe
    * None
 Vehement Vaermina:
    * HD Meshe
-   * Vaermina 4k
+   * None
 Fancy Falmer:
    * HD Meshe
-   * Falmer Rusty Copper 4k
+   * Falmer 1k
 Sweet Sovngarde:
    * HD Meshe
    * None
@@ -801,6 +803,63 @@ Sweet Sovngarde:
 ![PostInstall]
 ~~~
 Delete meshes/clutter/statues/statuedibella.nif
+~~~
+
+## Iconic Statues
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46708) | Version: `1.2` | Author: `IconicDeath` | ![Core] ![Visuals] |
+Download: | Main Files: Iconic Statues 4K
+
+![FOMOD]
+~~~
+Step 1 - Statue: 
+   * Auriel
+Step 2 - Statue: 
+   * None
+Step 3 - Statue: 
+   * Bee Statue
+Step 4 - Statue: 
+   * None
+Step 5 - Statue: 
+   * None
+Step 6 - Statue: 
+   * Dibella Statue
+Step 7 - Statue: 
+   * Falmer Statue (SSoS Version)
+Step 8 - Statue: 
+   * Hircine Shrine
+Step 9 - Statue: 
+   * Malacath (Option 1)
+Step 10 - Statue: 
+   * Mara (SSoS Version)
+Step 11 - Statue: 
+   * None
+Step 11 - Alter Options: 
+   * None
+Step 12 - Statue:
+   * Meridia (SSoS Version)
+Step 13 - Statue:
+   * Molag Bal
+Step 14 - Statue:
+   * Namira
+Step 15 - Statue:
+   * Nocturnal
+Step 16 - Statue:
+   * Peryite
+Step 17 - Statue:
+   * None
+Step 18 - Statue:
+   * None
+Step 19 - Statue:
+   * None
+Step 20 - Statue:
+   * Talos
+Step 21 - Statue:
+   * Vaermina
+Step 22 - Statue:
+   * Ysgramor (SSoS Version)
+Step 22 - Optional Wuuthrad Rexture: 
+   * None
 ~~~
 
 ## Remiros' Statues HD 
@@ -852,8 +911,8 @@ LOD Textures:
 
 ![PostInstall]
 ~~~
-Delete meshes/clutter/mehrunes/shrinemehrunes01.nif
-Delete textures/clutter/mehrunes/shrinemehrunes01.nif
+Delete meshes/clutter/mehrunes/shrinemehrunes01.nif.
+Delete textures/clutter/mehrunes/shrinemehrunes01*.
 Delete textures/clutter/statues.
 ~~~
 
@@ -932,7 +991,7 @@ Download: | Main Files - No Snow Under the Roof - WiZkiD Edition
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.48` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.51` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -941,6 +1000,8 @@ Water Color Customization:
    * Shades of Skyrim
 -iNeed:
    * No iNeed Support
+LOD Brightness
+   * Default LOD water
 Water Texture Resolution:
    * 4K
 Waterfalls And Effects Add-On:

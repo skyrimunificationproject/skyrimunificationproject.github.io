@@ -69,7 +69,7 @@ Download: | Main Files - Animated Static Reload Fix - SSE
 
 ## Autorun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) | Version: `2.3` | Author: `Ryan - Umgak` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) | Version: `1.0` | Author: `Ryan - Umgak` | ![Core] |
 Download: | Main Files - Autorun
 
 ## Better Combat Escape
@@ -156,7 +156,7 @@ Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17230) | Version: `5.6` | Author: `aers - Nukem - Ryan` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17230) | Version: `5.8` | Author: `aers - Nukem - Ryan` | ![Core] |
 Download: | Main Files - (Part 1) Engine Fixes
 | Main Files - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
 

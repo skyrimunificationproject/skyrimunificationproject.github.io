@@ -109,7 +109,7 @@ Inescapable Insights:
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.6.2` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.1` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 
@@ -118,8 +118,12 @@ Download: | Main Files - YASTM (FOMOD)
 Select Basic Components:
    * YASTM MCM
 Select SKSE Plugin:
-   * Release
-Select Patch:
+   * Release (Special Edition)
+Configuration Patches:
+   * Black Soul Gems can store white souls
+Custom Soul Gem Patches:
+   * None
+Soul Gem Graphics/Sounds Mod Pathces
    * None
 Select Miscellaneous Patches:
    * Reliquary of Myth
