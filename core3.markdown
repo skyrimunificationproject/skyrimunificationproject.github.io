@@ -109,7 +109,7 @@ Inescapable Insights:
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.1` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.2` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 
@@ -138,6 +138,14 @@ Select Miscellaneous Patches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43864) | Version: `1.3.1` | Author: `NeverLost` | ![Core] |
 Download: | Main Files - Markarth - A Reflective Experience
 
+## Mesh Patch for Various Mods
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45597) | Version: `1.12a` | Author: `ShatterRock` | ![Core] |
+Download: | Main Files - Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
+| Main Files - Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
+| SMIM - Quality Addon - Unofficial Material Fix Patch
+| Unofficial Material Fix - Assorted Mesh Fixes Patch
+
 ## Skyrim - A Mountainous Experience
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.5.6` | Author: `NeverLose, DuskyB` | ![Core] |
@@ -153,10 +161,20 @@ Download: | Main Files - Whiterun Skyforge - Reforged
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32598) | Version: `1.0` | Author: `Geevo` | ![Core] |
 Download: | Main Files - Whiterun Wall Fix for Noble Skyrim Vanilla and Other Retextures
 
+## Windhelm Fake Windows Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.2` | Author: `AgentW` | ![Core] |
+Download: | Main FIles - Windhelm Fake Windows Fix
+
 ## Dynamic Things Alternative
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative
+
+![PostInstall]
+~~~
+Delete /textures.
+~~~
 
 # Utilities
 

@@ -42,6 +42,11 @@ Hanging Animals:
    * Colorful
 ~~~
 
+## Assorted Mesh Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.33.1` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Assorted Mesh Fixes
+
 ## High Poly Project
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12029) | Version: `5.3` | Author: `LucidAPs` | ![Core] ![Visuals]|
@@ -305,8 +310,8 @@ Download: | Main Files - High Fantasy Whiterun 4K
 
 ![PostInstall]
 ~~~
-Delete textures\architecture\whiterun\wrcity*.
-Delete textures\architecture\whiterun\wrmarketstallroof01_n.dds.
+Delete textures/architecture/whiterun/wrcity*.
+Delete textures/architecture/whiterun/wrmarketstallroof01_n.dds.
 ~~~
 
 ## High Hrothgar - Skyrim Remastered 
@@ -328,7 +333,7 @@ Download: | Main Files - Mrf's Markarth 4k
 
 ![PostInstall]
 ~~~
-Delete meshes\.
+Delete meshes.
 ~~~
 
 ## Mrf's Solitude
@@ -338,7 +343,7 @@ Download: | Main Files - Mrf's Solitude 4K
 
 ![PostInstall]
 ~~~
-Delete meshes\.
+Delete meshes.
 Delete Mrf Solitude.esp.
 ~~~
 
@@ -450,7 +455,7 @@ Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 ![FOMOD]
 ~~~
 Versions:
-   * Weathered Version - 4K-2K
+   * Dirty Version - 4K-2K
 Weathered Road Signs:
    * None
 (Patches):
@@ -564,7 +569,7 @@ Download: | Main Files - Improved Dwemer Glass
 
 ![PostInstall]
 ~~~
-Delete meshes\dlc02\dungeons\dwemer\animated.
+Delete meshes/dlc02/dungeons/dwemer/animated.
 ~~~
 
 ## Ancient Dwemer Metal - Patches
@@ -1001,7 +1006,7 @@ Water Color Customization:
 -iNeed:
    * No iNeed Support
 LOD Brightness
-   * Default LOD water
+   * Darker LOD water
 Water Texture Resolution:
    * 4K
 Waterfalls And Effects Add-On:
@@ -1037,7 +1042,7 @@ Grass Density:
 
 ## Happy Little Trees 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.0` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.01` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees
 
 ![FOMOD]
@@ -1077,200 +1082,269 @@ Download: | Main Files - Aspens Ablaze 2.32 - Autumnal - DynDOLOD
 
 ---
 
-## Placeholder
+## Realistic HD Mushrooms Remastered
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21996) | Version: `1.2` | Author: `Halk Hogan PL` | ![Visuals] |
+Download: | Main Files - Realistic HD Mushrooms Remastered
 
-## Placeholder
+![PostInstall]
+~~~
+Delete meshes/plants/glowingmushroom*.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Better Honey Nut Treats 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34149) | Version: `1.0` | Author: `aviform` | ![Visuals] |
+Download: | Main Files - Main File Honey Nut Treat
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Boiled Creme Treat, Sweet Roll and Pies
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9034) | Version: `Final` | Author: `PandoraTremere` | ![Visuals] |
+Download: | Main Files - Sweet Roll Boiled Creme Treat and Pie
+| Optional Files - MeatPie
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Cathedral - 3D Mountain Flowers 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `1.8` | Author: `Jonny Wang` | ![Core] ![Visuals] ![CK]|
+Download: | Main Files - Cathedral - 3D Mountain Flowers
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Resave Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
+~~~
 
-## Placeholder
+## Cathedral - Plants 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26104) | Version: `1.02` | Author: `JonnyWang13` | ![Visuals] |
+Download: | Main Files - Cathedral - Plants
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/architecture/whiterun.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Comfy Mammoth Cheese Textures
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20785) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - Comfy Mammoth Cheese Textures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Step 1:
+   * No Markings
+~~~
 
-## Placeholder
+## Creepy Chaurus Eggs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22894) | Version: `1.0` | Author: `DarShonDo` | ![Visuals] |
+Download: | Main Files - Creepy Chaurus Eggs SE
 
-## Placeholder
+## Dog Meat
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22696) | Version: `1.2` | Author: `cunny1975` | ![Visuals] |
+Download: | Main Files - 2K Dog Meat
 
-## Placeholder
+## Extraordinary Eggs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22645) | Version: `1.1` | Author: `DarShonDo` | ![Visuals] |
+Download: | Main Files - Extraordinary Eggs SE
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/plants/chickennest01*.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Falmer Ear and Hagraven Claw
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/74792) | Version: `1.0` | Author: `Achronos` | ![Visuals] |
+Download: | Main Files - Falmer Ear 1K
+| Main Files - Hagraven Claw
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Forgotten Herbs
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/90755) | Version: `1.1` | Author: `MassiveMaster` | ![Visuals] |
+Download: | Main Files - 2k Frost mirriam and Elves Ears
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Forgotten Plants
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/90697) | Version: `1.1` | Author: `MassiveMaster` | ![Visuals] |
+Download: | Main Files - 2k GleamBlossom and glowing groun plants
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## HD Animal and Creature Drops
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33791) | Version: `1.0` | Author: `aviform` | ![Visuals] |
+Download: | Main Files - SSE HD Animal and Creature Drops
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## HD Bees and Honeycombs
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34163) | Version: `1.0` | Author: `aviform` | ![Core] |
+Download: | Main Files - HD Bees and Honeycombs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## High Poly Blackreach Mushrooms
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40418) | Version: `1.1` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - High Poly Blackreach Mushrooms
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## High Poly Blackreach Mushrooms - Skyrim Remastered Patch
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52700) | Version: `1.0` | Author: `wSkeever, Gravos8890, mnikjom` | ![Visuals] |
+Download: | Main Files - High Poly Blackreach Mushrooms - Skyrim Remastered Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## High Poly Gleamblossoms
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40278) | Version: `1.2` | Author: `powerofthree` | ![Visuals] |
+Download: | Main Files - High Poly Gleamblossoms - ENB Light
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## High Poly Soul Husks
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47891) | Version: `0.2.1` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - High Poly Soul Husks
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Improved Dragonfly
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34159) | Version: `1.1` | Author: `aviform` | ![Visuals] |
+Download: | Main Files - Improved Dragonfly
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Improved Dragonfly - CACO Patch 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37360) | Version: `1.3` | Author: `BKCXb` | ![Visuals] |
+Download: | Main Files - Upgraded Dragonflies for CACO
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Mari's Flora
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45952) | Version: `1.2` | Author: `ArtByMari` | ![Visuals] |
+Download: | Main Files - Mari's flora - High
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Deathbell color:
+   * Purple
+Deathbells PURPLE foliage:
+   * Vanilla
+Juniper:
+   * New Meshes
+Glowing Mushrooms type:
+   * For ENB
+Glowing Mushrooms ENB - Color:
+   * Blue
+Color of Jazbay:
+   * Green
+Color of Nightshade:
+   * Burgundy
+Color of Ivy:
+   * Green
+Color of Spikey Grass:
+   * Bright
+Color of Scathecraw:
+   * Purple
+Canisroot type:
+   * Flowering
+~~~
 
-## Placeholder
+## Medieval Spirits 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24243) | Version: `1.0.2` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Medieval Spirits
 
-## Placeholder
+## Morrowind Style Skooma Bottle
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50444) | Version: `2` | Author: `dpillari` | ![Visuals] |
+Download: | Main Files - 2k loose
 
-## Placeholder
+## Pearls
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53051) | Version: `1.0` | Author: `CloudBird` | ![Visuals] |
+Download: | Main Files - Pearls - 4K
 
-## Placeholder
+## Remiros' Dragonborn Alcohol HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41972) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Dragonborn Alcohol HD 2k
 
-## Placeholder
+## Renthal Nettle
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33749) | Version: `3.0` | Author: `Renthal and Pfuscher` | ![Visuals] |
+Download: | Main Files - Renthal Nettle SSE 3.0
 
-## Placeholder
+## Replacement Ivy
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/1878) | Version: `1.0.1` | Author: `Thonk` | ![Visuals] |
+Download: | Main Files - Replacement Ivy 4096
 
-## Placeholder
+## Retexture for Soup
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/65238) | Version: `1.4` | Author: `quilb` | ![Visuals] |
+Download: | Main Files - For SMIM Mesh - Poor Version
 
-## Placeholder
+## Roos' Butter
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56337) | Version: `1.0` | Author: `RoosBear` | ![Visuals] |
+Download: | Main Files - Roos' Butter - 1K
 
-## Placeholder
+## RUSTIC ANIMATED POTIONS and POISONS
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2276) | Version: `1.1` | Author: `dailyplanet and Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC ANIMATED POTIONS and POISONS 2K
+| Update Files - SSE Meshes
 
-## Placeholder
+## RUSTIC COOKING
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6142) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC COOKING - Special Edition - 2K
 
-## Placeholder
+## Salts Retextured
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.4` | Author: `cunny1975` | ![Visuals] |
+Download: | Main Files - Retextured Salts 2K version II
 
-## Placeholder
+## Scallions of Skyrim - High Polygon Leeks
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53205) | Version: `0.1` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - Leek
 
-## Placeholder
+## Scathecraw HD 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38454) | Version: `1.0` | Author: `fadingsignal` | ![Visuals] |
+Download: | Main Files - Scathecraw HD 2K
 
-## Placeholder
+## Silky Spider Eggs 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11110) | Version: `1.2` | Author: `DarShonDo` | ![Visuals] |
+Download: | Main Files - Silky Spider Eggs SE
 
-## Placeholder
+![FOMOD]
+~~~
+Spider Eggs:
+   * Silky
+Texture Size:
+   * 2K
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Skyrim 3D Cooking
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23007) | Version: `1.3.0` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Skyrim 3D Cooking
+
+## Sufficiently Optimized Snowberries 3D
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42033) | Version: `0.6` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - Sufficiently Optimized Snowberries 3D FOMOD
+
+![FOMOD]
+~~~
+Berry Brightness:
+   * Darker Berries
+~~~
+
+## Unique Stros M'Kai Rum
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43830) | Version: `1.2` | Author: `fadingsignal` | ![Visuals] ![BSA]|
+Download: | Main Files - Stros M'Kai Rum Replacer 2K
+
+![PostInstall]
+~~~
+Delete StrosMkaiRum.esp.
+~~~
 
 ---
 
@@ -1278,205 +1352,400 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Ancient Pottery 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24039) | Version: `1.1.0` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Ancient Pottery
 
-## Placeholder
+## Animated Clutter
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14398) | Version: `1.9` | Author: `JackMorris` | ![Visuals] |
+Download: | Main Files - Animated Clutter SSE
+
+![PostInstall]
+~~~
+Delete meshes/architecture/solitude.
+Delete meshes/architecture/whiterun/wrterrain/wrskyforge01.nif
+Delete meshes/architecture/windhelm.
+Delete meshes/clutter/container/dwesoulgemcontainer01.nif
+Delete meshes/dungeon/imperial/door.
+Delete meshes/dlc01/architecture.
+~~~
+
+## Archery Targets 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21726) | Version: `1.0` | Author: `TheJabberturtle` | ![Visuals] |
+Download: | Main Files - Archery Target Retexture
+
+![FOMOD]
+~~~
+Texture Size:
+   * 2K (Recommended)
+~~~
 
-## Placeholder
+## Basic Dining Set Replacer
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30055) | Version: `1.0` | Author: `SpotDisk` | ![Visuals] |
+Download: | Main Files - Basic Dining Set Replacer 2k
+
+## BLOODSTONE CHALICE REBORN
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/63551) | Version: `1.1` | Author: `Gamwich and Nazenn` | ![Visuals] |
+Download: | Main Files - BLOODSTONE CHALICE REBORN 2K
+
+## BURP - Book Unity and Revamp Project
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
+Download: | Main Files - BURP - Desatured Textures
+
+![FOMOD]
+~~~
+Titles:
+   * Unified (Recommended)
+File Selection:
+   * Andromeda
+   * Cloaks of Skyrim
+   * Complete Alchemy and Cooking Overhaul
+   * EasierRider's Dungeon Pack
+   * ESO Imports
+   * Interesting NPCs
+   * Know Your Enemy
+   * Obscure's College of Winterhold
+   * Ordinator - Perks of Skyrim
+   * Relationship Dialogue Overhaul
+   * Skyrim Sewers 4
+   * Wintersun - Faiths of Skyrim
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
+## BURP - Spell Tomes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53611) | Version: `1.0` | Author: `LegacyCloud` | ![Core] ![Visuals]|
+Download: | Main Files - BURP - Spell Tomes
+
+![FOMOD]
+~~~
+Unification:
+   * BURP
+BURSPST Lite:
+   * None
+~~~
 
-## Placeholder
+## CC's HQ Barset 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7974) | Version: `1.2` | Author: `ClearanceClarence` | ![Visuals] |
+Download: | Main Files - CC's HQ Barset - 4K - 1.2
 
-## Placeholder
+## CC's HQ Carts 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4878) | Version: `1.0` | Author: `ClearanceClarence` | ![Visuals] |
+Download: | Main Files - CC's HQ Carts - 4K - 1.0
 
-## Placeholder
+## Chisel replacer HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](nexusurl) | Version: `1.0` | Author: `PraedythXVI` | ![Visuals] |
+Download: | Main Files - Chisel 2K
 
-## Placeholder
+## Dark Brotherhood Sanctuary Decor - HD Custom Black Door Banners and Tenets
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57565) | Version: `1.0` | Author: `MoonMods` | ![Visuals] |
+Download: | Main Files - The Blackest Door - 4k
+| Paper Tenets - 2k
 
-## Placeholder
+![FOMOD]
+~~~
+The Blackest Door:
+   * Default - Bloody Hand
+   
+Paper Tenets:
+   * Fine Script
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Rename dbdoor01.dds to dbdoor02.dds.
+Rename dbdoor01_n.dds to dbdoor02_n.dds.
+~~~
 
-## Placeholder
+## DragonStone Re-texture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39478) | Version: `1.1` | Author: `PraedythXVI` | ![Visuals] |
+Download: | Main Files - DragonStone - 4K
+| Optional Files - DragonStone Mesh Fix
 
-## Placeholder
+## Dressed Hearthfire Doll 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/493) | Version: `3.0` | Author: `uni_SL` | ![Visuals] |
+Download: | Main Files - Dressed Hearthfire Doll
 
-## Placeholder
+![FOMOD]
+~~~
+Select Face Type:
+   * Default
+Select a Doll Body:
+   * 0 (human)
+Select Color of the Doll's Dress:
+   * Red
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Elder Scroll HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51082) | Version: `1.2` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - ElderScrollHD-SE 4K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Plugin Type:
+   * ESPFE
+Options:
+   * ElderScrollChest
+   * LOTDPatch
+   * IDG UMF Patch
+   * CubemapFile
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete PraedysElderScrollSoulCairnFix.esp.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## ElSopa - HD Keys Redone 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48209) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - ElSopa - HD Keys Redone 1k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## ElSopa - Papers HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33422) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - ElSopa - Papers HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## ElSopa - Realistic Dark Elf Urns
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21717) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - HD Dark Elf Urns 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## ElSopa - Small Compilation Pack
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29160) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - ElSopa HD 2k Texture Pack
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Select one or more of these options:
+   * Briarheart Red
+~~~
 
-## Placeholder
+## Ennead Shadowmarks
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9264) | Version: `1` | Author: `Koveich` | ![Visuals] |
+Download: | Optional Files - Khonsu Shadowmarks 2K
 
-## Placeholder
+## Frankly HD Dragon Bones
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25099) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Dragonbones 8k-4k
 
-## Placeholder
+## Fish Rack 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54144) | Version: `2.0.0` | Author: `d34dun1t` | ![Visuals] |
+Download: | Main Files - Fish Rack 2K
 
-## Placeholder
+## Gemstones Replacers HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46531) | Version: `1.2` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Gemstones Replacers HD SE Main Version
 
-## Placeholder
+![FOMOD]
+~~~
+Options:
+   * With Unique Gems Option 1 ISC
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete Praedy's Gemstones ISCPatched.esp.
+~~~
 
-## Placeholder
+## GORECAP
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16440) | Version: `2.2` | Author: `InwardScreams and MYTHiC` | ![Visuals] |
+Download: | Main Files - GORECAP
 
-## Placeholder
+## HD Medieval Anvil
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48825) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - ElSopa - HD Medieval Anvil 2k
+| Optional Files - ElSopa - Medieval Anvil Embers XD Patch
+| Optional Files - ElSopa - Medieval Anvil Hammer HotFix
 
-## Placeholder
+## HD Executioner's Block
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22674) | Version: `1.0` | Author: `DarShonDo` | ![Visuals] |
+Download: | Main Files - HD Executioners Block SE
 
-## Placeholder
+## Honningbrew Decanter
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53042) | Version: `1.0` | Author: `CloudBird` | ![Visuals] |
+Download: | Main Files - Honningbrew Decanter - 4K
 
-## Placeholder
+## Iconic's Bust Of The Gray Fox Retexture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45595) | Version: `1.0` | Author: `Iconic` | ![Visuals] |
+Download: | Main Files - Gray Fox Bust 2K
 
-## Placeholder
+## Iconic's Remastered Ash Piles Of Skyrim 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44971) | Version: `1.1` | Author: `Iconic` | ![Visuals] |
+Download: | Main Files - Remastered Ash Piles Of Skyrim
 
-## Placeholder
+![FOMOD]
+~~~
+Choose Size:
+   * 2K
+Mod Options:
+   * Vokrii/Ordinator/Wintersun
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Iconic's Remastered Paragon Gems
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45734) | Version: `1.4` | Author: `Iconic` | ![Visuals] |
+Download: | Main Files - Remastered Paragon Gems
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Texture Sizes:
+   * 4K
+Metal Options:
+   * Gold
+~~~
 
-## Placeholder
+##  JS Dragon Claws 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.1` | Author: `johnskyrim` | ![Core] ![Visuals]|
+Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
 
-## Placeholder
+![FOMOD]
+~~~
+Legacy of the Dragonborn:
+   * None
+Wyrmstooth:
+   * None
+Konahrik's Accoutrements:
+   * None
+Helgen Reborn:
+   * None
+Skyrim Sewers:
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## JS Instruments of Skyrim
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51959) | Version: `1.1` | Author: `johnskyrim` | ![Core] ![Visuals]|
+Download: | Main Files - JS Instruments of Skyrim SE - 4k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete JS Instruments of Skyrim SE - Uniques.esp.
+~~~
 
-## Placeholder
+## JS Purses and Septims
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | Version: `1.2` | Author: `johnskyrim` | ![Visuals] |
+Download: | Main Files - JS Purses and Septims SE - FOMOD
 
-## Placeholder
+![FOMOD]
+~~~
+Purse Textures:
+   * 2K Textures
+Coin Textures:
+   * Dirty - 2K Textures
+Coin Pile Textures:
+   * Dirty - 2K Textures
+Replacer Options:
+   * Vanilla Overwrite
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Near Vanilla Project - Portal to Sovngarde Redone
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42422?tab=files) | Version: `1.0` | Author: `neardaniel` | ![Visuals] |
+Download: | Main Files - Near Vanilla Project - Portal to sovngarde Redone 4K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Near Vanilla Project - Control Cube Redone - ENB Light 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47845?tab=files) | Version: `1.1` | Author: `neardaniel` | ![Visuals] |
+Download: | Main Files - Near Vanilla Project - Control Cube Redone 4K
+| Main Files - Near Vanilla Project - Control Cube Redone - Dara ENG Light
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Nocturnal's Portal HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51646) | Version: `1.0` | Author: `GRY` | ![Visuals] |
+Download: | Main Files - Nocturnal's Pool HD 4K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Rally's Civil War Document Tubes
 
-## Placeholder
+[![mod]](nexusurl) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
+Download: | Main Files - Rally's Civil War Document Tubes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Color Options:
+   * Lore Versions
+Enhanced Battlemap Flags:
+   * Gimme That!
+~~~
 
-## Placeholder
+## Rally's Mead Barrels
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49641) | Version: `1.1` | Author: `Rallyeator` | ![Visuals] |
+Download: | Main Files - Rally's Mead Barrels
+
+## Rally's Nord War Horns
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46872) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
+Download: | Main Files - Rallys Nord War Horns
+
+![FOMOD]
+~~~
+Color Variations:
+   * Golden Red
+Torygg's Horn Replacer:
+   * None
+~~~
+
+## Ray's UHD Folded Rag 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26944) | Version: `1.1` | Author: `Ray` | ![Visuals] |
+Download: | Main Files - Ray's UHD Folded Rag 2k SE
+
+## RETEXTURE FOR THE SCROLL
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46612?tab=files) | Version: `2.5.3` | Author: `quilb` | ![Visuals] |
+Download: | Main Files - Retexture for The Scroll FOMOD by -ren- SE
+
+![FOMOD]
+~~~
+Choose Version:
+   * Single Set
+Choose Texture:
+   * Default Set
+~~~
+
+## Revamped Assets
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/75380) | Version: `0.31` | Author: `jiffy` | ![Visuals] |
+Download: | Main Files - Revamped Assets Skyrim - High (FOMOD Package)
+
+![FOMOD]
+~~~
+Install Revamped Assets Skyrim:
+   * Custom Install
+Furniture:
+   * Install All
+~~~
 
 ## Placeholder
 

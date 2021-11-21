@@ -225,11 +225,6 @@ Post-Download: | Install downloaded archive via MO2
 
 ---
 
-## Assorted Mesh Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.32.3` | Author: `wSkeever` | ![Core] |
-Download: | Main Files - Assorted Mesh Fixes
-
 ## Blackreach Tentacle Mesh Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43083) | Version: `0.1` | Author: `wSkeever` | ![Core] |
@@ -317,11 +312,6 @@ Download: | Main Files - Vanilla Script microOptimizations
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48120) | Version: `1.1.5` | Author: `NeverLost` | ![Core] |
 Download: | Main Files - Whiterun Mesh Fixes
-
-## Windhelm Fake Windows Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.2` | Author: `AgentW` | ![Core] |
-Download: | Main FIles - Windhelm Fake Windows Fix
 
 ---
 
@@ -765,14 +755,16 @@ Download: | Main Files - EasierRider's Dungeon Pack SSE v1.5
 
 ## Farmhouse Chimneys
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] |
-Download: | Main Files - Farmhouse Chimneys SE v4.0.5
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1` | Author: `Scarla` | ![Core] |
+Download: | Main Files - Farmhouse Chimneys SE v4.1.0
 
 ![FOMOD] ![CoreLg]
 ~~~
+Modded Towns:
+   * None
 New Lands:
    * None
-Vanilla Villages:
+New Villages:
    * None
 ~~~
 
@@ -870,8 +862,8 @@ Delete Stendarr Rising - NSUTR Patch.esp.
 
 ## The Elder Scrolls Online Imports
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | Version: `8.1` | Author: `Sarthes Arai` | ![Core] |
-Download: | Main Files - ESOImports 8 1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | Version: `8.1.1` | Author: `Sarthes Arai` | ![Core] |
+Download: | Main Files - ESOImports 8 1 1
 
 ## Unique Border Gates
 
@@ -1037,7 +1029,7 @@ Download: | Main Files - Gildergreen Regrown
 
 ## House of Horrors - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57285) | Version: `1.02` | Author: `JaySerpa` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57285) | Version: `1.10` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - House of Horrors - Quest Expansion
 
 ![PostInstall]
