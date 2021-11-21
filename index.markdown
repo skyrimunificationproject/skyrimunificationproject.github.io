@@ -78,6 +78,13 @@ Project Arch is an optional add-on to Core and Adventures (both required).  It c
 
 Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.  Several followers who are not included in Core can be found here, as well as enhancements to follower and trader npcs, and several optional additions to Arch including JK's interior mods.
 
+---
+
+# Mod Versions and Files
+
+---
+
+The version listed in each mod entry is the last 'main' version of the mod the guide was checked against.  Only the files listed are required.
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=for-the-badge

@@ -44,7 +44,7 @@ Hanging Animals:
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.33.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.34` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -1177,7 +1177,7 @@ Download: | Main Files - SSE HD Animal and Creature Drops
 
 ## HD Bees and Honeycombs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34163) | Version: `1.0` | Author: `aviform` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34163) | Version: `1.0` | Author: `aviform` | ![Visuals] |
 Download: | Main Files - HD Bees and Honeycombs
 
 ## High Poly Blackreach Mushrooms
@@ -1747,120 +1747,209 @@ Furniture:
    * Install All
 ~~~
 
-## Placeholder
+## Riekling Barrels SMIM
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43306) | Version: `0.1` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - Riekling Barrels SMIM
 
-## Placeholder
+## Rudy HQ - Miscellaneous 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19867) | Version: `1.0207` | Author: `Rudy102` | ![Visuals] |
+Download: | Main Files - Rudy HQ - Miscellaneous SE
 
-## Placeholder
+![FOMOD]
+~~~
+HQ Silverware:
+   * Rudy HQ Silverware for Rustic Silverware
+HQ Silverware for Smoking Torches and Candles Mod:
+   * None
+Additional HQ candle models:
+   * Rudy HQ Imperial Candles
+   * Rudy HQ Nordic Ruins Candles
+HQ Glazed Pottery:
+   * Rudy HQ Glazed Pottery Vanilla Style 2K
+HQ Glazed Pottery for Smoking Torches and Candles Mod:
+   * None
+Textures for Nordic ruins pottery:
+   * Rudy HQ Brown Textures for Dungeon Pottery 2K
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete textures/effects.
+Delete Rudy Nordic Pottery SSE.esp.
+~~~
 
-## Placeholder
+## Rudification - Rudy Candles Expanded
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55852) | Version: `1.14` | Author: `Daralima and InstantKor` | ![Visuals] |
+Download: | Main Files - Rudification - Rudy Candles Expanded
 
-## Placeholder
+![FOMOD]
+~~~
+Ruin Candles:
+   * Ruin candles
+Chandeliers:
+   * Default chandeliers
+Shrines:
+   * JS Shrines
+Additional patches:
+   * Skeleton Replacer HD
+   * Ruin Meshes with Particle Light Nodes
+   * Chandelier Compatible Meshes
+Particle Light Node Color:
+   * Orange Red Particle Light Nodes
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUGNAROK 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5436) | Version: `1.1` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUGNAROK - Special Edition - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC ALCHEMY and ENCHANTING TABLES
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/62328) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC ALCHEMY and ENCHANTING TABLES 2K
+| Optional Files - Retex of Revamped Alchemy Lab HD - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+##  RUSTIC CLUTTER COLLECTION
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5795) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC CLUTTER COLLECTION - Special Edition - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete textures/clutter/dwemer/.
+Delete textures/clutter/dwelorecube01.dds.
+Delete textures/clutter/glazedpotery*.
+Delete textures/clutter/Katariahclutter01.dds
+Delete textures/clutter/sovngardeclutter01*.
+~~~
 
-## Placeholder
+## RUSTIC FURNITURE 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17228) | Version: `3.0` | Author: `Visuals` | ![Visuals] |
+Download: | Main Files - RUSTIC FURNITURE - SSE - SMIM - 4K
 
-## Placeholder
+## RUSTIC MAPS
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42614) | Version: `2.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC MAPS - 4K
 
-## Placeholder
+## SD's Horn Candles 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40192) | Version: `1.0` | Author: `SDlutz` | ![Visuals] |
+Download: | Main Files - SD's Horn Candles SE 2k
 
-## Placeholder
+## Sigils of Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
+Download: | Main Files - Sigils of Skyrim - Banners
 
-## Placeholder
+## Skyrim 3D Furniture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23552) | Version: `1.9.0` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Skyrim 3D Furniture
+| Miscellaneous Files - Skyrim 3D Furniture SMIM patch
 
-## Placeholder
+## Skyrim 3D Misc
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20829) | Version: `1.0.2` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Skyrim 3D Misc - Barrels
+| Main Files - Skyrim 3D Misc - Buckets v2
+| Main Files - Skyrim 3D Misc - Butterchurn
+| Main Files - Skyrim 3D Misc - Giant Mortar and Pestle
+| Main Files - Skyrim 3D Misc - Markarth Cage
+| Main Files - Skyrim 3D Misc - Tanning Rack
+| Main Files - Skyrim 3D Misc - Traps
 
-## Placeholder
+## Skyrim Remastered - Soul Gems
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39397) | Version: `1.30` | Author: `Gravos8890` | ![Core] ![Visuals]|
+Download: | Main Files - Skyrim Remastered - Soul Gems Quality Version
+| Main Files - Skyrim Remastered - Soul Gems ENB Light Patch
 
-## Placeholder
+![PostInstall]
+~~~
+Delete Skyrim Remastered - Soul Gems.esp.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Snazzy Furniture and Clutter Overhaul 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `1.73` | Author: `Gutmaw` | ![Core] ![Visuals]|
+Download: | Main Files - Snazzy Furniture and Clutter Overhaul SE
+| Optional Files - Snazzy Ancient Dwemer Display Case
+| Optional Files - Snazzy Vanilla Noble Chair Patch - SSE
+| Optional Files - Snazzy Weapon Plaque and Display Case Patch for Rustic Furniture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Install Options:
+   * Mix-n-Match Plugin - USSEP Version
+Texture Options:
+   * De-saturated Textures
+~~~
 
-## Placeholder
+## Solstheim Objects SMIMed - High Poly Dark Elf Furniture 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53779) | Version: `0.1.1` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - Solstheim Objects SMIMed - High Poly Dark Elf Furniture
 
-## Placeholder
+![FOMOD]
+~~~
+ENB Particle Lights for Staff Enchanter:
+   * Add ENB Particle Lights
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Stockades of Skyrim 3D
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43227) | Version: `0.5` | Author: `wSkeever` | ![Visuals] |
+Download: | Main Files - Stockades of Skyrim 3D
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## The Business Ledger
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48561) | Version: `2.0` | Author: `d34dun1t` | ![Visuals] |
+Download: | Main Files - Hermaeus Mora Tax Book HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Thrones of Skyrim
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41198) | Version: `1.0` | Author: `Kelretu` | ![Visuals] |
+Download: | Main Files - Thrones of Skyrim SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Torture Rack 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30805) | Version: `1.4` | Author: `cunny1975` | ![Visuals] |
+Download: | Optional Files - 4K Dirty and Bloody
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Training Dummies Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13522) | Version: `1.0` | Author: `Haladoon` | ![Visuals] |
+Download: | Main Files - Training Dummies 2k Texture Replacer
+| Optional Files - Rain Barrel Fix and Retexture
+
+## Unique Skulls HD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52073) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Unique Skulls HD - SE 4K
+
+![FOMOD]
+~~~
+MainPluginOptions:
+   * ESPFE
+SkullKeyOptions:
+   * SkullKeys ENBLight Patch
+~~~
+
+![PostInstall]
+~~~
+Delete PraedysSkulls.esp.
+~~~
+
+## Vanilla Table Replacers 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33041) | Version: `1.0` | Author: `SpotDisc` | ![Visuals] |
+Download: | Main Files - Vanilla Table Replacers 4k 2k
+| Optional Files - 4k Common Table replacer optional SE (No Ropes)
 
 ---
 
@@ -1868,50 +1957,66 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Cathedral Weathers and Seasons
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33` | Author: `JonnyWang13` | ![Core] |
+Download: | Main Files - Cathedral - Weathers
+| Update Files - Cathedral Weathers Unofficial Update
 
-## Placeholder
+## Cathedral Weathers and Seasons - MCM
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24940) | Version: `1.3` | Author: `Sandman53` | ![Core] |
+Download: | Main Files - Cathedral Weathers MCM
 
-## Placeholder
+## Obsidian Mountain Fogs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13539) | Version: `1.01` | Author: `HiShutUp Arindel Dr Megaloblast` | ![Core] |
+Download: | Main Files - Obsidian Mountain Fogs
 
-## Placeholder
+## Real Rain
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2022) | Version: `3.2` | Author: `PlayerTw0` | ![Core] ![Visuals]|
+Download: | Main Files - RealRain 3.2
 
-## Placeholder
+![FOMOD]
+~~~
+   * RealRain Default
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Lucid Rain
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28552) | Version: `1.0` | Author: `nicostein` | ![Core] ![Visuals]|
+Download: | Main Files - Lucid Rain
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Masser and Secunda - Moons HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57060) | Version: `1.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Masser and Secunda - Moons HD - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Storm Lightning
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29243) | Version: `1.4.11` | Author: `Shizof` | ![Core] |
+Download: | Main Files - Storm Lightning for SSE and VR - Fomod Installer
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Select Game:
+   * Skyrim Special Edition
+Select SSE Version:
+   * 1.5.97
+Select Plugin:
+   * ESL Flagged
+Select Night Time Sheet Halo:
+   * Halo With Dimmer Lightning (Level 0)
+Select Day Time Sheet Halo:
+   * Halo With Dimmer Lightning (Level 0)
+Select Night Time Fork Halo:
+   * Halo Dimmer (Level 1)
+Select Day Time Fork Halo:
+   * Halo Dimmer (Levle 1)
+Select Thunder Delay:
+   * No Delay (Immersive)
+~~~
 
 ---
 
@@ -1919,75 +2024,162 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Alternate Summoning Visuals 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/44782) | Version: `1.0` | Author: `TheGreyLight` | ![Visuals] |
+Download: | Main Files - Alternate Summoning Visuals NO ESP
 
-## Placeholder
+## Deadly Spell Impacts
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12939) | Version: `1.70` | Author: `isoku` | ![Core] ![Visuals]|
+Download: | Main Files - Deadly Spell Impacts v1_70
 
-## Placeholder
+## Enhanced Blood Textures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Version: `3.8` | Author: `dDefinder` | ![Core] ![Visuals]|
+Download: | Miscellaneous Files - 4.0 beta 3
 
-## Placeholder
+![FOMOD]
+~~~
+SPID Compatibility and Script Distance:
+   * SPID Compatible
+Blood Size:
+   * Default Splatter Size
+Screen Blood:
+   * EBT - Default
+Resolution and Color:
+   * High Res / Default Color
+Alt. Blood Textures (Optional):
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## FleshFX
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27456) | Version: `1.1` | Author: `Deserter X` | ![Visuals] |
+Download: | Main Files - FleshFX
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Holy Wards
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18535) | Version: `1.2` | Author: `BanjoBunny` | ![Visuals] |
+Download: | Main Files - Holy Wards - a retexture
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Less Distracting Blowing Snow Effects for ENB Particle Patch 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36198) | Version: `1.0` | Author: `XCJ` | ![Visuals] |
+Download: | Main Files - Less Distracting Blowing Snow Effects 1.0
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## OIL
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38684) | Version: `2.0` | Author: `ramccoid` | ![Visuals] |
+Download: | Main Files - OIL v2 x2048
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Refracting Ice Form Debris 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18384) | Version: `2.0` | Author: `powerofthree` | ![Visuals] |
+Download: | Main Files - Refracting Ice Form Debris - 2.0
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## SOUL
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38456) | Version: `2.0` | Author: `ramccoid` | ![Visuals] |
+Download: | Main Files - SOUL v2 x2048
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Arctic - Frost Effects Redux
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29817) | Version: `2.1` | Author: `Retrospect` | ![Core] ![Visuals] |
+Download: | Main Files - Arctic - Frost Effects Redux
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Resolution Options:
+   * Ultra
+Color Options:
+   * Realistic Hue
+Size Option:
+   * x.5
+Style Option:
+   * Standard
+Plugin Option:
+   * Frost Meshes Patch (ESL-Tagged)
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/effects/gradients/.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Inferno - Fire Effects Redux
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Version: `4.1` | Author: `Retrospect` | ![Core] ![Visuals]|
+Download: | Main Files - Inferno - Fire Effects Redux
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Resolution Options:
+   * Ultra
+Glow Options:
+   * Brighter
+Color Options:
+   * Freesia
+Tile Options:
+   * Original
+Size Options:
+   * Regular
+Patch Options:
+   * None
+Plugin Option:
+   * None
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/effects/candleflame01.dds.
+Delete textures/effects/gradients/.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Voltage - Purple Edition 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46648) | Version: `1.0` | Author: `SRW0 and NearDaniel` | ![Visuals] |
+Download: | Main Files - Near Voltage - Purple Edition
+
+![PostInstall]
+~~~
+Delete textures/effects/fxfireatlas04.dds.
+Delete textures/effects/gradients.
+~~~
+
+## Embers XD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.6` | Author: `mindflux` | ![Core] ![Visuals]|
+Download: | Main Files - Embers XD
+
+![FOMOD]
+~~~
+Flames Customization:
+   * Embers XD Flame (Orange/Red)
+Effects Quality:
+   * High Quality
+Plugin Selection:
+   * ESP (Embers XD.esp)
+Fire Magick Add-On:
+   * Install Fire Magick Add-On
+Forges Add-On:
+   * Install Forges Add-On
+Torches Add-On:
+   * Install Torches Add-On
+Lava Craters Add-On:
+   * Install Lava Craters Add-On
+~~~
+
+## Animated Forge Water 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52322) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]|
+Download: | Main Files - Animated Forge Water
+
+![FOMOD]
+~~~
+Option:
+   * Elsopa and Embers XD
+~~~
 
 ---
 
@@ -1995,15 +2187,50 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Lux
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.6.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+Download: | Main Files - Lux
 
-## Placeholder
+![FOMOD]
+~~~
+Lux optional effects:
+   * Beams And Fogs
+   * Webs
+Lux optimized SMIM Meshes:
+   * SMIM meshes
+Lux optimized rugs:
+   * RUGNAROK rugs
+Lux optimized pelts:
+   * PELTAPALOOZA pelts
+Lux optimized chandeliers:
+   * SD's chandeliers
+Lux optional fireplaces:
+   * Embers XD Tavern Firepit
+Lux optional Giant Campfires:
+   * None
+Compatibility Patches:
+   * None (uncheck all)
+Optional Content:
+   * None
+Language packs:
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Lux Orbis
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+Download: | Main Files - Lux Orbis
+
+![FOMOD]
+~~~
+Patch Compendium:
+   * None (uncheck all)
+Crossover Patches Compendium:
+   * None (uncheck all)
+Additional content and patches:
+   * None
+~~~
 
 ---
 

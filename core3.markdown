@@ -142,7 +142,6 @@ Download: | Main Files - Markarth - A Reflective Experience
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45597) | Version: `1.12a` | Author: `ShatterRock` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
-| Main Files - Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
 | SMIM - Quality Addon - Unofficial Material Fix Patch
 | Unofficial Material Fix - Assorted Mesh Fixes Patch
 

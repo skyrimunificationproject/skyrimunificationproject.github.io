@@ -755,8 +755,8 @@ Download: | Main Files - EasierRider's Dungeon Pack SSE v1.5
 
 ## Farmhouse Chimneys
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1` | Author: `Scarla` | ![Core] |
-Download: | Main Files - Farmhouse Chimneys SE v4.1.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core] |
+Download: | Main Files - Farmhouse Chimneys SE v4.1.1
 
 ![FOMOD] ![CoreLg]
 ~~~
@@ -945,7 +945,7 @@ Download: | Main Files - AtCW - Siege Damage Repairs
 
 ## At Your Own Pace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.4.0` | Author: `agd25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.4.3` | Author: `agd25` | ![Core] |
 Download: | Main Files - At Your Own Pace - College of Winterhold
 | Main Files - At Your Own Pace - Misc
 
