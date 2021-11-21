@@ -15,7 +15,7 @@ Download: | Main Files - NetScriptFramework SkyrimSE v17
 ## Address Library for SKSE Plugins
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Version: `2` | Author: `meh321` | ![Core] |
-Download: | Main Files - All in one
+Download: | Main Files - All in one (Special Edition)
 
 ## Custom Skills Framework
 

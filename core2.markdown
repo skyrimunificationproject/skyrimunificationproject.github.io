@@ -1447,7 +1447,7 @@ Download: | Main Files - CC's HQ Carts - 4K - 1.0
 
 ## Chisel replacer HD
 
-[![mod]](nexusurl) | Version: `1.0` | Author: `PraedythXVI` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47534) | Version: `1.0` | Author: `PraedythXVI` | ![Visuals] |
 Download: | Main Files - Chisel 2K
 
 ## Dark Brotherhood Sanctuary Decor - HD Custom Black Door Banners and Tenets
@@ -1687,7 +1687,7 @@ Download: | Main Files - Nocturnal's Pool HD 4K
 
 ## Rally's Civil War Document Tubes
 
-[![mod]](nexusurl) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47637) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
 Download: | Main Files - Rally's Civil War Document Tubes
 
 ![FOMOD]
