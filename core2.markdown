@@ -1110,7 +1110,7 @@ Download: | Main Files - Cathedral - 3D Mountain Flowers
 
 ![PostInstall]
 ~~~
-Resave Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
+Remove the ESM flag in xEdit, then resave Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
 ~~~
 
 ## Cathedral - Plants 
@@ -1569,11 +1569,6 @@ Options:
 ~~~
 Delete Praedy's Gemstones ISCPatched.esp.
 ~~~
-
-## GORECAP
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16440) | Version: `2.2` | Author: `InwardScreams and MYTHiC` | ![Visuals] |
-Download: | Main Files - GORECAP
 
 ## HD Medieval Anvil
 
@@ -2057,6 +2052,11 @@ Alt. Blood Textures (Optional):
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27456) | Version: `1.1` | Author: `Deserter X` | ![Visuals] |
 Download: | Main Files - FleshFX
+
+## GORECAP
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16440) | Version: `2.2` | Author: `InwardScreams and MYTHiC` | ![Visuals] |
+Download: | Main Files - GORECAP
 
 ## Holy Wards
 
