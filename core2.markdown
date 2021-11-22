@@ -2238,30 +2238,57 @@ Additional content and patches:
 
 ---
 
-## Placeholder
+## Gemling Queen Jewelry
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4294) | Version: `4.1SE` | Author: `Saerileth` | ![Core] ![Visuals]|
+Download: | Main Files - Gemling Queen Jewelry SE
 
-## Placeholder
+![FOMOD]
+~~~
+Main Modules:
+   * Amulets
+   * Circlets
+   * Rings
+DLC Addons:
+   * Dawnguard Addon
+   * Dawnguard Addon - Unobtainable Items
+Amulet Texture Options:
+   * Gamwich Amulet Textures - 1024
+Ring Texture Options:
+   * Gamwich Ring Textures - Combined - 2048
+Optional Mesh Packs:
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete GQJ_DG_vampireamuletfix.esp.
+~~~
 
-## Placeholder
+## JS Barenziah
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22990) | Version: `1.3` | Author: `johnskyrim` | ![Core] ![Visuals]|
+Download: | Main Files - JS Barenziah SE - 4K Textures
 
-## Placeholder
+![PostInstall]
+~~~
+Delete JS Barenziah SE - Johnskyrim.esp.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC AMULETS 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35485) | Version: `2.0` | Author: `Gamwich` | ![Core] ![Visuals]|
+Download: | Main Files - RUSTIC AMULETS SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC CLOTHING
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4703) | Version: `3.0` | Author: `Gamwich` | ![Core] ![Visuals]|
+Download: | Main Files - RUSTIC CLOTHING - Special Edition - 2K
+
+## Talisman of Treachery HD 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27763) | Version: `1.2` | Author: `NanaBeats` | ![Visuals] |
+Download: | Main Files - Talisman of Treachery HD 1.2 - Regular
 
 ---
 
@@ -2269,125 +2296,220 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## aMidianBorn Book of Silence 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35382) | Version: `1.9.1` | Author: `CaBaL - the AMB team` | ![Core] ![Visuals] ![BSA]|
+Download: | Main Files - 2) aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON
 
-## Placeholder
+## aMidianBorn Content Addon
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.3` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
+Download: | Main Files - aMidianBorn Content Addon SE
 
-## Placeholder
+## aMidianBorn Blade of Woe
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/51130) | Version: `1.1` | Author: `CaBaL` | ![Core] ![Visuals]|
+Download: | Main Files - aMidianBorn Blade of Woe
 
-## Placeholder
+## aMidianBorn Hide and Studded Hide
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/26770) | Version: `2.2` | Author: `CaBaL` | ![Core] ![Visuals]|
+Download: | Main Files - aMidianBorn Hide and Studded Hide v2
 
-## Placeholder
+## aMidianBorn Iron and Banded Armor
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/19340) | Version: `IV` | Author: `CaBaL` | ![Core] ![Visuals]|
+Download: | aMidianBorn Iron cabals cut 2k
 
-## Placeholder
+## aMidianBorn Scaled Armor
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/33196) | Version: `1` | Author: `CaBaL` | ![Core] ![Visuals]|
+Download: | Main Files - aMidianBorn Scaled V2
 
-## Placeholder
+## aMidianBorn Stormcloak Officer Armor
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/45692) | Version: `1` | Author: `CaBaL` | ![Core] ![Visuals]|
+Download: | Main Files - aMidianBorn Stormcloak officer
 
-## Placeholder
+## Ancient Amidianborn Dwarven Armory 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38316) | Version: `0.9.1` | Author: `Wolfman5750 using resources from Cabal120 and SRW0` | ![Core] ![Visuals]|
+Download: | Main Files - Ancient Amidianborn Dwemer Metal Armory
 
-## Placeholder
+![FOMOD]
+~~~
+Accent Color:
+   * Purple (Original Amidianborn)
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## LeanWolf's Better-Shaped Weapons
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2017) | Version: `2.1.03` | Author: `LeanWolf and masterofshadows` | ![Core] ![Visuals]|
+Download: | Main Files - LeanWolfs Better-Shaped Weapons Installer v2.1.03 SE
+| Update Files - LWs BSW Orcish Greatsword inventory fix - sheath
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+All or Custom:
+   * Install Everything (default)
+Sheath Options:
+   * Onehanded Sheaths
+   * Greatsword Sheaths
+Patches:
+   * FranklyFamily HD Imperial Armor and Weapons
+Glass Refraction Options:
+   * None
+Stalhrim Refraction Options:
+   * None
+Dawnbreaker:
+   * Dawnbreaker Sheath Elf
+Dawnbreaker ENB Option:
+   * Dawnbreaker for ENB
+Dragonbone Option:
+   * DragonBoring Weapons
+Left-Hand Meshes:
+   * Dual Sheath Meshes
+~~~
 
-## Placeholder
+## Greatsword Sheaths and Scabbards Redux
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/325) | Version: `2.7.6` | Author: `rpsgc and MadCat221` | ![Core] ![Visuals]|
+Download: | Main Files - Greatsword Sheaths and Scabbards Redux SE
 
-## Placeholder
+![FOMOD]
+~~~
+Meshes Type:
+   * Meshes - Thin
+Sheath/SCabbard Type:
+   * Fullsize
+Skyforge Steel:
+   * Skyforge Steel
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Dragon Priest Retexture
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41713) | Version: `1.8` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - DragonPriest Re-texture HD 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Options:
+   * Main Masks
+   * DLC Masks
+   * Dagger Op2
+   * Staves
+   * Miraak Outift
+Plugin:
+   * ESPFE
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete AcolyteMasks.esp.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Improved Closefaced Helmets 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/824) | Version: `1.58` | Author: `navida1` | ![Core] ![Visuals] ![BSA]|
+Download: | Main Files - Improved Closefaced Helmets (SSE)
+| Replacement Plugin - [Improved Closefaced Helmets - Replacement](https://www.dropbox.com/s/2ve39rlgkug36ex/Improved%20Closefaced%20Helmets%20-%20Replacement.7z?dl=0)
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete meshes/actors/.
+Delete meshes/dlc02/armor/acolytemasks/.
+Delete meshes/dlc02/clothes/.
+~~~
 
-## Placeholder
+## Aevrigheim - Miraak's Sword and Staff Replacer 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34224) | Version: `1.0` | Author: `Vilidran` | ![Visuals] |
+Download: | Main Files - Miraak's Staff Replacer
+| Main Files - Miraak's Sword - Variant 2
 
-## Placeholder
+## Auriel's Shield and Bow 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47205) | Version: `1.1` | Author: `PraedythXVI` | ![Visuals] |
+Download: | Main Files - Auriel's Bow and Shield 2K
 
-## Placeholder
+![FOMOD]
+~~~
+BowOptions:
+   * Bow Option 2
+ShieldOptions:
+   * Shield Option 2
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Daedric Armor Remastered 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44778) | Version: `1` | Author: `dpillari` | ![Visuals] |
+Download: | Main Files - dpillari 4k daedric armors SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Dwarven Black Bow of Fate - retexture 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16136) | Version: `1.2` | Author: `UndeadSadness` | ![Visuals] |
+Download: | Main Files - Dwarven Black Bow of Fate - 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Ebony Weapons 2017 Retexture 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30029) | Version: `1.5-SE` | Author: `OperatorCactus` | ![Visuals] |
+Download: | Main Files - Special Ebony Shiny Reflective Refractive Reshlective 2k 4k...
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Elemental Staffs 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5319) | Version: `2.01` | Author: `Carnage2K4` | ![Core] ![Visuals]|
+Download: | Main Files - Elemental Staffs SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Elven Weapons for Silence 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27994) | Version: `1.0` | Author: `Erlioniel` | ![Visuals] |
+Download: | Optional Files - Leanwolf Elven - Default Silver
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Eyes and Staves of Magnus HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38719) | Version: `1.2` | Author: `PraedythXVI` | ![Visuals] |
+Download: | Main Files - Eyes and Staves of Magnus 4K SE - Enb-Light
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Staff and Eye Options:
+   * Transparent Silver Cracked
+~~~
+
+## Frankly HD - Dawnguard Armor and Weapons
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19663) | Version: `1.3` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - FranklyHD Dawnguard Armor and Weapons
+| Optional Files - Frankly HD Dawnguard Armor CBBE SE
+
+![FOMOD]
+~~~
+Texture Resolution:
+   * 2K Resolution
+~~~
+
+## Frankly HD - Dragonbone and Dragonscale - Armor and Weapons 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25110) | Version: `1.1` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Dragonbone and Dragonscale 2k
+| Update Files - Frankly HD Dragonbone and Dragonscale - Mesh patch
+
+## Frankly HD - Imperial Armor and Weapons 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20848) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Imperial Armor And Weapons 2k
+
+![PostInstall]
+~~~
+Delete FranklyHDImperialArmorsAndWeapons.esp.
+Delete meshes/weapons/imperial/1stPersonImperialSword.nif.
+Delete meshes/weapons/imperial/ImperialSword.nif.
+~~~
+
+## Frankly HD - Masque of Clavicus Vile
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28565) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Masque of Clavicus Vile 4k
 
 ## Placeholder
 
