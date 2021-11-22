@@ -24,8 +24,8 @@ Download: | Main Files - Custom Skills Framework v1
 
 ## ConsoleUtilSSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.2` | Author: `Ryan` | ![Core] |
-Download: | Main Files - ConsoleUtilSSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3` | Author: `Ryan` | ![Core] |
+Download: | [Nexus API: ConsoleUtilSSE 1.2.0](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=126531&game_id=1704)
 
 ## MCM Helper
 
