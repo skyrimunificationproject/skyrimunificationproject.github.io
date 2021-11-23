@@ -2511,85 +2511,132 @@ Delete meshes/weapons/imperial/ImperialSword.nif.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28565) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
 Download: | Main Files - Frankly HD Masque of Clavicus Vile 4k
 
-## Placeholder
+## Frankly HD - Nightingale Armor and Weapons 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18560) | Version: `1.1` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Nightingale Armor and Weapons 1.1
+| Optional Files - Frankly HD Nightingale Armor CBBE SE
+| Optional Files - Frankly HD Nightingale LeanWolfs Better-Shaped Weapons and Dual Sheath Redux Patch
 
-## Placeholder
+![FOMOD]
+~~~
+Texture Resolution:
+   * 2K Resolution
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Frankly HD - Shrouded Armor
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18785) | Version: `1.1` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Shrouded Armor _ 1.1
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Texture Resolution:
+   * 2K Resolution
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+After installing, install it again with the name
+  'Frankly HD - Shrouded Armor - Black', select 'Oblivion Style'
+  in the FOMOD, and rename textures/armor/dbarmor to
+  textures/armor/dbarmorblack.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Frankly HD - Stormcloak and City Guards
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/42404) | Version: `2.1` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - UltraHD - Stormcloak and City Guards 2K version
+| Update Files - Fix by SpriterSan for 2k version
+| Update Files - Falkreath matched color fix
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Frankly HD - Thieves Guild Armors
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19953) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Frankly HD Thieves Guild Armors
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Texture Resolution:
+   * 2K Resolution
+~~~
 
-## Placeholder
+## Harkon's Sword Retexture 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20092) | Version: `2.1` | Author: `Cain9580` | ![Visuals] |
+Download: | Main Files - Finished Harkon's Sword mesh and textures
 
-## Placeholder
+## JS Helm of Yngol
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51346) | Version: `1.0` | Author: `johnskyrim` | ![Visuals] |
+Download: | Main Files - JS Helm of Yngol SE - 2k
 
-## Placeholder
+## Remiros' Ancient Falmer Armor HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22458) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Ancient Falmer Armor
 
-## Placeholder
+## Remiros' Auri-El HD Redone
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22428) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Auri-El HD Redone
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/dlc01/armor/.
+Delete textures/dlc01/weapon/aurielsbow*.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Remiros' Chitin Armor HD 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31922) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Chitin Armor HD - 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Remiros' Dawnbreaker HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22334) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Dawnbreaker HD
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Remiros' Ebony Blade HD 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42999) | Version: `1.2` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Ebony Blade HD 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Remiros' Hrothmund's Axe HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43026) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Hrothmund's Axe HD 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Remiros' Wabbajack HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47869) | Version: `1.0` | Author: `Remiros` | ![Visuals] |
+Download: | Main Files - Remiros' Wabbajack HD V2 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC ARMOR and WEAPONS 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19666) | Version: `3.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RAW SSE - 2K
+
+![PostInstall]
+~~~
+Delete textures/armor/dbarmor/.
+Delete textures/weapon/bladeofwoe/.
+~~~
+
+## Sigils of Skyrim - Shields
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
+Download: | Main Files - Sigils of Skyrim - Shields
+
+## Stormcloak Armor Revival -
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/70723) | Version: `1.0a` | Author: `skyrimaguas` | ![Visuals] |
+Download: | Main Files - StormcloakRevival 2K
+
+## TDN Vampire Armor Retexture
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/55640) | Version: `1.0` | Author: `TheDNightshade and SeranaXx` | ![Visuals] |
+Download: | Main Files - Nightshade Vampire Armor Retexture
 
 ---
 
@@ -2597,163 +2644,268 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Better Bats 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33789) | Version: `1.0` | Author: `aviform` | ![Visuals] |
+Download: | Main Files - Dark Grey Texture
 
+## Better Bears 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33788) | Version: `1.0` | Author: `aviform` | ![Visuals] |
+Download: | Main Files - Better Bears 2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Deiform Alduin
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44329) | Version: `1.1` | Author: `winedave` | ![Visuals] |
+Download: | Optimal Files - Deiform Alduin 4K
+| Optimal Files - Deiform Alduin Eye textures 4K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## DRAGON PRIEST
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4974) | Version: `1.2` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Dragon.Priest.2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Custom:
+   * Full (Highly Suggested)
+~~~
 
-## Placeholder
+## DRAUGR
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4974) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Draugr.2k
 
-## Placeholder
+## FALMER 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17224) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Falmer.2k
 
-## Placeholder
+## GIANT
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6179) | Version: `1.0` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Giant.2k
 
-## Placeholder
+## HAGRAVEN 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7679) | Version: `1.0` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Hagraven.2k
 
-## Placeholder
+## HD Serpentine Dragon and Mesh Fix
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18370) | Version: `2.0` | Author: `opusGlass` | ![Visuals] |
+Download: | Main Files - HD Serpentine Dragon
 
-## Placeholder
+![FOMOD]
+~~~
+Textures:
+   * Smooth
+Mesh:
+   * Fixed UVs
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Horker
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28452) | Version: `2.0` | Author: `Pfuscher` | ![Visuals] |
+Download: | Main Files - Horker
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## HAPPY HORKER - RUSTIC Retexture
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/77243) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - HAPPY HORKER - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Ice Wraiths Retexture
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29254) | Version: `1.0` | Author: `HXP` | ![Visuals] |
+Download: | Main Files - Ice Wraiths 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## MAMMOTH 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6127) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Mammoth.2k
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Real Elks
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41929) | Version: `1.0.1` | Author: `MassiveMaster` | ![Core] |
+Download: | Main Files - MM REAL ELKS 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Real Rabbits HD
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29223) | Version: `1.3` | Author: `fadingsignal` | ![Visuals] ![BSA]|
+Download: | Main Files - Real Rabbits HD - Fluffy
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Real Skeevers 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/95106) | Version: `1.2` | Author: `MassiveMaster` | ![Visuals] |
+Download: | Optional Files - MM- REAL SKEEVER 2K NEW
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Realistic Horse Breeds 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7685) | Version: `2.5` | Author: `KrittaKitty` | ![Core] ![Visuals]|
+Download: | Main Files - Realistic Horse Breeds by Kritta Kitty
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC DAEDRA
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19272) | Version: `2.0` | Author: `Gamwich` | ![Core] |
+Download: | Main Files - RUSTIC DAEDRA SSE - 2K
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete textures/effects/fxfirescrolltile02.dds.
+Delete textures/effects/shockparticles02.dds.
+~~~
 
-## Placeholder
+## RUSTIC DEATH HOUND and GARGOYLE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17740) | Version: `1.1` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC DEATH HOUND AND GARGOYLE SSE - 2K
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/dlc01/dungeons/.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## RUSTIC DRAGONS
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37700) | Version: `2.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC DRAGONS SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete textures/actors/alduin/.
+~~~
 
-## Placeholder
+## RUSTIC FROSTBITE SPIDER
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18817) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC FROSTBITE SPIDER SSE - 2K
+
+## RUSTIC SPRIGGAN
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18107) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
+Download: | Main Files - RUSTIC SPRIGGAN - Special Edition - 2K
+| Optional Files - RUSTIC SPRIGGAN EFFECTS
+
+## SABRECAT 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5303) | Version: `1.0` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Sabrecat.2k
+
+![FOMOD]
+~~~
+Please Select At Least One:
+   * Install the Sabrecat and Sabrecat Snow
+   * Install the Valecat
+~~~
 
-## Placeholder
+## Skeleton Replacer HD -
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52845) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Skeleton Replacer HD 2K SE
+| Miscellaneous Files - SkeletonReplacer - PatchCollection
 
-## Placeholder
+![FOMOD]
+~~~
+PluginType:
+   * ESPFE
+SkeletonEyeGlow:
+   * SkeletonsWithEyeGlow
+SCSkeletons:
+   * SoulCairnSkeletons AE
+Support Options:
+   * BeastSkeletons
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+Patches:
+   * MajesticMountains
+   * SkeletonEyesENBLight
+   * UniqueSkullsPotema
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete PraedysSkeletons.esp.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Thanatos as Durnehviir
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/35576) | Version: `1.0` | Author: `AurianaValoria1 and Zerofrost` | ![Visuals] |
+Download: | Main Files - Thanatos as Durnehviir Copper
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## The Elder Scrolls V Rewritten - Arvak 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11999) | Version: `1.1.1` | Author: `Oriius and Ph0rce` | ![Core] ![Visuals]|
+Download: | Main Files - Dawnguard Rewritten Arvak 1.1.1
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Texture Sizes:
+   * Extreme Definition
+Model Options:
+   * Soul Cairn
+~~~
 
-## Placeholder
+## The New Ideal - A Battlespire Inspired Ideal Master Replacer 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52962) | Version: `1.0` | Author: `HeartAttackMan` | ![Visuals] |
+Download: | Main Files - The New Ideal - Main
 
-## Placeholder
+![FOMOD]
+~~~
+Choose Color:
+   * Skyrim Purple
+Texture Size:
+   *  4K
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## TROLL
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4682) | Version: `1.0` | Author: `Kajuan` | ![Visuals] |
+Download: | Optional Files - Troll.2k
 
-## Placeholder
+## True Wolves Of Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrim/mods/59174) | Version: `2.0` | Author: `KrittaKitty and ShimoOkami` | ![Visuals] |
+Download: | Main Files - True Wolves of Skyrim
 
+![FOMOD]
+~~~
+Texture Resolutions:
+   * 2K Textures
+Black Wolf Color Options:
+   * Grey Wolves
+Black Wolf Eye Color Options:
+   * Yellow
+Ice Wolf Color Options:
+   * Darker White Ice Wolves
+Ice Wolf Eye Color Options:
+   * Yellow
+Red Wolf Color Options:
+   * Timber Wolves
+Red Wolf Eye Color Options:
+   * Yellow
+~~~
+
+## Unique Barbas Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17540) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] |
+Download: | Main Files - Unique Barbas_SSE_1.0
+
+
+## Vampire Lord Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8402) | Version: `1.0` | Author: `Avike` | ![Visuals] |
+Download: | Main Files - Vampire Lord Retextured (Demonic)
+
+## WISPMOTHER 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7638) | Version: `1.0` | Author: `Kajuan` | ![Visuals] |
+Download: | Main Files - Wispmother.2x1k
+
+![FOMOD]
+~~~
+Select One:
+   * Full Version - Skin with a Mesh Fabric Veil (Recommended)
+~~~
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square
