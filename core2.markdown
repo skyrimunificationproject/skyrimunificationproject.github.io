@@ -2726,7 +2726,7 @@ Download: | Optional Files - Mammoth.2k
 
 ## Real Elks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41929) | Version: `1.0.1` | Author: `MassiveMaster` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41929) | Version: `1.0.1` | Author: `MassiveMaster` | ![Visuals] |
 Download: | Main Files - MM REAL ELKS 2K
 
 ## Real Rabbits HD
@@ -2746,7 +2746,7 @@ Download: | Main Files - Realistic Horse Breeds by Kritta Kitty
 
 ## RUSTIC DAEDRA
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19272) | Version: `2.0` | Author: `Gamwich` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19272) | Version: `2.0` | Author: `Gamwich` | ![Visuals] |
 Download: | Main Files - RUSTIC DAEDRA SSE - 2K
 
 ![PostInstall]
@@ -2798,7 +2798,7 @@ Please Select At Least One:
    * Install the Valecat
 ~~~
 
-## Skeleton Replacer HD -
+## Skeleton Replacer HD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52845) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
 Download: | Main Files - Skeleton Replacer HD 2K SE
