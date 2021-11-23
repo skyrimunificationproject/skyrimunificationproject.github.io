@@ -109,7 +109,7 @@ Download: | Main Files - Dynamic Volumetric Lighting and Sun Shadows
 
 ## Equip Enchantment Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.0` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.3` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Equip Enchantment Fix
 
 ## Fuz Ro D-oh - Silent Voice
@@ -151,7 +151,7 @@ Download: | Main Files - Splashes of Skyrim - 1.3
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.4.17` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.1b` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
