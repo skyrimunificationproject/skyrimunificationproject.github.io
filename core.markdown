@@ -24,13 +24,13 @@ Download: | Main Files - Custom Skills Framework v1
 
 ## ConsoleUtilSSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3` | Author: `Ryan` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3.1` | Author: `Ryan` | ![Core] |
 Download: | [Nexus API: ConsoleUtilSSE 1.2.0](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=126531&game_id=1704)
 
 ## MCM Helper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3` | Author: `Parapets` | ![Core] |
-Download: | Main Files - MCM Helper SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.2` | Author: `Parapets` | ![Core] |
+Download: | Old Files - MCM Helper SE - 1.3.0
 
 ## powerofthree's Papyrus Extender
 

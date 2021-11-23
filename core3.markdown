@@ -109,7 +109,7 @@ Inescapable Insights:
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.2` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.3` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 

@@ -52,6 +52,7 @@ EasierRidersDungeonPackSSE.esp | Autoclean with xEdit, apply ESMifier script
 Elemental_Staffs.esp | Compact formIDs, add ESL flag
 Elemental_Staffs_Patch_AMoS.esp | Compact formIDs, add ESL flag
 ENB Light.esp | Compact formIDs, add ESL flag
+ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Finding_Helgi_and_Laelette.esp | Apply ESMifier script
@@ -66,17 +67,18 @@ Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
 Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape and Water Fixes.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Lucien.esp | Apply ESMifier script
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Compact formIDs, add ESL flag, apply ESMifier script
 LovelyLetter.esp | Add ESL flag
-OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
-ORM-Arvak.esp | Compact formIDs, add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 NB-Scars.esp | Compact formIDs, add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
+OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
+ORM-Arvak.esp | Compact formIDs, add ESL flag
 QuestsAreInSkyrimUSSEP.esp | Add ESL flag
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
@@ -90,10 +92,12 @@ s606t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier s
 Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Autoclean with xEdit, compact formIDs, add ESL flag, apply ESMifier script
+SimplyKnock.esp | Apply ESMifier script
 SkyrimSewers.esp | apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag
+SofiaFollower.esp | Apply ESMifier script
 SPO_Ordinated.esp | Add ESL flag
 SSoB.esp | Compact formIDs, add ESL flag
 Stendarr Rising.esp | apply ESMifier script

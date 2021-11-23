@@ -5,19 +5,6 @@ title: "Skyrim Unification Project"
 
 # Adventures - Mod Changes
 
-## Farmhouse Chimneys
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.0.5` | Author: `Scarla` | ![Core] ![Adventures] |
-Download: | Main Files - Farmhouse Chimneys SE v4.0.5
-
-![FOMOD]
-~~~
-New Lands:
-   *Falskaar
-Vanilla Villages:
-   *Helgen Reborn
-~~~
-
 ## Missives - Worldspace Additions
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.03` | Author: `AndrealphusVIII` | ![Core] ![Adventures]|

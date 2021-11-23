@@ -10,6 +10,10 @@ title: "Skyrim Unification Project"
 
 ---
 
+Placeholder text.
+
+---
+
 # Guide Tags
 
 ---
@@ -52,19 +56,19 @@ These mods will be packed or repacked with Cathedral Assets Optimizer to create 
 
 ![FOMOD]
 
-Instructions about what options to pick in a FOMOD when installing.  As a general rule, if an option is not specifically mentioned then it should be "None" or *unchecked*.
+Instructions about what options to pick in a FOMOD when installing.  As a general rule, if an option is not specifically mentioned then it should be 'None' or *unchecked*.
 
 ---
 
 ![PostInstall]
 
-Instructions on files to move or delete *within the mod* after installing into MO2.
+Instructions on files to move or delete *within the mod* after installing into MO2. In rare cases, this will describe download instructions as well.
 
 ---
 
 ![Adventures]
 
-The Adventures module is an optional add-on to Core.  It contains Legacy of the Dragonborn, supporting quest and world content for it, the ability to alter the state of locations via Skyrim Realistic Conquering and Lawbringer, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
+The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, the ability to alter the state of locations via Skyrim Realistic Conquering and Lawbringer, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
 
 ---
 
@@ -85,6 +89,389 @@ Several addons are available in this section, with varying requirements on the o
 ---
 
 The version listed in each mod entry is the last 'main' version of the mod the guide was checked against.  Only the files listed are required.
+
+---
+
+# Prerequisites
+
+---
+
+The following modding tools should be installed into a directory that is not the base skyrim folder, nor a UAC-protected location such as Program Files (x86), the root of C:, or /Users/.  
+
+---
+
+# Skyrim Creation Kit
+
+---
+
+## Skyrim Creation Kit
+
+[![mod]](https://bethesda.net/game/bethesda-launcher) | Version: `1.5.73.0` | Author: `Bethesda` | ![Core] |
+Download: | Main Files - Bethesda.net Launcher
+
+![PostInstall]
+~~~
+Run the launcher and sign in. Click on the grey Creation icon on
+ the left and install it. Launch the Creation Kit, selecting YES
+ when asked to extract the scripts. Close the program.
+~~~
+
+## SSE CreationKit Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20061) | Version: `3.1` | Author: `Nukem` | ![Core] |
+Download: | Main Files - CK64Fixes Release 3.2
+| Main Files - FaceFXWrapper 0.3
+| Main Files - [CreationKitCustom.ini](https://www.dropbox.com/s/2cnpzok3keb8v97/CreationKitCustom.ini?dl=0)
+
+![PostInstall]
+~~~
+Manually extract the files into your Skyrim Special Edition folder.
+~~~
+
+---
+
+# Skyrim Script Extender
+
+---
+
+## Skyrim Script Extender
+
+[![mod]](http://skse.silverlock.org/) | Version: `2.0.20` | Author: `Ian Patterson, Stephen Abel, Paul Connelly, and Brendan Borthwick` | ![Core] |
+Download: | Main Files - Current SE build 2.0.20 (runtime 1.5.97): 7z archive
+
+![PostInstall]
+~~~
+Manually extract skse64_1_5_97.dll, skse64_loader.exe,
+ skse64_steam_loader.dll into your Skyrim Special Edition folder.
+ 
+The Scripts folder will be installed later with Mod Organizer 2.
+~~~
+
+---
+
+# Tools
+
+---
+
+## Cathedral Assets Optimizer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.6` | Author: `G_k` | ![Core] |
+Download: | Main Files - Cathedral Assets Optimizer 64
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\CAO
+ (or to a folder where you will store your tools).
+
+Add CAO to Windows Defender exclusions.
+~~~
+
+## FallrimTools - Script Cleaner
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5031) | Version: `4.3.2` | Author: `Mark Fairchild` | ![Core] |
+Download: | Main Files - FallrimTools 4.3.2
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools 
+ (or to a folder where you will store your tools).
+~~~
+
+## LOOT
+
+[![mod]](https://github.com/loot/loot/releases/tag/0.16.0) | Version: `0.16.0` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - loot_0.16.0-0-gb1094e6_0.16.0.7z
+
+![PostInstall]
+~~~
+Run LOOT once (outside of Mod Organizer 2) and sort your load order.
+~~~
+
+## Nifskope
+
+[![mod]](https://github.com/niftools/nifskope/releases) | Version: `2.0 Dev 7` | Author: `jonwd7` | ![Core] |
+Download: | Main Files - NifSkope_2_0_2018-02-22-x64.7z
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\Nifskope
+ (or to a folder where you will store your tools).
+~~~
+
+---
+
+# xEdit
+
+---
+
+## xEdit
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164) | Version: `4.0.4` | Author: `ElminsterAU and the xEdit team` | ![Core] |
+Download: | Main Files - SSEEdit 4_0_4
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\xEdit
+ (or to a folder where you will store your tools).
+~~~
+
+## xEdit Scripts - Automation Tools
+
+[![mod]](https://github.com/matortheeternal/TES5EditScripts) | Version: `1.5c` | Author: `Mator` | ![Core] |
+Download: | Main Files - Download ZIP
+
+![PostInstall]
+~~~
+Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\.
+~~~
+
+## xEdit Scripts - Mator's xEdit Patching Framework
+
+[![mod]](https://github.com/matortheeternal/mxpf) | Version: `1.1` | Author: `Mator` | ![Core] |
+Download: | Main Files - Download ZIP
+
+![PostInstall]
+~~~
+Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\.
+~~~
+
+## ESMifier Addon - Set unique NPCs persistent
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40260) | Version: `0.1` | Author: `Blackread` | ![Core] |
+Download: | Optional Files - ESMifyer and set unique NPCs Persistent combined
+
+![PostInstall]
+~~~
+Manually extract ESMifier_with_persistent_unique_NPCs.pas 
+  into Modding\Skyrim\Tools\xEdit\Edit Scripts\.
+~~~
+
+---
+
+# Synthesis
+
+---
+
+## Synthesis
+
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.16.8) | Version: `0.16.8` | Author: `Noggog` | ![Core] |
+Download: | Main Files - Synthesis.exe
+| Main Files - Synthesis Settings for KYE and KYA
+
+![PostInstall]
+~~~
+Extract the contents into Modding\Skyrim\Tools\Synthesis\.
+Extract the data folder into Modding\Skyrim\Tools\Synthesis\.
+~~~
+
+---
+
+# Mod Organizer 2
+
+---
+
+## Mod Organizer 2
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Version: `2.4.0` | Author: `Tannin - MO2 Team` | ![Core] |
+Download: | Main Files - Mod Organizer 2 (Archive)
+
+![PostInstall]
+~~~
+* Create a folder named 'Mod Organizer 2' in Modding\Skyrim\.
+* Extract the contents of the archive into this folder.
+* Run Mod Organizer 2, when 'Choose an Instance' appears, select 'Portable'.
+* In the next pop-up, select 'Skyrim Special Edition'.
+* Select 'No' when asked if you want a tutorial.
+* When the last popup appears, 'Mod Organizer is not set up to handle
+   NXM links. Associate it with NXM links?' select 'Yes'.
+* Under 'Settings' go to 'Plugins', select 'BSA Extractor', and
+   select 'true' for enabled.
+* Click the second button from left (Install mod from archive).
+    + Select the SKSE archive file downloaded earlier.
+    + A window will pop up saying the content of <data> is invalid.
+    + Expand the arrow by skse64_ and right-click the Data folder
+        within it.  Select 'Set as data directory'.
+    + Change the Name field to 'Skyrim Script Extender'. Click OK.	
+~~~
+
+---
+
+# BethINI
+
+---
+
+## BethINI
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4875) | Version: `3.5` | Author: `DoubleYou` | ![Core] |
+Download: | Main Files - BethINI Standalone Version
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\BethINI
+ (or to a folder where you will store your tools).
+ 
+Close Mod Organizer 2 and run BethINI.exe.
+* Select the 'Setup' tab.
+   + Make sure the 'Mod Organizer' path and 'INI Path' are correct.
+* Select the 'Basic' tab.
+   + Click the 'Default' button.
+   + Click the 'High' button.
+   + Click the 'BethINI Presets' button.
+   + Check the 'Recommended Tweaks' option.
+   + Set Antialiasing to 'None'.
+   + Check the 'Windowed Mode' options.
+   + Check the 'Borderless' option.
+   + Uncheck the 'FXAA' option.
+   + Uncheck the 'VSync' option.
+   + Uncheck the 'Lock Frame Rate' option.
+* Select the 'Gameplay' tab.
+   + Set 'Over-Encumbered Reminder' to '60'.
+   + Set '1st Person Arrow Tilt-up Angle' to '0.7'.
+   + Set '3rd Person Arrow Tilt-up Angle' to '0.7'.
+   + Set '1st Person Bolt Tilt-up Angle' to '0.7'.
+   + Check the 'NPCs Use Ammo' option.
+* Select the 'Interface' tab.
+   + Uncheck the 'Bethesda Modding Platform' option.
+* Select the 'Detail' tab.
+   + Set 'Field of View' to '85'.
+   + Set 'Particles' to '6000'.
+   + Uncheck the 'Lens Flare' option.
+   + Set 'Shadow Bias' to '0.47'.
+   + Check the 'Sun-Shadow Transitions' option.
+   + Set 'Sun-Shadow Update Time' to '0'.
+   + Set 'Sun-Shadow Update Threshold' to '2.0'.
+   + Uncheck the 'Ambient Occlusion' option.
+* Select the 'View Distance' tab.
+   + Set 'Grass Fade' to '18000'.
+* Select the 'Visuals' tab.
+   + Set 'Grass Density' to '60'.
+   + Set 'Grass Diversity' to '15'.
+* Select the 'Basic' tab.
+   + Click the 'Save and Exit' button.
+   
+* Relaunch Mod Organizer 2, click the second-to-right button and select
+ 'INI Editor'.
+ 
+* Edit or add these lines for Skyrim.ini:
+
+[Actor]
+   fVisibleNavmeshMoveDist=12288.0000
+   
+[Animation] (add after [Actor])
+   bAlwaysDriveRagdoll=1
+   fWeaponChangeClearTime=0.25
+   
+[Camera]
+   iHorseTransitionMillis=250
+   
+[Interface]
+   fBookOpenTime=500
+   uMaxCustomItemNameLength=64
+
+[Landscape] (add after [LightingShader])
+   fLandFriction=32
+
+[MapMenu]
+   bWorldMapNoSkyDepthBlur=1
+   fMapLocalCursorPanSpeed=300
+   fMapLookMouseSpeed=2.5
+   fMapWorldZoomSpeed=8
+   fMapZoomMouseSpeed=8
+   fWorldMapDepthBlurScale=0
+   fWorldMapMaximumDepthBlur=0
+   fWorldMapNearDepthBlurScape=0
+   uLockedObjectMapLOD=8
+
+[SaveGame]
+   bDisableAutoSave=1
+   bAllowScriptedForceSave=0
+   bAllowScriptedAutoSave=0
+   iAutoSaveCount=5
+
+[Terrain] (add after [SaveGame])
+   fHDLODSnowThresholdAngle=90
+   fLODSnowThresholdAngle=90
+
+* Edit or add these lines for SkyrimPrefs.ini:
+[Display]
+   fDynamicDOFBlurMultiplier=0.0000
+   fInteriorShadowDistance=8192
+   fShadowBiasScale=0.47
+   iBlurDeferredShadowMask=0
+   iMaxAnisotrophy=0
+   iMultiSample=0
+
+[General]
+   uLargeRefLODGridSize=11
+
+[Trees]
+   uiMaxSkinnedTreesToRender=200
+
+[Water]
+   iWaterReflectHeight=2048
+   iWaterReflectWidth=2048
+~~~
+
+---
+
+# LOD Generation
+
+---
+
+## xLODGEN
+
+[![mod]](https://mega.nz/file/4Ux2zAZR#2OFEC6f19MlaZUyDdlbBPkoCtzhot-ZqQLChgcSAeus) | Version: `Beta 76` | Author: `Sheson` | ![Core] |
+Download: | Main Files - xLODGen-76.7z
+| [Main Files - SSE-Terrain-Tamriel-Extend.esm](https://mega.nz/file/FYh2ybjR#62hOmtcm6xqaQoU5vnYdlS2AygqK28bpWum-zEt3zXo)
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\xLODGEN
+ (or to a folder where you will store your tools).
+ 
+Create a folder named 'SSELODGen_Output' in the root directory of the
+ drive where you have installed Skyrim, i.e. H:\SSELODGen_Output\.
+ 
+Manually install SSE-Terrain_Extend.esm in Mod Organizer 2, but
+ do not activate.
+ 
+Add xLODGenx64.exe as an executable in Mod Organizer 2.
+Add the following to the arguments field: 
+   -sse -o:"Drive Letter:\SSELODGen_Output", i.e.
+   -sse -o:"H:\SSELODGen_Output"
+~~~
+
+## DynDOLOD Standalone
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `3.00 Alpha-39` | Author: `Sheson` | ![Core] |
+Download: | Miscellaneous Files - DynDOLOD 3.00
+
+![PostInstall]
+~~~
+Create a folder named 'DynDOLOD' in the root directory of the drive
+  where you have installed Skyrim, i.e. H:\DynDOLOD.
+Manually extract the archive into DynDOLOD.
+
+Add TexGenx64.exe and DynDOLODx64.exe as an executable in Mod Organizer 2.
+For each add the following to the arguments field: -sse.
+~~~
+
+---
+
+# ENB Series Binaries
+
+---
+
+## ENB Series Skyrim
+
+[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.460` | Author: `Boris Vorontsov` | ![Core] |
+Download: | Main Files - v0.460
+
+![PostInstall]
+~~~
+Manually extract d3dcompiler_46e.dll and d3d11.dll into your
+  Skyrim Special Edition folder.
+~~~
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=for-the-badge
