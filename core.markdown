@@ -54,7 +54,7 @@ Create a new folder *DLLPlugins* and move SkyrimUncapper.dll into it
 
 ## Spell Perk Item Distributor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `5.0.4` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `5.1.1` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Spell Perk Item Distributor - SSE
 
 ## Actor Limit Fix
@@ -135,8 +135,8 @@ Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.05d
 
 ## powerofthree's Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.3.3` | Author: `powerofthree` | ![Core] |
-Download: | Main Files - powerofthree's Tweaks - 1.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.4.1` | Author: `powerofthree` | ![Core] |
+Download: | Main Files - powerofthree's Tweaks SE
 
 ## Scrambled Bugs
 
@@ -146,12 +146,12 @@ Download: | Main Files - Scrambled Bugs
 
 ## Splashes of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3` | Author: `powerofthree` | ![Core] |
-Download: | Main Files - Splashes of Skyrim - 1.3
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3.1` | Author: `powerofthree` | ![Core] |
+Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.1b` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.3b` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
@@ -1402,8 +1402,8 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-15` | Author: `Sheson` | ![Visuals] |
-Download: | Main Files - DynDOLOD Resources SE 3
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-16` | Author: `Sheson` | ![Visuals] |
+Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
 ~~~

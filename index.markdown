@@ -168,7 +168,7 @@ Add CAO to Windows Defender exclusions.
 
 ## FallrimTools - Script Cleaner
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5031) | Version: `4.3.2` | Author: `Mark Fairchild` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5031) | Version: `6.0.310` | Author: `Mark Fairchild` | ![Core] |
 Download: | Main Files - FallrimTools 4.3.2
 
 ![PostInstall]
@@ -179,7 +179,7 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://github.com/loot/loot/releases/tag/0.16.0) | Version: `0.16.0` | Author: `WrinklyNinja, et al` | ![Core] |
+[![mod]](https://github.com/loot/loot/releases/tag/0.16.1) | Version: `0.16.1` | Author: `WrinklyNinja, et al` | ![Core] |
 Download: | Main Files - loot_0.16.0-0-gb1094e6_0.16.0.7z
 
 ![PostInstall]
@@ -190,7 +190,7 @@ Run LOOT once (outside of Mod Organizer 2) and sort your load order.
 ## Nifskope
 
 [![mod]](https://github.com/niftools/nifskope/releases) | Version: `2.0 Dev 7` | Author: `jonwd7` | ![Core] |
-Download: | Main Files - NifSkope_2_0_2018-02-22-x64.7z
+Download: | Assets - NifSkope_2_0_2018-02-22-x64.7z
 
 ![PostInstall]
 ~~~
@@ -215,20 +215,10 @@ Manually extract the folder into Modding\Skyrim\Tools\xEdit
  (or to a folder where you will store your tools).
 ~~~
 
-## xEdit Scripts - Automation Tools
-
-[![mod]](https://github.com/matortheeternal/TES5EditScripts) | Version: `1.5c` | Author: `Mator` | ![Core] |
-Download: | Main Files - Download ZIP
-
-![PostInstall]
-~~~
-Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\.
-~~~
-
 ## xEdit Scripts - Mator's xEdit Patching Framework
 
 [![mod]](https://github.com/matortheeternal/mxpf) | Version: `1.1` | Author: `Mator` | ![Core] |
-Download: | Main Files - Download ZIP
+Download: | Code - Download ZIP
 
 ![PostInstall]
 ~~~
@@ -254,14 +244,12 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/tag/0.16.8) | Version: `0.16.8` | Author: `Noggog` | ![Core] |
-Download: | Main Files - Synthesis.exe
-| Main Files - Synthesis Settings for KYE and KYA
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.20.6` | Author: `Noggog` | ![Core] |
+Download: | Assets - Synthesis.zip
 
 ![PostInstall]
 ~~~
 Extract the contents into Modding\Skyrim\Tools\Synthesis\.
-Extract the data folder into Modding\Skyrim\Tools\Synthesis\.
 ~~~
 
 ---
@@ -443,7 +431,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `3.00 Alpha-39` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `3.00 Alpha-55` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

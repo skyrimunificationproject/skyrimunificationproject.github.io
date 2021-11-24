@@ -2673,7 +2673,7 @@ Custom:
 
 ## DRAUGR
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4974) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5848) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
 Download: | Optional Files - Draugr.2k
 
 ## FALMER 

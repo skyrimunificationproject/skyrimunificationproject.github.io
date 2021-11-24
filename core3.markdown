@@ -1202,8 +1202,8 @@ Download: | Filename
 
 ## PapyrusUtil
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Version: `4.1` | Author: `exiledviper` | ![Core] |
+Download: | Old Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
