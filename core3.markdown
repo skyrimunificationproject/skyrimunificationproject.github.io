@@ -489,40 +489,136 @@ Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch
 
 ---
 
-## Placeholder
+## Caliente's Beautiful Bodies Enhancer - CBBE 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.6.2` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
+Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.6.2
 
-## Placeholder
+![FOMOD]
+~~~
+Body Shape:
+   * Curvy (or NeverNude Curvy for SFW)
+Underwear Options:
+   * None (or your choice)
+Outfit Options:
+   * Vanilla Outfits
+Face Options:
+   * Face Pack
+Eyebrow Options:
+   * None
+SKEE (RaceMenu):
+   * RaceMenu Morphs (BodyMorph)
+Morph Files:
+   * Morph Files (Body)
+   * Morph Files (Outfits)
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Vitruvia - Skin Texture Overhaul 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9112) | Version: `1.07` | Author: `mandragorasprouts` | ![Core] ![Visuals] |
+Download: | Main Files - Vitruvia - Skin texture overhaul for males
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+![FOMOD]
+~~~
+01 Option:
+   * 2) Vitruvia - 2K
+02 Option - Body Meshes:
+   * 2) Nude Cut (or NeverNude if SFW desired)
+A)Hair and Scars-2K
+   * None
+B)Hair and Scars-4K:
+   * None
+C)Hair and Scars-Compressed:
+   * None
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Delete textures/actors/character/argonianmale/.
+Delete textures/actors/character/khajiitmale/.
+Delete textures/actors/character/male/blankdetailmap.dds.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Bijin Skin
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20078) | Version: `1.4` | Author: `rxkx22 and Shiva182` | ![Core] ![Visuals] |
+Download: | Main Files - Bijin Skin CBBE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+![FOMOD]
+~~~
+Body Diffuse Maps:
+   * 2K - Pubic
+Body Normal Maps:
+   * Default Curvy
+Head Diffuse:
+   * 2K - Realistic
+Vampire Head Diffuse:
+   * 2K - Realistic
+Nord Head Normal Map:
+   * Keep Default
+Vampire Head Normal Map:
+   * Keep Default
+Specular Maps:
+   * 2K - Default
+Subsurface Maps:
+   * Keep Default
+Makeup:
+   * Default (Recommendation)
+Cheek Type:
+   * Pretty
+~~~
 
-## Placeholder
+## Feminine Argonian Textures 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/184) | Version: `3.1` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+Download: | Main Files - Feminine Chameleon and Lizard (CBBE) 2K
 
-## Placeholder
+![FOMOD]
+~~~
+Variations
+   * Lizard
+Chest Variations (2K)
+   * Standard Scale
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Feminine Khajiit Textures 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/183) | Version: `3.1` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+Download: | Main Files - Feminine Grey Cat and Leopard (CBBE) 2K
+
+![FOMOD]
+~~~
+Variations:
+   * Grey Cat
+Chest Variations (2K):
+   * Furry
+~~~
+
+## Masculine Argonian Textures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/185) | Version: `2.0` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+Download: | Main Files - Masculine Chameleon and Lizard (Vanilla) 2K
+
+![FOMOD]
+~~~
+Variations:
+   * Lizard
+Chest Variations (2K):
+   * Standard Scale
+~~~
+
+## Masculine Khajiit Textures 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/186) | Version: `1.5` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+Download: | Main Files - Masculine Grey Cat and Leopard (Vanilla) 2K
+
+![FOMOD]
+~~~
+Variations:
+   * Grey Cat
+Chest Variations (2K):
+   * Furry
+~~~
 
 ---
 
@@ -530,60 +626,121 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Beards 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1067) | Version: `5.0.1` | Author: `Hvergelmir` | ![Core] ![Visuals] |
+Download: | Main Files - Hvergelmir's Aesthetics - Beards 5.0.1
 
-## Placeholder
+![FOMOD]
+~~~
+Choose full or vanilla replacer:
+   * Full Install
+Choose resolution:
+   * High: 2048
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Brows
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1062) | Version: `4.1` | Author: `Hvergelmir` | ![Core] ![Visuals] |
+Download: | Main Files - Hvergelmir's Aesthetics - Brows 4.1
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Choose full or vanilla replacer:
+   * Full Install
+Choose resolution:
+   * Ultra: 2048
+~~~
 
-## Placeholder
+## Kalilies Brows
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40595) | Version: `1.1` | Author: `Kalilies` | ![Core] |
+Download: | Main Files - Kalilies Brows
 
-## Placeholder
+## High Poly Vanilla Hair
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41863) | Version: `3.0` | Author: `Macxhiin` | ![Visuals] |
+Download: | Main Files - High Poly Vanilla Hair
 
-## Placeholder
+## KS Hairdos
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Version: `1.8` | Author: `Kalilies and Stealthic` | ![Core] |
+Download: | Main Files - KS Hairdos SSE
 
-## Placeholder
+## KS Hairdos - Salt and Wind
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](nexusurl) | Version: `1.1` | Author: `Kalilies, jasperthegnome, mashanen` | ![Visuals] |
+Download: | Main Files - KS Hairdos 1.7 - Salt and Wind
+| Update Files - KS Hairdos 1.7 - Salt and Wind hotfix 1.1
+| Miscellaneous Files - Bijin Family - Salt and Wind
+| Miscellaneous Files - Citizens of Tamriel Visual Overhaul - Salt and Wind
+| Miscellaneous Files - Cuyima Interesting NPCs - Salt and Wind
+| Miscellaneous Files - Metalsabers Beautiful Orcs - Salt and Wind
+| Miscellaneous Files - Pandorable's NPCs - Salt and Wind
+| Miscellaneous Files - Pandorable's NPCs DB - Salt and Wind
+| Miscellaneous Files - Pandorable's NPCs DG - Salt and Wind
+| Miscellaneous Files - RS Children - Salt and Wind
+| Miscellaneous Files - The Ordinary Women - Salt and Wind
 
-## Placeholder
+![FOMOD]
+~~~
+Bijin Family:
+   * Bijin NPCs
+   * Bijin Warmaidens
+   * Bijin Wives
+   * Serana
+   * Valerica
+Serana Options:
+   * 1.8
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+## Salt and Wind - KS Hairdos - Kalilies NPCs
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44335) | Version: `1.2` | Author: `Kalilies, jasperthegnome, Shiva182, mashanen` | ![Visuals] |
+Download: | Main Files - Kalilies NPCs - Salt and Wind
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+## Salt and Wind - KS Hairdos - Pandorable's Males
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44336) | Version: `1.1` | Author: `Kalilies, jasperthegnome, Shiva182, mashanen` | ![Visuals] |
+Download: | Main Files - Pandorable's Males - Salt and Wind
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+## Salt and Wind - KS Hairdos - The Men of Winter 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19861) | Version: `1.0` | Author: `Shiva182` | ![Visuals] |
+Download: | Main Files - The Men of Winter - Salt and Wind Textures SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] ![BSA] |
-Download: | Filename
+## Salt and Wind - Vanilla Hair
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45147) | Version: `1.0` | Author: `mashanen, jasperthegnome` | ![Visuals] |
+Download: | Main Files - Vanilla hair - Salt and Wind
+
+## Improved Eyes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9141) | Version: `1.6` | Author: `missjennabee, and Nazenn` | ![Core] ![Visuals] ![BSA] |
+Download: | Main Files - Improved Eyes Skyrim SSE 1.6
+
+![FOMOD]
+~~~
+Choose Version:
+   * Complete
+Choose Version:
+   * Complete - Full
+Werewolf Eyes:
+   * None
+Dawnguard Eyes:
+   * Dawnguard
+Textures:
+   * None
+Serana Vamp Eyes:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete textures/actors/character/eyes/eyeargonian*.dds.
+Delete textures/actors/character/eyes/eyedemon.dds.
+Delete textures/actors/character/eyes/eyekhajiit*.dds.
+~~~
 
 ---
 
@@ -591,25 +748,60 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Female Makeup Suite
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24495) | Version: `1.2` | Author: `Domain Wolf` | ![Visuals] |
+Download: | Main Files - Female Makeup Suite - Face - 2K
 
-## Placeholder
+## Northborn Scars 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/720) | Version: `1.3` | Author: `Northborn` | ![Visuals] |
+Download: | Main Files - Northborn Scars
 
-## Placeholder
+## Vanilla Makeup HD 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24482) | Version: `1.0` | Author: `Domain Wolf` | ![Visuals] |
+Download: | Main Files - VMHD - All Races - 2K
+| Update Files - VMHD - FemaleLowerEyeSocketFix - 2K
 
-## Placeholder
+## Vanilla Warpaints Absolution
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20751) | Version: `1.4` | Author: `Domain Wolf` | ![Visuals] |
+Download: | Main Files - Vanilla Warpaints Absolution - FOMOD Installer - All Inclusive
+
+![FOMOD]
+~~~
+Vanilla Replacers:
+   * 2k Vanilla Textures
+RaceMenu Plugins:
+   * 2k RaceMenu All-In-One
+Vanilla Variants General Watercolor:
+   * 2k Watercolors
+Vanilla Variants Wood Elves Muddy:
+   * 2k Muddy
+Vanilla Variants Dark Elf Ashy:
+   * 2k Ashy
+Vanilla Variants Khajiit Stripes Furry:
+   * 2k Furry
+Vanilla Variants Nord Spattered:
+   * 2k Spattered
+Vanilla Variants Argonian Scaley:
+   * 2k Scaley
+RaceMenu Variants General Watercolor:
+   * 2k Watercolors
+RaceMenu Variants Wood Elves Muddy:
+   * 2k Muddy
+RaceMenu Variants Dark Elf Ashy:
+   * 2k Ashy
+RaceMenu Variants Khajiit Stripes Furry:
+   * 2k Furry
+RaceMenu Variants Nord Spattered:
+   * 2k Spattered
+RaceMenu Variants Argonian Scaley:
+   * 2k Scaley
+SKSE Tintmask Configs:
+   * None
+~~~
 
 ---
 
@@ -617,40 +809,69 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Project New Reign - Nemesis 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases) | Version: `0.84Beta` | Author: `Shikyo Kira` | ![Core] |
+Download: | Assets - Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar
 
-## Placeholder
+![PostInstall]
+~~~
+Add Nemesis Unlimited Behavior Engine to MO2 as an executable.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Project New Reign - Nemesis PCEA
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31667) | Version: `0.8a` | Author: `Shikyo Kira` | ![Core] |
+Download: | Main Files - Nemesis PCEA Main
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Animation Motion Revolution 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50258) | Version: `1.3` | Author: `alexsylex` | ![Core] |
+Download: | Main Files - Animation Motion Revolution
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## True Directional Movement 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `1.4.3` | Author: `Ersh` | ![Core] |
+Download: | Main Files - True Directional Movement
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## CBPC - Physics with Collisions 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.3.6` | Author: `Shizof` | ![Core] |
+Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Select Game:
+   * Skyrim Special Edition
+Select SSE Version:
+   * SSE 1.5.97 - SKSE64 - 2.0.17
+Body Shape:
+   * CBBE Curvy
+Gravity Config:
+   * Install Gravity Config
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Edit SKSE/Plugins/CBPCSystem.ini:
+   * UseParallelProcessing = 1
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Smooth Combat non Combat Animation 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `3.1` | Author: `skypia` | ![Core] |
+Download: | Main Files - Smooth Combat - Non Combat Animation 3.
+
+## Super Fast Get Up Animation
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46714) | Version: `1.0` | Author: `Everglaid` | ![Core] |
+Download: | Main Files - Super Fast Get Up Animation
+
+![FOMOD]
+~~~
+Animation Condition:
+   * Replacer - Default
+~~~
 
 ---
 
@@ -658,65 +879,88 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Dynamic Animation Replacer 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Version: `1.1.0` | Author: `Felisky` | ![Core] |
+Download: | Main Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
-## Placeholder
+## Conditional Armor Type Animations
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51507) | Version: `1.0` | Author: `Verolevi` | ![Core] |
+Download: | Main Files - Conditional Armor Type Animations - CATA
 
-## Placeholder
+## Leviathan Animations - Female Idle Walk And Run
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42204) | Version: `1.5` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Leviathan Animations Female Idle Walk Run
 
-## Placeholder
+## Leviathan Animations - Male Idle Walk And Run
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42590) | Version: `1.5` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Leviathan Animations Male Idle Walk Run
 
-## Placeholder
+## Leviathan Animations - Sprint
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43059) | Version: `1.0` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Leviathan Animations Sprint
 
-## Placeholder
+## Runway Walk Animation 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51198) | Version: `1.2` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Female Runway Animations
 
-## Placeholder
+## Vanargand Animations - Female Idle Walk and Run 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51681) | Version: `1.3.1` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Vanargand Female idle Walk Run
 
-## Placeholder
+## Vanargand Animations - Male Idle Walk and Run
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52488) | Version: `1.3.1` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Vanargand male idle walk run
 
-## Placeholder
+## Vanargand Animations - Sprint
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53381) | Version: `1.3` | Author: `Verolevi` | ![Core] |
+Download: | Optional Files - CATA Addon - Vanargand Animations Sprint
 
-## Placeholder
+## Cookeh's Conditional and Random Animations
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37783) | Version: `2.0.7` | Author: `cookeh` | ![Core] |
+Download: | Main Files - CCARA DAR
 
-## Placeholder
+![FOMOD]
+~~~
+Select One:
+   * Mix and match
+Select One: (only these)
+   * Block Sun
+   * Catch snowflake
+   * Stroke hair
+   * Hunger or Gluttony for iNeed or iWant
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## EVG Conditional Idles
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.4` | Author: `Everglaid` | ![Core] |
+Download: | Main Files - EVG Conditional Idles
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Options:
+   * Recommended
+~~~
+
+## EVG Animation Variance 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38534) | Version: `1.0` | Author: `Everglaid` | ![Core] |
+Download: | Main Files - EVG Animation Variance
+
+![FOMOD]
+~~~
+Options:
+   * Full Install
+~~~
 
 ---
 
@@ -724,40 +968,81 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## XP32 Maximum Skeleton Special Extended - XPMSSE 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1988) | Version: `4.80` | Author: `Team XPMSE` | ![Core] |
+Download: | Main Files - XP32 Maximum Skeleton Special Extended
 
-## Placeholder
+![FOMOD]
+~~~
+Animation Rig Map:
+   * Physics Extension
+Character Creation:
+   * Racemenu
+Weapon Style Randomizer for NPCs:
+   * Out of Sync
+Belt-Fastened Quivers:
+   * None
+Daggers on Back:
+   * None
+Daggers on Hip:
+   * None
+Magic:
+   * None
+Swords on Back:
+   * None
+Swords on Hip:
+   * None
+Sword - Warning!:
+   * None
+Sword - Warning!:
+   * None
+The Joy of Perspective:
+   * None
+Schlongs of Skyrim:
+   * None
+Deadly Mutilation:
+   * None
+Enderal:
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## XP32 Maximum Skeleton Special Extended - XPMSE - Fixed Scripts 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44252) | Version: `1.0` | Author: `Team XPMSE - cskriffin - Umgak` | ![Core] |
+Download: | Main Files - XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## XP32 Maximum Skeleton Special Extended - XPMSSE - Uncloaked
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54720) | Version: `1.0.0` | Author: `chuckseven1` | ![Core] |
+Download: | Main Files - XPMSSE Weapons Uncloaked
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Savage Skyrim
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `3.97` | Author: `ROUGESHOT` | ![Core] |
+Download: | Main Files - Savage Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![PostInstall]
+~~~
+Delete meshes/actor/atronarchflame/.
+Delete textures/.
+Delete Savage Skyrim Std.esp.
+~~~
 
-## Placeholder
+## Supreme Vampire Lords
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19706) | Version: `1.1` | Author: `Rougeshot` | ![Core] |
+Download: | Main Files - Supreme Vampire Lords XP32 SE
 
-## Placeholder
+## Tyrannical Trolls
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23665) | Version: `1.0` | Author: `Rougeshot` | ![Core] |
+Download: | Main Files - Tyrannical Trolls (Vanilla Size)
+
+## Wicked Werewolves
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31757) | Version: `1.3` | Author: `Rougeshot` | ![Core] |
+Download: | Main Files - Wicked Werewolves SE XP32
 
 ---
 
@@ -765,50 +1050,78 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Guard Dialogue Overhaul Redux
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20791) | Version: `1.8` | Author: `Eckss,Kelsenellenelvian` | ![Core] |
+Download: | Main Files - Guard Dialogue Overhaul (Form 44
 
-## Placeholder
+## Hunters Not Bandits
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1547) | Version: `3.1` | Author: `raccoondance` | ![Core] |
+Download: | Main Files - Hunters Not Bandits for RDO
 
-## Placeholder
+## Immersive Citizens - AI Overhaul 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](nexusurl) | Version: `0.4` | Author: `Arnaud dOrchymont` | ![Core] |
+Download: | Main Files - Immersive Citizens - AI Overhaul
 
-## Placeholder
+![FOMOD]
+~~~
+Install Options:
+   * Core
+Enhanced Lights and FX:
+   * None
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Misc Dialogue Edits
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.7` | Author: `GOsteW and lilebonymace` | ![Core] |
+Download: | Main Files - Misc Dialogue Edits - for Skyrim Unbound Reborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## More Dialogue Options 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28905) | Version: `1.3.1` | Author: `GOsteW and lilebonymace` | ![Core] |
+Download: | Main Files - More Dialogue Options - for Misc Dialogue Edits
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## More to Say
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `8.0.3` | Author: `abramcf` | ![Core] |
+Download: | Main Files - More to Say (merged version)
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Relationship Dialogue Overhaul
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] ![CK] |
+Download: | Main Files - Relationship Dialogue Overhaul - RDO v2.0
+| Update Files - [Relationship Dialogue Overhaul - Updated Scripts](https://www.dropbox.com/s/85bm0yqwom4fczs/Skyrim%20Unification%20Project%20-%20RDO%20-%20Updated%20Scripts.7z?dl=0)
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Follower Mods:
+   * None
+USLEEP:
+   * None
+~~~
 
-## Placeholder
+![PostInstall]
+~~~
+Save Relationship Dialogue Overhaul.esp in the Creation Kit.
+Pack the mod with CAO.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Rude Imperial Soldiers Escort Prisoner Fix 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/894) | Version: `1.0` | Author: `elite403` | ![Core] ![CK]|
+Download: | Main Files - ImperialSoldiersEscortFix_v10
+
+![PostInstall]
+~~~
+Save ImperialSoldiersEscortFix.esp in the Creation Kit.
+~~~
+
+## Serana Dialogue Edit 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16222) | Version: `1.02` | Author: `ThatGuyYeah` | ![Core] |
+Download: | Main Files - SeranaDialogEdit v 102
 
 ---
 
@@ -816,60 +1129,86 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Carriage and Ferry Travel Overhaul
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8379) | Version: `2.0` | Author: `Kinaga` | ![Core] |
+Download: | Main Files - Carriage and Ferry Travel Overhaul
+| Optional Files - CFTO - Immersive Citizens AI Overhaul Patch
 
-## Placeholder
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Carriage and Ferry Travel Overhaul - Fixes 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40651) | Version: `3.0` | Author: `ViktoriaLanders` | ![Core] |
+Download: | Main Files - CFTO - Fixes and Winterhold
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+![FOMOD]
+~~~
+Main:
+   * Vanilla
+Town Mods:
+   * None
+Covered Carriages:
+   * None
+Lanterns:
+   * None
+~~~
 
-## Placeholder
+## Honed Metal - Updated 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51254) | Version: `1.21` | Author: `SkylineR390` | ![Optional] |
+Download: | Main Files - Honed Metal SSE Updated
+| Update Files - Honed Metal 1.21 Hotfix
+| [Replacement Plugin - Honed Metal Replacement](https://www.dropbox.com/s/k7zqe8brro1g3mf/Honed%20Metal%20-%20Replacement.7z?dl=0)
 
-## Placeholder
+## Honed Metal - Updated - Revoiced 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34393) | Version: `1.5` | Author: `Cer12` | ![Optional] |
+Download: | Main Files - Honed Metal Revoiced (For Honed Metal SSE 1.2)
 
-## Placeholder
+## Immersive Interactions - Animated Actions 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47670) | Version: `1.55` | Author: `JaySerpa` | ![Core] |
+Download: | Main Files - Immersive Interactions - Animated Actions
 
-## Placeholder
+## Improved Innkeepers 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46659) | Version: `1.0` | Author: `Valdaraak` | ![Core] |
+Download: | Main Files - Improved Innkeepers
 
-## Placeholder
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Pumping Iron 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13434) | Version: `1.0` | Author: `Gopher` | ![Core] |
+Download: | Main Files - Pumping Iron
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Pumping Iron - Addon - Stay In Shape 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50371) | Version: `1.01` | Author: `Tsaxaman - JaySerpa` | ![Core] |
+Download: | Main Files - Stay In Shape
+| Optional Files - Patch for Immersive Interactions (Boxing)
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Simply Knock 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14098) | Version: `1.0.3` | Author: `Chesko` | ![Core] |
+Download: | Main Files - Simply Knock SE 1.0.3 Release
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Simply Knock - SKSE Update 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24297) | Version: `4.0` | Author: `LawrenceFB` | ![Core] |
+Download: | Main Files - SimplyKnockSE SKSE64 2.0.19 DLL
+
+## Trade and Barter 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23081) | Version: `2.0` | Author: `kryptopyr` | ![Core] |
+Download: | Main Files - Trade and Barter SE
 
 ---
 
@@ -877,104 +1216,112 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
+Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
+
+![PostInstall]
+~~~
+Delete WACCF_BashedPatchLvlListFix.esp.
+~~~
+
+## Armor and Clothing Extension 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.2` | Author: `kryptopyr and Gamwich` | ![Core] |
+Download: | Main Files - Armor and Clothing Extension
+
+## Complete Alchemy and Cooking Overhaul 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `2.0.1` | Author: `kryptopyr` | ![Core] |
+Download: | Main Files - Complete Alchemy and Cooking Overhaul
+| Update Files - CACO SKSE 2.0.19 DLL Update
+| Update Files - Temporary Patch for Complete Crafting Overhaul Remastered
+
+## Complete Crafting Overhaul Remastered 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.0.2` | Author: `kryptopyr` | ![Core] |
+Download: | Main Files - Complete Crafting Overhaul Remastered
+| Update Files - CCOR PRUFEI Chest CTD Hotfix
+
+## Skyrim Unification Project - Gameplay Overhaul
+
+[![mod]](nexusurl) | Version: `2.0.0` | Author: `rev` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Dragon War - A Dragon Overhaul 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `1.3.1` | Author: `Delta` | ![Core] |
+Download: | Main Files - Dragon War - A Dragon Overhaul
+| Optional Files - Dragon War - Variants
 
-## Placeholder
+## Enchanting Adjustments Updated -
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49471) | Version: `3.1.1` | Author: `sasnikol` | ![Core] |
+Download: | Main Files - Enchanting Adjustments
 
-## Placeholder
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Forceful Tongue - Shouts Overhaul 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.4` | Author: `Delta` | ![Core] |
+Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+## Odin - Skyrim Magic Overhaul
 
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46000) | Version: `1.9.0` | Author: `Enai Siaion` | ![Core] |
+Download: | Main Files - Odin 1.9.0
 
 ---
 
-# Combat
+# Combat, Stealth and Traps
 
 ---
 
-## Placeholder
+## Know Your Enemy Redux
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## VioLens - A Killmove Mod
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Valravn - Integrated Combat of Skyrim
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Valravn - Integrated Combat of Skyrim - Uncloaked
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
----
-
-# Stealth and Traps
-
----
-
-## Placeholder
+## Disarming Traps Is Dangerous
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Improved Traps
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Improved Traps - Nether's Follower Framework Patch
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Lock Overhaul 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![CK] ![BSA]|
 Download: | Filename
 
-## Placeholder
+## Realistic AI Detection
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
@@ -985,42 +1332,42 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Andromeda - Unique Standing Stones of Skyrim
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Apocalypse - Magic of Skyrim
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Growl - Werebeasts of Skyrim 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Imperious - Races of Skyrim 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Reliquary of Myth - Artifact Overhaul
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Sacrilege - Minimalistic Vampires of Skyrim 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Triumvirate - Mage Archetypes
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Wintersun - Faiths of Skyrim 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
@@ -1031,32 +1378,32 @@ Download: | Filename
 
 ---
 
-## Placeholder
+## Dragonborn - Shouts Perk Tree 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Ordinator - Perks of Skyrim
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Reading Improves Speech
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Skyrim Class Mod  - Sets of Skills 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Smithing Perks Overhaul 
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
-## Placeholder
+## Experience
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
@@ -1320,6 +1667,21 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
+---
+
+# Conflict Resolution
+
+---
+
+## Skyrim Unification Project - Consistency Patches
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Skyrim Unification Project - Conflict Resolution
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
 
 ---
 
