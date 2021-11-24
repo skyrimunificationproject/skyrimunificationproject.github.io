@@ -161,170 +161,327 @@ Delete High Poly Head Vampire Fix.esp.
 
 ---
 
-## Placeholder
+## Modpocalypse NPCs - Resources
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.02` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+Download: | Main Files - Modpocalypse NPCs - Resources
 
-## Placeholder
+## Modpocalypse NPCs - All Vanilla NPCs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54422) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+Download: | Main Files - Modpocalypse NPCs - All Vanilla NPCs v3
 
-## Placeholder
+## Followers Hirelings and Housecarls 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19200) | Version: `1.3` | Author: `Mizzog` | ![Core] ![Visuals] |
+Download: | Main Files - FHH_LEGENDARY_VE_USSEP
+| Miscellaneous Files - FHH MizzEdition Warpaints
 
-## Placeholder
+## Fresh Faces
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13789) | Version: `1.2` | Author: `Plooshy` | ![Core] ![Visuals] |
+Download: | Main Files - Fresh Faces
 
-## Placeholder
+![FOMOD]
+~~~
+Plugin:
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+Do you use EEO:
+   * USSEP
+Warpaint For Aela:
+   * No
+Warpaint for Borgakh:
+   * No
+Warpaint for Dravynea:
+   * No
+Warpaint for Eola:
+   * No
+Warpaint for Mjoll the Lioness:
+   * No
+Warpaint for Rayya:
+   * No
+~~~
 
-## Placeholder
+## Metalsabers Beautiful Orcs of Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22025) | Version: `1.0` | Author: `Metalsaber` | ![Core] ![Visuals] |
+Download: | Main Files - Metalsabers Beautiful Orcs of Skyrim
 
-## Placeholder
+## Pandorable's NPCs - Males
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - Pandorable's NPCs - Males SE
+| Update Files - PAN_NPCs - Males hotfix
 
-## Placeholder
+![FOMOD]
+~~~
+Niruin: Alternative 2
+All other NPCs: Alternative
+USSEP: I have USSEP
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Pandorable's NPCs - Males 2
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50617) | Version: `1.01` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - PAN_NPCs - Males 2
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+![FOMOD]
+~~~
+Chief Burguk: Alternative 2
+All other NPCs: Alternative or Alternative 1
+USSEP: Yes
+~~~
 
-## Placeholder
+## The Men of Winter 
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10902) | Version: `5.3` | Author: `Sette` | ![Core] ![Visuals] |
+Download: | Main Files - The Men of Winter SSE
+| Update Files - The Men of Winter - Ulfric Hotfix
 
-## Placeholder
+![FOMOD]
+~~~
+Compatibility Patches:
+   * Don't Install Patches
+~~~
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Northbourne NPCs of Falkreath Hold 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37528) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] |
+Download: | Main Files - Northbourne NPCs of Falkreath Hold - Full Version
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Northbourne NPCs of Haafingar 
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48481) | Version: `1.0` | Author: `Southpawe` | ![Core] ![Visuals] |
+Download: | Main Files - Northbourne NPCs of Haafingar
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Northbourne NPCs of the Rift
 
-## Placeholder
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42349) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] |
+Download: | Main Files - Northbourne NPCs of The Rift - Full Version
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+## Northbourne NPCs of Whiterun Hold
 
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Visuals] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35404) | Version: `2.1` | Author: `Southpawe` | ![Core] ![Visuals] |
+Download: | Main Files - Northbourne NPCs of Whiterun Hold - Full Version
+
+## Northbourne NPCs of Winterhold
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43413) | Version: `1.1` | Author: `Southpawe` | ![Core] ![Visuals] |
+Download: | Main Files - Northbourne NPCs of Winterhold Full Version
+
+## Improved Bards 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7956) | Version: `1.3` | Author: `cleverbee` | ![Core] ![Visuals] |
+Download: | Main Files - Improved Bards 1.3 - CBBE Nude
+or | Main Files - Improved Bards 1.3 - CBBE SFW
+
+## The Ordinary Women
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.0` | Author: `northtexan95` | ![Core] ![Visuals] |
+Download: | Main Files - The Ordinary Women SSE 4.0
+
+## Pandorable's NPCs 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19012) | Version: `1.4` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - PAN_NPCs
+
+![FOMOD]
+~~~
+USSEP:
+   * USSEP
+Dravynea:
+   * Yes
+Eisa:
+   * Yes
+Eris:
+   * Yes
+Voldsea:
+   * Yes
+~~~
+
+## Pandorable's NPCs - Dawnguard 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24135) | Version: `1.2` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - Pandorable's NPCs - Dawnguard SE - USSEP
+
+## Pandorable's NPCs - Dragonborn
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30680) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - Pandorable's NPCs - Dragonborn SE
+
+![FOMOD]
+~~~
+Teldryn Sero: Alternative 2
+All other NPCs: Alternative or Alternative 1
+USSEP: Yes
+~~~
+
+## Pandorable's NPCs - Initiates 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30665) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - PAN_Initiates - vanilla voices
+| Optional Files - PAN_Initiates - warpaint
+
+## Pandorable's NPCS - Heroes of Sovngarde 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55877) | Version: `1.0` | Author: `Pandorable` | ![Core] ![Visuals] |
+Download: | Main Files - PAN_NPCs - Sovngarde
+
+![FOMOD]
+~~~
+Felldir:
+   * Yes
+Gormlaith:
+   * Yes
+Hakon:
+   * Yes
+Ysgramor:
+   * Yes
+~~~
+
+## Kalilies NPCs 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30247) | Version: `2.4` | Author: `Kalilies` | ![Core] ![Visuals] |
+Download: | Main Files - Kalilies NPCs
+
+![FOMOD]
+~~~
+Body Texture Options:
+   * CBBE
+~~~
+
+## Bijin NPCs 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11287) | Version: `1.2.1` | Author: `rxkx22` | ![Core] ![Visuals] |
+Download: | Main Files - Bijin NPCs SE 1.2.1
+
+![FOMOD]
+~~~
+Options:
+   * All-in-One
+Adrianna Hairstyle Option:
+   * Hi Babe
+Rikke's Face Wrinkles Option:
+   * Wrinkles
+Hulda's Face Wrinkles Option:
+   * Wrinkles
+Maven Face Wrinkles Option:
+   * With Wrinkle
+Body Type:
+   * CBBE Body
+~~~
+
+## Bijin Warmaidens
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1825) | Version: `3.1.3` | Author: `rxkx22` | ![Core] ![Visuals] |
+Download: | Main Files - Bijin Warmaidens SE v3.1.3
+
+![FOMOD]
+~~~
+Options:
+   * All-in-One
+Delphine's Face Wrinkles Option:
+   * Wrinkles
+Body Type:
+   * CBBE Body
+~~~
+
+## Bijin Wives 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11247) | Version: `1.1.2` | Author: `rxkx22` | ![Core] ![Visuals] |
+Download: | Main Files - Bijin Wives SE 1.1.2
+
+![FOMOD]
+~~~
+Options:
+   * All-in-One
+Body Type:
+   * CBBE Body
+~~~
+
+## Seranaholic 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13027) | Version: `1.8.4` | Author: `rxkx22 - Ported by bchick3 and elrizzo` | ![Core] ![Visuals] |
+Download: | Main Files - Seranaholic SSE 1.8
+| Optional Files - Valerica SSE
+
+![FOMOD]
+~~~
+(Serana)
+Body Type:
+   * CBBE Body
+Eye Color and Weight:
+   * [b] Blue Eye + Default Weight 20
+Makeup Type:
+   * Vampire-style
+
+(Valerica)
+Body Type:
+   * CBBE Body 
+Eye Color:
+   * Blue Eye
+Hair Color:
+   * Black
+Face Wrinkles Option:
+   * Wrinkles
+~~~
+
+## Citizens of Tamriel - Visual Overhaul 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44563) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] |
+Download: | Main Files - Citizens of Tamriel Visual Overhaul
+
+## Interesting NPCs - Visual Overhaul 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40046) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] |
+Download: | Main Files - Interesting NPCs Visual Overhaul
+
+## Interesting NPCs - Cuyima's Retexture 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27330) | Version: `1.1.1` | Author: `cuyima` | ![Core] ![Visuals] |
+Download: | Main Files - Cuyima Interesting NPCs SE - Custom Hair
+
+## Lucien - Pandorable's Replacer 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22598) | Version: `1.0` | Author: `Pandorable` | ![Visuals] |
+Download: | Main Files - Pandorable's Lucien SE
+
+## Sofia - Re-Imagined
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30498) | Version: `1.0` | Author: `Froztee` | ![Visuals] |
+Download: | Main Files - Sofia Re-Imagined SSE CBBE Version
+
+## RS Children Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | Version: `1.1.3` | Author: `Ranaline and Atsuraelu` | ![Core] ![Visuals] |
+Download: | Main Files - RSSE Children Overhaul 1.1.3 with hotfix 1
+
+![FOMOD]
+~~~
+Main Patches:
+   * USSEP
+Extra Options:
+   * 2K Aventus and Wanderer Outfit
+   * Facial Animations
+~~~
+
+## RS Children Overhaul - Patch Compendium
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13409) | Version: `5` | Author: `MichelleBrujah- Seoulcalibre - Atsuraelu` | ![Core] ![Visuals] |
+Download: | Main Files - RSC FOMOD Beta
+
+![FOMOD]
+~~~
+RSChildren Patches:
+   * Interesting NPCs
+Misc Files:
+   * Babette with Fangs
+~~~
+
+## RS Children Overhaul - Citizens of Tamriel Patch 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29090) | Version: `1.0` | Author: `Mayponce` | ![Core] ![Visuals] |
+Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch
 
 ---
 
