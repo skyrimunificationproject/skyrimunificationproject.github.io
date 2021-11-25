@@ -15,7 +15,7 @@ Core 1 - SKSE Plugins - Encounter Zones Unlocked SE
 Core 1 - SKSE Plugins - Security Overhaul SKSE - Lock Variations
 Core 1 - Gameplay Tweaks - SPID-Protected Innocent Citizens
 Core 1 - Heads Up Display - Convenient Dialogue UI - SE
-Core 1 - LOD Generation - DynDOLOD Modders Resources Fixes
+Core 1 - LOD Generation - xLODGen Resource - SSE Terrain Tamriel
 Core 2 - Farmhouses and Mills - Nordic Stonewalls
 Core 2 - Armor and Weapon Retextures - Stalhrim Refrozen
 Core 3 - NPC-Retexture - Modpocalypse NPCS - CFTO
