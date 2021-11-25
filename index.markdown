@@ -408,8 +408,8 @@ Close Mod Organizer 2 and run BethINI.exe.
 
 ## xLODGEN
 
-[![mod]](https://mega.nz/file/4Ux2zAZR#2OFEC6f19MlaZUyDdlbBPkoCtzhot-ZqQLChgcSAeus) | Version: `Beta 76` | Author: `Sheson` | ![Core] |
-Download: | Main Files - xLODGen-76.7z
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-85-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 85` | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 85
 | [Main Files - SSE-Terrain-Tamriel-Extend.esm](https://mega.nz/file/FYh2ybjR#62hOmtcm6xqaQoU5vnYdlS2AygqK28bpWum-zEt3zXo)
 
 ![PostInstall]
@@ -431,7 +431,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `3.00 Alpha-55` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `2.97` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

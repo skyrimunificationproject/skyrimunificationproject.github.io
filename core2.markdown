@@ -44,7 +44,7 @@ Hanging Animals:
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.34.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.35` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -525,6 +525,21 @@ Download: | Main Files - PELTAPALOOZA Special Edition - FULL
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38912) | Version: `1.0` | Author: `SDlutz` | ![Visuals] |
 Download: | Main Files - 4k Farmhouse Fences SE Version 2
+
+## Nordic Stonewalls
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57686) | Version: `1.12` | Author: `mindflux` | ![Visuals] |
+Download: | Main Files - Nordic Stonewalls Version 1
+
+![FOMOD]
+~~~
+Style:
+   * Majestic Mountains
+Texture Quality:
+   * 4K
+Parallax:
+   * No Parallax
+~~~
 
 ---
 
@@ -1990,7 +2005,7 @@ Download: | Main Files - Masser and Secunda - Moons HD - 2K
 
 ## Storm Lightning
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29243) | Version: `1.4.11` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29243) | Version: `1.4.12` | Author: `Shizof` | ![Core] |
 Download: | Main Files - Storm Lightning for SSE and VR - Fomod Installer
 
 ![FOMOD]
@@ -2627,6 +2642,26 @@ Delete textures/weapon/bladeofwoe/.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
 Download: | Main Files - Sigils of Skyrim - Shields
+
+## Stalhrim Refrozen
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41348) | Version: `1.6` | Author: `Jelidity` | ![Visuals] |
+Download: | Main Files - Stalhrim Refrozen
+
+![FOMOD]
+~~~
+Addons:
+   * Heavy Armory
+   * Royal Armory
+Ancient Nord Stalhrim:
+   * None
+Katana Crafting:
+   * None
+Leanwolf's Better Shaped Weapons:
+   * With Sheaths
+Lovely Longswords:
+   * None
+~~~
 
 ## Stormcloak Armor Revival -
 

@@ -25,7 +25,7 @@ Download: | Main Files - Custom Skills Framework v1
 ## ConsoleUtilSSE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3.1` | Author: `Ryan` | ![Core] |
-Download: | [Nexus API: ConsoleUtilSSE 1.2.0](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=126531&game_id=1704)
+Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## MCM Helper
 
@@ -79,7 +79,7 @@ Download: | Main Files - Better Combat Escape - SSE V0.83
 
 ## Better Jumping
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.7.1` | Author: `meh321 and z65536` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.8.3` | Author: `meh321 and z65536` | ![Core] |
 Download: | Old Files - Better Jumping SE
 
 ## Better Stealing
@@ -111,6 +111,11 @@ Download: | Main Files - Dynamic Volumetric Lighting and Sun Shadows
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.3` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Equip Enchantment Fix
+
+## Encounter Zones Unlocked SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19608) | Version: `1.5.3` | Author: `z65536` | ![Core] |
+Download: | Old Files - Encounter Zones Unlocked SE
 
 ## Fuz Ro D-oh - Silent Voice
 
@@ -144,6 +149,17 @@ Download: | Main Files - powerofthree's Tweaks SE
 Download: | Main Files - Scrambled Bugs
 | Main Files - Scrambled Eggchantments
 
+## Security Overhaul SKSE - Lock Variations
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `1.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
+Download: | Security Overhaul SKSE - Lock Variations
+
+![FOMOD]
+~~~
+Textures:
+   * 4K Textures
+~~~
+
 ## Splashes of Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3.1` | Author: `powerofthree` | ![Core] |
@@ -156,7 +172,7 @@ Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17230) | Version: `5.8` | Author: `aers - Nukem - Ryan` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17230) | Version: `5.8.3` | Author: `aers - Nukem - Ryan` | ![Core] |
 Download: | Main Files - (Part 1) Engine Fixes
 | Main Files - (Part 2) Engine Fixes - skse64 Preloader and TBB Lib
 
@@ -288,11 +304,6 @@ Walkway Wall Fix:
 [![mod]](https://drive.google.com/file/d/1rIFzOZ5UXkEmYaok-aeukjvSNtKv9vJO/view) | Version: `2020-02-08` | Author: `mindflux` | ![Core] |
 Download: | Skyrim Particle Patch for ENB-SSE-2020-02-08.rar
 
-## Skyrim Project Optimization
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14084) | Version: `1.4` | Author: `Pritster5, rgabriel15` | ![Core] |
-Download: | Main Files - Skyrim SE - Project Optimization - ESL VERSION
-
 ## Sound Hammering Sounds
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5592) | Version: `1.0` | Author: `sialivi` | ![Core] |
@@ -352,6 +363,19 @@ Plugin Type:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23609) | Version: `2.2` | Author: `gobbldygook` | ![Core] |
 Download: | Main Files - Missing Encounter Zones FIXED - Vanilla Fixes - v2.2
+
+## SPID-Protected Innocent Citizens
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57736) | Version: `1.2` | Author: `Oaristys` | ![Core] |
+Download: | Main Files - SPID-Protected Innocent Citizens
+
+![FOMOD]
+~~~
+Choose your version:
+   * Protected
+Optional:
+   * None
+~~~
 
 ## Tavern AI Fix
 
@@ -514,6 +538,11 @@ Tween Menu:
 Spacing:
    * SkyUI Item Card Fixes Spacing
 ~~~
+
+## Convenient Dialogue UI
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57943) | Version: `1.2` | Author: `uranreactor` | ![Core] |
+Download: | Main Files - Convenient Dialogue UI (Nordic UI look)
 
 ---
 
@@ -838,6 +867,7 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21263) | Version: `3.2` | Author: `BJS_336` | ![Core] |
 Download: | Main Files - Skyrim Bridges
+| [Replacer ESP](https://www.dropbox.com/s/yd2cvxth0966n8o/Skyrim%20Bridges%20-%20SUPified.7z?dl=0)
 
 ## Skyrim Sewers
 
@@ -1431,6 +1461,16 @@ Download: | Main Files - HD Lods Textures SE 1K V9.3 - DynDOLOD version
 ~~~
 Delete HD Lods SSE.esp.
 Delete HD Lods SSE.bsa.
+~~~
+
+## SSE Terrain Tamriel
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54680) | Version: `1.0` | Author: `Sheson` | ![Core] |
+Download: | Main Files - SSE Terrain Tamriel
+
+![PostInstall]
+~~~
+Do not activate the mod in MO2.
 ~~~
 
 
