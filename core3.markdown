@@ -894,8 +894,16 @@ Edit SKSE/Plugins/CBPCSystem.ini:
 
 ## Smooth Combat non Combat Animation 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `3.1` | Author: `skypia` | ![Core] |
-Download: | Main Files - Smooth Combat - Non Combat Animation 3.
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.0` | Author: `skypia` | ![Core] ![Visuals]|
+Download: | Main Files - Smooth Combat - Non Combat Animation 4.0
+
+![FOMOD]
+~~~
+Select all defaults, unless you prefer a specific option.
+
+Fast Move:
+   * Unchecked
+~~~
 
 ## Super Fast Get Up Animation
 
@@ -1253,7 +1261,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.6` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 
 ![PostInstall]
@@ -1821,88 +1829,176 @@ Download: | Main Files - ENB Helper SE 1.5 for SSE 1.5.97
 
 ## ENB Light
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22574) | Version: `0.94` | Author: `4109` | ![Core] ![Visuals]|
+Download: | Update Files - ENB Light 0.98 Alpha 2
+| Optional Files - [ENB Light - SD's Horn Candles](https://drive.google.com/file/d/1CLK-EmqSGGCp4RN5sRqLe3-v6qYfkLBj/view?usp=sharing)
+| Optional Files - Redesigned Candle Flame for ENB
+
+![FOMOD]
+~~~
+Select your install type:
+   * Base - Candlelight, Magelight, vanilla torch
+Wall-mounted torches:
+   * NO
+Additional Options:
+   * Solstheim
+   * Blackreach and Cave plants
+   * Smelter
+   * Minor Effects
+   * Magic hand effects
+   * Creatures - Flame Atronachs
+   * Creatures - Storm Atronachs
+   * Creatures - Ice Wraiths
+   * Creatures - Spriggans
+   * Creatures - Wispmother
+Dawnbreaker:
+   * Lean Wolf's Better Shaped Weapons Dawnbreaker - default sheath
+Dawnbreaker - DSR (left hand):
+   * Lean Wolf's Better SHaped Weapons Dawnbreaker - DSR default sheath
+Patches:
+   * Quicklight
+   
+Select 'Install anyway'.
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/dlc02/landscape/dlc2firecrater*.
+Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
+Delete meshes/dlc02/trees/.
+Delete meshes/magic/fireball01handeffects.nif.
+~~~
 
 ## ENB Fixes - Word Wall Transparency
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41463) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]|
+Download: | Main Files - Word Wall Transparency Fix for ENB
 
 ## ENB Lights - Aetherium Shards
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54472) | Version: `1.0` | Author: `lilum` | ![Core] ![Visuals]|
+Download: | Main Files - ENB lights for Aetherium Shards SE
 
 ## ENB Lights - Effect Shaders
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `1.0.1` | Author: `powerofthree` | ![Core] ![Visuals]|
+Download: | Main Files - ENB Lights For Effect Shaders
 
 ## Particle Lights - Bugs in a Jar
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43609) | Version: `1.1` | Author: `author` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights For ENB SE - Bugs in a Jar
 
 ## Particle Lights - Ingredients
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44022) | Version: `1.2` | Author: `LossRec and Daralima` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights For ENB SE - Ingredients
+
+![FOMOD]
+~~~
+Installation Options:
+   * For HPP
+~~~
 
 ## Particle Lights - Light Orbs - Motes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50737) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights for ENB - Light Orbs - Motes
 
 ## Particle Lights - Mr. Dragonfly
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45664) | Version: `1.0` | Author: `Tunden` | ![Core] ![Visuals]|
+Download: | Main Files - Mr. Dragonfly ENB Particle Lights
+
+![FOMOD]
+~~~
+Color Options:
+   * Teal (My Preference)
+~~~
 
 ## Particle Lights - Paragon Gems
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45761) | Version: `1.2` | Author: `LossRec and Daralima` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights For ENB SE - Paragon Gems - Iconic's Gems Patch
 
 ## Particle Lights - Undead Creatures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48424) | Version: `1.1` | Author: `LossRec and Daralima` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights for ENB SE - Undead Creatures
+
+![FOMOD]
+~~~
+Undead Creature Eyes:
+   * Weaker
+Ghosts:
+   * Weaker
+Patches:
+   * Cannibal Draugr (Note: for future addon compatibility)
+Skull Keys:
+   * None
+Version:
+   * Solstheim Version
+~~~
+
+![PostInstall]
+~~~
+Delete GhostLight.esp.
+~~~
 
 ## Particle Lights - Wisps - Witchlight
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50868) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]|
+Download: | Main Files - Particle Lights for ENB - Wisps - Witchlight
 
 ## Rudy HQ - More Lights - Bthardamz
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22703) | Version: `1.0a` | Author: `Rudy102` | ![Core] ![Visuals]|
+Download: | Main Files - Rudy HQ - More Lights for ENB SE - Bthardamz
 
 ## Rudy HQ - More Lights - Chaurus Eggs and Sacs
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22705) | Version: `1.0a` | Author: `Rudy102` | ![Core] ![Visuals]|
+Download: | Main Files - Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sacs
 
 ## Rudy HQ - More Lights - Deathbells and Nirnroots
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22814) | Version: `1.0b` | Author: `Rudy102` | ![Core] ![Visuals]|
+Download: | Main Files - Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
 
 ## Rudy HQ - More Lights - Torchbugs and Moths
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22819) | Version: `1.0b` | Author: `Rudy102` | ![Core] ![Visuals]|
+Download: | Main Files - Rudy HQ - More Lights for ENB SE - Moths and Fireflys
 
 ## More Lights for ENB - Blood Splatter Fix
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]|
+Download: | Main Files - More Lights for ENB - Blood Splatter Fix
+
+![FOMOD]
+~~~
+Installation options:
+   * Bthardamz
+   * Chaurus Eggs and Sacs
+   * Deathbell and Nirnroots
+~~~
 
 ## Rudy ENB - Cathedral Weathers
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `5.0` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
+Download: | Main Files - Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files FOMOD
+| Optional Files - Rudy ENB CW Zangdar's Edit Lux Edition
+
+![FOMOD]
+~~~
+Options:
+   * Rudy ENB Bright Hawks and Birds Fix
+   * Rudy ENB Night Sky Textures
+   * Rudy ENB Snow Flakes Texture
+   * Rudy ENB Vanilla Clouds 4K
+Night Eye Version:
+   * Predator Vision
+~~~
 
 ---
 
@@ -1917,8 +2013,8 @@ Download: | Filename
 
 ## Skyrim Unification Project - Conflict Resolution
 
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0` | Author: `rev` | ![Core] |
+Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ---
 
@@ -1928,33 +2024,38 @@ Download: | Filename
 
 ## Bodyslide and Outfit Studio
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.4.2` | Author: `Ousnius and Caliente` | ![Core] |
+Download: | Main Files - BodySlide and Outfit Studio - v5.4.2
+
+![PostInstall]
+~~~
+Add BodySlide x64.exe as an executable in MO2.
+~~~
 
 ## FileAccess Interface for Skyrim SE Scripts - FISSES
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13956) | Version: `1.3.7` | Author: `TerenceYao` | ![Core] |
+Download: | Main Files - FileAccess Interface for Skyrim SE Scripts - FISSES
 
 ## FileAccess Interface for Skyrim SE Scripts - FISSES - ESLified
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27260) | Version: `1.3.6` | Author: `TerenceYao, jyurii` | ![Core] |
+Download: | Main Files - FISSES ESLified Patch
 
 ## JContainers
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16495) | Version: `4.1.13` | Author: `silvericed` | ![Core] |
+Download: | Main Files - JContainers SE
 
 ## Mfg Fix
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Version: `1.5.4` | Author: `Andrelo` | ![Core] |
+Download: | Main Files - MfgFix
 
 ## More Informative Console
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `0.43` | Author: `Linthar` | ![Core] |
+Download: | Main Files - More Informative Console 0.43
 
 ## PapyrusUtil
 

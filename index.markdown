@@ -391,6 +391,14 @@ Close Mod Organizer 2 and run BethINI.exe.
 
 [General]
    uLargeRefLODGridSize=11
+   
+[TerrainManager]
+   bShowLODInEditor=1
+   fBlockLevel0Distance=75000.0000
+   fBlockLevel1Distance=140000.0000
+   fBlockMaximumDistance=300000.0000
+   fSplitDistanceMult=4.0000
+   fTreeLoadDistance=75000.0000
 
 [Trees]
    uiMaxSkinnedTreesToRender=200

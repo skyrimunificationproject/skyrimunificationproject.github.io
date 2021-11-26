@@ -5,6 +5,21 @@ title: "Skyrim Unification Project"
 
 ---
 
+## 2021-11-25
+
+---
+
+![Updated]
+~~~
+Introduction - Added recommended [TerrainManager] to SkyrimPrefs.ini 
+Core 1 - moreHUD SE guide version updated
+Core 1 - moreHUD Inventory Edition guide version updated
+Core 3 - Smooth Combat non-Combat updated to 4.0
+Core 3 - WACCF updated to 2.6
+~~~
+
+---
+
 ## 2021-11-24
 
 ---

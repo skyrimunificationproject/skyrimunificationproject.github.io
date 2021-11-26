@@ -441,11 +441,6 @@ Select an Option:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Version: `1.2.0` | Author: `Expired` | ![Core] |
 Download: | Main Files - UIExtensions v1-2-0
 
-## Security Overhaul SKSE - Lock Variations
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `1.0` | Author: `powerofthree` | ![Core] |
-Download: | Main Files - Security Overhaul SKSE - Lock Variations
-
 ---
 
 # Heads Up Display
@@ -464,13 +459,13 @@ Download: | Main Files - Immersive HUD - iHUD
 
 ## moreHUD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `4.0.0.5Beta` | Author: `Ahzaab` | ![Core] |
-Download: | Main Files - moreHUD SE Light Master
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `5.0.0.1Beta` | Author: `Ahzaab` | ![Core] |
+Download: | Old Files - moreHUD SE Light Master - Pre AE
 
 ## moreHUD - Inventory Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `1.0.18` | Author: `Ahzaab` | ![Core] |
-Download: | Main Files - moreHUD Inventory Edition Loose Version
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `2.0.0.1Beta` | Author: `Ahzaab` | ![Core] |
+Download: | Old Files - moreHUD Inventory Edition Loose Version - Pre AE
 
 ## SkyHUD
 
