@@ -12,6 +12,10 @@ title: "Skyrim Unification Project"
 
 Placeholder text.
 
+Note that many compatibility patches have already been included in the Conflict Resolution patches installed at the end of the guide.  If you see a FOMOD option that you think should be installed and we don't specify it, it's probably handled.
+
+The version listed in each mod entry is the last 'main' version of the mod the guide was checked against.  Only the files listed are required.
+
 ---
 
 # Guide Tags
@@ -81,14 +85,6 @@ Project Arch is an optional add-on to Core and Adventures (both required).  It c
 ![Addon]
 
 Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.  Several followers who are not included in Core can be found here, as well as enhancements to follower and trader npcs, and several optional additions to Arch including JK's interior mods.
-
----
-
-# Mod Versions and Files
-
----
-
-The version listed in each mod entry is the last 'main' version of the mod the guide was checked against.  Only the files listed are required.
 
 ---
 

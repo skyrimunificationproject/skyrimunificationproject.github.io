@@ -87,6 +87,8 @@ Install Instructions | Merge into Ruins Clutter Improved
 
 ![PostInstall]
 ~~~
+IMPORTANT: This mod should be installed into Ruins Clutter Improved.
+
 Pack mod with CAO.
 ~~~
 
@@ -490,8 +492,12 @@ Main
 Birna's Oddments Addon
    * None
 Patches
-   * Legacy of the Dragonborn v5 Patch
    * Interesting NPC patch
+~~~
+
+![PostInstall]
+~~~
+Delete WiZKiD Signs - Interesting NPC patch.esp.
 ~~~
 
 ---
@@ -1001,13 +1007,21 @@ Download: | Main Files - Simplicity of Snow
 
 ![PostInstall]
 ~~~
-Delete meshes/dlc01/dungeons/castle/exterior.
+Delete meshes/dlc01/dungeons/.
 ~~~
 
 ## No Snow Under the Roof - WiZkiD Edition 
 
 [![mod]](https://drive.google.com/file/d/1AZ_fljHSpfsM2VxKF0ecHQ55ls48YHfv/view) | Version: `5.1.7` | Author: `WiZKiD` | ![Core] |
 Download: | Main Files - No Snow Under the Roof - WiZkiD Edition
+
+![FOMOD]
+~~~
+NOTE: Only select specified options, uncheck anything that is autoselected.
+
+Patches:
+   * None
+~~~
 
 ## Water for ENB
 
@@ -1125,7 +1139,8 @@ Download: | Main Files - Cathedral - 3D Mountain Flowers
 
 ![PostInstall]
 ~~~
-Remove the ESM flag in xEdit, then resave Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
+Remove the ESM flag in xEdit, then resave 
+  Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
 ~~~
 
 ## Cathedral - Plants 
@@ -1377,6 +1392,12 @@ Download: | Main Files - Ancient Pottery
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14398) | Version: `1.9` | Author: `JackMorris` | ![Visuals] |
 Download: | Main Files - Animated Clutter SSE
 
+![FOMOD]
+~~~
+Choose One:
+   * Install everything
+~~~
+
 ![PostInstall]
 ~~~
 Delete meshes/architecture/solitude.
@@ -1543,16 +1564,10 @@ Download: | Main Files - ElSopa - Papers HD
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21717) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
 Download: | Main Files - HD Dark Elf Urns 2k
 
-## ElSopa - Small Compilation Pack
+## ElSopa - Briar Heart
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29160) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
-Download: | Main Files - ElSopa HD 2k Texture Pack
-
-![FOMOD]
-~~~
-Select one or more of these options:
-   * Briarheart Red
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27983) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+Download: | Main Files - ElSopa HD - Briarheart Red 2k
 
 ## Ennead Shadowmarks
 
@@ -2043,6 +2058,12 @@ Download: | Main Files - Alternate Summoning Visuals NO ESP
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12939) | Version: `1.70` | Author: `isoku` | ![Core] ![Visuals]|
 Download: | Main Files - Deadly Spell Impacts v1_70
+
+![FOMOD]
+~~~
+Options:
+   * Default
+~~~
 
 ## Enhanced Blood Textures
 

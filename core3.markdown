@@ -169,7 +169,7 @@ Download: | Main Files - Modpocalypse NPCs - Resources
 ## Modpocalypse NPCs - All Vanilla NPCs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54422) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
-Download: | Main Files - Modpocalypse NPCs - All Vanilla NPCs v3
+Download: | Main Files - Modpocalypse NPCs - All Vanilla NPCs v2
 
 ## Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
 
@@ -314,6 +314,12 @@ or | Main Files - Improved Bards 1.3 - CBBE SFW
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.0` | Author: `northtexan95` | ![Core] ![Visuals] |
 Download: | Main Files - The Ordinary Women SSE 4.0
+
+![FOMOD]
+~~~
+Version:
+   * USSEP
+~~~
 
 ## Pandorable's NPCs 
 
@@ -532,9 +538,9 @@ Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.6.2
 ![FOMOD]
 ~~~
 Body Shape:
-   * Curvy (or NeverNude Curvy for SFW)
+   * Curvy
 Underwear Options:
-   * None (or your choice)
+   * None (or your choice for SFW options)
 Outfit Options:
    * Vanilla Outfits
 Face Options:
@@ -704,7 +710,7 @@ Download: | Main Files - KS Hairdos SSE
 
 ## KS Hairdos - Salt and Wind
 
-[![mod]](nexusurl) | Version: `1.1` | Author: `Kalilies, jasperthegnome, mashanen` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44975) | Version: `1.1` | Author: `Kalilies, jasperthegnome, mashanen` | ![Visuals] |
 Download: | Main Files - KS Hairdos 1.7 - Salt and Wind
 | Update Files - KS Hairdos 1.7 - Salt and Wind hotfix 1.1
 | Miscellaneous Files - Bijin Family - Salt and Wind
@@ -728,6 +734,11 @@ Bijin Family:
 Serana Options:
    * 1.8
 ~~~
+
+## KS Hairdos 1.8 Salt and Wind
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52336) | Version: `1.0` | Author: `Repzik` | ![Visuals] |
+Download: | Main Files - KS Hairdos 1-8 Salt and Wind 1-1
 
 ## Salt and Wind - KS Hairdos - Kalilies NPCs
 
@@ -768,13 +779,6 @@ Textures:
    * None
 Serana Vamp Eyes:
    * None
-~~~
-
-![PostInstall]
-~~~
-Delete textures/actors/character/eyes/eyeargonian*.dds.
-Delete textures/actors/character/eyes/eyedemon.dds.
-Delete textures/actors/character/eyes/eyekhajiit*.dds.
 ~~~
 
 ---
@@ -846,7 +850,7 @@ SKSE Tintmask Configs:
 
 ## Project New Reign - Nemesis 
 
-[![mod]](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases) | Version: `0.84Beta` | Author: `Shikyo Kira` | ![Core] |
+[![mod]](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/tag/v0.84-beta) | Version: `0.84Beta` | Author: `Shikyo Kira` | ![Core] |
 Download: | Assets - Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar
 
 ![PostInstall]
@@ -894,14 +898,14 @@ Edit SKSE/Plugins/CBPCSystem.ini:
 
 ## Smooth Combat non Combat Animation 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.0` | Author: `skypia` | ![Core] ![Visuals]|
-Download: | Main Files - Smooth Combat - Non Combat Animation 4.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.3` | Author: `skypia` | ![Core] ![Visuals]|
+Download: | Main Files - Smooth Combat - Non Combat Animation
 
 ![FOMOD]
 ~~~
 Select all defaults, unless you prefer a specific option.
 
-Fast Move:
+Fast Sprinting:
    * Unchecked
 ~~~
 
@@ -1105,7 +1109,7 @@ Download: | Main Files - Hunters Not Bandits for RDO
 
 ## Immersive Citizens - AI Overhaul 
 
-[![mod]](nexusurl) | Version: `0.4` | Author: `Arnaud dOrchymont` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4` | Author: `Arnaud dOrchymont` | ![Core] |
 Download: | Main Files - Immersive Citizens - AI Overhaul
 
 ![FOMOD]
@@ -1133,7 +1137,7 @@ Download: | Main Files - More to Say (merged version)
 
 ## Relationship Dialogue Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] ![CK] |
+[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] ![BSA] ![CK] ![CAO] |
 Download: | Main Files - Relationship Dialogue Overhaul - RDO v2.0
 | Update Files - [Relationship Dialogue Overhaul - Updated Scripts](https://www.dropbox.com/s/85bm0yqwom4fczs/Skyrim%20Unification%20Project%20-%20RDO%20-%20Updated%20Scripts.7z?dl=0)
 
@@ -1147,6 +1151,8 @@ USLEEP:
 
 ![PostInstall]
 ~~~
+IMPORTANT! Extract the BSA when installing so scripts merge.
+
 Save Relationship Dialogue Overhaul.esp in the Creation Kit.
 Pack the mod with CAO.
 ~~~
@@ -1246,7 +1252,7 @@ Download: | Main Files - Simply Knock SE 1.0.3 Release
 ## Simply Knock - SKSE Update 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24297) | Version: `4.0` | Author: `LawrenceFB` | ![Core] |
-Download: | Main Files - SimplyKnockSE SKSE64 2.0.19 DLL
+Download: | Old Files - SimplyKnockSE SKSE64 2.0.19 DLL
 
 ## Trade and Barter 
 
@@ -1292,16 +1298,33 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 [![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
+![FOMOD]
+~~~
+SKSE Inis:
+   * Experience
+   * Uncapper
+~~~
+
 ## Dragon War - A Dragon Overhaul 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `1.3.1` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
 
-## Enchanting Adjustments Updated -
+## Enchanting Adjustments Updated
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49471) | Version: `3.1.1` | Author: `sasnikol` | ![Core] |
 Download: | Main Files - Enchanting Adjustments
+
+![FOMOD]
+~~~
+NOTE: Only select specified options, uncheck anything that is autoselected.
+
+Add-ons:
+   * None
+Patches:
+   * None
+~~~
 
 ![PostInstall]
 ~~~
@@ -1523,6 +1546,7 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] |
 Download: | Main Files - kryptopyr's Patch Hub Installer
+ | Misc Files - Bandoliers \_\_ CCOR
 
 ![FOMOD]
 ~~~
@@ -1612,6 +1636,7 @@ Select Miscellaneous Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/762) | Version: `4.2SE` | Author: `Tooplex` | ![Core] |
 Download: | Main Files - YOT - Your Own Thoughts 4.2
+| [YOT - Your Own Thoughts - Patches](https://www.dropbox.com/s/k2ruv6czdkxyemd/YOT%20-%20Your%20Own%20Thoughts%20-%20Patches.7z?dl=0)
 
 ![FOMOD]
 ~~~
@@ -1652,6 +1677,11 @@ Download: | Main Files - Elemental Staffs SE for AMoS
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30140) | Version: `2.0` | Author: `Khamee` | ![Core] ![Visuals]|
 Download: | Enchanting Stations Candles 2.0
 
+![FOMOD]
+~~~
+Choose version:
+   * 1.2
+~~~
 
 ## Flowers and Plants Meshes Fix - Patches
 
@@ -1935,7 +1965,7 @@ Ghosts:
 Patches:
    * Cannibal Draugr (Note: for future addon compatibility)
 Skull Keys:
-   * None
+   * Blue
 Version:
    * Solstheim Version
 ~~~
@@ -1943,6 +1973,7 @@ Version:
 ![PostInstall]
 ~~~
 Delete GhostLight.esp.
+Delete meshes/clutter/sarcophagusboltlock/.
 ~~~
 
 ## Particle Lights - Wisps - Witchlight
@@ -1981,6 +2012,11 @@ Installation options:
    * Bthardamz
    * Chaurus Eggs and Sacs
    * Deathbell and Nirnroots
+~~~
+
+![PostInstall]
+~~~
+You can disable or delete Rudy HQ Bthardamz or Chaurus Eggs above as you wish.
 ~~~
 
 ## Rudy ENB - Cathedral Weathers

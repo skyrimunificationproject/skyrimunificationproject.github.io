@@ -49,7 +49,7 @@ Download: | Main Files - Skyrim Skill Uncapper
 
 ![PostInstall]
 ~~~
-Create a new folder *DLLPlugins* and move SkyrimUncapper.dll into it
+Create a new 'DLLPlugins' folder in the mod and move SkyrimUncapper.dll into it
 ~~~
 
 ## Spell Perk Item Distributor
@@ -132,6 +132,11 @@ Download: | Main Files - I'm Walkin' Here
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42161) | Version: `8.0` | Author: `meh321` | ![Core] |
 Download: | Main Files - Grass Control v8
 | Optional Files - Grass Generation MO2 Plugin v1
+
+![PostInstall]
+~~~
+Install GrassPrecacher.py in MO2/Plugins.  This is for users who wish to generate grass LODs.
+~~~
 
 ## NPC AI Process Position Fix
 
@@ -221,7 +226,7 @@ Download: | Main Files - WhoseQuestIsItAnyway
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45306) | Version: `2.2` | Author: `Iconic` | ![Core] |
 Download: | Main Files - Project Clarity AIO Half Res BSA
-| Update Files - Hotfix To v2.2 Full Res
+| Update Files - Hotfix To v2.2 Half Res
 
 ## Unofficial High Definition Audio Project
 
@@ -406,7 +411,7 @@ Download: | Main Files - Better SkyUI Config
 ## SkyUI - Better Container Controls
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25271) | Version: `3.0` | Author: `CDCooley` | ![Core] |
-Download: | Main Files - BCC-SkyUI-ESL-v30
+Download: | Optional Files - BCC-SkyUI-ESL-v30
 
 ## SkyUI - Fix Note Icon
 
@@ -552,7 +557,7 @@ Download: | Main Files - Alternate Conversation Camera Plus
 
 ## SmoothCam
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41252) | Version: `1.6` | Author: `mwilsnd` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41252) | Version: `1.6.1` | Author: `mwilsnd` | ![Core] |
 Download: | Main Files - SmoothCam
 
 ![FOMOD]
@@ -924,6 +929,8 @@ Download: | Main Files - Obscure's College of Winterhold
 
 ![FOMOD]
 ~~~
+NOTE: Only select specified options, uncheck anything that is autoselected.
+
 Optional Lighting Adjustments:
    * Recommended Interiors
 Music Options
@@ -1028,7 +1035,7 @@ Download: | Main Files - Finding Helgi and Laelette
 ![FOMOD]
 ~~~
 Landscape and Navmesh Patches
-   None
+   * None
 ~~~
 
 ## Finding Susanna Alive - A Blood on the Ice Trigger Revision
@@ -1120,6 +1127,8 @@ Download: | Main Files - Skyrim Unbound Reborn
 
 ![FOMOD]
 ~~~
+NOTE: Only select specified options, uncheck anything that is autoselected.
+
 SkyUILib (Required):
    * Install SkyUILib
 ~~~
@@ -1413,6 +1422,14 @@ Download: | Main Files - Royal Armory V2.2
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44392) | Version: `1.3.3` | Author: `Delta` | ![Core] |
 Download: | Main Files - Royal Armory - Plugin Replacer
+
+![FOMOD]
+~~~
+NOTE: Only select specified options, uncheck anything that is autoselected.
+
+Patches:
+   * None
+~~~
 
 ## Royal Armory - New Artifacts - Reforged
 
