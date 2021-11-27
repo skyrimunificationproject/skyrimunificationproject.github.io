@@ -19,7 +19,6 @@ Core 2 - Swapped ElSopa Compilation to ElSopa Briarheart
 Core 3 - Removed Improved Eyes post-install instructions.
 Core 3 - Modpocalypse Vanilla NPCs changed from v3 to v2
 Core 3 - Added patches link to YOT
-Final - Added autoclean instruction for Dr_Bandolier_CCOR_Patch.esp
 ~~~
 
 ---

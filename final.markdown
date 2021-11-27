@@ -46,7 +46,6 @@ CitizensComplete.esp | Autoclean with xEdit
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
-Dr_Bandolier_CCOR_Patch.esp | Autoclean with xEdit
 DungeonsRevisited.esp | Apply ESMifier script
 DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Autoclean with xEdit, apply ESMifier script
