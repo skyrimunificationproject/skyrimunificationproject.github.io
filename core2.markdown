@@ -1805,27 +1805,6 @@ Delete textures/effects.
 Delete Rudy Nordic Pottery SSE.esp.
 ~~~
 
-## Rudification - Rudy Candles Expanded
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55852) | Version: `1.14` | Author: `Daralima and InstantKor` | ![Visuals] |
-Download: | Main Files - Rudification - Rudy Candles Expanded
-
-![FOMOD]
-~~~
-Ruin Candles:
-   * Ruin candles
-Chandeliers:
-   * Default chandeliers
-Shrines:
-   * JS Shrines
-Additional patches:
-   * Skeleton Replacer HD
-   * Ruin Meshes with Particle Light Nodes
-   * Chandelier Compatible Meshes
-Particle Light Node Color:
-   * Orange Red Particle Light Nodes
-~~~
-
 ## RUGNAROK 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5436) | Version: `1.1` | Author: `Gamwich` | ![Visuals] |

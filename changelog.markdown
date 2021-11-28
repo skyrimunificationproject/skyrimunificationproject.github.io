@@ -5,6 +5,28 @@ title: "Skyrim Unification Project"
 
 ---
 
+## 2021-11-27
+
+---
+
+![Added]
+~~~
+Core 3 - Animation - Ultimate Combat And Creatures Compatibility for Nemesis
+~~~
+
+![Updated]
+~~~
+Core 1 - Updated SSE Display Tweaks mod version.
+Core 1 - Updated Better Container Controls mod version.
+Core 2 - Moved Rudification to Core 3/Late Loaders Meshes.
+Core 3 - Smooth Combat updated to 4.3.1. Moved to Animation - Conditional.
+Core 3 - Animation Motion Revolution updated to 1.4.
+Core 3 - Updated post-install instructions for Mesh Patch For Various Mods
+Final Steps - Updated instructions. (EasyNPC still pending)
+~~~
+
+---
+
 ## 2021-11-26
 
 ---

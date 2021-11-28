@@ -863,9 +863,20 @@ Add Nemesis Unlimited Behavior Engine to MO2 as an executable.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31667) | Version: `0.8a` | Author: `Shikyo Kira` | ![Core] |
 Download: | Main Files - Nemesis PCEA Main
 
+## Ultimate Combat and Creatures Behavior Compatibility For Nemesis
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45966) | Version: `1.12` | Author: `NickaNak` | ![Core] |
+Download: | Main Files - Ultimate Combat and Creature Behaviour's Nemesis Compatibility
+
+![FOMOD]
+~~~
+Optional:
+   * None
+~~~
+
 ## Animation Motion Revolution 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50258) | Version: `1.3` | Author: `alexsylex` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50258) | Version: `1.4` | Author: `alexsylex` | ![Core] |
 Download: | Main Files - Animation Motion Revolution
 
 ## True Directional Movement 
@@ -896,19 +907,6 @@ Edit SKSE/Plugins/CBPCSystem.ini:
    * UseParallelProcessing = 1
 ~~~
 
-## Smooth Combat non Combat Animation 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.3` | Author: `skypia` | ![Core] ![Visuals]|
-Download: | Main Files - Smooth Combat - Non Combat Animation
-
-![FOMOD]
-~~~
-Select all defaults, unless you prefer a specific option.
-
-Fast Sprinting:
-   * Unchecked
-~~~
-
 ## Super Fast Get Up Animation
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46714) | Version: `1.0` | Author: `Everglaid` | ![Core] |
@@ -930,6 +928,19 @@ Animation Condition:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Version: `1.1.0` | Author: `Felisky` | ![Core] |
 Download: | Main Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
+
+## Smooth Combat non Combat Animation 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.3.1` | Author: `skypia` | ![Core] ![Visuals]|
+Download: | Main Files - Smooth Combat - Non Combat Animation
+
+![FOMOD]
+~~~
+Select all defaults, unless you prefer a specific option.
+
+Fast Sprinting:
+   * Unchecked
+~~~
 
 ## Conditional Armor Type Animations
 
@@ -1701,10 +1712,36 @@ Download: | Main Files - Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
 | SMIM - Quality Addon - Unofficial Material Fix Patch
 | Unofficial Material Fix - Assorted Mesh Fixes Patch
 
+![PostInstall]
+~~~
+Delete meshes/furniture/clutter/.
+~~~
+
 ## Odin - Summons Redone
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46516) | Version: `1.2` | Author: `Monops` | ![Core] ![Visuals] |
 Download: | Main Files - Odin - Summons Redone
+
+## Rudification - Rudy Candles Expanded
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55852) | Version: `1.14` | Author: `Daralima and InstantKor` | ![Visuals] |
+Download: | Main Files - Rudification - Rudy Candles Expanded
+
+![FOMOD]
+~~~
+Ruin Candles:
+   * Ruin candles
+Chandeliers:
+   * Default chandeliers
+Shrines:
+   * JS Shrines
+Additional patches:
+   * Skeleton Replacer HD
+   * Ruin Meshes with Particle Light Nodes
+   * Chandelier Compatible Meshes
+Particle Light Node Color:
+   * Orange Red Particle Light Nodes
+~~~
 
 ## Sacrosanct and Sacrilege - Skeleton Replacer HD Patch
 

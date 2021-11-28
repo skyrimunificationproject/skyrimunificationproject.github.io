@@ -172,7 +172,7 @@ Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.3b` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.5b` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
@@ -410,8 +410,8 @@ Download: | Main Files - Better SkyUI Config
 
 ## SkyUI - Better Container Controls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25271) | Version: `3.0` | Author: `CDCooley` | ![Core] |
-Download: | Optional Files - BCC-SkyUI-ESL-v30
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25271) | Version: `3.1` | Author: `CDCooley` | ![Core] |
+Download: | Optional Files - BCC-SkyUI-ESL-v31
 
 ## SkyUI - Fix Note Icon
 

@@ -113,22 +113,478 @@ Waymark.esp | Apply ESMifier script
 WedDialogueFix.esp | Add ESL flag
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
+---
+
+# LOOT
+
+---
 
 
 
+---
+
+# EasyNPC
+
+---
+
+Placeholder
+
+---
+
+# Synthesis
+
+---
+
+Run Synthesis (download the required dependencies if you do not have them already installed. Synthesis will tell you if do not have them installed)
 
 
+Select 'Git Repository' from the top left toolbar (middle button).
+Scroll down to `Experience Patcher` and click the + button.
+The patcher will be added to the list, will say 'Compiling' on the right side which should turn to 'Ready'.
+
+Do the same for:
+~~~
+Khajiitearsshow
+NoDragonLods
+NPCEnchantFix
+OppositeAnimationDisabler
+SpellAbsorbFix
+Water Does Damage Patcher
+~~~
+
+Select the icon on the bottom left to run the patchers
 
 
+Exit out of Synthesis after the patchers complete
 
 
+Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
+(It should contain Synthesis.esp and SKSE/Plugins/Experience.)
+
+---
+
+# Bodyslide
+
+---
+
+Before running Bodyslide, find a preset on Nexus that you like, unless you plan on using one of the default presets from CBBE.
 
 
+Run Bodyslide from MO2.
 
 
+Towards the top right corner, click on the magnifying glass and select 'Choose groups…'
 
 
+Check 'CBBE Bodies' and select Ok
 
+
+Under 'Outfit/Body,” select “CBBE Body Special”
+
+
+Under “Preset,” select the preset you have chosen (if your preset has a nude and outfit specific presets, then select the nude or non-outfit one)
+
+In the bottom left corner check 'Build Morphs' and then Control+Click 'Batch Build...'
+
+Check only 'CBBE Body Special', 'CBBE Feet', 'CBBE Hands' and 'CBBE Hands Beast'
+
+Select Build and choose the destination, either as its own mod or in MO2’s Overwrite folder.
+
+Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Body`
+
+Run Bodyslide again
+
+Click on the magnifying glass and select 'Choose groups…'
+
+Check all of the options OTHER THAN 'CBBE', and 'CBBE Bodies'
+
+Control+Click 'Batch Build...'
+
+Select Build
+
+In the next popup, select the options you prefer (i.e. specific armors or clothing having physics or not)
+
+Choose the destination, either as its own mod or in MO2’s Overwrite folder.
+
+Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Outfits`
+
+---
+
+# Nemesis
+
+---
+
+Create a new mod in Mod Organizer named `Nemesis - Output`
+
+Open up the Executables within Mod Organizer 2 and select Nemesis
+
+Select 'Nemesis - Output' for 'Create files in mod instead of overwrite (*)\'
+
+Select Ok and exit the menu
+
+Run Nemesis
+
+Select 'Matsu Stagger Direction Fix' and 'True Directional Movement'.
+
+Click 'Update Engine'
+
+After the 'Update Engine' finishes, click 'Launch Nemesis Behavior Engine'
+
+Note: If an error occurs after launching 'Launch Nemesis Behavior Engine' about missing hkx files, simply 'Update Engine' and 'Launch Nemesis Behavior Engine' again without closing Nemesis.
+
+Close out of Nemesis when it finishes and create a new mod from overwrite \\
+with the name `Nemesis Output`. (Nemesis_Engine, meshes)
+
+---
+
+# xLODGEN
+
+---
+
+Activate SSE-Terrain-Tamriel-Extend.esm and load it as the last ESM.
+
+Run xLODGEN from the executable dropdown menu in Mod Organizer 2.
+
+Right-click in the Worldspace window and Select All.
+
+Only check Terrain LOD.
+
+For the dropdown box that says LOD4, enter the settings below for LOD4, LOD8, LOD16, and LOD32.
+
+![](./assets/img/lod4.png)
+
+![](./assets/img/lod8.png)
+
+![](./assets/img/lod16.png)
+
+![](./assets/img/lod32.png)
+
+Select Generate
+
+When xLODGEN finishes generating deactivate SSE-Terrain-Tamriel-Extend.esm.
+
+Move SSE_LODGEN folder to your MO2’s mod folder and activate it as a mod.
+
+---
+
+# DynDOLOD
+
+---
+
+Launch Texgen from Mod Organizer 2, and configure it as shown:
+
+![](./assets/img/texgen.png)
+
+Click Start.  When the log file says complete, close, and move TexGen_Output to a mod in MO2 and activate it.
+
+Launch DynDOLOD, Click Advanced \>\>, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
+
+![](./assets/img/dyndolod.png)
+
+Click start.
+
+After it completes, exit.  Move Dyndolod output to your MO2 mod folder and activate it as a mod.
+
+---
+
+# MCM Settings
+
+---
+
+## A Matter of Time
+
+~~~
+General:
+   * Symbol 1
+      + Show Moon Phases: Enabled
+      + Show Seasons: Enabled
+Display:
+   * Symbol 1
+      + Scale: 60%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -50
+      + Vertical Offset: 0
+   * In-Game Clock
+      + Scale: 70%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -45
+      + Vertical Offset 48
+   * In-Game Date
+      + Scale: 70%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -45
+      + Vertical Offset: 57
+~~~
+
+## Cathedral Weather
+
+~~~
+Settings:
+   * General
+      + Configuration Spell: Disabled
+~~~
+
+## Complete Alchemy
+
+~~~
+Alchemy
+   * Potion Duration
+      + Restore Health: 5 Secs
+      + Restore Magicka: 5 Secs
+      + Restore Stamina: 5 Secs
+   * Potion Duration
+      + Damage Health: 5 Secs
+      + Damage Magicka: 5 Secs
+      + Damage Stamina: 5 Secs
+Cooking
+   * Cooking Skill
+      + XP Notifications: Enabled
+Harvest
+   * Ingredients
+      + Pre-Perk Ingredients Chance: 25%
+      + Post-Perk Ingredients Chance: 50%
+   * Food Containers
+      + Frequency: Uncommon
+      + Quantity: Reduced
+Basic Needs
+   * Sleep Options
+      + Rested Bonus for Werewolves: Enabled
+~~~
+
+## Complete Crafting
+
+~~~
+Recipe Display
+   * Crafting Menu Filters
+      + Extended Jewelry Types: Enabled
+      + Breakdown Recipes: Enabled
+      + Inventory Conditions: Enabled
+   * Additional Display Options
+      + Craft Daedric Items Only at Night: Enabled
+Crafting Options
+   * Additional Items
+      + Artifact Replicas: Enabled
+      + Matching Set Circlets: Enabled
+Learning & XP
+   * Smithing Experience
+      + Tanning Rack: .5
+      + Smelter: .5
+      + Mining: 15
+   * Learn to Craft
+      + Learning Points Require to Craft: 250
+Mining & Materials
+   * Mining
+      + Mining Presets: Faster Mining
+      + Mining Makes Noise: Enabled
+~~~
+
+## Follower Framework
+
+~~~
+Activity
+   * Sandboxing
+      + Only Sandbox in Town: Enabled
+   * Catch Up (Teleport)
+      + Allow Teleport: Disabled
+Gameplay
+   * Regard System
+      + Allow Regard: Off
+Interaction
+   * Gold Expenditure
+      + Initial Weekly Follower Cost: 200.0 Gold
+   * Optional Companions
+      + Saadia: Enabled
+      + Ysolda: Enabled
+      + Winterhold Mages: Enabled
+      + Thieves Guild Members: Enabled
+System
+   * Notifications
+      + Startup Tasks Notification: Disabled
+~~~
+
+## Lock Overhaul
+
+~~~
+General
+   * General Settings
+      + Allow increasing skill: Enabled
+      + Enable the sound effect: Enabled
+      + Enable crime: Enabled
+      + Allow Auto Open When Unlocked: Disabled
+Smash Locks
+   * Smash Locks
+      + Activate Smash Locks: Enabled
+      + Allowed weapons: TWO + ONE HANDED
+Unlock with Magic
+   * Unlock Spell
+      + Enable Unlock Spell: Enabled
+      + Frost effect Required Skill malus -0 SKILL
+~~~
+
+## RDO
+
+~~~
+Other Options
+   * Toggle NPCs
+      + Allow RDO Added Followers: Disabled
+      + Allow Terek: Disabled
+~~~
+
+## Simply Knock
+
+~~~
+Settings
+   * Settings
+      + Base Success Chance: 30%
+      + Welcome Duration: 6 HOURS
+      + Failure Timeout: 12 HOURS
+~~~
+
+## Sky UI
+
+~~~
+General
+   * Item List
+      + Font Size: Small
+      + Category Icon Theme: Celtic
+   * Active Effects HUD
+      + Minimum Time Left: 0 S
+Controls
+   * Favorite Groups
+      + Group 5: F5
+      + Group 6: F6
+      + Group 7: F7
+      + Group 8: F8
+Advanced
+   * SWF Version Checking
+      + Map Menu: Disabled
+      + Favorites Menu: Disabled
+      + Inventory Menu: Disabled
+      + Barter Menu: Disabled
+      + Container Menu: Disabled
+      + Crafting Menu: Disabled
+~~~
+
+## Sofia
+
+~~~
+Sofia Settings
+   * Sofia Config
+      + Comments Frequency: 4.0 Hours
+~~~
+
+## Storm Lightning
+
+~~~
+Presets
+   * Load Preset
+      + Realistic: Enabled
+Settings
+   * Fork Lightning
+      + Minimum Fork Distance: 1
+~~~
+
+## Thieves Guild Req.
+
+~~~
+Requirements to Begin 3rd Quest
+   * Radiant Jobs Completed: 20
+   * Randomize: Enabled
+Requirements to Begin 4th Quest
+   * Radiant Jobs Completed: 30
+   * Randomize: Enabled
+City Influence Quests
+   * Markarth: 10
+   * Solitude: 10
+   * Whiterun: 10
+   * Windhelm: 10
+   * Randomize: Enabled
+~~~
+
+## Timing is Everything
+
+~~~
+Extra Options
+   * Presets
+      + Load Preset: Enabled
+DLC Quests
+   * Dawnguard
+      + Enable Vampire Attacks: Enabled
+      + Vampire Attacks: 22
+      + Vampire Attack Chance: 50
+      + Dawnguard Recruitment: 24
+      + Min Days Between Attacks: 3
+   * Hearthfire
+      + Minimum Level: 15
+   * Dragonborn
+      + Timing Unknown
+      + Minimum Level: 40
+Other Quests
+   * Daedric
+      + The Cursed Tribe: 27
+      + The Break of Dawn: 34
+      + The Break of Dawn: No Vampires: Enabled
+      + The Only Cure: 31
+      + A Night to Remember: 22
+      + Discerning the Transmundane: 45
+      + The Whispering Door: 37
+      + Pieces of the Past: 35
+      + Boethiah’s Calling: 36
+   * Misc Quests
+      + Kill the Giant: 15
+      + Kill the Vampire: 27
+    * Extra Options
+      + World Encounters
+         - Werewolf Encounters: Enabled
+         - Thalmor Squad: Quest Requirement: Enabled
+         - Hired Thugs: Stolen Item Value: 125
+      + Dragon Attacks
+         - Dragon Attacks Chance: 75
+~~~
+
+## Trade & Barter
+
+~~~
+Barter Rates
+   * Settings
+      + Modify Barter Settings: Enabled
+   * Presets
+      + Barter Presets: Medium
+Player Variables
+   * Misc Factors
+      + Weapon Drawn: -10% Prices
+~~~
+
+## Violens
+
+~~~
+Melee & Ranged
+   * Melee
+      + Camera View: 3RD PERSON LAST
+      + Last Enemy Restriction: Disabled
+      + Player Killmove Immunity: Enabled
+   * Ranged
+      + Camera View: PROJECTILES
+      + Last Enemy Restriction: Disabled
+Stealth & Triggers
+   * Triggers
+      + Left Attacks: Enabled
+      + Alt Werewolf Attacks: Enabled
+~~~
+
+## XPMSE
+
+~~~
+Styles
+   * Sword Style
+      + Player: Sword on Back
+   * Sword Style (Left)
+      + Player: Sword on Back
+   * Dagger Style
+      + Player: Dagger on Back Hip
+   * Dagger Style (Left)
+      + Player: Dagger on Back Hip
+~~~
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
