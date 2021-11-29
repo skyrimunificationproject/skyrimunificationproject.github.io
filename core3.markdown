@@ -1760,7 +1760,7 @@ Download: | Upgraded Blackreach Mushrooms for CACO - Skyrim Remastered
 
 ## Water in Wells
 
-[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.5.1` | Author: `wSkeever` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.5.1` | Author: `wSkeever` | ![Core] ![Visuals] |
 Download: | Main Files - Water in Wells - mesh-only animated wells
 
 ![FOMOD]
@@ -2069,6 +2069,7 @@ Options:
    * Rudy ENB Night Sky Textures
    * Rudy ENB Snow Flakes Texture
    * Rudy ENB Vanilla Clouds 4K
+   * Rudy ENB Water for ENB FIX
 Night Eye Version:
    * Predator Vision
 ~~~
