@@ -32,6 +32,7 @@ Plugin | Instructions |
 AHZBetterDGEntranceSE.esp | Autoclean with xEdit, apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Ashbound.esp | Compact formIDs, add ESL flag
+Aspens Ablaze.esp | Apply ESMifier script
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
 BetterDynamicAsh-DisableRefs.esp | Add ESL flag
@@ -51,6 +52,7 @@ DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Autoclean with xEdit, apply ESMifier script
 Elemental_Staffs.esp | Compact formIDs, add ESL flag
 Elemental_Staffs_Patch_AMoS.esp | Compact formIDs, add ESL flag
+Embers XD.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
@@ -58,6 +60,7 @@ fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Finding_Helgi_and_Laelette.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
+HappyLittleTrees.esp | Apply ESMifier script
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 Hunters Not Bandits.esp | Add ESL flag
 IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
@@ -106,9 +109,10 @@ ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
 UniqueBorderGates-All.esp | Compact formIDs (!ensure UniqueBorderGates-All-BetterDGEntrance.esp is loaded!), add ESL flag
-UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag
+UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Veydosebrom Regions.esl | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
+Water for ENB (Shades of Skyrim).esp | Apply ESMifier script
 Waymark.esp | Apply ESMifier script
 WedDialogueFix.esp | Add ESL flag
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script

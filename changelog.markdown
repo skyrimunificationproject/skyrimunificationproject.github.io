@@ -5,6 +5,23 @@ title: "Skyrim Unification Project"
 
 ---
 
+## 2021-11-28
+
+---
+
+![Updated]
+~~~
+Intro - Guide version for CAO updated.
+Core 2 - Assorted Mesh Fixes updated to 0.35.1.
+Core 3 - Water in Wells updated to 0.5.1.
+Core 3 - Rudy ENB SE updated to 5.0b.
+Final Steps - Added ESM instructions for Embers/Water For ENB.
+              Updated UniqueBorderGates-All-BetterDGEntrance instructions.
+			  Added ESM instructions for HappyLittleTrees and AspensAblaze.
+~~~
+
+---
+
 ## 2021-11-27
 
 ---

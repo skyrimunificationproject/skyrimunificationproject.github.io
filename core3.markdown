@@ -1760,7 +1760,7 @@ Download: | Upgraded Blackreach Mushrooms for CACO - Skyrim Remastered
 
 ## Water in Wells
 
-[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.5` | Author: `wSkeever` | ![Core] ![Visuals] |
+[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.5.1` | Author: `wSkeever` | ![Core] ![Visuals] |
 Download: | Main Files - Water in Wells - mesh-only animated wells
 
 ![FOMOD]
@@ -2058,7 +2058,7 @@ You can disable or delete Rudy HQ Bthardamz or Chaurus Eggs above as you wish.
 
 ## Rudy ENB - Cathedral Weathers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `5.0` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `5.0b` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files FOMOD
 | Optional Files - Rudy ENB CW Zangdar's Edit Lux Edition
 
