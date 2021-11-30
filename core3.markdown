@@ -9,7 +9,7 @@ title: "Skyrim Unification Project"
 
 ## DIVERSE SKYRIM 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7707) | Version: `2.14` | Author: `CEMN` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7707) | Version: `2.14` | Author: `CEMN` | ![Core]|
 Download: | Main Files - DIVERSE SKYRIM SSE
 
 ## Diverse Werewolves Collection
@@ -19,8 +19,13 @@ Download: | Main Files - Diverse Werewolves Collection
 
 ## Heritage Enemies 2 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55989) | Version: `1.0` | Author: `PastChristmas` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55989) | Version: `1.0` | Author: `PastChristmas` | ![Core] ![CAO]|
 Download: | Main Files - Heritage 2
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Immersive Patrols
 
@@ -59,8 +64,13 @@ Version:
 
 ## Citizens of Tamriel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29069) | Version: `Final` | Author: `Craftian` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29069) | Version: `Final` | Author: `Craftian` | ![Core] ![CAO]|
 Download: | Main Files - Citizens of Tamriel SE - Complete
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Interesting NPCs
 
@@ -277,6 +287,14 @@ Download: | Main Files - The Men of Winter SSE
 ~~~
 Compatibility Patches:
    * Don't Install Patches
+~~~
+
+![PostInstall]
+~~~
+Make a copy of meshes/actors/character/facegendata/facegeom/-
+   dragonborn.esm/00017F7D.nif and rename to 0001FB98.nif.
+Make a copy of textures/actors/character/facegendata/facetint/-
+   dragonborn.esm/00017F7D.dds and rename to 0001FB98.dds.
 ~~~
 
 ## Northbourne NPCs of Falkreath Hold 
@@ -553,6 +571,11 @@ Morph Files:
    * Morph Files (Body)
    * Morph Files (Outfits)
 ~~~
+
+## CBBE Vanilla Armors - No Rim Lighting
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.0` | Author: `Admiral30` | ![Core] ![Visuals] | 
+Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
 
 ## Vitruvia - Skin Texture Overhaul 
 
@@ -1311,6 +1334,11 @@ Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
 ~~~
+Official Addons:
+   * Follower Tweaks
+   * NPC Tweaks
+   * Merchant Tweaks
+
 SKSE Inis:
    * Experience
    * Uncapper
@@ -2086,10 +2114,21 @@ Night Eye Version:
 [![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
 
+![FOMOD]
+~~~
+Select all.
+~~~
+
 ## Skyrim Unification Project - Conflict Resolution
 
 [![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev, ra2` | ![Core] |
 Download: | Skyrim Unification Project - Conflict Resolution.7z
+
+![FOMOD]
+~~~
+Developmental Files
+   * None
+~~~
 
 ---
 

@@ -54,7 +54,7 @@ Create a new 'DLLPlugins' folder in the mod and move SkyrimUncapper.dll into it
 
 ## Spell Perk Item Distributor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `5.1.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `5.2.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Spell Perk Item Distributor - SSE
 
 ## Actor Limit Fix

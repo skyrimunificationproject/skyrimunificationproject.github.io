@@ -194,6 +194,17 @@ Manually extract the folder into Modding\Skyrim\Tools\Nifskope
  (or to a folder where you will store your tools).
 ~~~
 
+## Easy NPC
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52313) | Version: `0.9.5` | Author: `focustense` | ![Core] |
+Download: | EasyNPC
+
+![PostInstall]
+~~~
+Manually extract the folder into Modding\Skyrim\Tools\EasyNPC
+ (or to a folder where you will store your tools).
+~~~
+
 ---
 
 # xEdit

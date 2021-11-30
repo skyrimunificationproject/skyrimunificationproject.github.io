@@ -2172,7 +2172,7 @@ Download: | Main Files - Embers XD
 Flames Customization:
    * Embers XD Flame (Orange/Red)
 Effects Quality:
-   * High Quality
+   * Optimized
 Plugin Selection:
    * ESP (Embers XD.esp)
 Fire Magick Add-On:
@@ -2183,6 +2183,9 @@ Torches Add-On:
    * Install Torches Add-On
 Lava Craters Add-On:
    * Install Lava Craters Add-On
+Further Customization:
+   * Disabled Red Glow
+   * Reduced Yellow Glow
 ~~~
 
 ## Animated Forge Water 

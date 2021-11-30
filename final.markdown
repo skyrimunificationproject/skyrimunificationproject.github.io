@@ -24,14 +24,24 @@ Placeholder: running with -qac, select plugin
 
 ## Plugin List
 
+Use the Quick Auto Clean shortcut to clean the following plugins one by one:
+
+|--
+Plugin |
+- | -
+AHZBetterDGEntranceSE.esp |
+CitizensComplete.esp |
+EasierRidersDungeonPackSSE.esp |
+Sepolcri.esp |
+
 Load all plugins in xEdit with argument -pseudoESL (without this param there will be too many plugins to load).  You can quickly find the plugins using the bottom name filter, and also sort plugins by name.
 
 |--
 Plugin | Instructions |
 - | -
-AHZBetterDGEntranceSE.esp | Autoclean with xEdit, apply ESMifier script
+AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-Ashbound.esp | Compact formIDs, add ESL flag
+Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Aspens Ablaze.esp | Apply ESMifier script
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
@@ -43,13 +53,12 @@ BUVARP SE.esp | Apply ESMifier script
 Cathedral - 3D Mountain Flowers.esp | Apply ESMifier
 CBBE.esp | Add ESL flag
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
-CitizensComplete.esp | Autoclean with xEdit
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
 DwemerGatesNoRelock.esp | Add ESL flag
-EasierRidersDungeonPackSSE.esp | Autoclean with xEdit, apply ESMifier script
+EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 Elemental_Staffs.esp | Compact formIDs, add ESL flag
 Elemental_Staffs_Patch_AMoS.esp | Compact formIDs, add ESL flag
 Embers XD.esp | Apply ESMifier script
@@ -82,6 +91,7 @@ Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 ORM-Arvak.esp | Compact formIDs, add ESL flag
+Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 QuestsAreInSkyrimUSSEP.esp | Add ESL flag
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
@@ -89,12 +99,13 @@ RaceMenuPlugin.esp | Add ESL flag
 Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
 Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
+RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
 s606t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s606t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
-Sepolcri.esp | Autoclean with xEdit, compact formIDs, add ESL flag, apply ESMifier script
+Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SimplyKnock.esp | Apply ESMifier script
 SkyrimSewers.esp | apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
@@ -108,6 +119,7 @@ Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
+UniqueBorderGates.esp | Apply ESMifier script
 UniqueBorderGates-All.esp | Compact formIDs (!ensure UniqueBorderGates-All-BetterDGEntrance.esp is loaded!), add ESL flag
 UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Veydosebrom Regions.esl | Compact formIDs, add ESL flag
@@ -123,7 +135,9 @@ Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
 ---
 
+Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution folder to (your user)\AppData\Local\LOOT\Skyrim Special Edition\.
 
+Sort your mods with the LOOT executable shortcut from MO2.
 
 ---
 
@@ -131,7 +145,13 @@ Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
 ---
 
-Placeholder
+Launch EasyNPC from MO2. Click OK to confirm the load order. 
+
+Once all plugins have loaded and the Profile window appears, click the open folder icon at the far right.  Select the EasyNPC txt file from the Skyrim Unification Project - Conflict Resolution folder. There will not be a visual confirmation, but the profile will be loaded.
+
+Click Build at the top of the window. There should not be any warnings under alerts - if there are, something may have been installed incorrectly.  Click the large Build button at right.
+
+Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all NPC mods other than Modpocalypse - Resources, RS Children, and RS Children patches.
 
 ---
 
@@ -143,17 +163,16 @@ Run Synthesis (download the required dependencies if you do not have them alread
 
 
 Select 'Git Repository' from the top left toolbar (middle button).
-Scroll down to `Experience Patcher` and click the + button.
+Scroll down to `ExperienceMutagenPatcher` and click the + button.
 The patcher will be added to the list, will say 'Compiling' on the right side which should turn to 'Ready'.
 
 Do the same for:
 ~~~
+AOSISCSoundPatcher
 Khajiitearsshow
 NoDragonLods
-NPCEnchantFix
 OppositeAnimationDisabler
-SpellAbsorbFix
-Water Does Damage Patcher
+WaterDoesDamagePatcher
 ~~~
 
 Select the icon on the bottom left to run the patchers
@@ -423,6 +442,20 @@ Unlock with Magic
    * Unlock Spell
       + Enable Unlock Spell: Enabled
       + Frost effect Required Skill malus -0 SKILL
+~~~
+
+## moreHUD
+
+~~~
+Enemy's Level
+   * General
+      + Show Enemy Level: Disabled
+	  + Show Soul Level: Disabled
+   * Enemy Meters
+      + Show Magicka Meter: Disabled
+	  + Show Stamina Meter: Disabled
+   * Enemy Stastistics
+      + Show Health Numbers: Disabled
 ~~~
 
 ## RDO
