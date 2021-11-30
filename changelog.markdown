@@ -18,15 +18,20 @@ Core 3 - Body and Skin - Added CBBE Vanilla Armors - No Rim Lighting
 ![Updated]
 ~~~
 Core 1 - Spell Perk Item Distributor updated to 5.2.0.
-Core 1 - Finding Helgi... and Laelette - A Laid to Rest Overhaul Added instructions to extract BSA
+Core 1 - Finding Helgi... and Laelette - A Laid to Rest Overhaul 
+            Added instructions to extract BSA
 Core 3 - Updated Citizens of Tamriel instructions.
 Core 3 - Updated Men of Winter instructions.
 Core 3 - Updated Heritage 2 instructions.
 Core 3 - Skyrim Unification Project - Gameplay Overhaul to 2.0.0.4A.
-Core 3 - kryptopyr's Patch Hub - Added instructions to select Predator Vision - Night Eye and Thermal Vision Overhaul
-Core 3 - Skyrim Unification Project - Consistency Patches updated to 2.0.0.6A and added link.
-Core 3 - Skyrim Unification Project - Conflict Resolution updated to 2.0.0.6A.
-Final Steps - Updated Ashbound, RoadSignsOverhaul, NSUTR, UniqueBorderGatesAll instructions
+Core 3 - kryptopyr's Patch Hub - Added instructions to select 
+            Predator Vision - Night Eye and Thermal Vision Overhaul
+Core 3 - Skyrim Unification Project - Consistency Patches updated to 
+            2.0.0.6A and added link.
+Core 3 - Skyrim Unification Project - Conflict Resolution updated to
+            2.0.0.6A.
+Final Steps - Updated Ashbound, RoadSignsOverhaul, NSUTR, 
+                 UniqueBorderGatesAll instructions
 Final Steps - Moved quick clean xedit steps to own section, added EasyNPC
 ~~~
 
