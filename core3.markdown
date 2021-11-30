@@ -1306,7 +1306,7 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
-[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0.4A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
@@ -1577,6 +1577,7 @@ CACO - Other:
    * Growl - Werebeasts of Skyrim
    * Inigo
    * Ordinator - Perks of Skyrim
+   * Predator Vision - Night Eye and Thermal Vision Overhaul
    * Unofficial Skyrim Special Edition Patch
    * Wintersun - Faiths of Skyrim
 TCIY - Patches:
@@ -2082,12 +2083,12 @@ Night Eye Version:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
+[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev` | ![Core] |
+Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
 
 ## Skyrim Unification Project - Conflict Resolution
 
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev, ra2` | ![Core] |
 Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ---

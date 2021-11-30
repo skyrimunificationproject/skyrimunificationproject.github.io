@@ -1029,7 +1029,7 @@ Resave Finding_Derkeethus.esp in the Creation Kit.
 
 ## Finding Helgi... and Laelette - A Laid to Rest Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | Version: `1.1` | Author: `SomethingObscure` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | Version: `1.1` | Author: `SomethingObscure` | ![Core] ![BSA] |
 Download: | Main Files - Finding Helgi and Laelette
 
 ![FOMOD]
