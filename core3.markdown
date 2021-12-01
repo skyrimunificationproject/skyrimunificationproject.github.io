@@ -572,7 +572,7 @@ Morph Files:
    * Morph Files (Outfits)
 ~~~
 
-## CBBE Vanilla Armors - No Rim Lighting
+## CBBE - 3BA Vanilla Armors - No Rim Lighting
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.0` | Author: `Admiral30` | ![Core] ![Visuals] | 
 Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
@@ -1728,6 +1728,11 @@ Choose version:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35843) | Version: `1.0` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Flowers and plants mesh fix SE - Dragons tongue by Mari
 
+## High Hrothgar Fixed 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55254) | Version: `1.02` | Author: `Outpowner` | ![Core] ![Visuals]|
+Download: | Main Files - High Hrothgar Fixed
+| Optional Files - High Hrothgar Fixed - Lux Patch
 
 ## Markarth - A Reflective Experience
 
@@ -1831,6 +1836,11 @@ Download: | Main Files - Whiterun Wall Fix for Noble Skyrim Vanilla and Other Re
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.2` | Author: `AgentW` | ![Core] ![Visuals]|
 Download: | Main FIles - Windhelm Fake Windows Fix
+
+## WiZkiD - Hall of the Dead Stained Glass Windows
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30066) | Version: `1.5` | Author: `WiZkiD` | ![Core] ![Visuals]|
+Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
 ## Dynamic Things Alternative
 

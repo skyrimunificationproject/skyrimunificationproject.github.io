@@ -5,6 +5,22 @@ title: "Skyrim Unification Project"
 
 ---
 
+# 2021-11-30
+
+---
+
+![Updated]
+~~~
+Core 1 - Updated guide version for Classic Sprinting Redone.
+Core 1 - Updated guide version for MoreHUD.
+Core 2 - High Hrothgar Fixed moved to Late Loaders - Meshes
+Core 2 - Rustic Windows instructions updated
+Core 2 - WizKiD Hall of the Dead moved to Late Loaders - Meshes
+Core 2 - Lux instructions updated
+~~~
+
+---
+
 ## 2021-11-29
 
 ---

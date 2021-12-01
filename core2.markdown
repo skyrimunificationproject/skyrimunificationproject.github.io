@@ -322,12 +322,6 @@ Delete textures/architecture/whiterun/wrmarketstallroof01_n.dds.
 Download: | Main Files - Skyrim Remastered - High Hrothgar v2 Quality Version
 | Optional Files - Skyrim Remastered - High Hrothgar v2 LODs for DynDOLOD
 
-## High Hrothgar Fixed 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55254) | Version: `1.02` | Author: `Outpowner` | ![Core] ![Visuals]|
-Download: | Main Files - High Hrothgar Fixed
-| Optional Files - High Hrothgar Fixed - Lux Patch
-
 ## Mrf's Markarth
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53626) | Version: `2.1` | Author: `mo ru feng` | ![Core] ![Visuals]|
@@ -468,6 +462,13 @@ Weathered Road Signs:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1937) | Version: `2.0` | Author: `Gamwich` | ![Core] ![Visuals]|
 Download: | Main Files - RUSTIC WINDOWS - Special Edition - 2K
+
+![PostInstall]
+~~~
+Delete textures/architecture/solitude/.
+Delete textures/architecture/windhelm/.
+Delete textures/architecture/winterhold/.
+~~~
 
 ## Skyrim 3D Docks and Boardwalks
 
@@ -2233,6 +2234,15 @@ Optional Content:
    * None
 Language packs:
    * None
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/dungeons/caves/ice/.
+Delete meshes/dungeons/dwemer/bghalls/dwehallbg1way02.nif.
+Delete meshes/dungeons/dwemer/bghalls/dwehallbgendcapexbg01.nif.
+Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
+Delete textures/architecture/solitude/.
 ~~~
 
 ## Lux Orbis

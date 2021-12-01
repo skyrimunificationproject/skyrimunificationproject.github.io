@@ -94,7 +94,7 @@ Download: | Main Files - Bug Fixes SSE v3
 
 ## Classic Sprinting Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20166) | Version: `2.2` | Author: `Vermunds` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20166) | Version: `2.3` | Author: `Vermunds` | ![Core] |
 Download: | Main Files - Classic Sprinting Redone
 
 ## Dynamic Equipment Manager
@@ -464,7 +464,7 @@ Download: | Main Files - Immersive HUD - iHUD
 
 ## moreHUD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `5.0.0.1Beta` | Author: `Ahzaab` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `5.0.1.0` | Author: `Ahzaab` | ![Core] |
 Download: | Old Files - moreHUD SE Light Master - Pre AE
 
 ## moreHUD - Inventory Edition

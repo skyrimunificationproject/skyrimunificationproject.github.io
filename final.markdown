@@ -166,6 +166,8 @@ Select 'Git Repository' from the top left toolbar (middle button).
 Scroll down to `ExperienceMutagenPatcher` and click the + button.
 The patcher will be added to the list, will say 'Compiling' on the right side which should turn to 'Ready'.
 
+If the patcher shows a red dot for an error, make sure a Project is selected, and it is set to last successful run.
+
 Do the same for:
 ~~~
 AOSISCSoundPatcher
