@@ -1043,6 +1043,11 @@ Options:
    * Full Install
 ~~~
 
+## Sleeping Expanded - Animations and NPC Reactions
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.0` | Author: `jayserpa` | ![Core] |
+Download: | Main Files - 
+
 ---
 
 # Skeleton
@@ -1429,7 +1434,7 @@ Download: | Main Files - Improved Traps - Nether's Follower Framework Bear Trap 
 
 ## Lock Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14927) | Version: `1.6` | Author: `Quad2Core` | ![Core] ![CK] ![BSA]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14927) | Version: `1.6` | Author: `Quad2Core` | ![Core] ![CK] ![CAO]|
 Download: | Main Files - Lock Overhaul - Ordinator Version
 
 ![PostInstall]
@@ -1472,7 +1477,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.1.1` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.0` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1854,39 +1859,43 @@ Delete /textures.
 
 ## Fixed Mesh Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.5` | Author: `Catnyss` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.6` | Author: `Catnyss` | ![Core] ![Visuals]|
 Download: | Main Files - Fixed Mesh Lighting
 
 ![FOMOD]
 ~~~
 Main:
    * All-In-One
-Main:
+Flora - Main:
    * Vanilla Flora
-Mountain Flowers:
-   * 3D Mountain Flowers
-Snowberries:
-   * Sufficiently Optimized Snowberries
-Juniper:
-   * Juniper by Mari
-Tundra Cotton:
-   * Tundra Cotton by Mari
-Jazbay:
-   * Jazbay by Mari
-Canticle Tree:
-   * High Poly Canticle Tree (note: does not require actual mod)
-Main:
+Flora - Patches:
    * None
-Patches:
+Flora - Mountain Flowers:
+   * 3D Mountain Flowers
+Flora - Snowberries:
+   * Sufficiently Optimized Snowberries
+Flora - Juniper:
+   * Juniper by Mari
+Flora - Tundra Cotton:
+   * Tundra Cotton by Mari
+Flora - Jazbay:
+   * Jazbay by Mari
+Flora - Canticle Tree:
+   * High Poly Canticle Tree (note: does not require actual mod)
+Trees - Main:
+   * None
+Trees - Patches:
    * Assorted Mesh Fixes
    * SMIM
-Patches:
+Trees - Aspens Ablaze:
+   * Autumn
+Ice - Patches:
    * Arctic
    * Landscape and Water Fixes
    * Unofficial Material Fix
-Ice Replacer:
+Ice - Ice Replacer:
    * Remastered Glaciers and Ice
-Patches:
+Creatures - Patches:
    * Dynamic Things Alternative
    * Grahl
    * Savage Skyrim
@@ -1898,8 +1907,7 @@ Patches:
 ![PostInstall]
 ~~~
 Delete meshes/landscape/trees/.
-Delete meshes/dlc01/landscape/trees/.
-Delete meshes/dlc02/landscape/trees/.
+Delete meshes/dlc02/landscape/trees/tundradriftwood*.
 ~~~
 
 ## Flickering Meshes Fix

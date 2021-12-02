@@ -476,11 +476,6 @@ Delete textures/architecture/winterhold/.
 Download: | Main Files - Skyrim 3D Docks and Boardwalks
 | Optional Files - Skyrim 3D Docks and BoardWalks Weathered Riften Textures
 
-## WiZkiD - Hall of the Dead Stained Glass Windows
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30066) | Version: `1.5` | Author: `WiZkiD` | ![Core] ![Visuals]|
-Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
-
 ## WiZkiD Signs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30481) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]|
@@ -2239,8 +2234,7 @@ Language packs:
 ![PostInstall]
 ~~~
 Delete meshes/dungeons/caves/ice/.
-Delete meshes/dungeons/dwemer/bghalls/dwehallbg1way02.nif.
-Delete meshes/dungeons/dwemer/bghalls/dwehallbgendcapexbg01.nif.
+Delete meshes/dungeons/dwemer/bghalls/.
 Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
 Delete textures/architecture/solitude/.
 ~~~

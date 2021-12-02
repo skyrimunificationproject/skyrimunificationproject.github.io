@@ -5,18 +5,41 @@ title: "Skyrim Unification Project"
 
 ---
 
+# 2021-12-01
+
+---
+
+![Added]
+~~~
+Core 3 - Dynamic Animations - Sleeping Expanded
+~~~
+
+![Updated]
+~~~
+Core 1 - powerofthree's Papyrus Extender updated to 4.5.5.
+Core 1 - CoMAP updated to 3.4.1.
+Core 3 - Reliquary of Myth updated to 4.2.0.
+Core 3 - Fixed Mesh Lighting updated to 1.6 and updated FOMOD.
+Final - Fixed some xEdit instruction errors.
+~~~
+
+---
+
 # 2021-11-30
 
 ---
 
 ![Updated]
 ~~~
-Core 1 - Updated guide version for Classic Sprinting Redone.
-Core 1 - Updated guide version for MoreHUD.
 Core 2 - High Hrothgar Fixed moved to Late Loaders - Meshes
 Core 2 - Rustic Windows instructions updated
 Core 2 - WizKiD Hall of the Dead moved to Late Loaders - Meshes
 Core 2 - Lux instructions updated
+~~~
+
+![Regenerate]
+~~~
+Texgen, DynDOLOD
 ~~~
 
 ---
@@ -59,7 +82,7 @@ Final Steps - Moved quick clean xedit steps to own section, added EasyNPC
 
 ![Updated]
 ~~~
-Intro - Guide version for CAO updated.
+Intro - CAO updated to 5.3.7.
 Core 2 - Assorted Mesh Fixes updated to 0.35.1.
 Core 3 - Water in Wells updated to 0.5.1.
 Core 3 - Rudy ENB SE updated to 5.0b.
@@ -81,8 +104,7 @@ Core 3 - Animation - Ultimate Combat And Creatures Compatibility for Nemesis
 
 ![Updated]
 ~~~
-Core 1 - Updated SSE Display Tweaks mod version.
-Core 1 - Updated Better Container Controls mod version.
+Core 1 - Better Container Controls updated to 3.1.
 Core 2 - Moved Rudification to Core 3/Late Loaders Meshes.
 Core 3 - Smooth Combat updated to 4.3.1. Moved to Animation - Conditional.
 Core 3 - Animation Motion Revolution updated to 1.4.
@@ -117,8 +139,6 @@ Core 3 - Added patches link to YOT
 ![Updated]
 ~~~
 Introduction - Added recommended [TerrainManager] to SkyrimPrefs.ini 
-Core 1 - moreHUD SE guide version updated
-Core 1 - moreHUD Inventory Edition guide version updated
 Core 3 - Smooth Combat non-Combat updated to 4.0
 Core 3 - WACCF updated to 2.6
 ~~~

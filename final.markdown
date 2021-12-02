@@ -34,7 +34,7 @@ CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 Sepolcri.esp |
 
-Load all plugins in xEdit with argument -pseudoESL (without this param there will be too many plugins to load).  You can quickly find the plugins using the bottom name filter, and also sort plugins by name.
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
 |--
 Plugin | Instructions |
@@ -78,10 +78,10 @@ ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
 Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
-Landscape and Water Fixes.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Landscape and Water Fixes.esp | Compact formIDs, add ESL flag
 Lucien.esp | Apply ESMifier script
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Landscape Fixes For Grass Mods - Military Camps.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 NB-Scars.esp | Compact formIDs, add ESL flag
@@ -119,10 +119,9 @@ Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
-UniqueBorderGates.esp | Apply ESMifier script
-UniqueBorderGates-All.esp | Compact formIDs (!ensure UniqueBorderGates-All-BetterDGEntrance.esp is loaded!), add ESL flag
+UniqueBorderGates-All.esp | Apply ESMifier script, compact formIDs, add ESL flag
 UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Veydosebrom Regions.esl | Compact formIDs, add ESL flag
+Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Water for ENB (Shades of Skyrim).esp | Apply ESMifier script
 Waymark.esp | Apply ESMifier script

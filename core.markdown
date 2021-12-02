@@ -34,8 +34,8 @@ Download: | Old Files - MCM Helper SE - 1.3.0
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.2` | Author: `powerofthree` | ![Core] |
-Download: | Main Files - Papyrus Extender SSE - 4.5.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.5` | Author: `powerofthree` | ![Core] |
+Download: | Main Files - Papyrus Extender SE
 
 ## Scaleform Translation Plus Plus
 
@@ -94,8 +94,8 @@ Download: | Main Files - Bug Fixes SSE v3
 
 ## Classic Sprinting Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20166) | Version: `2.3` | Author: `Vermunds` | ![Core] |
-Download: | Main Files - Classic Sprinting Redone
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20166) | Version: `2.2` | Author: `Vermunds` | ![Core] |
+Download: | Main Files - Classic Sprinting Redone (Legacy SE)
 
 ## Dynamic Equipment Manager
 
@@ -464,13 +464,13 @@ Download: | Main Files - Immersive HUD - iHUD
 
 ## moreHUD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `5.0.1.0` | Author: `Ahzaab` | ![Core] |
-Download: | Old Files - moreHUD SE Light Master - Pre AE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `4.0.0.5Beta` | Author: `Ahzaab` | ![Core] |
+Download: | Optional Files - moreHUD SE Light Master - Pre AE
 
 ## moreHUD - Inventory Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `2.0.0.1Beta` | Author: `Ahzaab` | ![Core] |
-Download: | Old Files - moreHUD Inventory Edition Loose Version - Pre AE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `1.0.18` | Author: `Ahzaab` | ![Core] |
+Download: | Optional Files - moreHUD Inventory Edition Loose Version - Pre AE
 
 ## SkyHUD
 
@@ -590,11 +590,13 @@ Download: | Main Files - Atlas Map Markers scripts - FISS and CCO Remastered cor
 
 ## CoMAP - Common Marker Addon Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56123) | Version: `3.1.2` | Author: `Jelidity and Parapets` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56123) | Version: `3.4.1` | Author: `Jelidity and Parapets` | ![Core] |
 Download: | Main Files - CoMAP
 
 ![FOMOD]
 ~~~
+CoMAP Core Pack:
+   * CoMAP 1.5.97 (Pre-AE)
 Configs:
    * CoMAP Config Pack
 Obscured Undiscovered Options:
