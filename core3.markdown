@@ -1906,8 +1906,8 @@ Creatures - Patches:
 
 ![PostInstall]
 ~~~
-Delete meshes/landscape/trees/.
-Delete meshes/dlc02/landscape/trees/tundradriftwood*.
+Delete meshes/landscape/trees/tundradriftwood*.
+Delete meshes/dlc02/landscape/trees/.
 ~~~
 
 ## Flickering Meshes Fix
