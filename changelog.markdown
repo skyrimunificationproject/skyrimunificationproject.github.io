@@ -11,7 +11,7 @@ title: "Skyrim Unification Project"
 
 ![Added]
 ~~~
-Core 3 - Dynamic Animations - Sleeping Expanded
+Core 3 - Animation - Conditional - Sleeping Expanded
 ~~~
 
 ![Updated]
