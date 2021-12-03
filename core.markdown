@@ -27,11 +27,6 @@ Download: | Main Files - Custom Skills Framework v1
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3.1` | Author: `Ryan` | ![Core] |
 Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
-## MCM Helper
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.2` | Author: `Parapets` | ![Core] |
-Download: | Old Files - MCM Helper SE - 1.3.0
-
 ## powerofthree's Papyrus Extender
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.5` | Author: `powerofthree` | ![Core] |
@@ -445,6 +440,16 @@ Select an Option:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17561) | Version: `1.2.0` | Author: `Expired` | ![Core] |
 Download: | Main Files - UIExtensions v1-2-0
+
+## MCM Helper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.2` | Author: `Parapets` | ![Core] ![BSA]|
+Download: | Old Files - MCM Helper SE - 1.3.0
+
+![PostInstall]
+~~~
+Ensure the BSA has been extracted.
+~~~
 
 ---
 
@@ -990,7 +995,7 @@ Download: | Main Files - Animated Wedding Scene SE - MAIN USSEP
 
 ## Better Courier
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.6` | Author: `Korodic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.7` | Author: `Korodic` | ![Core] |
 Download: | Main Files - Better Courier
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped

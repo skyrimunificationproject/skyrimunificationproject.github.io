@@ -1377,7 +1377,7 @@ Pack the mod with CAO.
 
 ## Forceful Tongue - Shouts Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.4` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.5` | Author: `Delta` | ![Core] |
 Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
@@ -1477,7 +1477,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.0` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.1` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1551,7 +1551,7 @@ Download: | Main Files - Smithing Perks Overhaul -- New Perk Tree
 
 ## Experience
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.0.0` | Author: `zax` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.0.2` | Author: `zax` | ![Core] |
 Download: | Main Files - Experience
 
 ---
@@ -1658,7 +1658,7 @@ Download: | Main Files - SPO and Ordinator Mashup v1.4
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.7.3` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.8.0` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -2194,6 +2194,80 @@ Download: | Main Files - More Informative Console 0.43
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Version: `4.1` | Author: `exiledviper` | ![Core] |
 Download: | Old Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
 
+## A Matter Of Time - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55365) | Version: `2.1` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - A Matter Of Time - Settings Loader
+
+## Cathedral Weathers MCM - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56871) | Version: `2.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Cathedral Weathers MCM - Settings Loader
+
+## Complete Alchemy and Cooking Overhaul - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58878) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
+
+## Complete Crafting Overhaul Remastered - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.0.2` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Complete Crafting Overhaul Remastered - Settings Loader
+
+## EVG Conditional Idles - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57876) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - EVG Conditional Idles - Settings Loader
+
+## Immersive HUD - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55593) | Version: `1.0.2` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Immersive HUD - Settings Loader
+
+## moreHUD SE - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55503) | Version: `2.1` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - moreHUD SE - Settings Loader
+
+## Nether's Follower Framework - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57022) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Nether's Follower Framework - Settings Loader
+
+## Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59432) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
+
+## Storm Lightning for SSE and VR - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57477) | Version: `2.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Storm Lightning for SSE and VR - Settings Loader
+
+## Thieves Guild Requirements SE - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58233) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Thieves Guild Requirements SE - Settings Loader
+
+## Timing is Everything SE - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57754) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Timing is Everything SE - Settings Loader
+
+## Trade and Barter - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57926) | Version: `1.0.2` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - Trade and Barter - Settings Loader
+
+## VioLens - A Killmove Mod SE - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56674) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - VioLens - A Killmove Mod SE - Settings Loader
+
+## XP32 Maximum Skeleton Special Extended - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56146) | Version: `1.1` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - XP32 Maximum Skeleton Special Extended - Settings Loader
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square

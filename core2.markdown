@@ -2160,7 +2160,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.6` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.7` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]

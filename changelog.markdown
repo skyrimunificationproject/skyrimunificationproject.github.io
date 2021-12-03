@@ -3,6 +3,42 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-02
+
+---
+
+![Added]
+~~~
+Core 3 - Utilities
+   A Matter of Time - Settings Loader
+   Cathedral Weathers MCM - Settings Loader
+   Complete Alchemy and Cooking Overhaul - Settings Loader
+   Complete Crafting Overhaul Remastered - Settings Loader
+   EVG Conditional Idles - Settings Loader
+   Immersive HUD - Settings Loader
+   moreHUD SE - Settings Loader
+   Nether's Follower Framework - Settings Loader
+   Predator Vision - Settings Loader
+   Storm Lightning - Settings Loader
+   Thieves Guild Requirements SE - Settings Loader
+   Timing is Everything SE - Settings Loader
+   Trade and Barter - Settings Loader
+   VioLens - A Killmove Mod SE - Settings Loader
+   XP32 Maximum Skeleton Special Extended - Settings Loader
+   
+Note: These will begin saving your MCM choices once installed,
+but in a future update SUP Conflict Resolution will come with
+files to initialize these automatically for you.
+~~~
+
+![Updated]
+~~~
+Core 1 - Better Courier updated to 1.7.
+Core 3 - Experience updated to 2.0.2.
+Core 3 - Reliquary of Myth updated to 4.2.1.
+Core 3 - Forceful Tongue updated to 3.0.5.
+~~~
+
 ---
 
 # 2021-12-01
