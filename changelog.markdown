@@ -3,6 +3,19 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-03
+
+---
+
+![Updated]
+~~~
+Core 1 - SSE Display Tweaks updated to 0.5.6b.
+Core 3 - Reliquary of Myth updated to 4.2.2.
+Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.7.
+~~~
+
+---
+
 # 2021-12-02
 
 ---

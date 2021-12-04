@@ -1306,7 +1306,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.6` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.7` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 
 ![PostInstall]
@@ -1477,7 +1477,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.1` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.2` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
