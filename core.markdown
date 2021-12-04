@@ -164,7 +164,7 @@ Textures:
 ## Simple Block Sparks - Script Free
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.23` | Author: `maxsu2017` | ![Core]
-Download: Main Files - Simple Block Sparks
+Download: | Main Files - Simple Block Sparks
 
 ## Splashes of Skyrim
 
