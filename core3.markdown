@@ -1355,6 +1355,7 @@ Download: | Skyrim Unification Project - Gameplay Overhaul
 ![FOMOD]
 ~~~
 Official Addons:
+   * Animal Behavior Tweaks
    * Follower Tweaks
    * NPC Tweaks
    * Merchant Tweaks
