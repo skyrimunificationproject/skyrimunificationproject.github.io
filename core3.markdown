@@ -728,8 +728,13 @@ Download: | Main Files - High Poly Vanilla Hair
 
 ## KS Hairdos
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Version: `1.8` | Author: `Kalilies and Stealthic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6817) | Version: `1.8` | Author: `Kalilies and Stealthic` | ![Core] ![CAO]|
 Download: | Main Files - KS Hairdos SSE
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## KS Hairdos - Salt and Wind
 
@@ -929,6 +934,16 @@ Gravity Config:
 Edit SKSE/Plugins/CBPCSystem.ini:
    * UseParallelProcessing = 1
 ~~~
+
+## Ice skating fixed for real - No more attack sliding movement
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55417) | Version: `1.3` | Author: `Exalderan` | ![Core] |
+Download: | Main Files - EVE - Ice skating fixed for real - No more attack skating movement
+
+## Slow sprint bug fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57245) | Version: `1.0` | Author: `distar66` | ![Core] |
+Download: | Main Files - Slow Sprint Bug Fix
 
 ## Super Fast Get Up Animation
 
@@ -1334,7 +1349,7 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
-[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0.4A` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0.5A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
@@ -1655,6 +1670,11 @@ Inescapable Insights:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20605) | Version: `1.4` | Author: `BigMagicJerk` | ![Core] |
 Download: | Main Files - SPO and Ordinator Mashup v1.4
+
+## Weapons Repositioner
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58273) | Version: `1.4` | Author: `PK0` | ![Core] |
+Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
@@ -2116,7 +2136,6 @@ Options:
    * Rudy ENB Night Sky Textures
    * Rudy ENB Snow Flakes Texture
    * Rudy ENB Vanilla Clouds 4K
-   * Rudy ENB Water for ENB FIX
 Night Eye Version:
    * Predator Vision
 ~~~
@@ -2129,7 +2148,7 @@ Night Eye Version:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.7A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
 
 ![FOMOD]
@@ -2139,7 +2158,7 @@ Select all.
 
 ## Skyrim Unification Project - Conflict Resolution
 
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.6A` | Author: `rev, ra2` | ![Core] |
+[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.7A` | Author: `rev, ra2` | ![Core] |
 Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ![FOMOD]

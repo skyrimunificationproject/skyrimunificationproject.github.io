@@ -47,10 +47,11 @@ Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
 BetterDynamicAsh-DisableRefs.esp | Add ESL flag
 Better Dynamic Ash.esp | Compact formIDs, add ESL flag
+BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Brows.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE.esp | Apply ESMifier script
-Cathedral - 3D Mountain Flowers.esp | Apply ESMifier
+Cathedral - 3D Mountain Flowers.esp | Apply ESMifier script
 CBBE.esp | Add ESL flag
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
@@ -65,6 +66,7 @@ Embers XD.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
+Faction Crossbows.esp | Compact formIDs, add ESL flag
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Finding_Helgi_and_Laelette.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
@@ -73,6 +75,7 @@ HappyLittleTrees.esp | Apply ESMifier script
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 Hunters Not Bandits.esp | Add ESL flag
 IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
+iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
@@ -80,10 +83,12 @@ Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape and Water Fixes.esp | Compact formIDs, add ESL flag
 Lucien.esp | Apply ESMifier script
+Lux Orbis.esp | Add ESL flag
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
+MoreWerewolves.esp | Compact formIDs, add ESL flag
 NB-Scars.esp | Compact formIDs, add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -99,6 +104,7 @@ RaceMenuPlugin.esp | Add ESL flag
 Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
 Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
+RealRainSE.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
 s606t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
@@ -315,118 +321,30 @@ After it completes, exit.  Move Dyndolod output to your MO2 mod folder and activ
 
 ---
 
-## A Matter of Time
+The following MCM menus will be auto-populated from files distributed with Skyrim Unification Project - Conflict Resolution, either by settings loader or direct globals editing.
 
-~~~
-General:
-   * Symbol 1
-      + Show Moon Phases: Enabled
-      + Show Seasons: Enabled
-Display:
-   * Symbol 1
-      + Scale: 60%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -50
-      + Vertical Offset: 0
-   * In-Game Clock
-      + Scale: 70%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -45
-      + Vertical Offset 48
-   * In-Game Date
-      + Scale: 70%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -45
-      + Vertical Offset: 57
-~~~
-
-## Cathedral Weather
-
-~~~
-Settings:
-   * General
-      + Configuration Spell: Disabled
-~~~
-
-## Complete Alchemy
-
-~~~
-Alchemy
-   * Potion Duration
-      + Restore Health: 5 Secs
-      + Restore Magicka: 5 Secs
-      + Restore Stamina: 5 Secs
-   * Potion Duration
-      + Damage Health: 5 Secs
-      + Damage Magicka: 5 Secs
-      + Damage Stamina: 5 Secs
-Cooking
-   * Cooking Skill
-      + XP Notifications: Enabled
-Harvest
-   * Ingredients
-      + Pre-Perk Ingredients Chance: 25%
-      + Post-Perk Ingredients Chance: 50%
-   * Food Containers
-      + Frequency: Uncommon
-      + Quantity: Reduced
-Basic Needs
-   * Sleep Options
-      + Rested Bonus for Werewolves: Enabled
-~~~
-
-## Complete Crafting
-
-~~~
-Recipe Display
-   * Crafting Menu Filters
-      + Extended Jewelry Types: Enabled
-      + Breakdown Recipes: Enabled
-      + Inventory Conditions: Enabled
-   * Additional Display Options
-      + Craft Daedric Items Only at Night: Enabled
-Crafting Options
-   * Additional Items
-      + Artifact Replicas: Enabled
-      + Matching Set Circlets: Enabled
-Learning & XP
-   * Smithing Experience
-      + Tanning Rack: .5
-      + Smelter: .5
-      + Mining: 15
-   * Learn to Craft
-      + Learning Points Require to Craft: 250
-Mining & Materials
-   * Mining
-      + Mining Presets: Faster Mining
-      + Mining Makes Noise: Enabled
-~~~
-
-## Follower Framework
-
-~~~
-Activity
-   * Sandboxing
-      + Only Sandbox in Town: Enabled
-   * Catch Up (Teleport)
-      + Allow Teleport: Disabled
-Gameplay
-   * Regard System
-      + Allow Regard: Off
-Interaction
-   * Gold Expenditure
-      + Initial Weekly Follower Cost: 200.0 Gold
-   * Optional Companions
-      + Saadia: Enabled
-      + Ysolda: Enabled
-      + Winterhold Mages: Enabled
-      + Thieves Guild Members: Enabled
-System
-   * Notifications
-      + Startup Tasks Notification: Disabled
-~~~
+```
+A Matter of Time
+Cathedral Weather
+Complete Alchemy
+Complete Crafting
+EVG Conditional Idles
+Follower Framework
+moreHUD
+RDO
+SkyUI
+Sofia
+Storm Lightning
+Thieves Guild Req
+Timing Is Everything
+Trade and Barter
+VioLens
+XPMSE
+```
 
 ## Lock Overhaul
+
+-Cannot be modified by globals
 
 ~~~
 General
@@ -445,30 +363,9 @@ Unlock with Magic
       + Frost effect Required Skill malus -0 SKILL
 ~~~
 
-## moreHUD
-
-~~~
-Enemy's Level
-   * General
-      + Show Enemy Level: Disabled
-	  + Show Soul Level: Disabled
-   * Enemy Meters
-      + Show Magicka Meter: Disabled
-	  + Show Stamina Meter: Disabled
-   * Enemy Stastistics
-      + Show Health Numbers: Disabled
-~~~
-
-## RDO
-
-~~~
-Other Options
-   * Toggle NPCs
-      + Allow RDO Added Followers: Disabled
-      + Allow Terek: Disabled
-~~~
-
 ## Simply Knock
+
+-Cannot be modified by globals
 
 ~~~
 Settings
@@ -478,151 +375,6 @@ Settings
       + Failure Timeout: 12 HOURS
 ~~~
 
-## Sky UI
-
-~~~
-General
-   * Item List
-      + Font Size: Small
-      + Category Icon Theme: Celtic
-   * Active Effects HUD
-      + Minimum Time Left: 0 S
-Controls
-   * Favorite Groups
-      + Group 5: F5
-      + Group 6: F6
-      + Group 7: F7
-      + Group 8: F8
-Advanced
-   * SWF Version Checking
-      + Map Menu: Disabled
-      + Favorites Menu: Disabled
-      + Inventory Menu: Disabled
-      + Barter Menu: Disabled
-      + Container Menu: Disabled
-      + Crafting Menu: Disabled
-~~~
-
-## Sofia
-
-~~~
-Sofia Settings
-   * Sofia Config
-      + Comments Frequency: 4.0 Hours
-~~~
-
-## Storm Lightning
-
-~~~
-Presets
-   * Load Preset
-      + Realistic: Enabled
-Settings
-   * Fork Lightning
-      + Minimum Fork Distance: 1
-~~~
-
-## Thieves Guild Req.
-
-~~~
-Requirements to Begin 3rd Quest
-   * Radiant Jobs Completed: 20
-   * Randomize: Enabled
-Requirements to Begin 4th Quest
-   * Radiant Jobs Completed: 30
-   * Randomize: Enabled
-City Influence Quests
-   * Markarth: 10
-   * Solitude: 10
-   * Whiterun: 10
-   * Windhelm: 10
-   * Randomize: Enabled
-~~~
-
-## Timing is Everything
-
-~~~
-Extra Options
-   * Presets
-      + Load Preset: Enabled
-DLC Quests
-   * Dawnguard
-      + Enable Vampire Attacks: Enabled
-      + Vampire Attacks: 22
-      + Vampire Attack Chance: 50
-      + Dawnguard Recruitment: 24
-      + Min Days Between Attacks: 3
-   * Hearthfire
-      + Minimum Level: 15
-   * Dragonborn
-      + Timing Unknown
-      + Minimum Level: 40
-Other Quests
-   * Daedric
-      + The Cursed Tribe: 27
-      + The Break of Dawn: 34
-      + The Break of Dawn: No Vampires: Enabled
-      + The Only Cure: 31
-      + A Night to Remember: 22
-      + Discerning the Transmundane: 45
-      + The Whispering Door: 37
-      + Pieces of the Past: 35
-      + Boethiah’s Calling: 36
-   * Misc Quests
-      + Kill the Giant: 15
-      + Kill the Vampire: 27
-    * Extra Options
-      + World Encounters
-         - Werewolf Encounters: Enabled
-         - Thalmor Squad: Quest Requirement: Enabled
-         - Hired Thugs: Stolen Item Value: 125
-      + Dragon Attacks
-         - Dragon Attacks Chance: 75
-~~~
-
-## Trade & Barter
-
-~~~
-Barter Rates
-   * Settings
-      + Modify Barter Settings: Enabled
-   * Presets
-      + Barter Presets: Medium
-Player Variables
-   * Misc Factors
-      + Weapon Drawn: -10% Prices
-~~~
-
-## Violens
-
-~~~
-Melee & Ranged
-   * Melee
-      + Camera View: 3RD PERSON LAST
-      + Last Enemy Restriction: Disabled
-      + Player Killmove Immunity: Enabled
-   * Ranged
-      + Camera View: PROJECTILES
-      + Last Enemy Restriction: Disabled
-Stealth & Triggers
-   * Triggers
-      + Left Attacks: Enabled
-      + Alt Werewolf Attacks: Enabled
-~~~
-
-## XPMSE
-
-~~~
-Styles
-   * Sword Style
-      + Player: Sword on Back
-   * Sword Style (Left)
-      + Player: Sword on Back
-   * Dagger Style
-      + Player: Dagger on Back Hip
-   * Dagger Style (Left)
-      + Player: Dagger on Back Hip
-~~~
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

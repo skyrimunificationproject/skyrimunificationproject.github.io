@@ -130,13 +130,14 @@ Download: | Main Files - Grass Control v8
 
 ![PostInstall]
 ~~~
-Install GrassPrecacher.py in MO2/Plugins.  This is for users who wish to generate grass LODs.
+Install GrassPrecacher.py in MO2/Plugins.  
+This is for users who wish to generate grass LODs on their own.
 ~~~
 
 ## NPC AI Process Position Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40261) | Version: `4.05d` | Author: `Maxsu` | ![Core] |
-Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.05d
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40261) | Version: `4.06` | Author: `Maxsu` | ![Core] |
+Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.06
 
 ## powerofthree's Tweaks
 
@@ -152,13 +153,18 @@ Download: | Main Files - Scrambled Bugs
 ## Security Overhaul SKSE - Lock Variations
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `1.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
-Download: | Security Overhaul SKSE - Lock Variations
+Download: | Main Files - Security Overhaul SKSE - Lock Variations
 
 ![FOMOD]
 ~~~
 Textures:
    * 4K Textures
 ~~~
+
+## Simple Block Sparks - Script Free
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.23` | Author: `maxsu2017` | ![Core]
+Download: Main Files - Simple Block Sparks
 
 ## Splashes of Skyrim
 
@@ -272,6 +278,11 @@ Download: | Main Files - High Gate Ruins Puzzle Reset Fix
 Download: | Main Files - Landscape Fixes For Grass Mods
 | Optional Files - z Vanilla Military Camps
 
+## Mage Armor Script Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58862) | Version: `1.0` | Author: `ReDragon2013` | ![Core] |
+Download: | Main Files - MageArmorScriptFix
+
 ## Navigator - Navmesh Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.2` | Author: `tarlazo` | ![Core] |
@@ -364,6 +375,11 @@ Plugin Type:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23609) | Version: `2.2` | Author: `gobbldygook` | ![Core] |
 Download: | Main Files - Missing Encounter Zones FIXED - Vanilla Fixes - v2.2
 
+## Sensible Bribes - Based on Speechcraft Not Level
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55450) | Version: `1.0` | Author: `jayserpa` | ![Core] |
+Download: | Main Files - Sensible Bribes
+
 ## SPID-Protected Innocent Citizens
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57736) | Version: `1.2` | Author: `Oaristys` | ![Core] |
@@ -381,6 +397,11 @@ Optional:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23107) | Version: `1.1d` | Author: `Andrelo` | ![Core] |
 Download: | Main Files - TavernAIFix
+
+## Use Telekinesis On Traps
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59350) | Version: `0.2.3` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Use Telekinesis on Traps - po3's Papyrus Extender Version
 
 ## Vanilla Plus Writing Purity Patch
 
@@ -1157,7 +1178,7 @@ Pack the mod with CAO.
 
 ## The Stumbling Sabrecat 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35969) | Version: `1.1.1` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35969) | Version: `1.2` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - The Stumbling Sabrecat
 
 ## Thugs Not Assassins
@@ -1225,7 +1246,7 @@ Download: | Main Files - Timing is Everything SE - FISS version
 
 ## Alchemical Treatise
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31113) | Version: `1.2` | Author: `Callipygianish` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31113) | Version: `1.2` | Author: `Callipygianish` | ![Core] ![CAO]|
 Download: | Main Files - Alchemical Treatise
 
 ![FOMOD]
@@ -1238,6 +1259,11 @@ ESL:
    * ESL
 Skill Books:
    * No
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 ## C.O.I.N. - Coins of Interesting Natures

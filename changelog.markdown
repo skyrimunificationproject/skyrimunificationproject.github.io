@@ -3,6 +3,38 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-04
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - Simple Block Sparks - Script Free
+Core 1 - Bug Fixes - Mage Armor Script Fix
+Core 1 - Gameplay Tweaks - Sensible Bribes
+Core 1 - Gameplay Tweaks - Use Telekinesis on Traps
+Core 3 - Animation - Ice skating fixed for real
+Core 3 - Animation - Slow sprint bug fix
+Core 3 - Late Loaders - Weapons Repositioner
+~~~
+
+![Updated]
+~~~
+Core 1 - NPC AI Process Position Fix SSE updated to 4.06.
+Core 1 - Stumbling Sabrecat updated to 1.2.
+Core 1 - Updated Alchemical Treatise instructions. (+CAO)
+Core 3 - Updated KS Hairdos instructions. (+CAO)
+Core 3 - SUP Gameplay Overhaul updated to 2.0.0.5A.
+Core 3 - SUP Consistency patches updated to 2.0.0.7A.
+Core 3 - SUP Conflict Resolution updated to 2.0.0.7A.
+Core 3 - Updated Rudy ENB instructions. (-Water for ENB patch)
+Final - Updated xEdit instructions (Lux Orbis, More Werewolves,
+   BosmerHeaddresses, Faction Crossbows, RealRainSE)
+Final - Updated MCM instructions to account for provided config files.
+~~~
+
+---
+
 # 2021-12-03
 
 ---
