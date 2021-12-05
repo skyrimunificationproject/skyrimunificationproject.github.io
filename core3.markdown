@@ -1674,7 +1674,7 @@ Download: | Main Files - SPO and Ordinator Mashup v1.4
 
 ## Weapons Repositioner
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58273) | Version: `1.4` | Author: `PK0` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58273) | Version: `1.5` | Author: `PK0` | ![Core] |
 Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
