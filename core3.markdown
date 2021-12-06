@@ -1493,7 +1493,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.2` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.3` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1820,7 +1820,7 @@ Download: | Upgraded Blackreach Mushrooms for CACO - Skyrim Remastered
 
 ## Water in Wells
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.5.1` | Author: `wSkeever` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.6` | Author: `wSkeever` | ![Core] ![Visuals] |
 Download: | Main Files - Water in Wells - mesh-only animated wells
 
 ![FOMOD]

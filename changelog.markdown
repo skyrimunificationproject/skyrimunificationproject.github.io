@@ -3,6 +3,21 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-05
+
+---
+
+![Updated]
+~~~
+Core 1 - Security Overhaul SKSE updated to 2.0.
+Core 2 - Lux updated to 3.7.
+Core 2 - Lux Orbis updated to 2.2.
+Core 3 - Reliquary of Myth updated to 4.2.3.
+Core 3 - Water in Wells updated to 0.6.
+~~~
+
+---
+
 # 2021-12-04
 
 ---

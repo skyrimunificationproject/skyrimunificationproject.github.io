@@ -152,13 +152,15 @@ Download: | Main Files - Scrambled Bugs
 
 ## Security Overhaul SKSE - Lock Variations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `1.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
 Download: | Main Files - Security Overhaul SKSE - Lock Variations
 
 ![FOMOD]
 ~~~
 Textures:
    * 4K Textures
+DLL:
+   * SSE v1.5.97 (Pre-"AE")
 ~~~
 
 ## Simple Block Sparks - Script Free
