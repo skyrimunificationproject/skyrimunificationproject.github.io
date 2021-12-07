@@ -44,7 +44,7 @@ Hanging Animals:
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.35.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.36` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -907,6 +907,16 @@ Download: | Main Files - Septentrional Landscapes 4K SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27041) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]|
 Download: | Main Files - Northern Shores 4K
+
+## Blended Roads - Redone
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26270) | Version: `1.5.1` | Author: `winedave` | ![Core] ![Visuals]
+Download: | Optional Files - Blended Roads Redone 4K
+
+![PostInstall]
+~~~
+Delete textures/dlc02/.
+~~~
 
 ## Glacies - Snow Retexture
 
@@ -2084,6 +2094,11 @@ Download: | Main Files - Less Distracting Blowing Snow Effects 1.0
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38684) | Version: `2.0` | Author: `ramccoid` | ![Visuals] |
 Download: | Main Files - OIL v2 x2048
 
+## Quality Cubemaps - HD Cube Maps
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38231) | Version: `1.02` | Author: `Kartoffels` | ![Visuals]
+Download: | Main Files - Quality Cubemaps
+
 ## Refracting Ice Form Debris 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18384) | Version: `2.0` | Author: `powerofthree` | ![Visuals] |
@@ -2218,6 +2233,8 @@ Lux optimized rugs:
    * RUGNAROK rugs
 Lux optimized pelts:
    * PELTAPALOOZA pelts
+Lux optimized tables:
+   * SD's Table replacer
 Lux optimized chandeliers:
    * SD's chandeliers
 Lux optional fireplaces:
@@ -2686,6 +2703,22 @@ Download: | Main Files - Nightshade Vampire Armor Retexture
 # Creatures and Wildlife Retextures
 
 ---
+
+## Bellyaches Animal and Creature Pack
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6839) | Version: `1.2` | Author: `Kelsenellenelvian` | ![Visuals]
+Download: | Main Files - Bellyaches Animal and Creature Pack SSE
+
+![FOMOD]
+~~~
+Options:
+   * Bellyache's Choice
+~~~
+
+![PostInstall]
+~~~
+Delete textures/actors/chaurus/.
+~~~
 
 ## Better Bats 
 

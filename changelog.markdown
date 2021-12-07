@@ -3,6 +3,29 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-06
+
+---
+
+![Added]
+~~~
+Core 2 - Landscape - Blended Roads Redone
+Core 2 - Effects - Quality CubeMaps
+Core 2 - Creatures and Wildlife Retextures - Bellyaches Animal and Creature Pack
+~~~
+
+![Updated]
+~~~
+Core 2 - Assorted Mesh Fixes updated to 0.36.
+Core 2 - Updated Lux FOMOD instructions.
+Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.8.
+Core 3 - Armor and Clothing Extension updated to 1.3.
+Core 3 - Skyrim Unification Project Conflict Resolution link updated
+           - Updated Lux, OCW esps
+~~~
+
+---
+
 # 2021-12-05
 
 ---

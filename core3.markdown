@@ -1321,7 +1321,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.7` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.8` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 
 ![PostInstall]
@@ -1331,7 +1331,7 @@ Delete WACCF_BashedPatchLvlListFix.esp.
 
 ## Armor and Clothing Extension 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.2` | Author: `kryptopyr and Gamwich` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.3` | Author: `kryptopyr and Gamwich` | ![Core] |
 Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
