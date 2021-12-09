@@ -39,6 +39,7 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -254,7 +255,7 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Matsu Stagger Direction Fix' and 'True Directional Movement'.
+Select 'Ice Skating Fixed For Real', 'Matsu Stagger Direction Fix' and 'True Directional Movement'.
 
 Click 'Update Engine'
 

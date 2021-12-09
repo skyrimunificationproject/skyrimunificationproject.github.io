@@ -152,7 +152,7 @@ Download: | Main Files - Scrambled Bugs
 
 ## Security Overhaul SKSE - Lock Variations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.0.1` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
 Download: | Main Files - Security Overhaul SKSE - Lock Variations
 
 ![FOMOD]
@@ -161,6 +161,17 @@ Textures:
    * 4K Textures
 DLL:
    * SSE v1.5.97 (Pre-"AE")
+~~~
+
+## Security Overhaul SKSE - Add-Ons
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59529) | Version: `0.1.1` | Author: `krieste-wSkeever-powerofthree` | ![Core]
+Download: | Main Files - Security Overhaul SKSE - Add-ons
+
+![FOMOD]
+~~~
+Textures:
+   * 4K Textures
 ~~~
 
 ## Simple Block Sparks - Script Free
@@ -316,6 +327,11 @@ Walkway Wall Fix:
 
 [![mod]](https://drive.google.com/file/d/1rIFzOZ5UXkEmYaok-aeukjvSNtKv9vJO/view) | Version: `2020-02-08` | Author: `mindflux` | ![Core] |
 Download: | Skyrim Particle Patch for ENB-SSE-2020-02-08.rar
+
+![Post-Install]
+~~~
+Delete the Skyrim Particle Patch esp.
+~~~
 
 ## Sound Hammering Sounds
 

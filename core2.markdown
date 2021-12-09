@@ -1536,7 +1536,7 @@ Select Color of the Doll's Dress:
 
 ## Elder Scroll HD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51082) | Version: `1.2` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51082) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals]|
 Download: | Main Files - ElderScrollHD-SE 4K
 
 ![FOMOD]
@@ -2175,7 +2175,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.7` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.8` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]

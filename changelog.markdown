@@ -3,6 +3,26 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-08
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE Plugins - Security Overhaul SKSE - Add-Ons added.
+~~~
+
+![Updated]
+~~~
+Core 1 - Updated Skyrim Particle Patch instructions.
+Core 1 - Security Overhaul SKSE updated to 2.0.1.
+Core 2 - Elder Scroll HD updated to 1.3.
+Core 2 - Embers XD updated to 2.4.8.
+Final - Updated 3DNPC instructions. Updated Nemesis instructions.
+~~~
+
+---
+
 # 2021-12-06
 
 ---
