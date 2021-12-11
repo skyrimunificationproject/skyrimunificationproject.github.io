@@ -3,6 +3,19 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-10
+
+---
+
+![Updated]
+~~~
+Core 1 - Simple Block Sparks updated to 0.25.
+Core 2 - Updated Arctic post-install instructions.
+Core 3 - Sleeping Expanded updated to 1.10.
+Core 3 - YASTM updated to 1.8.1.
+Core 3 - Updated Reliquary of Myth to 4.3.2.
+~~~
+
 # 2021-12-08
 
 ---

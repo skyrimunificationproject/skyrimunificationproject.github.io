@@ -2130,7 +2130,7 @@ Plugin Option:
 
 ![PostInstall]
 ~~~
-Delete textures/effects/gradients/.
+Delete textures/effects/gradients/*.dds except for gradbluebright2.dds.
 ~~~
 
 ## Inferno - Fire Effects Redux

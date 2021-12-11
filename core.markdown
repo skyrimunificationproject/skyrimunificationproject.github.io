@@ -176,7 +176,7 @@ Textures:
 
 ## Simple Block Sparks - Script Free
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.23` | Author: `maxsu2017` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.25` | Author: `maxsu2017` | ![Core]
 Download: | Main Files - Simple Block Sparks
 
 ## Splashes of Skyrim
@@ -1153,7 +1153,7 @@ Pack the mod with CAO.
 
 ## Paarthurnax - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.02` | Author: `1.02` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.02` | Author: `hayserpa` | ![Core] ![CAO]|
 Download: | Main Files - Paarthurnax Quest Expansion
 
 ![PostInstall]

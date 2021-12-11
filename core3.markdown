@@ -1060,7 +1060,7 @@ Options:
 
 ## Sleeping Expanded - Animations and NPC Reactions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.0` | Author: `jayserpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.10` | Author: `jayserpa` | ![Core] |
 Download: | Main Files - 
 
 ---
@@ -1493,7 +1493,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.2.3` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.2` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1679,7 +1679,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.8.0` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.8.1` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -2197,7 +2197,7 @@ Download: | Main Files - FISSES ESLified Patch
 ## JContainers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16495) | Version: `4.1.13` | Author: `silvericed` | ![Core] |
-Download: | Main Files - JContainers SE
+Download: | Old Files - JContainers SE
 
 ## Mfg Fix
 
