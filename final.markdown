@@ -51,7 +51,8 @@ Better Dynamic Ash.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Brows.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
-BUVARP SE.esp | Apply ESMifier script
+BUVARP SE RE.esp | Apply ESMifier script
+BUVARP SE RE - CFTO Patch.esp | Add ESL flag
 Cathedral - 3D Mountain Flowers.esp | Apply ESMifier script
 CBBE.esp | Add ESL flag
 CFTO - Immersive Citizens Patch.esp | Add ESL flag

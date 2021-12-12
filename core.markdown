@@ -1008,7 +1008,7 @@ Pack the mod with CAO.
 
 ## The Choice is Yours 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.2` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.3` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - The Choice is Yours
 
 ## A Lovely Letter Alternate Routes

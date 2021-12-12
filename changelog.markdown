@@ -3,6 +3,22 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-12
+
+---
+
+![Updated]
+~~~
+Introduction - Updated CAO version to 5.3.8.
+Core 1 - The Choice is Yours updated to 2.3.
+Core 3 - YASTM updated to 1.8.2.
+Core 3 - BUVARP SE RE - Patches - Added CFTO patch download.
+Core 3 - Reliquary of Myth updated to 4.3.3.
+Final - Added BUVARP CFTO patch ESL instructions
+~~~
+
+---
+
 # 2021-12-10
 
 ---
@@ -15,6 +31,8 @@ Core 3 - Sleeping Expanded updated to 1.10.
 Core 3 - YASTM updated to 1.8.1.
 Core 3 - Updated Reliquary of Myth to 4.3.2.
 ~~~
+
+---
 
 # 2021-12-08
 

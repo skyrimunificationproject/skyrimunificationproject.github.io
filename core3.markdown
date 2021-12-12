@@ -1493,7 +1493,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.2` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.3` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1596,6 +1596,7 @@ Download: | Main Files - Simple Dual Sheath
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56878) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core] |
 Download: | Main Files - BUVARP SE RE - House Of Horrors Quest Expansion Patch
+Download: | Main Files - BUVARP SE RE - Carriage and Ferry Travel Overhaul Patch
 
 ![PostInstall]
 ~~~
@@ -1679,7 +1680,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.8.1` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.8.2` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
