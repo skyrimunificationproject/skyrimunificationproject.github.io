@@ -2052,20 +2052,20 @@ Options:
 
 ## Enhanced Blood Textures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Version: `3.8` | Author: `dDefinder` | ![Core] ![Visuals]|
-Download: | Miscellaneous Files - 4.0 beta 3
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2357) | Version: `4.0` | Author: `dDefinder` | ![Core] ![Visuals]|
+Download: | Main Files - Enhanced Blood Textures
 
 ![FOMOD]
 ~~~
-SPID Compatibility and Script Distance:
+Core Install - SPID Compatibility and Script Distance:
    * SPID Compatible
-Blood Size:
+Core Install - Blood Size:
    * Default Splatter Size
-Screen Blood:
-   * EBT - Default
-Resolution and Color:
+Core Install - Screen Blood:
+   * Default
+Textures - Resolution and Color:
    * High Res / Default Color
-Alt. Blood Textures (Optional):
+Alternate Textures - Alt. Blood Textures (Optional):
    * None
 ~~~
 

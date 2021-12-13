@@ -11,6 +11,7 @@ title: "Skyrim Unification Project"
 ~~~
 Introduction - Updated CAO version to 5.3.8.
 Core 1 - The Choice is Yours updated to 2.3.
+Core 2 - Enhanced Blood Textures updated to 4.0, updated FOMOD instructions.
 Core 3 - YASTM updated to 1.8.2.
 Core 3 - BUVARP SE RE - Patches - Added CFTO patch download.
 Core 3 - Reliquary of Myth updated to 4.3.3.
