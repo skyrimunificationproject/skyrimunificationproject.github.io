@@ -11,7 +11,7 @@ title: "Skyrim Unification Project"
 ~~~
 Core 1 - Bugs and Mesh Fixes - Spiders of Solstheim
 Core 1 - New Items - Armor and Weapons Expansions - Armor Variants Expansion
-Core 1 - New Items - Armor and Weapons Expansions - Beyond Skyrim - Wares of Tamriel SE
+Core 1 - New Items - Armor and Weapons Expansions - Beyond Skyrim Wares of Tamriel
 ~~~
 
 ![Updated]
