@@ -26,6 +26,7 @@ Core 3 - Dynamic Things Alternative updated to 1.15.2.
 Core 3 - SUP Gameplay updated to 2.0.0.7A.
 Core 3 - SUP Consistency Patches updated to 2.0.0.8A, FOMOD updated.
 Core 3 - SUP Conflict Resolution updated to 2.0.0.8A.
+Utilities - Predator Vision Settings Loader updated to 1.0.1.
 ~~~
 
 ---

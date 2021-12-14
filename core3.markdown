@@ -2275,7 +2275,7 @@ Download: | Main Files - Nether's Follower Framework - Settings Loader
 
 ## Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59432) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59432) | Version: `1.0.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
 
 ## Storm Lightning for SSE and VR - Settings Loader
