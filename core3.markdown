@@ -256,7 +256,6 @@ Download: | Main Files - Metalsabers Beautiful Orcs of Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
 Download: | Main Files - Pandorable's NPCs - Males SE
-| Update Files - PAN_NPCs - Males hotfix
 
 ![FOMOD]
 ~~~
@@ -267,7 +266,7 @@ USSEP: I have USSEP
 
 ## Pandorable's NPCs - Males 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50617) | Version: `1.01` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50617) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
 Download: | Main Files - PAN_NPCs - Males 2
 
 ![FOMOD]
@@ -878,8 +877,8 @@ SKSE Tintmask Configs:
 
 ## Project New Reign - Nemesis 
 
-[![mod]](https://github.com/ShikyoKira/Project-New-Reign---Nemesis-Main/releases/tag/v0.84-beta) | Version: `0.84Beta` | Author: `Shikyo Kira` | ![Core] |
-Download: | Assets - Nemesis.Unlimited.Behavior.Engine.v0.84-beta.rar
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60033) | Version: `0.84Beta` | Author: `Shikyo Kira` | ![Core] |
+Download: | Main Files - Nemesis Unlimited Behavior Engine
 
 ![PostInstall]
 ~~~
@@ -969,7 +968,7 @@ Download: | Main Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
 ## Smooth Combat non Combat Animation 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.3.1` | Author: `skypia` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.4.1` | Author: `skypia` | ![Core] ![Visuals]|
 Download: | Main Files - Smooth Combat - Non Combat Animation
 
 ![FOMOD]
@@ -1349,7 +1348,7 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
-[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0.5A` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/x2jsen3dybrnq05/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `2.0.0.7A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
@@ -1871,7 +1870,7 @@ Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
 ## Dynamic Things Alternative
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15.2` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative
 
 ![PostInstall]
@@ -2150,22 +2149,41 @@ Night Eye Version:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.7A` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.8A` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
 
 ![FOMOD]
 ~~~
-Select all.
+Gameplay:
+   * Select all.
+Items:
+   * aMidianBorn Content Addon
+   * Armor Variant Expansion
+   * Cloaks / Cloaks - CCOR
+   * Dawnguard Arsenal / Dawnguard Arsenal - CCOR
+   * Faction Crossbows / FC - CCOR / FC - DA
+   * Heavy Armory
+   * JaySuS Swords
+   * Lore Weapon Expansion
+   * Royal Armory 
+   * Winter is Coming/ WiC - CCOR
+   * Wares of Tamriel
+World:
+   * Select all.
+Other:
+   * RDO
 ~~~
 
 ## Skyrim Unification Project - Conflict Resolution
 
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.7A` | Author: `rev, ra2` | ![Core] |
+[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.8A` | Author: `rev, ra2` | ![Core] |
 Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ![FOMOD]
 ~~~
-Developmental Files
+Addons:
+   * None (see: Add-Ons page)
+Developmental Files:
    * None
 ~~~
 

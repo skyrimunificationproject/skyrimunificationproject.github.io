@@ -165,7 +165,7 @@ DLL:
 
 ## Security Overhaul SKSE - Add-Ons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59529) | Version: `0.1.1` | Author: `krieste-wSkeever-powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59529) | Version: `0.1.2` | Author: `krieste-wSkeever-powerofthree` | ![Core]
 Download: | Main Files - Security Overhaul SKSE - Add-ons
 
 ![FOMOD]
@@ -337,6 +337,11 @@ Delete the Skyrim Particle Patch esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5592) | Version: `1.0` | Author: `sialivi` | ![Core] |
 Download: | Main Files - Sound Hammering Sounds
+
+## Spiders of Solstheim - Transparency Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60012) | Version: `0.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Spiders of Solstheim - Transparency Fix
 
 ## Unofficial Material Fix
 
@@ -1414,6 +1419,18 @@ Pack the mod with CAO.
 # New Items - Armor and Weapon Expansions
 
 ---
+
+## Armor Variants Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34100) | Version: `2.0` | Author: `Darkgondul` | ![Core]
+Download: | Main Files - Armor Variants Expansion
+| Optional Files - Armor Variants Expansion Improved closefaced helmets Add-on
+| Optional Files - Armor Variants Expansion-CBBE BodySlide_2.1
+
+## Beyond Skyrim - Wares of Tamriel SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31519) | Version: `1.4` | Author: `BeyondSkyrimDC` | ![Core]
+Download: | Main Files - Beyond Skyrim - Wares of Tamriel
 
 ## Dawnguard Arsenal
 

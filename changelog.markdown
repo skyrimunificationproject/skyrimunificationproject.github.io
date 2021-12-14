@@ -3,6 +3,33 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-13
+
+---
+
+![Added]
+~~~
+Core 1 - Bugs and Mesh Fixes - Spiders of Solstheim
+Core 1 - New Items - Armor and Weapons Expansions - Armor Variants Expansion
+Core 1 - New Items - Armor and Weapons Expansions - Beyond Skyrim - Wares of Tamriel SE
+~~~
+
+![Updated]
+~~~
+Core 1 - Security Overhaul SKSE - Add-ons updated to 0.1.2.
+Core 2 - Assorted Mesh Fixes updated to 0.37.
+Core 2 - Embers XD updated to 2.4.9.
+Core 3 - Changed Nemesis url to Nexus. (same version)
+Core 3 - Smooth Combat Non Combat updated to 4.4.1.
+Core 3 - Pandorable Males 2 updated to 1.1.
+Core 3 - Dynamic Things Alternative updated to 1.15.2.
+Core 3 - SUP Gameplay updated to 2.0.0.7A.
+Core 3 - SUP Consistency Patches updated to 2.0.0.8A, FOMOD updated.
+Core 3 - SUP Conflict Resolution updated to 2.0.0.8A.
+~~~
+
+---
+
 # 2021-12-12
 
 ---
