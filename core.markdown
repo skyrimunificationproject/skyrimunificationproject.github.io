@@ -186,7 +186,7 @@ Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.6b` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.7b` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes

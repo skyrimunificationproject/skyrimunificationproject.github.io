@@ -2203,16 +2203,6 @@ Download: | Main Files - BodySlide and Outfit Studio - v5.4.2
 Add BodySlide x64.exe as an executable in MO2.
 ~~~
 
-## FileAccess Interface for Skyrim SE Scripts - FISSES
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13956) | Version: `1.3.7` | Author: `TerenceYao` | ![Core] |
-Download: | Main Files - FileAccess Interface for Skyrim SE Scripts - FISSES
-
-## FileAccess Interface for Skyrim SE Scripts - FISSES - ESLified
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27260) | Version: `1.3.6` | Author: `TerenceYao, jyurii` | ![Core] |
-Download: | Main Files - FISSES ESLified Patch
-
 ## JContainers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16495) | Version: `4.1.13` | Author: `silvericed` | ![Core] |

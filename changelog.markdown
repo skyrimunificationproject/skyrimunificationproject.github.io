@@ -3,6 +3,39 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-14
+
+---
+
+![Added]
+~~~
+Addon - Armor and Weapons - Black Sacrament Armor
+Addon - Armor and Weapons - Colovian Leather Armor and Outfit
+Addon - Armor and Weapons - Divine and Daedric Cloaks
+Addon - Armor and Weapons - ESO Altmer Armor
+Addon - Armor and Weapons - Imperial Guardian Centurion Armor
+Addon - Armor and Weapons - Lustmord Vampire Armor
+Addon - Armor and Weapons - Nibenean Armors and Outfit
+Addon - Armor and Weapons - Northgirl Armor
+Addon - Armor and Weapons - Practical Pirate Outfit
+Addon - Armor and Weapons - Silverthorn Weaponry
+Addon - Armor and Weapons - Wayfarer's Coat
+Addon - Armor and Weapons - Wilderness Witch Outfit
+~~~
+
+![Updated]
+~~~
+Core 1 - SSE Display Tweaks updated to 0.5.7b.
+Core 2 - Storm Lightning updated to 1.4.13.
+~~~
+
+![Removed]
+~~~
+Utilities - FISSES
+~~~
+
+---
+
 # 2021-12-13
 
 ---
