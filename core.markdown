@@ -115,7 +115,7 @@ Download: | Old Files - Encounter Zones Unlocked SE
 ## Fuz Ro D-oh - Silent Voice
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15109) | Version: `1.7` | Author: `shadeMe` | ![Core] |
-Download: | Main Files - Fuz Ro D'oh
+Download: | Old Files - Fuz Ro D'oh - 1.7
 
 ## I'm Walkin' Here
 

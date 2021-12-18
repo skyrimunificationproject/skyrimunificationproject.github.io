@@ -3,6 +3,20 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-17
+
+---
+
+![Updated]
+~~~
+Intro - Updated CAO to 5.3.9.
+Core 2 - Animated Forge Water updated to 0.5.
+Core 2 - Water for ENB updated to 1.53.
+Core 3 - YASTM updated to 1.9.0-beta.
+~~~
+
+---
+
 # 2021-12-14
 
 ---

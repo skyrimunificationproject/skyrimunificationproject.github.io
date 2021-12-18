@@ -1031,7 +1031,7 @@ Patches:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.52` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.53` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -2023,7 +2023,7 @@ Select Day Time Sheet Halo:
 Select Night Time Fork Halo:
    * Halo Dimmer (Level 1)
 Select Day Time Fork Halo:
-   * Halo Dimmer (Levle 1)
+   * Halo Dimmer (Level 1)
 Select Thunder Delay:
    * No Delay (Immersive)
 ~~~
@@ -2201,7 +2201,7 @@ Further Customization:
 
 ## Animated Forge Water 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52322) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52322) | Version: `0.5` | Author: `wSkeever` | ![Core] ![Visuals]|
 Download: | Main Files - Animated Forge Water
 
 ![FOMOD]
