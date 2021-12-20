@@ -1397,8 +1397,8 @@ Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46000) | Version: `1.9.0` | Author: `Enai Siaion` | ![Core] |
-Download: | Main Files - Odin 1.9.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46000) | Version: `1.9.1` | Author: `Enai Siaion` | ![Core] |
+Download: | Main Files - Odin 1.9.1
 
 ---
 
@@ -1424,8 +1424,8 @@ Core Files (Required):
 
 ## Valravn - Integrated Combat of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53869) | Version: `1.1.1` | Author: `Enai Siaion` | ![Core] |
-Download: | Main Files - Valravn 1.1.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53869) | Version: `1.1.2` | Author: `Enai Siaion` | ![Core] |
+Download: | Main Files - Valravn 1.1.2
 
 ## Valravn - Integrated Combat of Skyrim - Uncloaked
 
@@ -1492,7 +1492,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.3` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.4` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1870,7 +1870,7 @@ Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
 ## Dynamic Things Alternative
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `0.15.2` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `1.15.3` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative
 
 ![PostInstall]
@@ -2309,3 +2309,4 @@ Download: | Main Files - XP32 Maximum Skeleton Special Extended - Settings Loade
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square

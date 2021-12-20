@@ -44,7 +44,7 @@ Hanging Animals:
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.37` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.39` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -1008,7 +1008,7 @@ Download: | Main Files - Better Dynamic Ash SE v2.1.1
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.4` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.5` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
 
 ![PostInstall]
@@ -2994,3 +2994,4 @@ Select One:
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square

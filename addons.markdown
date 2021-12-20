@@ -166,3 +166,4 @@ Download: | Filename
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square

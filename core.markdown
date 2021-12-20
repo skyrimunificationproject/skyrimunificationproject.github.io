@@ -591,7 +591,7 @@ Spacing:
 ## Convenient Dialogue UI
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57943) | Version: `1.2` | Author: `uranreactor` | ![Core] |
-Download: | Main Files - Convenient Dialogue UI (Nordic UI look)
+Download: | Optional Files - Convenient Dialogue UI (Nordic UI look)
 
 ---
 
@@ -1563,3 +1563,4 @@ Do not activate the mod in MO2.
 [fomod]: https://img.shields.io/badge/FOMOD%20Instructions-informational?style=for-the-badge
 [postinstall]: https://img.shields.io/badge/Post--Install%20Instructions-00B000?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square

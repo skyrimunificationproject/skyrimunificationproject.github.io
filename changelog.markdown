@@ -3,6 +3,22 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-19
+
+---
+
+![Updated]
+~~~
+Core 2 - Simplicity of Snow updated to 0.5.
+Core 2 - Assorted Mesh Fixes updated to 0.39.
+Core 3 - Reliquary of Myth updated to 4.3.4.
+Core 3 - Dynamic Things Alternative updated to 1.15.3.
+Core 3 - Valravn updated to 1.1.2.
+Core 3 - Odin updated to 1.9.1.
+~~~
+
+---
+
 # 2021-12-17
 
 ---
