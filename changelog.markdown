@@ -3,6 +3,35 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-22
+
+---
+
+![Added]
+~~~
+Core 2 - Environment - Shaders of Solstheim - Ash and Moss
+Core 3 - Skeleton - XPMSSE - Nemesis - Papyrus Stack Fix
+~~~
+
+![Updated]
+~~~
+Core 2 - Assorted Mesh Fixes updated to 0.39.1.
+Core 2 - Lux updated to 3.8.
+Core 3 - Dynamic Things Alternative updated to 1.15.4.
+Core 3 - Sleeping Expanded updated to 1.20.
+Core 3 - Reliquary of Myth updated to 4.4.2.
+Core 3 - SUP Conflict Resolution - updated Lux patch.
+Final - Added xEdit instructions for AVExpansion_ICFH Add-on.esp
+~~~
+
+![Removed]
+~~~
+Core 2 - Better Dynamic Ash - Note: keep the meshes/ from this mod
+  until the next main CR update.
+~~~
+
+---
+
 # 2021-12-19
 
 ---

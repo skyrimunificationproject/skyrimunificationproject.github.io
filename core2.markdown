@@ -44,7 +44,7 @@ Hanging Animals:
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.39` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.39.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -1001,10 +1001,10 @@ Resave Skyrim Remastered - Glaciers and Ice.esp in the Creation Kit.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14663) | Version: `1.1` | Author: `Ruse` | ![Core] |
 Download: | Main Files - Ashbound 1.1
 
-## Better Dynamic Ash
+## Shaders of Solstheim - Ash and Moss
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54754) | Version: `2.1.1` | Author: `Arlekin-SparrowPrince-Step Modifications` | ![Core] |
-Download: | Main Files - Better Dynamic Ash SE v2.1.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60144) | Version: `0.2.1` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
@@ -2218,14 +2218,14 @@ Option:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.7` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.8` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
 ~~~
 Lux optional effects:
-   * Beams - ENB
-   * Mists and fogs - ENB
+   * Beams - PARTICLE without effect lighting
+   * Mists and fogs - Effect lighting without PARTICLE
    * Webs
 Lux optimized SMIM Meshes:
    * SMIM meshes
@@ -2237,8 +2237,6 @@ Lux optimized tables:
    * SD's Table replacer
 Lux optimized chandeliers:
    * SD's chandeliers
-Lux optional fireplaces:
-   * Embers XD Tavern Firepit
 Lux optional Giant Campfires:
    * None
 Compatibility Patches:

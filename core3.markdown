@@ -230,9 +230,9 @@ Download: | Main Files - Fresh Faces
 ![FOMOD]
 ~~~
 Plugin:
-
-Do you use EEO:
    * USSEP
+Do you use EEO:
+   * No
 Warpaint For Aela:
    * No
 Warpaint for Borgakh:
@@ -1059,7 +1059,7 @@ Options:
 
 ## Sleeping Expanded - Animations and NPC Reactions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.10` | Author: `jayserpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.20` | Author: `jayserpa` | ![Core] |
 Download: | Main Files - 
 
 ---
@@ -1111,6 +1111,11 @@ Enderal:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44252) | Version: `1.0` | Author: `Team XPMSE - cskriffin - Umgak` | ![Core] |
 Download: | Main Files - XP32 Maximum Skeleton Special Extended - Fixed Scripts
+
+## XP32 Maximum Skeleton Special Extended - Nemesis - Papyrus Stack Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60363) | Version: `4.8` | Author: `tommas666` | ![Core]
+Download: | Main Files - XPMSSE - Nemesis - Script Fix
 
 ## XP32 Maximum Skeleton Special Extended - XPMSSE - Uncloaked
 
@@ -1492,7 +1497,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.3.4` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.2` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1733,7 +1738,7 @@ Expansion Packs for Others' Mods:
 Delete DtRS - Apoc+Arsenal Patch.esp.
 ~~~
 
-## Elemental Staffs - Apocalypse - Magic of SKyrim
+## Elemental Staffs - Apocalypse - Magic of Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34521) | Version: `1.00` | Author: `Carnage2K4` | ![Core] ![Visuals]|
 Download: | Main Files - Elemental Staffs SE for AMoS
@@ -1870,7 +1875,7 @@ Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
 ## Dynamic Things Alternative
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `1.15.3` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `1.15.4` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative
 
 ![PostInstall]
@@ -2021,7 +2026,7 @@ Download: | Main Files - ENB Lights For Effect Shaders
 
 ## Particle Lights - Bugs in a Jar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43609) | Version: `1.1` | Author: `author` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43609) | Version: `1.1` | Author: `LossRec` | ![Core] ![Visuals]|
 Download: | Main Files - Particle Lights For ENB SE - Bugs in a Jar
 
 ## Particle Lights - Ingredients

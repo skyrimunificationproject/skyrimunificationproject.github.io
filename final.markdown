@@ -44,6 +44,7 @@ AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Aspens Ablaze.esp | Apply ESMifier script
+AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
 BetterDynamicAsh-DisableRefs.esp | Add ESL flag
