@@ -979,6 +979,11 @@ Fast Sprinting:
    * Unchecked
 ~~~
 
+## Smooth Random Blocking Animation
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59239) | Version: `3.2` | Author: `skypia` | ![Core]
+Download: | Main Files - Smooth Random Blocking Animation 3.2
+
 ## Conditional Armor Type Animations
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51507) | Version: `1.0` | Author: `Verolevi` | ![Core] |
@@ -1497,7 +1502,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.2` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.5` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1684,7 +1689,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.9.0-beta` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.9.1` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -1718,6 +1723,11 @@ Alternative Plugin:
 # Late Loaders - ENB, Meshes and Textures
 
 ---
+
+## Cathedral 3D Mountain Flowers - Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.2` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
 
@@ -1873,10 +1883,10 @@ Download: | Main FIles - Windhelm Fake Windows Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30066) | Version: `1.5` | Author: `WiZkiD` | ![Core] ![Visuals]|
 Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
-## Dynamic Things Alternative
+## Dynamic Things Alternative - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49250) | Version: `1.15.4` | Author: `wSkeever` | ![Core] |
-Download: | Main Files - Dynamic Things Alternative
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60741) | Version: `0.1` | Author: `wSkeever` | ![Core] |
+Download: | Main Files - Dynamic Things Alternative - Base Object Swapper
 
 ![PostInstall]
 ~~~
@@ -1934,32 +1944,6 @@ Creatures - Patches:
 ~~~
 Delete meshes/landscape/trees/tundradriftwood*.
 Delete meshes/dlc02/landscape/trees/.
-~~~
-
-## Flickering Meshes Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53957) | Version: `1.6` | Author: `nicola89b and gururaj20000` | ![Core] ![Visuals]|
-Download: | Main Files - Fixed Flickering Mesh
-
-![FOMOD]
-~~~
-Riften:
-   * No Parallax Version
-Solitude:
-   * No Parallax Version
-Whiterun:
-   * No Parallax Version
-Markarth:
-   * No Parallax Version
-Windhelm:
-   * No Parallax Version
-Whiterun and Windhelm Hold's Farmhouses:
-   * Farmhouses without Parallax
-Compatibility Choices:
-   * SMIM
-   * Water for ENB
-   * Majestic Mountains
-   * Skyrim - A Mountainouse Experience
 ~~~
 
 ## ENB Helper

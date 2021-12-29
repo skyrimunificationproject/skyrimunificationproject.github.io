@@ -42,9 +42,14 @@ Hanging Animals:
    * Colorful
 ~~~
 
+## Major Cities Mesh Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.0a` | Author: `raiserfx` | ![Core] 
+Download: | Main Files - Major Cities Mesh Overhaul SE
+
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.39.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.41` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -403,6 +408,11 @@ Download: | Main Files - Sovngarde HD 4K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53179) | Version: `1.2` | Author: `WiZkiD` | ![Visuals] |
 Download: | Optional Files - WiZkiD Riften and Ratway 4k
+
+![PostInstall]
+~~~
+Delete meshes/architecture.
+~~~
 
 ## Glorious Doors of Skyrim
 
@@ -1140,14 +1150,8 @@ Download: | Main Files - Sweet Roll Boiled Creme Treat and Pie
 
 ## Cathedral - 3D Mountain Flowers 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `1.8` | Author: `Jonny Wang` | ![Core] ![Visuals] ![CK]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `1.8` | Author: `Jonny Wang` | ![Core] ![Visuals]|
 Download: | Main Files - Cathedral - 3D Mountain Flowers
-
-![PostInstall]
-~~~
-Remove the ESM flag in xEdit, then resave 
-  Cathedral - 3D Mountain Flowers.esp in the Creation Kit.
-~~~
 
 ## Cathedral - Plants 
 
@@ -1785,7 +1789,7 @@ Download: | Main Files - Riekling Barrels SMIM
 
 ## Rudy HQ - Miscellaneous 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19867) | Version: `1.0207` | Author: `Rudy102` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19867) | Version: `1.02` | Author: `Rudy102` | ![Visuals] |
 Download: | Main Files - Rudy HQ - Miscellaneous SE
 
 ![FOMOD]
@@ -2175,7 +2179,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.4.9` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.0` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]

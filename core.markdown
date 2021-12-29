@@ -64,8 +64,13 @@ Download: | Main Files - Animated Static Reload Fix - SSE
 
 ## Autorun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) | Version: `1.0` | Author: `Ryan - Umgak` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45451) | Version: `1.0` | Author: `Ryan - Umgak` | ![Core] 
 Download: | Main Files - Autorun
+
+## Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
+Download: | Main Files - Base Object Swapper SE
 
 ## Better Combat Escape
 
@@ -298,7 +303,7 @@ Download: | Main Files - MageArmorScriptFix
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.2` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.3` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -342,6 +347,11 @@ Download: | Main Files - Sound Hammering Sounds
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60012) | Version: `0.1` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Spiders of Solstheim - Transparency Fix
+
+## Stones of Solitude - Better Blended Rock Piles
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60762) | Version: `0.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Stones of Solitude - Better Blened Rock Piles
 
 ## Unofficial Material Fix
 
@@ -1211,7 +1221,7 @@ Download: | Main Files - Thugs Not Assassins
 
 ## True Hunter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `3.0` | Author: `lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `4.0` | Author: `lilebonymace` | ![Core] |
 Download: | Main Files - True Hunter
 
 ![FOMOD]
@@ -1431,6 +1441,7 @@ Download: | Main Files - Armor Variants Expansion
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31519) | Version: `1.4` | Author: `BeyondSkyrimDC` | ![Core]
 Download: | Main Files - Beyond Skyrim - Wares of Tamriel
+| [Replacer ESP](https://www.dropbox.com/s/2vx86cvsq441hrj/BeyondSkyrimMerchant%20-%20Replacement.7z?dl=0)
 
 ## Dawnguard Arsenal
 

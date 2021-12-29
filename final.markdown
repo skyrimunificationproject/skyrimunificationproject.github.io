@@ -75,6 +75,7 @@ Finding_Helgi_and_Laelette.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Apply ESMifier script
+High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 Hunters Not Bandits.esp | Add ESL flag
 IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
@@ -86,10 +87,10 @@ Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape and Water Fixes.esp | Compact formIDs, add ESL flag
 Lucien.esp | Apply ESMifier script
-Lux Orbis.esp | Add ESL flag
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
 LovelyLetter.esp | Add ESL flag
+Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 NB-Scars.esp | Compact formIDs, add ESL flag
@@ -108,10 +109,12 @@ Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
 Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
 RealRainSE.esp | Add ESL flag
+ReadingImprovesSpeech.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
 s606t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s606t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
+s606t Lore - Oblivion Gates.esp | Apply ESMifier script
 Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -194,6 +197,8 @@ Exit out of Synthesis after the patchers complete
 Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
 (It should contain Synthesis.esp and SKSE/Plugins/Experience.)
 
+Flag the generated Synthesis.esp as ESL.
+
 ---
 
 # Bodyslide
@@ -267,6 +272,8 @@ Note: If an error occurs after launching 'Launch Nemesis Behavior Engine' about 
 
 Close out of Nemesis when it finishes and create a new mod from overwrite \\
 with the name `Nemesis Output`. (Nemesis_Engine, meshes)
+
+Flag the generated FNIS.esp as ESL.
 
 ---
 

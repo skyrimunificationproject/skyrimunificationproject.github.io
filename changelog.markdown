@@ -3,6 +3,44 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2021-12-29
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE Plugins - Base Object Swapper
+Core 1 - Bugs and Mesh Fixes - Stones of Solitude
+Core 2 - General World Improvement - Major Cities Mesh Overhaul
+Core 3 - Animation - Conditional - Smooth Random Blocking Animation
+Core 3 - Late Loaders-Meshes - Cathedral 3D Mountain Flowers - Base Object Swapper
+Core 3 - Late Loaders-Meshes - Dynamic Things Alternative - Base Object Swapper
+~~~
+
+![Removed]
+~~~
+Core 3 - Flickering Meshes Fix
+Core 3 - Dynamic Things Alternative
+~~~
+
+![Updated]
+~~~
+Core 1 - Navigator updated to 1.1.3.
+Core 1 - Added replacer esp for Wares of Tamriel
+Core 2 - Assorted Mesh Fixes updated to 0.41.
+Core 2 - Embers XD updated to 2.5.0.
+Core 2 - Updated WiZkiD Riften and Ratway instructions
+Core 2 - Removed special Cathedral 3D Mountain Flower instructions
+Core 3 - Reliquary of Myth updated to 4.4.5.
+Core 3 - Dynamic Things Alternative updated to 1.15.5.
+Core 3 - YASTM updated to 1.9.1.
+Final - Added missing ESM instruction for s6 Oblivion Gates.
+        Added missing ESL instructions for Reading Improves Speech,
+		Smooth Weapon, High Poly Head, FNIS (Nemesis dummy), Synthesis.
+~~~
+
+---
+
 # 2021-12-22
 
 ---
