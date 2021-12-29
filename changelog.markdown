@@ -32,7 +32,6 @@ Core 2 - Embers XD updated to 2.5.0.
 Core 2 - Updated WiZkiD Riften and Ratway instructions
 Core 2 - Removed special Cathedral 3D Mountain Flower instructions
 Core 3 - Reliquary of Myth updated to 4.4.5.
-Core 3 - Dynamic Things Alternative updated to 1.15.5.
 Core 3 - YASTM updated to 1.9.1.
 Final - Added missing ESM instruction for s6 Oblivion Gates.
         Added missing ESL instructions for Reading Improves Speech,
