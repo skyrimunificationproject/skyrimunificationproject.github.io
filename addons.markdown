@@ -71,12 +71,12 @@ Download: | Main Files - Nibenean Armors and Outfit CBBE
 ## Northgirl Armor - All Colors
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7882) | Version: `1.0` | Author: `anka01` | ![Core] |
-Download: | Main Files - Northgirl Armor UNP - SSE
+Download: | Optional Files - Northgirl Armor UNP - SSE all Retex include
 
 ## Northgirl Armor - CBBE SSE - Bodyslide
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17454) | Version: `1.1.3` | Author: `anka01-Gigist` | ![Core] |
-Download: | Main Files - CBBE SE Northgirl Full Pack 1.1.3
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53857) | Version: `1.2` | Author: `Nekomata17` | ![Core] |
+Download: | Main Files - Northgirl Armor CBBE
 
 ## Practical Pirate Outfit - CBBE SSE - Bodyslide
 
@@ -145,6 +145,8 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+El_WayfarersCoatSSE.esp | Compact formIDs, add ESL flag
+ESO Altmer Armor by NewrMind43.esp | Compact formIDs, add ESL flag
 Northgirl.esp | Compact formIDs, add ESL flag
 
 ---

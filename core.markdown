@@ -333,7 +333,7 @@ Walkway Wall Fix:
 [![mod]](https://drive.google.com/file/d/1rIFzOZ5UXkEmYaok-aeukjvSNtKv9vJO/view) | Version: `2020-02-08` | Author: `mindflux` | ![Core] |
 Download: | Skyrim Particle Patch for ENB-SSE-2020-02-08.rar
 
-![Post-Install]
+![PostInstall]
 ~~~
 Delete the Skyrim Particle Patch esp.
 ~~~
@@ -360,7 +360,7 @@ Download: | Main Files - Unofficial Material Fix
 
 ## Vanilla Script (micro)Optimizations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.12b` | Author: `Subhuman0100` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.13` | Author: `Subhuman0100` | ![Core] |
 Download: | Main Files - Vanilla Script microOptimizations
 
 ## Whiterun Mesh Fixes
@@ -1072,6 +1072,14 @@ Download: | Main Files - Choose Your Own Arch-Mage
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159) | Version: `1.8.4` | Author: `WilliamImm` | ![Core] |
 Download: | Main Files - Even Better Quest Objectives SE v1.8.4
 
+![FOMOD]
+~~~
+Optional Files:
+   * None
+Available Patches:
+   * None (uncheck all)
+~~~
+
 ## Finding Derkeethus
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19550) | Version: `1.1` | Author: `SomethingObscure` | ![Core] ![CK]|
@@ -1183,7 +1191,7 @@ Download: | Main Files - Save the Icerunner
 
 ## Skyrim Unbound Reborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27962) | Version: `1.6.14` | Author: `chinagreenelvis - lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27962) | Version: `1.6.15` | Author: `chinagreenelvis - lilebonymace` | ![Core] |
 Download: | Main Files - Skyrim Unbound Reborn
 
 ![FOMOD]
@@ -1523,7 +1531,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-16` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-17` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

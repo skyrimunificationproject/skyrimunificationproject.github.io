@@ -329,8 +329,8 @@ or | Main Files - Improved Bards 1.3 - CBBE SFW
 
 ## The Ordinary Women
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.0` | Author: `northtexan95` | ![Core] ![Visuals] |
-Download: | Main Files - The Ordinary Women SSE 4.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.1` | Author: `northtexan95` | ![Core] ![Visuals] |
+Download: | Main Files - The Ordinary Women
 
 ![FOMOD]
 ~~~
@@ -913,7 +913,7 @@ Download: | Main Files - True Directional Movement
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.3.6` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.11` | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -921,17 +921,13 @@ Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 Select Game:
    * Skyrim Special Edition
 Select SSE Version:
-   * SSE 1.5.97 - SKSE64 - 2.0.17
+   * SSE 1.5.97 - SKSE64 2.0.17 - 2.0.20
 Body Shape:
    * CBBE Curvy
+Bounce Config:
+   * Your choice
 Gravity Config:
    * Install Gravity Config
-~~~
-
-![PostInstall]
-~~~
-Edit SKSE/Plugins/CBPCSystem.ini:
-   * UseParallelProcessing = 1
 ~~~
 
 ## Ice skating fixed for real - No more attack sliding movement
@@ -964,7 +960,7 @@ Animation Condition:
 ## Dynamic Animation Replacer 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Version: `1.1.0` | Author: `Felisky` | ![Core] |
-Download: | Main Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
+Download: | Old Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
 ## Smooth Combat non Combat Animation 
 
@@ -1196,7 +1192,7 @@ Download: | Main Files - More Dialogue Options - for Misc Dialogue Edits
 ## More to Say
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `8.0.3` | Author: `abramcf` | ![Core] |
-Download: | Main Files - More to Say (merged version)
+Download: | Optional Files - More to Say (merged version)
 
 ## Relationship Dialogue Overhaul
 
@@ -1271,15 +1267,13 @@ Lanterns:
 
 ## Honed Metal - Updated 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51254) | Version: `1.21` | Author: `SkylineR390` | ![Optional] |
-Download: | Main Files - Honed Metal SSE Updated
-| Update Files - Honed Metal 1.21 Hotfix
-| [Replacement Plugin - Honed Metal Replacement](https://www.dropbox.com/s/k7zqe8brro1g3mf/Honed%20Metal%20-%20Replacement.7z?dl=0)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61015) | Version: `1.22` | Author: `SkylineR390` | ![Optional] |
+Download: | Main Files - Honed Metal SSE
 
-## Honed Metal - Updated - Revoiced 
+## Honed Metal Revoiced
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34393) | Version: `1.5` | Author: `Cer12` | ![Optional] |
-Download: | Main Files - Honed Metal Revoiced (For Honed Metal SSE 1.2)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34393) | Version: `1.7` | Author: `Cer12` | ![Optional] |
+Download: | Main Files - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
 
 ## Immersive Interactions - Animated Actions 
 
@@ -1288,7 +1282,7 @@ Download: | Main Files - Immersive Interactions - Animated Actions
 
 ## Improved Innkeepers 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46659) | Version: `1.0` | Author: `Valdaraak` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46659) | Version: `1.0` | Author: `Valdaraak` | ![Core] ![CAO]|
 Download: | Main Files - Improved Innkeepers
 
 ![PostInstall]
@@ -1534,7 +1528,7 @@ Download: | Main Files - Sacrilege 2.0.0
 ## Triumvirate - Mage Archetypes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39170) | Version: `1.8.0` | Author: `Enai Siaion` | ![Core] |
-Download: | Main Files - Triumvirate 1.7.0
+Download: | Main Files - Triumvirate 1.8.0
 
 ## Wintersun - Faiths of Skyrim 
 
@@ -1989,7 +1983,7 @@ Select 'Install anyway'.
 ~~~
 Delete meshes/dlc02/landscape/dlc2firecrater*.
 Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
-Delete meshes/dlc02/trees/.
+Delete meshes/dlc02/landscape/trees/.
 Delete meshes/magic/fireball01handeffects.nif.
 ~~~
 

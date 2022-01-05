@@ -49,7 +49,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.41` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.41.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -70,8 +70,8 @@ Delete meshes/clutter/candles.
 
 ## Ruins Clutter Improved
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.1` | Author: `raiserfx` | ![Core] |
-Download: | Main Files - Ruins_Clutter_Improved_SE_NMM_v3-1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2a` | Author: `raiserfx` | ![Core] |
+Download: | Main Files - Ruins Clutter Improved SE Mod Manager
 
 ![FOMOD]
 ~~~
@@ -1923,7 +1923,7 @@ Download: | Main Files - Stockades of Skyrim 3D
 ## The Business Ledger
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48561) | Version: `2.0` | Author: `d34dun1t` | ![Visuals] |
-Download: | Main Files - Hermaeus Mora Tax Book HD
+Download: | Main Files - Business Ledger HD
 
 ## Thrones of Skyrim
 
@@ -2222,7 +2222,7 @@ Option:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.8` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.9` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
@@ -2734,7 +2734,7 @@ Download: | Main Files - Better Bears 2k
 
 ## Deiform Alduin
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44329) | Version: `1.1` | Author: `winedave` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44329) | Version: `1.2` | Author: `winedave` | ![Visuals] |
 Download: | Optimal Files - Deiform Alduin 4K
 | Optimal Files - Deiform Alduin Eye textures 4K
 

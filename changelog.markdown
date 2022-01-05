@@ -3,6 +3,27 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-01-04
+
+---
+
+![Updated]
+~~~
+Core 1 - Vanilla Script Microoptimizations updated to 1.13.
+Core 1 - Skyrim Unbound Reborn updated to 1.6.15.
+Core 1 - Dyndolod Resources updated to Alpha-17.
+Core 2 - Ruins Clutter Improved updated to 3.2a.
+Core 2 - Lux updated to 3.9.
+Core 2 - Assorted Mesh Fixes updated to 0.41.1.
+Core 2 - Deiform Alduin updated to 1.2.
+Core 3 - CBPC updated to 1.4.11.
+Core 3 - Honed Metal updated to 1.22
+Core 3 - Honed Metal Revoiced updated to 1.7.
+Addons - Corrected Northgirl downloads
+~~~
+
+---
+
 # 2021-12-29
 
 ---
