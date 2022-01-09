@@ -47,8 +47,6 @@ Aspens Ablaze.esp | Apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
-BetterDynamicAsh-DisableRefs.esp | Add ESL flag
-Better Dynamic Ash.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Brows.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
@@ -85,7 +83,6 @@ ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
 Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
-Landscape and Water Fixes.esp | Compact formIDs, add ESL flag
 Lucien.esp | Apply ESMifier script
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
@@ -122,6 +119,7 @@ SimplyKnock.esp | Apply ESMifier script
 SkyrimSewers.esp | apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag
 SofiaFollower.esp | Apply ESMifier script
 SPO_Ordinated.esp | Add ESL flag
@@ -162,7 +160,7 @@ Once all plugins have loaded and the Profile window appears, click the open fold
 
 Click Build at the top of the window. There should not be any warnings under alerts - if there are, something may have been installed incorrectly.  Click the large Build button at right.
 
-Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all NPC mods other than Modpocalypse - Resources, RS Children, and RS Children patches.
+Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than Modpocalypse - Resources, RS Children, and RS Children patches.
 
 ---
 
@@ -287,17 +285,17 @@ Run xLODGEN from the executable dropdown menu in Mod Organizer 2.
 
 Right-click in the Worldspace window and Select All.
 
-Only check Terrain LOD.
+Check only Terrain LOD. (uncheck others)
 
 For the dropdown box that says LOD4, enter the settings below for LOD4, LOD8, LOD16, and LOD32.
 
-![](./assets/img/lod4.png)
+![](./assets/img/lod4.PNG)
 
-![](./assets/img/lod8.png)
+![](./assets/img/lod8.PNG)
 
-![](./assets/img/lod16.png)
+![](./assets/img/lod16.PNG)
 
-![](./assets/img/lod32.png)
+![](./assets/img/lod32.PNG)
 
 Select Generate
 
@@ -319,7 +317,7 @@ Click Start.  When the log file says complete, close, and move TexGen_Output to 
 
 Launch DynDOLOD, Click Advanced \>\>, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
-![](./assets/img/dyndolod.png)
+![](./assets/img/dyndolod.PNG)
 
 Click start.
 
