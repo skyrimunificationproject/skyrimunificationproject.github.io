@@ -157,7 +157,7 @@ Download: | Main Files - Scrambled Bugs
 
 ## Security Overhaul SKSE - Lock Variations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.0.1` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.1.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
 Download: | Main Files - Security Overhaul SKSE - Lock Variations
 
 ![FOMOD]
@@ -191,7 +191,7 @@ Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.7b` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.9` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
@@ -228,7 +228,7 @@ Download: | Main Files - To Your Face Redux - SSE
 ## Yes I'm Sure
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24898) | Version: `1.5` | Author: `Ryan` | ![Core] |
-Download: | Main Files - YesImSure
+Download: | Old Files - YesImSure
 
 ## Whose Quest Is It Anyway
 
@@ -360,7 +360,7 @@ Download: | Main Files - Unofficial Material Fix
 
 ## Vanilla Script (micro)Optimizations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.13` | Author: `Subhuman0100` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.14` | Author: `Subhuman0100` | ![Core] |
 Download: | Main Files - Vanilla Script microOptimizations
 
 ## Whiterun Mesh Fixes
@@ -452,11 +452,6 @@ Download: | Main Files - Vanilla Plus Writing Purity Patch
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12604) | Version: `5.2SE` | Author: `SkyUI Team` | ![Core] ![BSA]|
 Download: | Main Files - SkyUI_5_2_SE
 
-## SkyUI - Better Config - Smart Sorting by Type
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49095) | Version: `1.0.1` | Author: `jn64` | ![Core] |
-Download: | Main Files - Better SkyUI Config
-
 ## SkyUI - Better Container Controls
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25271) | Version: `3.1` | Author: `CDCooley` | ![Core] |
@@ -466,11 +461,6 @@ Download: | Optional Files - BCC-SkyUI-ESL-v31
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32561) | Version: `1.2.1` | Author: `0xC0000005` | ![Core] |
 Download: | Main Files - FixNotesForSkyUI SKSE64 2.0.17 and 2.0.19
-
-## SkyUI - Weapons Pack
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37231) | Version: `1.3` | Author: `Ashingda` | ![Core] |
-Download: | Main Files - SkyUI Weapons Pack SE 1.3
 
 ## Sovngarde - A Nordic Font
 
@@ -498,12 +488,17 @@ Download: | Main Files - UIExtensions v1-2-0
 ## MCM Helper
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.2` | Author: `Parapets` | ![Core] ![BSA]|
-Download: | Old Files - MCM Helper SE - 1.3.0
+Download: | Main Files - MCM Helper SE (1.5)
 
 ![PostInstall]
 ~~~
 Ensure the BSA has been extracted.
 ~~~
+
+## JS Lockpicking UI
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22160) | Version: `1.1` | Author: `johnskyrim` | ![Core]
+Download: | Main Files - 2k Textures
 
 ---
 
@@ -546,62 +541,97 @@ Optional:
    * Install iHUD Compatibility Patch
 ~~~
 
-## NORDIC UI - Interface Overhaul
+## CoMAP - Common Marker Addon Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49881) | Version: `2.4.1` | Author: `Dopesan` | ![Core] |
-Download: | Main Files - NORDIC UI (Final Design)
-
-![FOMOD]
-~~~
-Main:
-   * HUD (SkyHUD)
-   * Boxes
-   * RaceMenu (Vanilla)
-   * Cursor
-   * Dialogue Menu
-   * Favorite Menu
-   * Icons
-   * Pause Menu (Journal)
-   * Skill Menu
-   * Skill Menu 3D Visuals
-   * Start Menu
-   * Start Menu 3D Background
-   * Game Menus
-   * UI Sounds
-   * SkyHUD Preset
-Loading Screen:
-   * Default
-~~~
-
-## NORDIC UI - Miscellaneous Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54102) | Version: `1.4` | Author: `myztikrice` | ![Core] |
-Download: | Main Files - NORDIC UI - Miscellaneous Patches
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56123) | Version: `3.4.1` | Author: `Jelidity and Parapets` | ![Core] |
+Download: | Main Files - CoMAP
 
 ![FOMOD]
 ~~~
-MoreHUD Inventory:
-   * Vanilla
-Stat Screen Colored Icons:
-   * 2.4.1 Style Icons
-Even Better MessageBox Controls:
-   * Install
-MCM:
-   * Even Wider Rescaled MCM
-Remove QuickSave from System Menu:
-   * Install
-Loading Screen:
-   * Install
-Tween Menu:
-   * Install
-Spacing:
-   * SkyUI Item Card Fixes Spacing
+CoMAP Core Pack:
+   * CoMAP 1.5.97 (Pre-AE)
+Configs:
+   * CoMAP Config Pack
+Obscured Undiscovered Options:
+   * Obscured Undiscovered HUD Markers - Question Mark
+Author's Cut Options:
+   * None
+Author's Cut Options:
+   * None
+Khajiit Caravan Markers:
+   * None
 ~~~
 
-## Convenient Dialogue UI
+## Dear Diary Dark Mode - SkyUI Menus Replacer SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57943) | Version: `1.2` | Author: `uranreactor` | ![Core] |
-Download: | Optional Files - Convenient Dialogue UI (Nordic UI look)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60837) | Version: `1.0.0` | Author: `uranreactor` | ![Core]
+Download: | Main Files - Dear Diary Dark Mode (texts - warm color) 
+| Optional Files - Patch for CoMAP
+
+![FOMOD]
+~~~
+Journal, Stats, System Menu
+   * Yes
+Mod Configuration Menu
+   * Yes
+Map Menu - Install Map Menu
+   * Yes
+Map Menu - Beige Map Markers
+   * Yes
+Inventory, Magic, Crafting etc Menu
+   * Yes
+Favorites Menu
+   * Yes, normal version
+Book Menu
+   * Yes
+Lockpicking Menu
+   * Yes
+Stats Menu
+   * Yes
+Levelup Menu
+   * Yes
+Sleep-Wait Menu
+   * Yes
+Messageboxes
+   * Yes
+Tutorials Menu
+   * Yes
+Training Menu
+   * Yes
+Tab Menu
+   * Yes   
+Loading Menu
+   * Yes
+Start Menu - frames replacer
+   * Yes, cleaned version
+Start Menu - background replacer
+   * Yes
+HUD Menu - Install HUD
+   * Yes
+HUD Menu - Compass Markers replacer
+   * Yes
+Dialogue Menu
+   * Yes
+QuickLootRE Menu
+   * Yes
+Wheel Menu
+   * Yes
+Cursors
+   * Yes, static
+Font
+   * No
+New UI Sounds
+   * Yes
+Miscellaneous - Console Improvements
+   * 60 FPS More Informative Console
+Miscellaneous - Loading Spinner Removal
+   * Yes
+~~~
+
+## SkyUI - Better Config - Smart Sorting by Type
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49095) | Version: `1.0.1` | Author: `jn64` | ![Core] |
+Download: | Optional Files - Better SkyUI Config - DDDM compatible version
 
 ---
 
@@ -647,27 +677,6 @@ Download: | Main Files - Atlas Map Markers
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48154) | Version: `1.0` | Author: `zAx` | ![Core] |
 Download: | Main Files - Atlas Map Markers scripts - FISS and CCO Remastered correct check
 
-## CoMAP - Common Marker Addon Project
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56123) | Version: `3.4.1` | Author: `Jelidity and Parapets` | ![Core] |
-Download: | Main Files - CoMAP
-
-![FOMOD]
-~~~
-CoMAP Core Pack:
-   * CoMAP 1.5.97 (Pre-AE)
-Configs:
-   * CoMAP Config Pack
-Obscured Undiscovered Options:
-   * Obscured Undiscovered HUD Markers - Question Mark
-Author's Cut Options:
-   * None
-Author's Cut Options:
-   * None
-Khajiit Caravan Markers:
-   * None
-~~~
-
 ## Dynamic Snow for Map
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/29877) | Version: `8.0` | Author: `Hritik Vaishnav` | ![Core] |
@@ -682,7 +691,7 @@ Download: | Main Files - Type 2
 ## RaceMenu
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19080) | Version: `0.4.16` | Author: `Expired` | ![Core] |
-Download: | Main Files - RaceMenu Special Edition v0-4-16
+Download: | Old Files - RaceMenu Special Edition v0-4-16
 
 ---
 

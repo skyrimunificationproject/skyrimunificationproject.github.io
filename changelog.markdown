@@ -3,6 +3,44 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-01-10
+
+---
+
+![Added]
+~~~
+Core 1 - User Interface - JS Lockpicking UI
+Core 1 - Heads Up Display - Dear Diary Dark Mode
+~~~
+
+![Updated]
+~~~
+Core 1 - Security Overhaul SKSE updated to 2.1.0.
+Core 1 - SSE Display Tweaks updated to 0.5.9.
+Core 1 - Vanilla Script microOptimizations updated to 1.14.
+Core 1 - Better SkyUI Config moved to Heads Up Display. (after DD)
+Core 1 - CoMAP moved to Heads Up Display. (before DD)
+Core 2 - Ruins Clutter Improved updated to 3.2b.
+Core 2 - Storm Lightning updated to 1.4.14.
+Core 2 - Assorted Mesh Fixes updated to 0.42.
+Core 3 - CBPC updated to 1.4.15.
+Core 3 - Reliquary of Myth updated to 4.4.6.
+Core 3 - ENB Lights for Effect Shaders updated to 2.0.
+Core 3 - Experience - Updated post-install instructions.
+Core 3 - Smooth Combat non Combat updated to 4.5.
+Core 3 - Savage Skyrim updated to 3.98.
+Core 3 - Sets of Skills updated to 1.2.
+~~~
+
+![Removed]
+~~~
+Core 1 - NORDIC UI
+Core 1 - NORDIC UI - Miscellaneous Patches
+Core 1 - SkyUI Weapons Pack SE
+~~~
+
+---
+
 # 2022-01-04
 
 ---

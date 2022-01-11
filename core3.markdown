@@ -913,7 +913,7 @@ Download: | Main Files - True Directional Movement
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.11` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.15` | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -964,13 +964,13 @@ Download: | Old Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
 ## Smooth Combat non Combat Animation 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.4.1` | Author: `skypia` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.5` | Author: `skypia` | ![Core] ![Visuals]|
 Download: | Main Files - Smooth Combat - Non Combat Animation
 
 ![FOMOD]
 ~~~
-Select all defaults, unless you prefer a specific option.
-
+Select:
+   * Recommended installation
 Fast Sprinting:
    * Unchecked
 ~~~
@@ -1061,7 +1061,7 @@ Options:
 ## Sleeping Expanded - Animations and NPC Reactions
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.20` | Author: `jayserpa` | ![Core] |
-Download: | Main Files - 
+Download: | Main Files - Sleeping Expanded
 
 ---
 
@@ -1125,7 +1125,7 @@ Download: | Main Files - XPMSSE Weapons Uncloaked
 
 ## Savage Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `3.97` | Author: `ROUGESHOT` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `3.98` | Author: `ROUGESHOT` | ![Core] |
 Download: | Main Files - Savage Skyrim
 
 ![PostInstall]
@@ -1496,7 +1496,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.5` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.6` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1560,7 +1560,7 @@ Download: | Main Files - Reading Improves Speech
 
 ## Skyrim Class Mod  - Sets of Skills 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `1.1` | Author: `Robin959` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `1.2` | Author: `Robin959` | ![Core] |
 Download: | Main Files - Sets of Skill - A Skyrim Class Mod
 
 ## Smithing Perks Overhaul 
@@ -1571,7 +1571,12 @@ Download: | Main Files - Smithing Perks Overhaul -- New Perk Tree
 ## Experience
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.0.2` | Author: `zax` | ![Core] |
-Download: | Main Files - Experience
+Download: | Main Files - Experience SE
+
+![PostInstall]
+~~~
+Delete Interface/statsmenu.swf.
+~~~
 
 ---
 
@@ -1597,7 +1602,7 @@ Download: | Main Files - Simple Dual Sheath
 
 ## BUVARP RE - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56878) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56878) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core] ![CAO] |
 Download: | Main Files - BUVARP SE RE - House Of Horrors Quest Expansion Patch
 Download: | Main Files - BUVARP SE RE - Carriage and Ferry Travel Overhaul Patch
 
@@ -1999,7 +2004,7 @@ Download: | Main Files - ENB lights for Aetherium Shards SE
 
 ## ENB Lights - Effect Shaders
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `1.0.1` | Author: `powerofthree` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `2.0` | Author: `powerofthree` | ![Core] ![Visuals]|
 Download: | Main Files - ENB Lights For Effect Shaders
 
 ## Particle Lights - Bugs in a Jar
@@ -2194,7 +2199,7 @@ Download: | Old Files - JContainers SE
 ## Mfg Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Version: `1.5.4` | Author: `Andrelo` | ![Core] |
-Download: | Main Files - MfgFix
+Download: | Main Files - MfgFix SE
 
 ## More Informative Console
 
@@ -2204,7 +2209,7 @@ Download: | Main Files - More Informative Console 0.43
 ## PapyrusUtil
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13048) | Version: `4.1` | Author: `exiledviper` | ![Core] |
-Download: | Old Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
+Download: | Main Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
 
 ## A Matter Of Time - Settings Loader
 

@@ -49,7 +49,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.41.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.42` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -70,7 +70,7 @@ Delete meshes/clutter/candles.
 
 ## Ruins Clutter Improved
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2a` | Author: `raiserfx` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2b` | Author: `raiserfx` | ![Core] |
 Download: | Main Files - Ruins Clutter Improved SE Mod Manager
 
 ![FOMOD]
@@ -606,6 +606,7 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v4
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
+| Note: During install right-click 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 | Optional Files - Ancient Dwemer Metal - My patches - Spellbreaker
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
@@ -954,7 +955,7 @@ LOD Textures:
 ![PostInstall]
 ~~~
 Delete meshes/clutter/mehrunes/shrinemehrunes01.nif.
-Delete textures/clutter/mehrunes/shrinemehrunes01*.
+Delete textures/clutter/mehrunesstatue01*.
 Delete textures/clutter/statues.
 ~~~
 
@@ -974,7 +975,7 @@ Normal Maps:
 ## HD Stone Quarry and Clay Deposit 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37985) | Version: `1.1` | Author: `skyrimaguas-TechAngel85` | ![Core] ![Visuals]|
-Download: | Main Files - HD Stone Quarry and Clay Deposit SE - 4K v1.0.1
+Download: | Main Files - HD Stone Quarry and Clay Deposit SE - 4K v1.1
 | Optional Files - HD Stone Quarry - Majestic Mountains Patch
 
 ![FOMOD]
@@ -1335,7 +1336,7 @@ Download: | Main Files - RUSTIC COOKING - Special Edition - 2K
 ## Salts Retextured
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.4` | Author: `cunny1975` | ![Visuals] |
-Download: | Main Files - Retextured Salts 2K version II
+Download: | Main Files - Retextured Salts with FX
 
 ## Scallions of Skyrim - High Polygon Leeks
 
@@ -2009,7 +2010,7 @@ Download: | Main Files - Masser and Secunda - Moons HD - 2K
 
 ## Storm Lightning
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29243) | Version: `1.4.13` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29243) | Version: `1.4.14` | Author: `Shizof` | ![Core] |
 Download: | Main Files - Storm Lightning for SSE and VR - Fomod Installer
 
 ![FOMOD]
@@ -2626,7 +2627,7 @@ Download: | Main Files - Remiros' Auri-El HD Redone
 ![PostInstall]
 ~~~
 Delete textures/dlc01/armor/.
-Delete textures/dlc01/weapon/aurielsbow*.
+Delete textures/dlc01/weapons/auriel/aurielsbow*.
 ~~~
 
 ## Remiros' Chitin Armor HD 
