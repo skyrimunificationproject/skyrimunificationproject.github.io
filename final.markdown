@@ -123,7 +123,6 @@ Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag
 SofiaFollower.esp | Apply ESMifier script
 SPO_Ordinated.esp | Add ESL flag
-SSoB.esp | Compact formIDs, add ESL flag
 Stendarr Rising.esp | apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag

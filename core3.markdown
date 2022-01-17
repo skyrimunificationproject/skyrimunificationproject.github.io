@@ -913,7 +913,7 @@ Download: | Main Files - True Directional Movement
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.15` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.17` | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -964,13 +964,17 @@ Download: | Old Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
 
 ## Smooth Combat non Combat Animation 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.5` | Author: `skypia` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52145) | Version: `4.6` | Author: `skypia` | ![Core] ![Visuals]|
 Download: | Main Files - Smooth Combat - Non Combat Animation
 
 ![FOMOD]
 ~~~
 Select:
    * Recommended installation
+Halberd Idle:
+   * Unchecked
+Pike Idle:
+   * Unchecked
 Fast Sprinting:
    * Unchecked
 ~~~
@@ -1265,9 +1269,9 @@ Lanterns:
    * None
 ~~~
 
-## Honed Metal - Updated 
+## Honed Metal - NPC Crafting and Enchanting Services
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61015) | Version: `1.22` | Author: `SkylineR390` | ![Optional] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61015) | Version: `1.22-RC3` | Author: `SkylineR390` | ![Optional] |
 Download: | Main Files - Honed Metal SSE
 
 ## Honed Metal Revoiced
@@ -1417,13 +1421,15 @@ Download: | Main Files - Know Your Enemy Redux
 
 ## VioLens - A Killmove Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/668) | Version: `2.22a` | Author: `Reko` | ![Core] |
-Download: | Main Files - VioLens - A Killmove Mod SE 2.22a
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/668) | Version: `2.30` | Author: `Reko` | ![Core] |
+Download: | Main Files - VioLens - A Killmove Mod SE 2.30
 
 ![FOMOD]
 ~~~
 Core Files (Required):
    * Archive
+Extras (Optional):
+   * None
 ~~~
 
 ## Valravn - Integrated Combat of Skyrim
@@ -1840,7 +1846,7 @@ Download: | Main Files - Water in Wells - mesh-only animated wells
 ![FOMOD]
 ~~~
 Whiterun Well:
-   * Whiterun Well (No Parallax)
+   * None (this is provided by Lux Orbis)
 Solitude Well:
    * Solitude Well (No Parallax)
 Riften Well:

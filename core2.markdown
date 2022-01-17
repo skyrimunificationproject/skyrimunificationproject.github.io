@@ -49,7 +49,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.42` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.44` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -70,7 +70,7 @@ Delete meshes/clutter/candles.
 
 ## Ruins Clutter Improved
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2b` | Author: `raiserfx` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2b` | Author: `raiserfx` | ![Core] ![CAO]|
 Download: | Main Files - Ruins Clutter Improved SE Mod Manager
 
 ![FOMOD]
@@ -81,20 +81,9 @@ Options:
 
 ![PostInstall]
 ~~~
-Delete meshes/dungeons/imperial/portcullissmall01/impportcullissmall01.nif
-~~~
+Delete meshes/dungeons/imperial/portcullissmall01/impportcullissmall01.nif.
 
-## Ruins Clutter Improved - Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21031) | Version: `1.1` | Author: `raiserfx, mnikjom` | ![Core] ![CAO]|
-Download: | Main Files - Ruins Clutter Improved - Fixes 1.1
-Install Instructions | Merge into Ruins Clutter Improved
-
-![PostInstall]
-~~~
-IMPORTANT: This mod should be installed into Ruins Clutter Improved.
-
-Pack mod with CAO.
+Pack the mod with CAO.
 ~~~
 
 ## Noble Skyrim
@@ -1101,7 +1090,7 @@ Add on:
 
 ## Happy Little Trees Add-On - DynDOLOD 3
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `0.9.1` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `1.0` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees 3D Lods performance
 
 ## Aspens Ablaze
@@ -2180,7 +2169,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.0` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.1` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -2202,6 +2191,8 @@ Lava Craters Add-On:
 Further Customization:
    * Disabled Red Glow
    * Reduced Yellow Glow
+Compatibility Patches:
+   * None
 ~~~
 
 ## Animated Forge Water 
@@ -2262,11 +2253,13 @@ Delete textures/architecture/solitude/.
 
 ## Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.2` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.4` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux Orbis
 
 ![FOMOD]
 ~~~
+Requirements - Compatibility patches:
+   * Water in Wells
 Patch Compendium:
    * None (uncheck all)
 Crossover Patches Compendium:

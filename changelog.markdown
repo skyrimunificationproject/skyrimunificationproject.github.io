@@ -3,6 +3,33 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-01-16
+
+---
+
+![Removed]
+~~~
+Core 2 - Ruins Clutter Improved Fixes (revised RCI instructions)
+~~~
+
+![Updated]
+~~~
+Core 1 - Equip Enchantment Fix updated to 1.3.4.
+Core 1 - powerofthree's Papyrus Extender updated to 4.5.7.
+Core 1 - DynDOLOD Resources updated to a19.
+Core 1 - Stackable Stones of Barenziah updated to 2.0.
+Core 2 - Assorted Mesh Fixes updated to 0.44.
+Core 2 - Embers XD updated to 2.5.1.
+Core 2 - Lux Orbis updated to 2.4.
+Core 3 - VioLens updated to 2.30.
+Core 3 - Smooth Combat Non Combat updated to 4.6.
+Core 3 - CBPC updated to 1.4.17.
+Core 3 - Honed Metal updated to 1.22-RC3.
+Core 3 - Water in Wells - updated FOMOD instructions
+~~~
+
+---
+
 # 2022-01-10
 
 ---

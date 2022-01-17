@@ -29,7 +29,7 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.5` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.7` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
 
 ## Scaleform Translation Plus Plus
@@ -109,7 +109,7 @@ Download: | Main Files - Dynamic Volumetric Lighting and Sun Shadows
 
 ## Equip Enchantment Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.3` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.4` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Equip Enchantment Fix
 
 ## Encounter Zones Unlocked SE
@@ -1213,7 +1213,7 @@ SkyUILib (Required):
 
 ## Stackable Stones of Barenziah
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22395) | Version: `1.0` | Author: `geekofalltrades` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22395) | Version: `2.0` | Author: `geekofalltrades` | ![Core] |
 Download: | Main Files - Stackable Stones of Barenziah with Optional Quest Markers
 
 ## The Only Cure - Quest Expansion
@@ -1540,7 +1540,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-17` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-19` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
