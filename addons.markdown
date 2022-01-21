@@ -3,158 +3,36 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
-# Addon - Armor and Weapons
+# Skyrim Unification Project - Optional Addons
 
 ---
 
-## Black Sacrament Armor - CBBE SSE - Bodyslide
+Addons without links are not yet available. Posted here as a roadmap for guide development.
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16687) | Version: `1.7` | Author: `AmethystDeceiver-Jeir-docteure` | ![Core] |
-Download: | Main File - Black Sacrament Armour - SSE CBBE Bodyslide
+## [Core - Addon - Armor and Weapons](addonsWeaponsArmor.html)
 
-## Colovian Leather Armor and Outfit
+A curated selection of additional weapons and armor, integrated into loot distribution.
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50331) | Version: `2` | Author: `Xtudo` | ![Core] |
-Download: | Main Files - Colovian Leather Armor and Outfit SE - CBBE - V2
+## Adventures - Addon - Factions
 
-## Colovian Leather and Outfit - CBBE SSE - Bodyslide
+Lawbringer, Skyrim Realistic Conquering, Organic Factions.
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50683) | Version: `2.0` | Author: `Nekomata17` | ![Core] |
-Download: | Main Files - Colovian Leather Armor and Outfit CBBE
+## Project Arch - Addon - Lore-Friendly Towns
 
-## Divine and Daedric Cloaks
+Towns by Schlitzor or Th3 Duk3 that recreate locations mentioned in previous TES games, or provide a vanilla-feeling village in a location that notably lacks one.
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27797) | Version: `2` | Author: `Alexmancer` | ![Core] |
-Download: | Main Files - Divine Daedric Cloaks
+## ra2 - Addon - Towns
 
-![PostInstall]
-~~~
-Delete DivineDaedricCloaks.esp.
-~~~
+## ra2 - Addon - Dungeons
 
-## ESO Altmer Armor
+## ra2 - Addon - World Changes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14506) | Version: `1.0` | Author: `newermind43` | ![Core] |
-Download: | Main Files - ESO Altmer Armor SSE
+## ra2 - Addon - Quests
 
-## ESO Altmer Armor - CBBE SSE - Bodyslide
+## ra2 - Addon - SlimeSire
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14578) | Version: `2.1` | Author: `Jeir` | ![Core] |
-Download: | Main Files - ESO Altmer Armour - SSE CBBE Bodyslide
+## ra2 - Addon - Trainwiz and Blackreach
 
-## Imperial Guard Centurion Armor
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50410) | Version: `1.2.2` | Author: `johnskyrim` | ![Core] ![Visuals] |
-Download: | Main Files - Imperial Guard Centurion Armor SE - 2k
-| Optional Files - Imperial Guard Centurion Armor SE - ESL
-
-## Imperial Guard Centurion Armor - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49724) | Version: `1.0` | Author: `johnskyrim-Jeir-docteure` | ![Core] |
-Download: | Main Files - JS Imperial Guard Centurion Armor - SSE CBBE BodySlide
-
-## Lustmord Vampire Armor - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21612) | Version: `1.0` | Author: `AmethystDeceiver-coldsun1187-Jeir-docteure` | ![Core] |
-Download: | Main Files - Lustmord Vampire Armour - Standalone Colours - SSE CBBE BodySlide
-
-## Nibenean Armors and Outfit
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50785) | Version: `3` | Author: `Xtudo` | ![Core] ![Visuals]|
-Download: | Main Files - Nibenean Armors and Outfit SE by Xtudo
-
-## Nibenean Armors and Outfit - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51219) | Version: `1.0` | Author: `Nekomata17` | ![Core] |
-Download: | Main Files - Nibenean Armors and Outfit CBBE
-
-## Northgirl Armor - All Colors
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7882) | Version: `1.0` | Author: `anka01` | ![Core] |
-Download: | Optional Files - Northgirl Armor UNP - SSE all Retex include
-
-## Northgirl Armor - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53857) | Version: `1.2` | Author: `Nekomata17` | ![Core] |
-Download: | Main Files - Northgirl Armor CBBE
-
-## Practical Pirate Outfit - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45244) | Version: `1.2` | Author: `QuarantineCouture` | ![Core] |
-Download: | Main Files - practical_pirate
-| Optional Files - practical_pirate_cbbe
-| Misc Files - practical_pirate_bodyslide
-
-## Silverthorn Weaponry
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57370) | Version: `1.5` | Author: `Billyro and Austio` | ![Core] |
-Download: | Main Files - Silverthorn Weaponry
-
-## Wayfarer's Coat
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10194) | Version: `1.0` | Author: `Ellise` | ![Core] |
-Download: | Main Files - Wayfarer's Coat
-
-## Wilderness Witch Outfit - CBBE SSE - Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40963) | Version: `1.0` | Author: `QuarantineCouture` | ![Core] |
-Download: | Main Files - wilderness_witch
-| Optional Files - wilderness_witch_cbbe
-| Misc Files - wilderness_witch_cbbe_bodyslide
-
-## Skyrim Unification Project - Consistency Patches
-
-[![mod]](https://www.dropbox.com/s/o02seag2mrv2vv0/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `2.0.0.8A` | Author: `rev` | ![Core] |
-Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
-
-![FOMOD]
-~~~
-Gameplay:
-   * Select all.
-Items:
-   * Select all
-World:
-   * Select all.
-Other:
-   * RDO
-~~~
-
-## Skyrim Unification Project - Conflict Resolution
-
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.8A` | Author: `rev, ra2` | ![Core] |
-Download: | Skyrim Unification Project - Conflict Resolution.7z
-
-![FOMOD]
-~~~
-Addons:
-   * Weapon and Armor Addon
-Developmental Files:
-   * None
-~~~
-
----
-
-# Addon - Armor and Weapons - Final Steps
-
----
-
-## xEdit
-
-Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
-
-|--
-Plugin | Instructions |
-- | -
-El_WayfarersCoatSSE.esp | Compact formIDs, add ESL flag
-ESO Altmer Armor by NewrMind43.esp | Compact formIDs, add ESL flag
-Northgirl.esp | Compact formIDs, add ESL flag
-
----
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

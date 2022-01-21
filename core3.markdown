@@ -1119,7 +1119,7 @@ Download: | Main Files - XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
 ## XP32 Maximum Skeleton Special Extended - Nemesis - Papyrus Stack Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60363) | Version: `4.8` | Author: `tommas666` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60363) | Version: `4.8.1` | Author: `tommas666` | ![Core]
 Download: | Main Files - XPMSSE - Nemesis - Script Fix
 
 ## XP32 Maximum Skeleton Special Extended - XPMSSE - Uncloaked
@@ -1492,8 +1492,8 @@ Download: | Main Files - Apocalypse 9.45.0
 
 ## Growl - Werebeasts of Skyrim 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31245) | Version: `2.3.0` | Author: `Enai Siaion` | ![Core] |
-Download: | Main Files - Growl 2.3.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31245) | Version: `3.0.0` | Author: `Enai Siaion` | ![Core] |
+Download: | Main Files - Growl 3.0.0
 
 ## Imperious - Races of Skyrim 
 
@@ -1528,8 +1528,8 @@ Delete RoM - Skeleton Replacer HD Patch.esp.
 
 ## Sacrilege - Minimalistic Vampires of Skyrim 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42408) | Version: `2.0.0` | Author: `Enai Siaion` | ![Core] |
-Download: | Main Files - Sacrilege 2.0.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42408) | Version: `2.1.0` | Author: `Enai Siaion` | ![Core] |
+Download: | Main Files - Sacrilege 2.1.0
 
 ## Triumvirate - Mage Archetypes
 
@@ -1900,7 +1900,7 @@ Delete /textures.
 
 ## Fixed Mesh Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.6` | Author: `Catnyss` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.6.1` | Author: `Catnyss` | ![Core] ![Visuals]|
 Download: | Main Files - Fixed Mesh Lighting
 
 ![FOMOD]
@@ -1947,8 +1947,8 @@ Creatures - Patches:
 
 ![PostInstall]
 ~~~
-Delete meshes/landscape/trees/tundradriftwood*.
 Delete meshes/dlc02/landscape/trees/.
+Delete meshes/landscape/trees/tundradriftwood*.
 ~~~
 
 ## ENB Helper
@@ -2284,7 +2284,7 @@ Download: | Main Files - Trade and Barter - Settings Loader
 
 ## VioLens - A Killmove Mod SE - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56674) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56674) | Version: `1.1.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - VioLens - A Killmove Mod SE - Settings Loader
 
 ## XP32 Maximum Skeleton Special Extended - Settings Loader

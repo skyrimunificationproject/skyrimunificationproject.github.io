@@ -3,7 +3,15 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# WIP NOTICE
+
+This module is not ready for download yet. This page is for internal tracking only until the conflict resolution patches are finalized.
+
+---
+
 # Adventures - Mod Changes
+
+---
 
 ## Missives - Worldspace Additions
 
@@ -32,11 +40,382 @@ Expanded Towns and Cities:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
+| Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
+| Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
-## Placeholder
+---
+
+# Adventures - Quests
+
+---
+
+## Falskaar
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
+
+## Falskaar - Wildlife Add-On
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Helgen Reborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Konahrik's Accoutrements
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Moon and Star
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Moonpath to Elsweyr
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Teldryn Serious - A Teldryn Sero Backstory Quest SSE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Teldryn Serious Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Brotherhood of Old
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Forgotten City
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Gray Cowl of Nocturnal
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Grey Cowl of Nocturnal - Alikr Flora Overhaul
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Tools of Kagrenac
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## There Is No Umbra - Chapter II
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Wyrmstooth SE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+---
+
+# Adventures - World Changes and Treasures
+
+---
+
+## Aetherium Armor and Weapons Compilation
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Amulets of Skyrim
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Artifacts of Skyrim
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Artifacts - The Ice Blade of the Monarch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Artifacts - The Tournament of the Ten Bloods
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Cheesemod for EVERYONE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Fossil Mining
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Kthonia's Unique Weapon Pack - Dragonborn Weapons
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Leviathan Axe - Dwemer Artifacts SE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## New Treasure Hunt
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Oblivion Artifact Pack
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Ruin's Edge
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Skyrim's Unique Treasures
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## The Staff of Sheogorath
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Treasure Hunter for SSE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Volkihar Knight - Vampire Armor
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+---
+
+# Adventures - Legacy of the Dragonborn
+
+---
+
+## Legacy of the Dragonborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - BadGremlins Collection
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Interesting NPCs Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Followers Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Museum Exterior Fixes
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Patches
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+![FOMOD]
+~~~
+City and Lighting Overhauls:
+   * None
+Museum Display Expansions:
+   * Allow autochecked
+Armor Additions:
+   * Allow autochecked
+Quest Displays:
+   * Allow autochecked
+Overhaul Systems:
+   * None
+Additional Patches A-M: (select only)
+   * Complete Alchemy and Cooking Overhaul
+   * ESO Imports
+   * Mystic Condenser
+Additional Patches N-Z: (select only)
+   * Reliquary of Myth
+   * RS Children
+Manually Selectable Patches:
+   * Cloaks of Skyrim - Retextured
+   * Ruins Clutter Improved
+   * SMIM
+Legacy Book Covers Skyrim Patches:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/architecture/solitude/serikur house.nif.
+Delete meshes/dlc02/clutter/.
+~~~
+
+## Legacy of the Dragonborn - Perk Menus
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Spelling Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - The Curator's Companion
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - The Brotherhood of Old Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Unofficial YASTM Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Volkihar Knight Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Fixes and Tweaks
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Legacy Safehouse Plus
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Mystic Condenser
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Quest and Reward Delay for Legacy of the Dragonborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+---
+
+# Adventures - NPC Retextures
+
+---
+
+## Legacy of the Dragonborn - NPC Overhaul
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Falskaar
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Helgen Reborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Legacy of the Dragonborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Moon and Star
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Moonpath to Elsweyr
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - The Forgotten City
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+## Modpocalypse NPCs - Wyrmstooth
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+Download: | Filename
+
+---
+
+# Adventures - Meshes and Textures
+
+---
+
+---
+
+# Adventures - Conflict Resolution
+
+---
+
+---
+
+# Adventures - Final Steps
+
+---
+
+## xEdit
+
+Use the Quick Auto Clean shortcut to clean the following plugins one by one:
+
+|--
+Plugin |
+- | -
+Placeholder.esp |
+
+Manually edit Falskaar.esp: Delete "Landscape Texture" top group.
+
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
+
+|--
+Plugin | Instructions |
+- | -
+Artifacts.esp | Apply ESMifier script
+DBM_HelgenReborn.esp | Apply ESMifier script
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

@@ -143,10 +143,11 @@ This is for users who wish to generate grass LODs on their own.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40261) | Version: `4.06` | Author: `Maxsu` | ![Core] |
 Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.06
+| Optional Files - NPC AI Process Pos Fixed -- Immersive Citizen Patch
 
 ## powerofthree's Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.4.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.5.1` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - powerofthree's Tweaks SE
 
 ## Scrambled Bugs

@@ -334,6 +334,7 @@ Download: | Main Files - Mrf's Solitude 4K
 ![PostInstall]
 ~~~
 Delete meshes.
+Delete textures/architecture/solitude/smanhole*.
 Delete Mrf Solitude.esp.
 ~~~
 
@@ -592,7 +593,7 @@ Delete meshes/dlc02/dungeons/dwemer/animated.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
-| Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v4
+| Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v5
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
 | Note: During install right-click 4K and set as Data Directory

@@ -3,6 +3,25 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-01-21
+
+---
+
+![Updated]
+~~~
+Core 1 - powerofthree's Tweaks updated to 1.5.1.
+Core 1 - NPC AI Process Pos Fix - added optional file.
+Core 2 - Ancient Dwemer Metal My Patches optional updated to v5.
+Core 3 - Violens Setting Loader updated to 1.1.0.
+Core 3 - Fixed Mesh Lighting updated to 1.6.1.
+Core 3 - XPMSSE Nemesis Papyrus Stack Fix updated to 4.8.1.
+Core 3 - Growl updated to 3.0.0.
+Core 3 - Sacrilege updated to 2.1.0.
+
+~~~
+
+---
+
 # 2022-01-16
 
 ---
