@@ -1325,7 +1325,7 @@ Download: | Main Files - RUSTIC COOKING - Special Edition - 2K
 
 ## Salts Retextured
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.4` | Author: `cunny1975` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.5` | Author: `cunny1975` | ![Visuals] |
 Download: | Main Files - Retextured Salts with FX
 
 ## Scallions of Skyrim - High Polygon Leeks
