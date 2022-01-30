@@ -64,7 +64,7 @@ Version:
 
 ## Citizens of Tamriel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29069) | Version: `Final` | Author: `Craftian` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29069) | Version: `Redux` | Author: `Craftian` | ![Core] ![CAO]|
 Download: | Main Files - Citizens of Tamriel SE - Complete
 
 ![PostInstall]
@@ -1271,7 +1271,7 @@ Lanterns:
 
 ## Honed Metal - NPC Crafting and Enchanting Services
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61015) | Version: `1.22-RC3` | Author: `SkylineR390` | ![Optional] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61015) | Version: `1.22` | Author: `SkylineR390` | ![Optional] |
 Download: | Main Files - Honed Metal SSE
 
 ## Honed Metal Revoiced
@@ -1416,7 +1416,7 @@ Download: | Main Files - Odin 1.9.1
 
 ## Know Your Enemy Redux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55045) | Version: `1.2.1` | Author: `tjhm4` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55045) | Version: `1.3.1` | Author: `tjhm4` | ![Core] |
 Download: | Main Files - Know Your Enemy Redux
 
 ## VioLens - A Killmove Mod
@@ -1900,7 +1900,7 @@ Delete /textures.
 
 ## Fixed Mesh Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.6.1` | Author: `Catnyss` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.6.2` | Author: `Catnyss` | ![Core] ![Visuals]|
 Download: | Main Files - Fixed Mesh Lighting
 
 ![FOMOD]
@@ -1928,8 +1928,6 @@ Trees - Main:
 Trees - Patches:
    * Assorted Mesh Fixes
    * SMIM
-Trees - Aspens Ablaze:
-   * Autumn
 Ice - Patches:
    * Arctic
    * Landscape and Water Fixes
@@ -2189,8 +2187,8 @@ Developmental Files:
 
 ## Bodyslide and Outfit Studio
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.4.2` | Author: `Ousnius and Caliente` | ![Core] |
-Download: | Main Files - BodySlide and Outfit Studio - v5.4.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.5.1` | Author: `Ousnius and Caliente` | ![Core] |
+Download: | Main Files - BodySlide and Outfit Studio - v5.5.1
 
 ![PostInstall]
 ~~~
@@ -2206,11 +2204,6 @@ Download: | Old Files - JContainers SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Version: `1.5.4` | Author: `Andrelo` | ![Core] |
 Download: | Main Files - MfgFix SE
-
-## More Informative Console
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `0.43` | Author: `Linthar` | ![Core] |
-Download: | Main Files - More Informative Console 0.43
 
 ## PapyrusUtil
 

@@ -49,7 +49,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.44` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.45.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -598,7 +598,6 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
 | Note: During install right-click 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
-| Optional Files - Ancient Dwemer Metal - My patches - Spellbreaker
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
 
 ---
@@ -633,7 +632,6 @@ Download: | Main Files - HD Reworked Falmer Architecture 4K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38371) | Version: `1.00` | Author: `Gravos8890` | ![Visuals] |
 Download: | Main Files - Skyrim Remastered - Azura and Blackreach Crystals 4K
-| Optional Files - Skyrim Remastered - Blackreach Crystals CACO Patch
 
 ## Skyrim Remastered - Caves
 
@@ -909,6 +907,25 @@ Download: | Main Files - Septentrional Landscapes 4K SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27041) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]|
 Download: | Main Files - Northern Shores 4K
 
+## Blended Roads
+
+[![mod]]() | Version: `1.7` | Author: `T4gtr34um3r` | ![Core]
+Download | Main Files - Blended Roads
+
+[!FOMOD]
+~~~
+Main Files:
+   * Really Blended Roads
+SMIM Compatibility patch:
+   * Really Blended Roads
+~~~
+
+[!PostInstall]
+~~~
+Delete BlendedRoads.esp.
+Delete textures/dlc02/.
+~~~
+
 ## Blended Roads - Redone
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26270) | Version: `1.5.1` | Author: `winedave` | ![Core] ![Visuals]
@@ -1096,11 +1113,15 @@ Download: | Main Files - Happy Little Trees 3D Lods performance
 
 ## Aspens Ablaze
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39998) | Version: `2.32` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39998) | Version: `2.33` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Aspens Ablaze 2.0
 
 ![FOMOD]
 ~~~
+Plugin Selection:
+   * With Thickets
+Size:
+   * Normal
 Leaf Color:
    * Autumnal
 LOD Assets:
@@ -1605,7 +1626,6 @@ Delete Praedy's Gemstones ISCPatched.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48825) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
 Download: | Main Files - ElSopa - HD Medieval Anvil 2k
-| Optional Files - ElSopa - Medieval Anvil Embers XD Patch
 | Optional Files - ElSopa - Medieval Anvil Hammer HotFix
 
 ## HD Executioner's Block

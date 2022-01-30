@@ -3,6 +3,37 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-01-29
+
+---
+
+![Added]
+~~~
+Core 2 - Blended Roads (required blackreach meshes)
+~~~
+
+![Updated]
+~~~
+Core 1 - Dear Diary Dark mode updated to 1.0.1.
+Core 1 - Timing Is Everything changed to non-FISS version.
+Core 1 - Simple Block Sparks updated to 0.31.
+Core 1 - Extended Encounters updated to 1.6.4.
+Core 1 - Base Object Swapper updated to 1.3.0.
+Core 2 - Aspens Ablaze updated to 2.33.
+Core 2 - Ancient Dwemer Metal Patches - removed Spellbreaker
+Core 2 - HD Medieval Anvil - removed Embers patch (covered by Animated Forge Water)
+Core 2 - Assorted Mesh Fixes updated to 0.45.1.
+Core 2 - Skyrim Remastered Azura and Blackreach Crystals - removed CACO patch
+Core 3 - Fixed Mesh Lighting updated to 1.6.2.
+Core 3 - Honed Metal updated to 1.22.
+Core 3 - Know Your Enemy Redux updated to 1.3.1.
+Core 3 - Citizens of Tamriel updated to Redux.
+Core 3 - Bodyslide updated to 5.5.1.
+Core 3 - More Informative Console moved to SKSE Plugins
+~~~
+
+---
+
 # 2022-01-21
 
 ---

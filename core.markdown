@@ -35,7 +35,7 @@ Download: | Main Files - Papyrus Extender SE
 ## Scaleform Translation Plus Plus
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22603) | Version: `1.4.1` | Author: `Ryan` | ![Core] |
-Download: | Main Files - ScaleformTranslationPP
+Download: | Old Files - ScaleformTranslationPP
 
 ## Skyrim Skill Uncapper
 
@@ -51,6 +51,11 @@ Create a new 'DLLPlugins' folder in the mod and move SkyrimUncapper.dll into it
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `5.2.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Spell Perk Item Distributor - SSE
+
+## More Informative Console
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `0.43` | Author: `Linthar` | ![Core] |
+Download: | Main Files - More Informative Console 0.43
 
 ## Actor Limit Fix
 
@@ -69,7 +74,7 @@ Download: | Main Files - Autorun
 
 ## Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.3.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Base Object Swapper SE
 
 ## Better Combat Escape
@@ -182,8 +187,8 @@ Textures:
 
 ## Simple Block Sparks - Script Free
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.25` | Author: `maxsu2017` | ![Core]
-Download: | Main Files - Simple Block Sparks
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.31` | Author: `maxsu2017` | ![Core]
+Download: | Main Files - Simple Block Sparks - v0.31SE
 
 ## Splashes of Skyrim
 
@@ -565,9 +570,8 @@ Khajiit Caravan Markers:
 
 ## Dear Diary Dark Mode - SkyUI Menus Replacer SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60837) | Version: `1.0.0` | Author: `uranreactor` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60837) | Version: `1.0.1` | Author: `uranreactor` | ![Core]
 Download: | Main Files - Dear Diary Dark Mode (texts - warm color) 
-| Optional Files - Patch for CoMAP
 
 ![FOMOD]
 ~~~
@@ -619,6 +623,8 @@ Wheel Menu
    * Yes
 Cursors
    * Yes, static
+Markers
+   * Both map and compass + COMAP
 Font
    * No
 New UI Sounds
@@ -1287,7 +1293,7 @@ Download: | Main Files - Thieves Night On The Town
 ## Timing is Everything
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25464?tab=files) | Version: `2.2` | Author: `kryptopyr` | ![Core] |
-Download: | Main Files - Timing is Everything SE - FISS version
+Download: | Main Files - Timing is Everything SE
 
 ---
 
@@ -1332,7 +1338,7 @@ Auto-Conversion:
 
 ## Extended Encounters
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | Version: `1.6.3` | Author: `Jonx0r` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | Version: `1.6.4` | Author: `Jonx0r` | ![Core] |
 Download: | Main Files - Extended Encounters
 
 ## Headhunter - Bounties Redone
