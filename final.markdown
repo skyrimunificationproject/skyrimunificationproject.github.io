@@ -81,7 +81,6 @@ iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
-Improved Traps.esp | Add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Lucien.esp | Apply ESMifier script
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -116,14 +115,14 @@ Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SimplyKnock.esp | Apply ESMifier script
-SkyrimSewers.esp | apply ESMifier script
+SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag
 SofiaFollower.esp | Apply ESMifier script
 SPO_Ordinated.esp | Add ESL flag
-Stendarr Rising.esp | apply ESMifier script
+Stendarr Rising.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
@@ -182,7 +181,6 @@ AOSISCSoundPatcher
 Khajiitearsshow
 NoDragonLods
 OppositeAnimationDisabler
-WaterDoesDamagePatcher
 ~~~
 
 Select the icon on the bottom left to run the patchers

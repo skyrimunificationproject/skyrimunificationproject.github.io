@@ -163,7 +163,7 @@ Download: | Main Files - Scrambled Bugs
 
 ## Security Overhaul SKSE - Lock Variations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `2.1.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58224) | Version: `3.0` | Author: `kreiste-wSkeever-powerofthree` | ![Core] |
 Download: | Main Files - Security Overhaul SKSE - Lock Variations
 
 ![FOMOD]
@@ -176,8 +176,19 @@ DLL:
 
 ## Security Overhaul SKSE - Add-Ons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59529) | Version: `0.1.2` | Author: `krieste-wSkeever-powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59529) | Version: `0.1.4` | Author: `krieste-wSkeever-powerofthree` | ![Core]
 Download: | Main Files - Security Overhaul SKSE - Add-ons
+
+![FOMOD]
+~~~
+Textures:
+   * 4K Textures
+~~~
+
+## Security Overhaul SKSE - Regional Locks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62781) | Version: `1.0.1` | Author: `powerofthree - Kreiste - wSkeever` | ![Core]
+Download: | Main Files - Security Overhaul SKSE - Regional Locks
 
 ![FOMOD]
 ~~~
@@ -366,12 +377,12 @@ Download: | Main Files - Unofficial Material Fix
 
 ## Vanilla Script (micro)Optimizations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.14` | Author: `Subhuman0100` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.15a` | Author: `Subhuman0100` | ![Core] |
 Download: | Main Files - Vanilla Script microOptimizations
 
 ## Whiterun Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48120) | Version: `1.1.5` | Author: `NeverLost` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48120) | Version: `1.2.5` | Author: `NeverLost` | ![Core] |
 Download: | Main Files - Whiterun Mesh Fixes
 
 ---
@@ -529,7 +540,7 @@ Download: | Optional Files - moreHUD SE Light Master - Pre AE
 
 ## moreHUD - Inventory Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `1.0.18` | Author: `Ahzaab` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18619) | Version: `1.0.19` | Author: `Ahzaab` | ![Core] |
 Download: | Optional Files - moreHUD Inventory Edition Loose Version - Pre AE
 
 ## SkyHUD
@@ -1054,7 +1065,7 @@ Download: | Main Files - AtCW - Siege Damage Repairs
 
 ## At Your Own Pace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.4.3` | Author: `agd25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.2.0MG, 1.1.0MS` | Author: `agd25` | ![Core] |
 Download: | Main Files - At Your Own Pace - College of Winterhold
 | Main Files - At Your Own Pace - Misc
 
@@ -1207,8 +1218,8 @@ Download: | Main Files - Save the Icerunner
 
 ## Skyrim Unbound Reborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27962) | Version: `1.6.15` | Author: `chinagreenelvis - lilebonymace` | ![Core] |
-Download: | Main Files - Skyrim Unbound Reborn
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27962) | Version: `1.7.0` | Author: `chinagreenelvis - lilebonymace` | ![Core] |
+Download: | Old Files - Skyrim Unbound Reborn
 
 ![FOMOD]
 ~~~
@@ -1283,7 +1294,7 @@ Download: | Main Files - Radiant Requirements
 ## Thieves Guild Requirements
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33256) | Version: `4.0` | Author: `kryptopyr` | ![Core] |
-Download: | Main Files - Thieves Guild Requirements SE - FISS Version
+Download: | Old Files - Thieves Guild Requirements SE - FISS Version
 
 ## Thieves' Night On the Town
 
@@ -1547,7 +1558,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-19` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-20` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

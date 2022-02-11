@@ -3,6 +3,42 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-02-11
+
+---
+
+![Added]
+~~~
+Core 1 - Security Overhaul SKSE - Regional Locks
+Core 3 - Late Loaders ENB - Dark Elf Lantern ENB Light
+Core 3 - Late Loaders ENB - Unique Markarth Doors
+~~~
+
+![Updated]
+~~~
+Core 1 - Whiterun Mesh Fixes updated to 1.2.5.
+Core 1 - Security Overhaul SKSE updated to 3.0.
+Core 1 - MoreHUD Inventory Edition updated to 1.0.19.
+Core 1 - Skyrim Unbound Reborn updated to 1.7.0.
+Core 1 - At Your Own Pace updated to 1.2.0MG.
+Core 1 - Security Overhaul SKSE - Add-ons updated to 0.1.4.
+Core 1 - Vanilla Script MicroOptimizations updated to 1.15a.
+Core 2 - Ancient Dwemer Metal Patches - Added Security Overhaul Regional Locks patch
+Core 2 - Water for ENB updated to 1.54.
+Core 2 - Embers XD updated to 2.5.2.
+Core 2 - Simplicity of Snow updated to 0.5.1.
+Core 2 - Aspens Ablaze Add-On - DynDOLOD updated to 2.0.2.
+Core 2 - JS Dragon Claws AE updated to 1.2.
+Core 2 - Aspens Ablaze updated to 2.35.
+Core 3 - XPMSSE Nemesis Papyrus Stack Fix updated to 4.8.2.
+Core 3 - Bodyslide updated to 5.5.2.
+Core 3 - True Directional Movement updated to 2.0.2.
+Core 3 - MoreHUD SE Settings Loader updated to 2.1.1.
+Core 3 - Improved Traps updated to 2.5.
+~~~
+
+---
+
 # 2022-01-29
 
 ---

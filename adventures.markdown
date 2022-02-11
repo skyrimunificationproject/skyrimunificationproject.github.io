@@ -43,6 +43,30 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Com
 | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
 | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
+##  JS Dragon Claws 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
+Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
+
+![FOMOD]
+~~~
+Legacy of the Dragonborn:
+   * LOTD + Display Compatibility
+Wyrmstooth:
+   * Wyrmstooth + LOTD
+Konahrik's Accoutrements:
+   * Konahrik's Accoutrements + LOTD
+Helgen Reborn:
+   * Helgen Reborn + LOTD
+Skyrim Sewers:
+   * Skyrim Sewers + LOTD
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
 ---
 
 # Adventures - Quests
@@ -415,7 +439,19 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 Artifacts.esp | Apply ESMifier script
-DBM_HelgenReborn.esp | Apply ESMifier script
+DBM_HelgenReborn_Patch.esp | Apply ESMifier script
+FGCLeviathanAxe.esp | Apply ESMifier script
+FloatingSwordFollower.esp | Apply ESMifier script
+ForgottenCity.esp | Apply ESMifier script
+Helgen Reborn.esp | Apply ESMifier script
+konahrik_accoutrements.esp | Apply ESMifier script
+MoonAndStar_MAS.esp | Apply ESMifier script
+moonpath.esp | Apply ESMifier script
+The Brotherhood of Old.esp | Apply ESMifier script
+Tools of Kagrenac.esp | Apply ESMifier script
+TreasureHunter.esp | Apply ESMifier script
+TSR_TeldrynSerious.esp | Apply ESMifier script
+Wyrmstooth.esp | Apply ESMifier script
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

@@ -3,6 +3,48 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# WIP NOTICE
+
+This module is not ready for download yet. This page is for internal tracking only until the conflict resolution patches are finalized.
+
+---
+
+## xEdit
+
+Use the Quick Auto Clean shortcut to clean the following plugins one by one:
+
+|--
+Plugin |
+- | -
+Placeholder.esp |
+
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
+
+|--
+Plugin | Instructions |
+- | -
+BluePalaceTerrace.esp | Apply ESMifier script
+ClefJ's Winterhold.esp | Apply ESMifier script
+COTN - Dawnstar.esp | Apply ESMifier script
+COTN - Falkreath.esp | Apply ESMifier script
+ETaC - Complete.esp | Apply ESMifier script
+Extravagant Blue Palace.esp | Apply ESMifier script
+JK's Skyrim.esp | Apply ESMifier script
+MarkarthBookstoreSE.esp | Apply ESMifier script
+OldHroldanRuins.esp | Apply ESMifier script
+Riften Docks Overhaul.esp | Apply ESMifier script
+RodryksDragonBridge.esp | Apply ESMifier script
+Settlements Expanded SE.esp | Apply ESMifier script
+SkyHavenTempleGarden.esp | Apply ESMifier script
+Tel Mithryn.esp | Apply ESMifier script
+Undriel_QuaintRavenRock.esp | Apply ESMifier script
+WindhelmEntranceOverhaul.esp | Apply ESMifier script
+WindhelmSSE.esp | Apply ESMifier script
+
+JK's High Hrothgar.esp | Apply ESMifier script
+JK's Temple of the Divines.esp | Apply ESMifier script
+
+---
 
 ## Placeholder
 

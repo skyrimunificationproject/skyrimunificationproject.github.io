@@ -908,8 +908,8 @@ Download: | Main Files - Animation Motion Revolution
 
 ## True Directional Movement 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `1.4.3` | Author: `Ersh` | ![Core] |
-Download: | Main Files - True Directional Movement
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `2.0.2` | Author: `Ersh` | ![Core] |
+Download: | Main Files - True Directional Movement (SE)
 
 ## CBPC - Physics with Collisions 
 
@@ -1119,7 +1119,7 @@ Download: | Main Files - XP32 Maximum Skeleton Special Extended - Fixed Scripts
 
 ## XP32 Maximum Skeleton Special Extended - Nemesis - Papyrus Stack Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60363) | Version: `4.8.1` | Author: `tommas666` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60363) | Version: `4.8.2` | Author: `tommas666` | ![Core]
 Download: | Main Files - XPMSSE - Nemesis - Script Fix
 
 ## XP32 Maximum Skeleton Special Extended - XPMSSE - Uncloaked
@@ -1833,10 +1833,15 @@ Download: | Main Files - Sacrosanct - Skeleton Replacer HD Patch
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.5.6` | Author: `NeverLose, DuskyB` | ![Core] ![Visuals] |
 Download: | Main Files - Skyrim - A Mountainous Experience
 
+## Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62969) | Version: `0.2.1.1` | AUthor: `wSkeever` ![Core]![Visuals]
+Download: | Main Files - Unique Markarth Doors
+
 ## Upgraded Blackreach Mushrooms For CACO
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58065) | Version: `1.0` | Author: `BKCXb` | ![Core] ![Visuals] |
-Download: | Upgraded Blackreach Mushrooms for CACO - Skyrim Remastered
+Download: | Main Files - Upgraded Blackreach Mushrooms for CACO - Skyrim Remastered
 
 ## Water in Wells
 
@@ -1995,6 +2000,11 @@ Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
 Delete meshes/dlc02/landscape/trees/.
 Delete meshes/magic/fireball01handeffects.nif.
 ~~~
+
+## Dark Elf Lantern ENB Light - Animated Glow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63176) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
+Download | Main Files - Dark Elf Lantern ENB Light
 
 ## ENB Fixes - Word Wall Transparency
 
@@ -2187,8 +2197,8 @@ Developmental Files:
 
 ## Bodyslide and Outfit Studio
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.5.1` | Author: `Ousnius and Caliente` | ![Core] |
-Download: | Main Files - BodySlide and Outfit Studio - v5.5.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.5.2` | Author: `Ousnius and Caliente` | ![Core] |
+Download: | Main Files - BodySlide and Outfit Studio - v5.5.2
 
 ![PostInstall]
 ~~~
@@ -2242,8 +2252,8 @@ Download: | Main Files - Immersive HUD - Settings Loader
 
 ## moreHUD SE - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55503) | Version: `2.1` | Author: 'MaskedRPGFan' | ![Core] |
-Download: | Main Files - moreHUD SE - Settings Loader
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55503) | Version: `2.1.1` | Author: 'MaskedRPGFan' | ![Core] |
+Download: | Main Files - moreHUD SE PapyrusUtil - Settings Loader
 
 ## Nether's Follower Framework - Settings Loader
 

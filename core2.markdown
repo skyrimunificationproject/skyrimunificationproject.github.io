@@ -599,6 +599,7 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Note: During install right-click 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
+| Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
 
 ---
 
@@ -1026,7 +1027,7 @@ Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.5` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.5.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
 
 ![PostInstall]
@@ -1049,7 +1050,7 @@ Patches:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.53` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.54` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -1113,7 +1114,7 @@ Download: | Main Files - Happy Little Trees 3D Lods performance
 
 ## Aspens Ablaze
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39998) | Version: `2.33` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39998) | Version: `2.35` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Aspens Ablaze 2.0
 
 ![FOMOD]
@@ -1130,8 +1131,8 @@ LOD Assets:
 
 ## Aspens Ablaze - Add-On - DynDOLOD 3
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51135) | Version: `1.0.0` | Author: `z929669` | ![Core] ![Visuals]|
-Download: | Main Files - Aspens Ablaze 2.32 - Autumnal - DynDOLOD
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51135) | Version: `2.0.2` | Author: `z929669` | ![Core] ![Visuals]|
+Download: | Main Files - Aspens Ablaze 2.35 - Autumnal - DynDOLOD
 
 ---
 
@@ -1671,7 +1672,7 @@ Metal Options:
 
 ##  JS Dragon Claws 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.1` | Author: `johnskyrim` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
 Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
 
 ![FOMOD]
@@ -1685,7 +1686,12 @@ Konahrik's Accoutrements:
 Helgen Reborn:
    * None
 Skyrim Sewers:
-   * None
+   * Skyrim Sewers
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
 ~~~
 
 ## JS Instruments of Skyrim
@@ -1902,10 +1908,10 @@ Delete Skyrim Remastered - Soul Gems.esp.
 ## Snazzy Furniture and Clutter Overhaul 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `1.73` | Author: `Gutmaw` | ![Core] ![Visuals]|
-Download: | Main Files - Snazzy Furniture and Clutter Overhaul SE
-| Optional Files - Snazzy Ancient Dwemer Display Case
-| Optional Files - Snazzy Vanilla Noble Chair Patch - SSE
-| Optional Files - Snazzy Weapon Plaque and Display Case Patch for Rustic Furniture
+Download: | Old Files - Snazzy Furniture and Clutter Overhaul SE
+Install as separate mod | Optional Files - Snazzy Ancient Dwemer Display Case
+Install as separate mod | Optional Files - Snazzy Vanilla Noble Chair Patch - SSE
+Install as separate mod | Optional Files - Snazzy Weapon Plaque and Display Case Patch for Rustic Furniture
 
 ![FOMOD]
 ~~~
@@ -2190,7 +2196,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.1` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.2` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
