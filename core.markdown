@@ -430,6 +430,12 @@ Download: | Main Files - Stones of Solitude - Better Blended Rock Piles
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61978) | Version: `1.0.1` | Author: `tarlazo` | ![Core]
 Download: | Main Files - TrapSwingingWall Script Fix
 
+![FOMOD]
+~~~
+TrapSwingingWall Script Fix:
+   * Improved Traps
+~~~
+
 ## Unofficial Material Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21027) | Version: `1.17` | Author: `Elzee` | ![Core] |
