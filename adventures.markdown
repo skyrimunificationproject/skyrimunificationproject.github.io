@@ -75,77 +75,89 @@ Delete *.esp.
 
 ## Falskaar
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Falskaar - Wildlife Add-On
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Comprehensive Falskaar Fixes
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Helgen Reborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Helgen Reborn with Level and Quest Requirement
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Konahrik's Accoutrements
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Moon and Star
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
+| Replacer ESP
 
 ## Moonpath to Elsweyr
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
+| Replacer ESP
 
 ## Teldryn Serious - A Teldryn Sero Backstory Quest SSE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Teldryn Serious Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Brotherhood of Old
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Forgotten City
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Gray Cowl of Nocturnal
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Grey Cowl of Nocturnal - Alikr Flora Overhaul
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Tools of Kagrenac
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## There Is No Umbra - Chapter II
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Wyrmstooth SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ---
@@ -154,39 +166,44 @@ Download: | Filename
 
 ---
 
+## Additional Hearthfire Dolls
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
 ## Aetherium Armor and Weapons Compilation
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Amulets of Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Artifacts of Skyrim
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Artifacts - The Ice Blade of the Monarch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Artifacts - The Tournament of the Ten Bloods
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Cheesemod for EVERYONE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Fossil Mining
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## JaySuS Swords
@@ -203,47 +220,52 @@ Core Files:
 
 ## Kthonia's Unique Weapon Pack - Dragonborn Weapons
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Leviathan Axe - Dwemer Artifacts SE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## New Treasure Hunt
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Oblivion Artifact Pack
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Ruin's Edge
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Runic Dawnguard - Separated Lost Relic Questline
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Skyrim's Unique Treasures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## The Staff of Sheogorath
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Treasure Hunter for SSE
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Volkihar Knight - Vampire Armor
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ---
@@ -254,32 +276,32 @@ Download: | Filename
 
 ## Legacy of the Dragonborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - BadGremlins Collection
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Interesting NPCs Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Followers Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Museum Exterior Fixes
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ![FOMOD]
@@ -317,57 +339,67 @@ Delete meshes/dlc02/clutter/.
 
 ## Legacy of the Dragonborn - Perk Menus
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Spelling Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - The Brotherhood of Old Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Unofficial YASTM Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Volkihar Knight Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Legacy of the Dragonborn - Fixes and Tweaks
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## EVG Conditional Idles - Mannequin Modesty Fix
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Legacy Safehouse Plus
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Mystic Condenser
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Quest and Reward Delay for Legacy of the Dragonborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Relic Hunter - Guildmaster Start
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ---
@@ -378,42 +410,42 @@ Download: | Filename
 
 ## Legacy of the Dragonborn - NPC Overhaul
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Falskaar
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Helgen Reborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Legacy of the Dragonborn
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Moon and Star
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Moonpath to Elsweyr
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - The Forgotten City
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ## Modpocalypse NPCs - Wyrmstooth
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
 ---
@@ -421,6 +453,126 @@ Download: | Filename
 # Adventures - Meshes and Textures
 
 ---
+
+## Aetherium Armor and Weapons Compilation - Enhancements
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Amulet of Kings Replacer - Legacy of the Dragonborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Antique Statue HD
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Better Falskaar and Wyrmstooth Map With Roads
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Better Wine Labels - Vanilla and Legacy of the Dragonborn
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Konahrik's Accoutrements Upscaled Textures
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn CBBE Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn Dome Retexture
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Dwemer Compass Replacer
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Fate Cards Retexture
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn - Museum Dome Improved
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn Plaques Retexture
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Legacy of the Dragonborn - SMIM Chests
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## LOTD Dragonmail Cuirass Enhanced
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## LOTD Upscale - Ancient Shrouded Armor
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## The Brotherhood of Old SE - 4x Upscaled Textures
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## The Gray Cowl of Nocturnal - HD Retexture
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Visage of the Dragonborn 4k Upscaled (Gifts of Akatosh)
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Volkihar Knight - CBBE SSE - Bodyslide
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Wyrmstooth Metallurgy Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Wyrmstooth Upscaled Textures
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Compilation
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Ancient Dwemer Metal - My Patches - The Tools of Kagrenac
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
 
 ---
 
