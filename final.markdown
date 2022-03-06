@@ -32,6 +32,7 @@ Plugin |
 AHZBetterDGEntranceSE.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
+NoBrokenWhiterunTower.esp |
 Sepolcri.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -82,14 +83,15 @@ Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
-Lucien.esp | Apply ESMifier script
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
 LovelyLetter.esp | Add ESL flag
+Lucien.esp | Apply ESMifier script
 Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 NB-Scars.esp | Compact formIDs, add ESL flag
+NoBrokenWhiterunTower.esp | Apply ESMifier script
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
@@ -103,9 +105,9 @@ RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
 Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
+ReadingImprovesSpeech.esp | Add ESL flag
 Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
 RealRainSE.esp | Add ESL flag
-ReadingImprovesSpeech.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
 s606t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
@@ -115,7 +117,6 @@ Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SimplyKnock.esp | Apply ESMifier script
-SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
@@ -131,7 +132,6 @@ UniqueBorderGates-All.esp | Apply ESMifier script, compact formIDs, add ESL flag
 UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
-Water for ENB (Shades of Skyrim).esp | Apply ESMifier script
 Waymark.esp | Apply ESMifier script
 WedDialogueFix.esp | Add ESL flag
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script

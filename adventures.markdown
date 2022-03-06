@@ -189,6 +189,18 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
 Download: | Filename
 
+## JaySuS Swords
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29415) | Version: `1.8` | Author: `JaySuS, Zeknapain` | ![Core] ![Adventures] ![CAO]|
+Download: | Main Files - JaySuS Swords SE - All in one
+| Optional Files - Baskethilt straps fix
+
+![FOMOD]
+~~~
+Core Files:
+   * JaySus Swords-Craft Only Version
+~~~
+
 ## Kthonia's Unique Weapon Pack - Dragonborn Weapons
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |

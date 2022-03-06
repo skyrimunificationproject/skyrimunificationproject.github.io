@@ -3,6 +3,123 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-03-05
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE Plugins - Better Third Person Selection
+Core 1 - SKSE Plugins - Enhanced Invisibility
+Core 1 - SKSE Plugins - Enhanced Volumetric Lighting and Shadows
+Core 1 - SKSE Plugins - Immersive Equipment Displays
+Core 1 - SKSE Plugins - Keyword Item Distributor
+Core 1 - SKSE Plugins - Pause After Load Unscripted
+Core 1 - SKSE Plugins - Screenshot Helper
+Core 1 - SKSE Plugins - Shield of Stamina - Blocking Redux
+Core 1 - Bug Fixes - dunPOISoldierRaidOnStart Script Fix
+Core 1 - Bug Fixes - Floating Ash Pile Fix
+Core 1 - Bug Fixes - Neloth's Experimental Subject Quest Fix
+Core 1 - Bug Fixes - TrapSwingingWall Script Fix
+Core 1 - Bug Fixes - WIDeadBodyCleanupScript Crash Fix
+Core 1 - Camera - Alternate Conversation Camera Tweaks
+Core 1 - Modified Vanilla Content - Alternate Start Live Another Life
+Core 1 - Modified Vanilla Content - Whiterun Watchtower Doesn't Start Broken
+Core 2 - General World Improvement - High Poly Project My Fixes
+Core 2 - Architecture - Ancient AF Windhelm
+Core 2 - Environment - Water Effects Brightness and Reflection Fix
+Core 2 - Trees and Grasses - Canticle Tree - Bark and Draw Knife Retexture
+Core 2 - Trees and Grasses - Fancy Sleeping Tree Replacer
+Core 2 - Trees and Grasses - Remove Small Rocks
+Core 2 - Food Flora Ingredients - Dusty Vampire Dust
+Core 2 - Food Flora Ingredients - Eerie Ectoplasm
+Core 2 - Food Flora Ingredients - Icy Wraith Teeth
+Core 2 - Food Flora Ingredients - Surreal Spriggan Sap
+Core 2 - Food Flora Ingredients - Volatile Void Salts
+Core 2 - Clutter and Miscellaneous - Awesome Potions Simplified
+Core 2 - Clutter and Miscellaneous - SMIM Upper Furniture Wood Retexture
+Core 2 - Clutter and Miscellaneous - XNFRain's Civil War Map Flag Replacer
+Core 2 - Lighting - Lux Via
+Core 2 - Clothing and Jewelry - Elder Council Amulet Retexture
+Core 3 - NPC Retexture - Modpocalypse NPCs - Alternate Start Live Another Life
+Core 3 - NPC Retexture - Northbourne NPCs of Hjaalmarch
+Core 3 - Hair and Eyes - Brows by Hvergelmir for High Poly Head
+Core 3 - Animation Conditional - Conditional Tavern Cheering
+Core 3 - Animation Conditional - Immersive Folded Hands
+Core 3 - Animation Conditional - NPC Animation Remix
+Core 3 - Animation Conditional - Smooth Magic Casting Animation
+Core 3 - Animation Conditional - Smooth Staff Animation
+Core 3 - Animation Conditional - UNDERDOG Animations
+Core 3 - Dialogue and Relationships - Bandit Lines Expansion
+Core 3 - Immersion - Honed Metal .ini for Ordinator
+Core 3 - Late Loaders - CACO - Awesome Potions Simplified (Patch)
+Core 3 - Late Loaders - Custom Skills Menu
+Core 3 - Late Loaders Meshes - Animated Coffins
+Core 3 - Late Loaders Meshes - Better Windhelm Ground Meshes
+Core 3 - Late Loaders Meshes - Bright Falling Leaves Fix
+Core 3 - Late Loaders Meshes - Rudy Candles for SMIM Lanterns
+Core 3 - Late Loaders Meshes - Water in Wash Basins
+Core 3 - Late Loaders Meshes - Apocrypha ENB Light
+Core 3 - Late Loaders Meshes - Awesome Potions Simplified ENB Lights
+Core 3 - Late Loaders Meshes - Hanaisse's Ingredients Patch
+Core 3 - Late Loaders Meshes - Particle Lights - Dwarven Spiders
+Core 3 - Late Loaders Meshes - Particle Lights - Falmer Drips
+Core 3 - Late Loaders Meshes - Particle Lights - Moon Crests
+Core 3 - Late Loaders Meshes - Pulsating Beating Heart ENB Light
+Core 3 - Late Loaders Meshes - Crystalline Fire Salts
+
+~~~
+
+![Removed]
+~~~
+Core 1 - Dynamic Volumetric Lighting and Sun Shadows (replaced)
+Core 1 - Skyrim Unbound Reborn (replaced with ASLAL)
+Core 1 - Stackable Stones of Barenziah (part of TGR)
+Core 1 - JaySus Swords (moved to Adventures)
+Core 2 - Nordic Stonewalls (didn't blend well)
+Core 2 - RUSTIC Animated Potions and Poisons (replaced with Awesome)
+Core 3 - Heritage 2 (will return later)
+~~~
+
+![Updated]
+~~~
+Prerequisites - CAO updated to 5.3.12.
+Core 1 - Cloaks of Skyrim Retextured - added update file.
+Core 1 - The Choice Is Yours updated to 2.4.
+Core 1 - Atlas Map Markers updated to 2.1.
+Core 1 - Stones of Solitude updated to 0.2.
+Core 1 - Thieves Guild Requirements updated to 5.1.
+Core 1 - Scrambled Bugs updated to 16.0. (REPLACE on update)
+Core 1 - Actor Limit Fix updated to 4.0.
+Core 1 - Bug Fixes updated to 5.0. (REPLACE on update)
+Core 1 - Tavern AI Fix updated to 1.2.
+Core 1 - Paarthunax Quest Expansion updated to 1.10.
+Core 1 - DynDOLOD Resources updated to Alpha 22.
+Core 1 - Navigator updated to 1.1.4.
+Core 2 - Lux updated to 4.0.1.
+Core 2 - Lux Orbis updated to 2.5.
+Core 2 - Embers XD updated to 2.5.4.
+Core 2 - Mrf's Solitude added additional download.
+Core 2 - Water for ENB switched to Beta (for LOD fixes).
+Core 3 - Thieves Guild Requirements Settings Loader updated to 2.0.
+Core 3 - Improved Innkeepers updated to 1.2.
+Core 3 - XPMSSE Nemesis Script Fix updated to 4.8.4.
+Core 3 - CBPC updated to 1.4.18.
+Core 3 - Unique Markarth Doors updated to 0.2.4.
+Core 3 - KS Hairdos updated to 1.9.
+Core 3 - Fixed Mesh Lighting updated to 1.7.1.
+Core 3 - True Directional Movement updated to 2.1.1.
+Core 3 - WiZkiD Hagraven Clutter moved to Late Loaders from Core 2.
+Core 3 - Particle Lights Ingredients - Updated instructions.
+Core 3 - Honed Metal updated to 1.23.
+Core 3 - Misc Dialogue Edits - swapped to standard version.
+Core 3 - SUP Gameplay Overhaul updated. (REPLACE)
+Core 3 - SUP Consistency Patches updated. (REPLACE)
+Core 3 - SUP Confict Resolution updated. (REPLACE)
+~~~
+
+---
+
 # 2022-02-11
 
 ---

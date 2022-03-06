@@ -68,6 +68,17 @@ Options:
 Delete meshes/clutter/candles.
 ~~~
 
+## High Poly Project - My Fixes SE-AE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63425) | Version: `1.11` | Author: `Xtudo` | ![Core]
+Download: | Main Files - HPP - My Fixes - Chopping Blocks and Firewood - Vanilla SE-AE
+| Main Files - HPP - My Fixes - DLC01 Blood Barrels patch - Texture fixes - SE-AE
+
+![PostInstall]
+~~~
+Delete HPP - My fixes by Xtudo - Chopping Blocks.esp.
+~~~
+
 ## Ruins Clutter Improved
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2b` | Author: `raiserfx` | ![Core] ![CAO]|
@@ -330,6 +341,16 @@ Delete meshes.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
 Download: | Main Files - Mrf's Solitude 4K
+| Main Files - Mrf's solitude Optional files fomod
+
+![FOMOD]
+~~~
+Patch option - Solitude fix:
+   * Solitude no parallax fix
+Texture option:
+   * Mrf's solitude Church windows
+   * Mrf Another type of floor
+~~~
 
 ![PostInstall]
 ~~~
@@ -342,6 +363,11 @@ Delete Mrf Solitude.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44099) | Version: `1` | Author: `Northfire` | ![Core] ![Visuals]|
 Download: | Main Files - Northfires Windhelm
+
+## Ancient AF Windhelm - Windhelm Retextured
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `1.0` | Author: `agentw` | ![Core] ![Visuals]
+Download: Main Files - Ancient AF Windhelm
 
 ## Orc Settlements Enhanced 
 
@@ -528,21 +554,6 @@ Download: | Main Files - PELTAPALOOZA Special Edition - FULL
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38912) | Version: `1.0` | Author: `SDlutz` | ![Visuals] |
 Download: | Main Files - 4k Farmhouse Fences SE Version 2
 
-## Nordic Stonewalls
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57686) | Version: `1.12` | Author: `mindflux` | ![Visuals] |
-Download: | Main Files - Nordic Stonewalls Version 1
-
-![FOMOD]
-~~~
-Style:
-   * Majestic Mountains
-Texture Quality:
-   * 4K
-Parallax:
-   * No Parallax
-~~~
-
 ---
 
 # Dwemer Ruins
@@ -579,7 +590,7 @@ Download: | Main Files - Dwemer Tech Glowmapped 2.2
 
 ## Dwemer - Improved Glass
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44553) | Version: `1.1` | Author: `cunny1975` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44553) | Version: `1.1` | Author: `IWantATardis` | ![Visuals] |
 Download: | Main Files - Improved Dwemer Glass
 | Optional Files - ENB Lights For Aetherium Shards Patch
 | Optional Files - Unofficial Material Fix Patch
@@ -640,19 +651,6 @@ Download: | Main Files - Skyrim Remastered - Azura and Blackreach Crystals 4K
 Download: | Main Files - Skyrim Remastered - Caves 4K Non Parallax
 | Update Files - Skyrim Remastered - Caves New Icicles
 | Update Files - Skyrim Remastered - Caves Updated ESP
-
-## WiZkiD Hagraven Clutter and Bones
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49277) | Version: `1.1` | Author: `WiZkiD` | ![Visuals] |
-Download: | Main Files - WiZkiD Hagraven Clutter and Bones
-
-![FOMOD]
-~~~
-Main Installation:
-   * 4K
-Patches:
-   * High Poly Project Patch
-~~~
 
 ## Metallurgy - Ingots Ore and Veins
 
@@ -1048,10 +1046,15 @@ Patches:
    * None
 ~~~
 
+## Water Effects Brightness and Reflection Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.2` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Water Effects Brightness and Reflection Fix
+
 ## Water for ENB
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.54` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Main Files - Water for ENB
+Download: | Optional Files - Water for ENB Beta
 
 ![FOMOD]
 ~~~
@@ -1134,6 +1137,35 @@ LOD Assets:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51135) | Version: `2.0.2` | Author: `z929669` | ![Core] ![Visuals]|
 Download: | Main Files - Aspens Ablaze 2.35 - Autumnal - DynDOLOD
 
+## Canticle Tree - Bark and Draw Knife Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45548) | Version: `1.0` | Author: `IWantATardis` | ![Core] ![Visuals]
+Download: | Optional Files - Canticle Bark
+| Optional Files - Canticle Tree
+
+## Fancy Sleeping Tree Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.3` | Author: `Jeannetta182` | ![Core] ![Visuals]
+Download: | Main Files - Fancy Sleeping Tree Replacer
+
+![FOMOD]
+~~~
+Tree Version:
+   * Leafless (or your choice)
+Original Path Patch:
+   * Add Patch (pending CRing patch)
+~~~
+
+![PostInstall]
+~~~
+Delete Sleeping Tree Path Patch.esp.
+~~~
+
+## Remove Small Rocks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8733) | Version: `1.1` | Author: `Corsafire1` | ![Core] ![Visuals]
+Downloads: | Main Files - Remove Small Rocks v1.1 - High Compatibility
+
 ---
 
 # Food, Flora and Ingredients
@@ -1194,8 +1226,18 @@ Download: | Main Files - Creepy Chaurus Eggs SE
 
 ## Dog Meat
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22696) | Version: `1.2` | Author: `cunny1975` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22696) | Version: `1.2` | Author: `IWantATardis` | ![Visuals] |
 Download: | Main Files - 2K Dog Meat
+
+## Dusty Vampire Dust
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62907) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Dusty Vampire Dust SE
+
+## Eerie Ectoplasm
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61953) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Eerie Ectoplasm
 
 ## Extraordinary Eggs
 
@@ -1252,6 +1294,11 @@ Download: | Main Files - High Poly Gleamblossoms - ENB Light
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47891) | Version: `0.2.1` | Author: `wSkeever` | ![Visuals] |
 Download: | Main Files - High Poly Soul Husks
+
+## Icy Wraith Teeth
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64356) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Icy Wraith Teeth
 
 ## Improved Dragonfly
 
@@ -1334,12 +1381,6 @@ Download: | Main Files - For SMIM Mesh - Poor Version
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56337) | Version: `1.0` | Author: `RoosBear` | ![Visuals] |
 Download: | Main Files - Roos' Butter - 1K
 
-## RUSTIC ANIMATED POTIONS and POISONS
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2276) | Version: `1.1` | Author: `dailyplanet and Gamwich` | ![Visuals] |
-Download: | Main Files - RUSTIC ANIMATED POTIONS and POISONS 2K
-| Update Files - SSE Meshes
-
 ## RUSTIC COOKING
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6142) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
@@ -1347,7 +1388,7 @@ Download: | Main Files - RUSTIC COOKING - Special Edition - 2K
 
 ## Salts Retextured
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.5` | Author: `cunny1975` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.5` | Author: `IWantATardis` | ![Visuals] |
 Download: | Main Files - Retextured Salts with FX
 
 ## Scallions of Skyrim - High Polygon Leeks
@@ -1389,6 +1430,11 @@ Berry Brightness:
    * Darker Berries
 ~~~
 
+## Surreal Spriggan Sap
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63153) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Surreal Spriggan Sap SE
+
 ## Unique Stros M'Kai Rum
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43830) | Version: `1.2` | Author: `fadingsignal` | ![Visuals] ![BSA]|
@@ -1398,6 +1444,11 @@ Download: | Main Files - Stros M'Kai Rum Replacer 2K
 ~~~
 Delete StrosMkaiRum.esp.
 ~~~
+
+## Volatile Void Salts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64007) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Volatile Void Salts SE
 
 ---
 
@@ -1441,6 +1492,11 @@ Download: | Main Files - Archery Target Retexture
 Texture Size:
    * 2K (Recommended)
 ~~~
+
+## Awesome Potions Simplified by Revoith
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57607) | Version: `2.1` | Author: `Revoith` | ![Visuals]
+Download: | Main Files - Awesome Potions Simplified
 
 ## Basic Dining Set Replacer
 
@@ -1905,6 +1961,11 @@ Download: | Main Files - Skyrim Remastered - Soul Gems Quality Version
 Delete Skyrim Remastered - Soul Gems.esp.
 ~~~
 
+## SMIM Upper Furniture Wood Retexture by BuddhaSante
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61055) | Version: `1.0` | Author: `BuddhaSante` | ![Visuals]
+Download: | Main Files - SMIM Upper Furniture ReTexture - 4k
+
 ## Snazzy Furniture and Clutter Overhaul 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `1.73` | Author: `Gutmaw` | ![Core] ![Visuals]|
@@ -1949,7 +2010,7 @@ Download: | Main Files - Thrones of Skyrim SE
 
 ## Torture Rack 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30805) | Version: `1.4` | Author: `cunny1975` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30805) | Version: `1.4` | Author: `IWantATardis` | ![Visuals] |
 Download: | Optional Files - 4K Dirty and Bloody
 
 ## Training Dummies Retexture
@@ -1981,6 +2042,12 @@ Delete PraedysSkulls.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33041) | Version: `1.0` | Author: `SpotDisc` | ![Visuals] |
 Download: | Main Files - Vanilla Table Replacers 4k 2k
 | Optional Files - 4k Common Table replacer optional SE (No Ropes)
+
+## XNFRain's Civil War Map Flag Replacer SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61520) | Version: `1.2` | Author: `XNFRain` | ![Visuals]
+Download: | Main Files - XNFRain's Civil War Map Flag Replacer
+| Optional Files - XNFRain's Civil War Map Flag Replacer - 50
 
 ---
 
@@ -2196,7 +2263,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.2` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.4` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -2241,11 +2308,13 @@ Option:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `3.9` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `4.0.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
 ~~~
+Lux optimized Creation Club meshes:
+   * None
 Lux optional effects:
    * Beams - PARTICLE without effect lighting
    * Mists and fogs - Effect lighting without PARTICLE
@@ -2260,11 +2329,19 @@ Lux optimized tables:
    * SD's Table replacer
 Lux optimized chandeliers:
    * SD's chandeliers
+Lux optimized Embers meshes:
+   * BYOH fireplace
 Lux optional Giant Campfires:
    * None
+No Grass In Caves:
+   * None
+Brighter Templates:
+   * None (you can adjust for personal taste)
 Compatibility Patches:
    * None (uncheck all)
-Optional Content:
+Crossover Patches:
+   * None (uncheck all)
+Non automated patches:
    * None
 Language packs:
    * None
@@ -2280,7 +2357,7 @@ Delete textures/architecture/solitude/.
 
 ## Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.4` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.5` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux Orbis
 
 ![FOMOD]
@@ -2295,11 +2372,36 @@ Additional content and patches:
    * None
 ~~~
 
+## Lux Via
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.2` | Author: `GGUNIT` | ![Core] ![Visuals]
+Download: | Main Files - Lux Via
+
+![FOMOD]
+~~~
+Lux Resource Pack:
+   * Lux Resource Pack (ENB Light)
+Optional plugins:
+   * None
+Compatibility Patches:
+   * None (uncheck all)
+~~~
+
+![PostInstall]
+~~~
+Delete Lux Via - plugin.esp.
+~~~
+
 ---
 
 # Clothing and Jewelry Retextures
 
 ---
+
+## Elder Council Amulet Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63931) | Version: `1.2` | Author: `PraedythXVI` | ![Visuals]
+Download: | Main Files - Elder Council Amulet - Replacer
 
 ## Gemling Queen Jewelry
 
@@ -2475,7 +2577,7 @@ Delete AcolyteMasks.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/824) | Version: `1.58` | Author: `navida1` | ![Core] ![Visuals] ![BSA]|
 Download: | Main Files - Improved Closefaced Helmets (SSE)
-| Replacement Plugin - [Improved Closefaced Helmets - Replacement](https://www.dropbox.com/s/2ve39rlgkug36ex/Improved%20Closefaced%20Helmets%20-%20Replacement.7z?dl=0)
+| [Replacer ESP](https://www.dropbox.com/s/vjmtqr36rwcdd7d/Improved%20Closefaced%20Helmets.7z?dl=0)
 
 ![PostInstall]
 ~~~

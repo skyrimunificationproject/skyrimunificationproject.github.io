@@ -43,6 +43,7 @@ WindhelmSSE.esp | Apply ESMifier script
 
 JK's High Hrothgar.esp | Apply ESMifier script
 JK's Temple of the Divines.esp | Apply ESMifier script
+JK's Sky Haven Temple.esp | Apply ESMifier script
 
 ---
 
