@@ -1427,7 +1427,7 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
-[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/4jnh1fvhpreis1p/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `1.0.0.0` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
