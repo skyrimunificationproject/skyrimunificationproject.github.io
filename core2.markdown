@@ -908,10 +908,10 @@ Download: | Main Files - Northern Shores 4K
 
 ## Blended Roads
 
-[![mod]]() | Version: `1.7` | Author: `T4gtr34um3r` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8834) | Version: `1.7` | Author: `T4gtr34um3r` | ![Core]
 Download | Main Files - Blended Roads
 
-[!FOMOD]
+![FOMOD]
 ~~~
 Main Files:
    * Really Blended Roads
@@ -919,7 +919,7 @@ SMIM Compatibility patch:
    * Really Blended Roads
 ~~~
 
-[!PostInstall]
+![PostInstall]
 ~~~
 Delete BlendedRoads.esp.
 Delete textures/dlc02/.
