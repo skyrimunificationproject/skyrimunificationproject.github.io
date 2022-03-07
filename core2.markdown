@@ -1048,8 +1048,16 @@ Patches:
 
 ## Water Effects Brightness and Reflection Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.2` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.2.2` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Water Effects Brightness and Reflection Fix
+
+![FOMOD]
+~~~
+Vanilla Dyndolod Meshes:
+   * None
+Nchardak waterfall fix:
+   * None
+~~~
 
 ## Water for ENB
 

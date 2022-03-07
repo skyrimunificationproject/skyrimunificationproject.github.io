@@ -424,8 +424,7 @@ Close Mod Organizer 2 and run BethINI.exe.
 ## xLODGEN
 
 [![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 86` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 86
-| [Main Files - SSE-Terrain-Tamriel-Extend.esm](https://mega.nz/file/FYh2ybjR#62hOmtcm6xqaQoU5vnYdlS2AygqK28bpWum-zEt3zXo)
+Download: | xLODGen beta 90
 
 ![PostInstall]
 ~~~
@@ -434,9 +433,6 @@ Manually extract the folder into Modding\Skyrim\Tools\xLODGEN
  
 Create a folder named 'SSELODGen_Output' in the root directory of the
  drive where you have installed Skyrim, i.e. H:\SSELODGen_Output\.
- 
-Manually install SSE-Terrain-Extend.esm in Mod Organizer 2, but
- do not activate.
  
 Add xLODGenx64.exe as an executable in Mod Organizer 2.
 Add the following to the arguments field: 

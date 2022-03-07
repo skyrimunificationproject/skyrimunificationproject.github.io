@@ -766,11 +766,6 @@ Resave IcePenguinWorldMap.esp in the Creation Kit.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.1` | Author: `Kronixx and kryptopyr` | ![Core] |
 Download: | Main Files - Atlas Map Markers
 
-## Atlas Map Markers - Small Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48154) | Version: `1.0` | Author: `zAx` | ![Core] |
-Download: | Main Files - Atlas Map Markers scripts - FISS and CCO Remastered correct check
-
 ## Dynamic Snow for Map
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/29877) | Version: `8.0` | Author: `Hritik Vaishnav` | ![Core] |
@@ -1567,11 +1562,6 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6308) | Version: `3.3` | Author: `PrivateEye` | ![Core] |
 Download: | Old Files - Heavy Armory SE
 
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
 ## Lore Weapon Expansion
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9660) | Version: `1.4c` | Author: `InsanitySorrow` | ![Core] |
@@ -1649,7 +1639,7 @@ Delete HD Lods SSE.bsa.
 ## SSE Terrain Tamriel
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54680) | Version: `1.0` | Author: `Sheson` | ![Core] |
-Download: | Main Files - SSE Terrain Tamriel
+Download: | Main Files - SSE Terrain Tamriel Extend
 
 ![PostInstall]
 ~~~
