@@ -367,7 +367,7 @@ Download: | Main Files - Northfires Windhelm
 ## Ancient AF Windhelm - Windhelm Retextured
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `1.0` | Author: `agentw` | ![Core] ![Visuals]
-Download: Main Files - Ancient AF Windhelm
+Download: | Main Files - Ancient AF Windhelm
 
 ## Orc Settlements Enhanced 
 
