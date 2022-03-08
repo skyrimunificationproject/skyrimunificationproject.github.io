@@ -923,7 +923,7 @@ Download: | Main Files - Black-Briar Banners - Woven Edition
 
 ## Dark Anchors Ruins and Dolmens
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51010) | Version: `2.1` | Author: `s606t` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51010) | Version: `2.1` | Author: `s6o6t` | ![Core] ![CAO]|
 Download: | Main Files - s6o6t Lore - Dark Anchors Ruins and Dolmens
 
 ![PostInstall]

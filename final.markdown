@@ -49,7 +49,6 @@ AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 Beards.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
-Brows.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 BUVARP SE RE - CFTO Patch.esp | Add ESL flag
@@ -90,7 +89,6 @@ Lucien.esp | Apply ESMifier script
 Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 MoreWerewolves.esp | Compact formIDs, add ESL flag
-NB-Scars.esp | Compact formIDs, add ESL flag
 NoBrokenWhiterunTower.esp | Apply ESMifier script
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -110,9 +108,9 @@ Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
 RealRainSE.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
-s606t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
-s606t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
-s606t Lore - Oblivion Gates.esp | Apply ESMifier script
+s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
+s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
+s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
