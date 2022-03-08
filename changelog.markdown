@@ -3,6 +3,34 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-03-07
+
+---
+
+![Added]
+~~~
+Core 3 - Hair and Eyes - Kalilies Brows for High Poly Head
+Core 3 - Scars Warpaints Makeup - Northborn Scars for High Poly Head
+~~~
+
+![Updated]
+~~~
+Core 1 - Thieves Guild Requirements updated to 5.2.
+Core 1 - Better Third Person Selection updated to 0.3.3.
+Core 2 - Water Effects Brightness and Reflection Fix updated to 0.2.2.
+Core 3 - Complete Crafting Overhaul Remastered updated to 2.3.
+Core 3 - Complete Crafting Overhaul Remastered Settings Loader updated to 1.1.0.
+Core 3 - EVG Conditional Idles Setting Loader updated to 2.0.0.
+~~~
+
+![Removed]
+~~~
+Core 1 - Atlas Map Markers Small Fixes (fixed in main mod)
+Core 3 - Modpocalypse NPCs Heritage (will return w/ Heritage)
+~~~
+
+---
+
 # 2022-03-05
 
 ---

@@ -2411,6 +2411,16 @@ Delete Lux Via - plugin.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63931) | Version: `1.2` | Author: `PraedythXVI` | ![Visuals]
 Download: | Main Files - Elder Council Amulet - Replacer
 
+![FOMOD]
+~~~
+Resolution:
+   * 2K (your choice)
+Bodyslidefiles:
+   * cbbe curvy (or slim your choice)
+Optionals:
+   * None
+~~~
+
 ## Gemling Queen Jewelry
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4294) | Version: `4.1SE` | Author: `Saerileth` | ![Core] ![Visuals]|

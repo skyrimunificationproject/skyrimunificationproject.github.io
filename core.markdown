@@ -94,7 +94,7 @@ Download: | Main Files - BetterStealing v2
 
 ## Better Third Person Selection - BTPS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.3.2` | Author: `Shrimperator` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.3.3` | Author: `Shrimperator` | ![Core]
 Download: | Main Files - Better Third Person Selection
 
 ## Bug Fixes
@@ -1356,7 +1356,7 @@ Download: | Main Files - Radiant Requirements
 
 ## Thieves Guild Requirements
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33256) | Version: `5.1` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33256) | Version: `5.2` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Thieves Guild Requirements SE 
 
 ## Thieves' Night On the Town

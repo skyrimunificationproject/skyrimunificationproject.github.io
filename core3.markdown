@@ -187,11 +187,6 @@ Download: | Main Files - Modpocalypse NPCs (v2) Carriage and Ferry Travel Overha
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54590) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
 Download: | Main Files - Modpocalypse NPCs (v2) Citizens of Tamriel
 
-## Modpocalypse NPCs - Heritage Enemies 2
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58142) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
-Download: | Main Files - Modpocalypse NPCs (v2) Heritage Enemies 2
-
 ## Modpocalypse NPCs - Immersive College NPCs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56575) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
@@ -726,6 +721,11 @@ Download: | Main Files - Brows by Hvergelmir - High Poly Head
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40595) | Version: `1.1` | Author: `Kalilies` | ![Core] |
 Download: | Main Files - Kalilies Brows
 
+## Kaliles Brows for High Poly Head
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57115) | Version: `1.0` | Author: `naChooey` | ![Core]
+Download: | Main Files - Kalilies Brows - High Poly Head
+
 ## High Poly Vanilla Hair
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41863) | Version: `3.0` | Author: `Macxhiin` | ![Visuals] |
@@ -829,6 +829,11 @@ Download: | Main Files - Female Makeup Suite - Face - 2K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/720) | Version: `1.3` | Author: `Northborn` | ![Visuals] |
 Download: | Main Files - Northborn Scars
+
+## Northborn Scars for High Poly Head
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62799) | Version: `1.1` | Author: `naChooey` | ![Visuals]
+Download: | Main Files - Northborn Scars - High Poly Head
 
 ## Vanilla Makeup HD 
 
@@ -1421,9 +1426,8 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul
 
 ## Complete Crafting Overhaul Remastered 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.0.2` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.3` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered
-| Update Files - CCOR PRUFEI Chest CTD Hotfix
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
@@ -2420,12 +2424,12 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
 
 ## Complete Crafting Overhaul Remastered - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.0.2` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.1.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered - Settings Loader
 
 ## EVG Conditional Idles - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57876) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57876) | Version: `2.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - EVG Conditional Idles - Settings Loader
 
 ## Immersive HUD - Settings Loader
