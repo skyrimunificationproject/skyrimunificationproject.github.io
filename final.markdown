@@ -115,6 +115,7 @@ Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SimplyKnock.esp | Apply ESMifier script
+SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
