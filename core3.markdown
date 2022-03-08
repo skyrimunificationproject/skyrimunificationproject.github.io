@@ -2367,7 +2367,7 @@ Select AIO Install Type:
 
 ## Skyrim Unification Project - Conflict Resolution
 
-[![mod]](https://www.dropbox.com/s/o2k6qe1tp9phytt/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.9A` | Author: `rev, ra2` | ![Core] |
+[![mod]](https://www.dropbox.com/s/016dxkubim5kz6m/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.9A` | Author: `rev, ra2` | ![Core] |
 Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ![FOMOD]
