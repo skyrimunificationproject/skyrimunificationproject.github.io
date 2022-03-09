@@ -604,13 +604,17 @@ Delete meshes/dlc02/dungeons/dwemer/animated.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
+| Note: Install in this order!
+| Main Files - Ancient Dwemer Metal - My patches - Converted Meshes to SE and AE
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v5
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
 | Note: During install right-click 4K and set as Data Directory
-| Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
+| Optional Files - Ancient Dwemer Metal - My patches - My bronze cubemap SE
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
+| Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
+| Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
 ---
 
@@ -1976,11 +1980,8 @@ Download: | Main Files - SMIM Upper Furniture ReTexture - 4k
 
 ## Snazzy Furniture and Clutter Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `1.73` | Author: `Gutmaw` | ![Core] ![Visuals]|
-Download: | Old Files - Snazzy Furniture and Clutter Overhaul SE
-Install as separate mod | Optional Files - Snazzy Ancient Dwemer Display Case
-Install as separate mod | Optional Files - Snazzy Vanilla Noble Chair Patch - SSE
-Install as separate mod | Optional Files - Snazzy Weapon Plaque and Display Case Patch for Rustic Furniture
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `2.1.2` | Author: `Gutmaw` | ![Core] ![Visuals]|
+Download: | Main Files - Snazzy Furniture and Clutter Overhaul SE
 
 ![FOMOD]
 ~~~
@@ -1988,6 +1989,11 @@ Install Options:
    * Mix-n-Match Plugin - USSEP Version
 Texture Options:
    * De-saturated Textures
+Model and Texture Options:
+   * Vanilla Wood Chairs
+   * Rustic Wood
+   * Ancient Dwemer Metal Display Cases
+   * ENB Lights
 ~~~
 
 ## Solstheim Objects SMIMed - High Poly Dark Elf Furniture 
@@ -2195,6 +2201,11 @@ Download: | Main Files - OIL v2 x2048
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38231) | Version: `1.02` | Author: `Kartoffels` | ![Visuals]
 Download: | Main Files - Quality Cubemaps
 
+![PostInstall]
+~~~
+Delete textures/cubemaps/bronze_e.dds.
+~~~
+
 ## Refracting Ice Form Debris 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18384) | Version: `2.0` | Author: `powerofthree` | ![Visuals] |
@@ -2280,8 +2291,6 @@ Flames Customization:
    * Embers XD Flame (Orange/Red)
 Effects Quality:
    * Optimized
-Plugin Selection:
-   * ESP (Embers XD.esp)
 Fire Magick Add-On:
    * Install Fire Magick Add-On
 Forges Add-On:
