@@ -9,6 +9,22 @@ This module is not ready for download yet. This page is for internal tracking on
 
 ---
 
+# Project Arch - Install Changes
+
+---
+
+## Windhelm Fake Windows Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals] ![Arch]|
+Download and merge into previous install: | Optional Files - Capital Windhelm Expansion Patch
+
+![PostInstall]
+~~~
+Delete WindhelmFakeWindowsFix.esp.
+~~~
+
+---
+
 ## xEdit
 
 Use the Quick Auto Clean shortcut to clean the following plugins one by one:

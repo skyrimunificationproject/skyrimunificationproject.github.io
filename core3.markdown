@@ -164,7 +164,7 @@ Delete High Poly Head Vampire Fix.esp.
 
 ## Modpocalypse NPCs - Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.02` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
 Download: | Main Files - Modpocalypse NPCs - Resources
 
 ## Modpocalypse NPCs - All Vanilla NPCs
@@ -919,12 +919,12 @@ Download: | Main Files - Animation Motion Revolution
 
 ## True Directional Movement 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `2.1.1` | Author: `Ersh` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `2.2.1` | Author: `Ersh` | ![Core] |
 Download: | Main Files - True Directional Movement (SE)
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.4.18` | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.5.0` | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -1066,6 +1066,11 @@ Select One: (only these)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Version: `1.0.1` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - Conditional tavern cheering (DAR)
 
+## Dialogue Animation Remix (DAR)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.0` | Author: `CHIMgarden` | ![Core]
+Download: | Main Files - Dialogue Animation Remix (DAR) - main archive
+
 ## EVG Conditional Idles
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.4` | Author: `Everglaid` | ![Core] |
@@ -1079,7 +1084,7 @@ Options:
 
 ## EVG Animation Variance 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38534) | Version: `1.0` | Author: `Everglaid` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38534) | Version: `1.1` | Author: `Everglaid` | ![Core] |
 Download: | Main Files - EVG Animation Variance
 
 ![FOMOD]
@@ -1097,6 +1102,7 @@ Download: | Main Files - Immersive folded hands (DAR mod)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.0.1` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - NPC Animation Remix (DAR) - main download
+| Optional Files - NPC AR weight shift idles replacer to install with Dialogue Animation Remix
 
 ## Sleeping Expanded - Animations and NPC Reactions
 
@@ -1426,7 +1432,7 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul
 
 ## Complete Crafting Overhaul Remastered 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.3` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.4` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
@@ -1453,7 +1459,7 @@ SKSE Addons:
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `1.3.1` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.0` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
 
@@ -1479,7 +1485,7 @@ Pack the mod with CAO.
 
 ## Forceful Tongue - Shouts Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.5` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.6` | Author: `Delta` | ![Core] |
 Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
@@ -1581,7 +1587,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.6` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.7` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -2007,8 +2013,8 @@ Download: | Main Files - Whiterun Wall Fix for Noble Skyrim Vanilla and Other Re
 
 ## Windhelm Fake Windows Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.2` | Author: `AgentW` | ![Core] ![Visuals]|
-Download: | Main FIles - Windhelm Fake Windows Fix
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals]|
+Download: | Main Files - Windhelm Fake Windows Fix
 
 ## WiZkiD - Hall of the Dead Stained Glass Windows
 
@@ -2171,6 +2177,12 @@ Download: | Main Files - ENB lights for Aetherium Shards SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `2.0` | Author: `powerofthree` | ![Core] ![Visuals]|
 Download: | Main Files - ENB Lights For Effect Shaders
 
+## Misc Effects ENB Light
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65070) | Version: `1.2.1` | Author: `Mur4s4me` | ![Core] ![Visuals]
+Download: | Main Files - Misc Effects ENB Light
+| Optional Files - Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons
+
 ## Particle Lights - Bugs in a Jar
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43609) | Version: `1.1` | Author: `LossRec` | ![Core] ![Visuals]|
@@ -2186,6 +2198,11 @@ Download: | Main Files - Particle Lights for ENB - Dwarven Spiders
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64457) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Falmer Drips
+
+## Particle Lights - Fire Traps
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64690) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+Download: | Main Files - Particle Lights for ENB - Fire Traps - FULL
 
 ## Particle Lights - Ingredients
 
@@ -2279,6 +2296,16 @@ Download: | Main Files - Rudy HQ - More Lights for ENB SE - Deathbells and Nirnr
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22819) | Version: `1.0b` | Author: `Rudy102` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy HQ - More Lights for ENB SE - Moths and Fireflys
+
+## Spiders of Solstheim - ENB Light
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64818) | Version: `0.3.1` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Spiders of Solstheim - ENB Light
+
+## Sprites or Specters - ENB Light
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64948) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Sprites or Specters - ENB Light
 
 ## Crystalline Fire Salts
 
@@ -2424,7 +2451,7 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
 
 ## Complete Crafting Overhaul Remastered - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.2.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered - Settings Loader
 
 ## EVG Conditional Idles - Settings Loader

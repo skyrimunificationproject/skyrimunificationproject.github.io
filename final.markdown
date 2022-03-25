@@ -63,7 +63,6 @@ DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 Elemental_Staffs.esp | Compact formIDs, add ESL flag
 Elemental_Staffs_Patch_AMoS.esp | Compact formIDs, add ESL flag
-Embers XD.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script

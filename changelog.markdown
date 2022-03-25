@@ -3,6 +3,69 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-03-25
+
+---
+
+![Added]
+~~~
+Core 2 - Flora Food and Ingredients - Freezing Cold Frost Salts
+Core 2 - Flora Food and Ingredients - Hagraven Feathers
+Core 2 - Flora Food and Ingredients - Kanjs Nests and Eggs
+Core 2 - Architecture - Skyland Skyhaven Temple
+Core 2 - Landscape - Majestic Mountains More Accurate Collision
+Core 3 - Animation Conditional - Dialogue Animation Remix
+Core 3 - Late Loaders Meshes - Misc Effects ENB Light
+Core 3 - Late Loaders Meshes - Particle Lights for ENB Fire Traps
+Core 3 - Late Loaders Meshes - Spiders of Solstheim ENB Light
+Core 3 - Late Loaders Meshes - Sprites or Specters ENB Light
+~~~
+
+![Removed]
+~~~
+Core 2 - Flood Flora and Ingredients - Salts Retextured (now covered by others)
+Core 2 - Architecture - Northfire's Windhelm (now covered by Ancient AF)
+Core 2 - Architecture - Skyrim Textures Redone Skyhaven (replaced)
+~~~
+
+![Updated]
+~~~
+Prerequisites - LOOT updated to 0.18.2, changed download link
+Core 1 - C.O.I.N. updated to 1.1.11.
+Core 1 - Actor Limit Fix updated to 5.0.
+Core 1 - Bug Fixes SSE updated to 6.0.
+Core 1 - Scrambled Bugs updated to 17.0.
+Core 1 - Headhunter updated to 1.30.
+Core 1 - EVLaS updated to 1.3.
+Core 1 - Navigator updated to 1.1.6.
+Core 1 - Quests Are In Skyrim updated to 1.3.
+Core 1 - Better Third Person Selection updated to 0.4.2.
+Core 1 - Powerofthree's Tweaks updated to 1.6.0.
+Core 1 - DynDOLOD Resources updated to Alpha 23.
+Core 1 - Immersive Equipment Displays updated to 1.4.0.
+Core 2 - Snazzy Furniture and Clutter Overhaul updated to 2.1.2 and updated FOMOD.
+Core 2 - Water For ENB updated to beta 1.61.
+Core 2 - Additional file added to High Poly Project - My Fixes
+Core 2 - Water Effects Brightness and Reflection Fix updated to 0.3.
+Core 2 - Embers XD updated to 2.5.5 Beta.
+Core 2 - Ancient AF Windhelm updated to 2.0.
+Core 2 - Rustic Windows instructions updated (keep Windhelm)
+Core 2 - Rustic Reliefs instructions updated (remove architecture/clutter)
+Core 3 - Complete Crafting Overhaul Remastered Settings Loader updated to 1.2.0.
+Core 3 - Reliquary of Myth updated to 4.4.7.
+Core 3 - EVG Animation Variance updated to 1.1.
+Core 3 - Optional file added to NPC Animation Remix.
+Core 3 - True Direction Movement updated to 2.2.1. 
+Core 3 - Complete Crafting Overhaul Remastered updated to 2.4.
+Core 3 - Dragon War updated to 2.0.
+Core 3 - Modpocalypse NPCs Resources updated to 1.03.
+Core 3 - Forceful Tongue updated to 3.0.6.
+Core 3 - CBPC updated to 1.5.0.
+Core 3 - Windhelm Fake Windows Fix updated to 2.31.
+~~~
+
+---
+
 # 2022-03-07
 
 ---

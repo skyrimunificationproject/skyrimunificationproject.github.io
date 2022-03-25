@@ -73,6 +73,7 @@ Delete meshes/clutter/candles.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63425) | Version: `1.11` | Author: `Xtudo` | ![Core]
 Download: | Main Files - HPP - My Fixes - Chopping Blocks and Firewood - Vanilla SE-AE
 | Main Files - HPP - My Fixes - DLC01 Blood Barrels patch - Texture fixes - SE-AE
+| Main Files - HPP - My Fixes - Riften 3D Leaves fixes and tweaks SE-AE
 
 ![PostInstall]
 ~~~
@@ -366,8 +367,8 @@ Download: | Main Files - Northfires Windhelm
 
 ## Ancient AF Windhelm - Windhelm Retextured
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `1.0` | Author: `agentw` | ![Core] ![Visuals]
-Download: | Main Files - Ancient AF Windhelm
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `2.0` | Author: `agentw` | ![Core] ![Visuals]
+Download: | Main Files - Ancient AF Windhelm 4K
 
 ## Orc Settlements Enhanced 
 
@@ -405,10 +406,10 @@ Daedric Shrines:
    * Dark 4K
 ~~~
 
-## Skyrim Textures Redone - SkyHaven
+## Skyland Skyhaven Temple
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10375) | Version: `1.0` | Author: `Gorgulla` | ![Core] ![Visuals]|
-Download: | Main Files - STR - SkyHaven
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65228) | Version: `1.0` | Author: `Skyking` | ![Core] ![Visuals]|
+Download: | Main Files - Skyland Skyhaven Temple
 
 ## Soul Cairn HD
 
@@ -492,7 +493,6 @@ Download: | Main Files - RUSTIC WINDOWS - Special Edition - 2K
 ![PostInstall]
 ~~~
 Delete textures/architecture/solitude/.
-Delete textures/architecture/windhelm/.
 Delete textures/architecture/winterhold/.
 ~~~
 
@@ -501,6 +501,17 @@ Delete textures/architecture/winterhold/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28781) | Version: `1.0.0` | Author: `mathy79` | ![Core] ![Visuals]|
 Download: | Main Files - Skyrim 3D Docks and Boardwalks
 | Optional Files - Skyrim 3D Docks and BoardWalks Weathered Riften Textures
+
+## Windhelm Fence 3D
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65346) | Version: `0.3.1` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Windhelm Fence 3D - Fomod Installer
+
+![FOMOD]
+~~~
+Options:
+   * Custom textures 4K
+~~~
 
 ## WiZkiD Signs
 
@@ -670,6 +681,12 @@ Download: | Rally's Lava 4K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34684) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
 Download: | Main Files - RUSTIC RELIEFS
+
+![PostInstall]
+~~~
+Delete textures/architecture.
+Delete textures/clutter.
+~~~
 
 ---
 
@@ -969,6 +986,11 @@ Delete textures/clutter/mehrunesstatue01*.
 Delete textures/clutter/statues.
 ~~~
 
+## Majestic Mountains - More Accurate Collision
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65042) | Version: `1.1` | Author: `Korodic` | ![Core] ![Visuals]
+Download: | Main Files - Majestic Mountains - More Accurate Collision
+
 ## Majestic Mountains - Northside
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27981) | Version: `2.0` | Author: `THRAGFIRE` | ![Core] ![Visuals] |
@@ -1052,7 +1074,7 @@ Patches:
 
 ## Water Effects Brightness and Reflection Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.2.2` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.3` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Water Effects Brightness and Reflection Fix
 
 ![FOMOD]
@@ -1061,11 +1083,13 @@ Vanilla Dyndolod Meshes:
    * None
 Nchardak waterfall fix:
    * None
+Skyrim Particle Patch fix:
+   * Install Skyrim Particle Patch fix
 ~~~
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.54` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.61` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Optional Files - Water for ENB Beta
 
 ![FOMOD]
@@ -1277,6 +1301,16 @@ Download: | Main Files - 2k Frost mirriam and Elves Ears
 [![mod]](https://www.nexusmods.com/skyrim/mods/90697) | Version: `1.1` | Author: `MassiveMaster` | ![Visuals] |
 Download: | Main Files - 2k GleamBlossom and glowing groun plants
 
+## Freezing Cold Frost Salts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65292) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Freezing Cold Frost Salts
+
+## Hagraven Feathers
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65457) | Version: `1.0` | Author: `PraedythXVI` | ![Visuals]
+Download: | Main Files - HagravenFeathers
+
 ## HD Animal and Creature Drops
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33791) | Version: `1.0` | Author: `aviform` | ![Visuals] |
@@ -1321,6 +1355,19 @@ Download: | Main Files - Improved Dragonfly
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37360) | Version: `1.3` | Author: `BKCXb` | ![Visuals] |
 Download: | Main Files - Upgraded Dragonflies for CACO
+
+## Kanjs - Nests and Eggs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64905) | Version: `1.3` | Author: `Kanjs` | ![Visuals]
+Download: | Main Files - Kanjs - Nests and Eggs 2k
+
+![FOMOD]
+~~~
+Egg Size
+   * Butthurt Minimizer
+Chicken Head
+   * None
+~~~
 
 ## Mari's Flora
 
@@ -1397,11 +1444,6 @@ Download: | Main Files - Roos' Butter - 1K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6142) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
 Download: | Main Files - RUSTIC COOKING - Special Edition - 2K
-
-## Salts Retextured
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13981) | Version: `1.5` | Author: `IWantATardis` | ![Visuals] |
-Download: | Main Files - Retextured Salts with FX
 
 ## Scallions of Skyrim - High Polygon Leeks
 
@@ -2282,8 +2324,8 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.4` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Main Files - Embers XD
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.5` | Author: `mindflux` | ![Core] ![Visuals]|
+Download: | Optional Files - Embers XD Beta
 
 ![FOMOD]
 ~~~
@@ -2291,6 +2333,8 @@ Flames Customization:
    * Embers XD Flame (Orange/Red)
 Effects Quality:
    * Optimized
+Plugin Selection:
+   * Lux Orbis
 Fire Magick Add-On:
    * Install Fire Magick Add-On
 Forges Add-On:

@@ -175,8 +175,8 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://github.com/loot/loot/releases/tag/0.16.1) | Version: `0.16.1` | Author: `WrinklyNinja, et al` | ![Core] |
-Download: | Main Files - loot_0.16.0-0-gb1094e6_0.16.0.7z
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1918) | Version: `0.18.2` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - LOOT v0.18.2 - Installer (64-Bit)
 
 ![PostInstall]
 ~~~

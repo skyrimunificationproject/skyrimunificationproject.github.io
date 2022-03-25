@@ -59,7 +59,7 @@ Download: | Main Files - More Informative Console 0.43
 
 ## Actor Limit Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Version: `4` | Author: `meh321` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32349) | Version: `5` | Author: `meh321` | ![Core] |
 Download: | Main Files - Actor Limit Fix (Special Edition)
 
 ## Animated Static Reload Fix
@@ -94,12 +94,12 @@ Download: | Main Files - BetterStealing v2
 
 ## Better Third Person Selection - BTPS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.3.3` | Author: `Shrimperator` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.4.2` | Author: `Shrimperator` | ![Core]
 Download: | Main Files - Better Third Person Selection
 
 ## Bug Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33261) | Version: `4.0.1` | Author: `meh321` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33261) | Version: `6.0` | Author: `meh321` | ![Core] |
 Download: | Main Files - Bug Fixes SSE (Special Edition)
 
 ## Classic Sprinting Redone
@@ -129,7 +129,7 @@ Download: | Main Files - Enhanced Invisibility SE
 
 ## Enhanced Volumetric Lighting and Sun Shadows
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63725) | Version: `1.2.0` | Author: `LonelyKitsune` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63725) | Version: `1.3.0` | Author: `LonelyKitsune` | ![Core] |
 Download: | Main Files - EVLaS
 
 ## Fuz Ro D-oh - Silent Voice
@@ -144,7 +144,7 @@ Download: | Old Files - I'm Walkin' Here
 
 ## Immersive Equipment Displays
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62001) | Version: `1.3.2` | Author: `SlavicPotato` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62001) | Version: `1.4.0` | Author: `SlavicPotato` | ![Core]
 Download: | Main Files - Immersive Equipment Displays
 
 ## Keyword Item Distributor (KID)
@@ -177,12 +177,12 @@ Download: | Main Files - Pause After Unload Unscripted SE-1.0.0.9-rar
 
 ## powerofthree's Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.5.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.6.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - powerofthree's Tweaks SE
 
 ## Scrambled Bugs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Version: `16.0` | Author: `meh321, KernalsEgg` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Version: `17.0` | Author: `meh321, KernalsEgg` | ![Core] |
 Download: | Main Files - Scrambled Bugs (Special Edition)
 
 ## Screenshot Helper
@@ -290,7 +290,7 @@ Download: | Old Files - YesImSure
 ## Whose Quest Is It Anyway
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23581) | Version: `1.3` | Author: `Ryan` | ![Core] |
-Download: | Main Files - WhoseQuestIsItAnyway
+Download: | Old Files - Whose Quest Is It Anyway
 
 ---
 
@@ -370,7 +370,7 @@ Download: | Main Files - MageArmorScriptFix
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.4` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.6` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -1336,8 +1336,8 @@ Download: | Main Files - No Broken Whiterun Watchtower - ESL
 
 ## Quests Are In Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18416) | Version: `1.2` | Author: `SarthesArai` | ![Core] |
-Download: | Main Files - QuestsAreInSkyrim_USSEP_1_2_reupload
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18416) | Version: `1.3` | Author: `SarthesArai` | ![Core] |
+Download: | Main Files - QuestsAreInSkyrim_USSEP_1_3
 
 ## Radiance - Radiant Quest Enchancements - Locations
 
@@ -1399,7 +1399,7 @@ Pack the mod with CAO.
 
 ## C.O.I.N. - Coins of Interesting Natures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `1.1.10` | Author: `Tate Taylor and VictorF` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `1.1.11` | Author: `Tate Taylor and VictorF` | ![Core] |
 Download: | Main Files - C.O.I.N.
 
 ![FOMOD]
@@ -1417,7 +1417,7 @@ Download: | Main Files - Extended Encounters
 
 ## Headhunter - Bounties Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.20` | Author: `JaySerpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.30` | Author: `JaySerpa` | ![Core] |
 Download: | Main Files - Headhunter - Bounties Redone
 
 ![FOMOD]
@@ -1605,7 +1605,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-22` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-23` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
