@@ -7,6 +7,17 @@ title: "Skyrim Unification Project"
 
 ---
 
+## Animated Clutter
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14398) | Version: `1.9` | Author: `JackMorris` | ![Visuals] |
+Download: | Main Files - Animated Clutter SSE
+
+![FOMOD]
+~~~
+Choose One:
+   * Install everything
+~~~
+
 ## Static Mesh Improvement Mod - SMIM
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/659) | Version: `2.08` | Author: `Brumbek` | ![Core] ![CAO]|
@@ -25,21 +36,20 @@ Pack the mod with CAO.
 
 ## Static Mesh Improvement Mod Improvement Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.3.0` | Author: `Novelyst` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.0` | Author: `Novelyst` | ![Core] |
 Download: | Main Files - Static Mesh Improvement Mod Improvement Mod
 
 ![FOMOD]
 ~~~
+Optional - Meshes:
+   * Hawk
+Optional - Textures:
+   * Apples
 Mods:
    * Dynamic Things Alternative
-Real Rabbits HD:
-   * Yes
-Wiseman Flora Fixes:
-   * No
+   * Real Rabbits HD
 Shell:
    * Shell
-Hanging Animals:
-   * Colorful
 ~~~
 
 ## Major Cities Mesh Overhaul
@@ -49,7 +59,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.45.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.48` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -61,11 +71,6 @@ Download: | Main Files - High Poly Project
 ~~~
 Options:
    * Install Everything
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/clutter/candles.
 ~~~
 
 ## High Poly Project - My Fixes SE-AE
@@ -93,8 +98,6 @@ Options:
 
 ![PostInstall]
 ~~~
-Delete meshes/dungeons/imperial/portcullissmall01/impportcullissmall01.nif.
-
 Pack the mod with CAO.
 ~~~
 
@@ -124,121 +127,100 @@ Optional:
 
 ## Rally's All The Things
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33669) | Version: `1.4` | Author: `Rallyeator` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33669) | Version: `1.5` | Author: `Rallyeator` | ![Core] ![Visuals]|
 Download: | Main Files - Rallys All The Things - FOMOD
 
 ![FOMOD]
 ~~~
 Rally's Ants:
    * Rally's Ants
-Rally's Brooms:
-   * Dirty
-Rally's Drawknife:
-   * None
-Rally's Farming Tools:
-   * Rally's Farming Tools
-Rally's Hooks and Saws:
-   * Rusty - ENV
-Rally's Honey Pot:
-   * New Vanilla Version
-Rally's Instruments:
-   * Default - 2K
-Rally's Manhole of Solitude:
-   * None
--Patches:
-   * Sewers No Stones
-Rally's Pillows:
-   * New Vanilla
-Rally's Quill and Inkwell:
-   * Quill and Inkwell
-Rally's Skeleton Keys:
-   * None
-Rally's Creepcluster for Skyrim:
-   * None
-Rally's Werewolf Totems:
-   * Werewolf Totems 4K-2K
-Rally's Water Foam:
-   * None
-Rally's Vampire Coffins:
-   * Black
-Rally's Nightingale Clutters:
-   * Nightingale Clutter
-Rally's Temple of Kynareth Mosaic:
-   * None
--Patches:
+Rally's Battlemap Flags
    * None
 Rally's Blackreach and Glowing Mushrooms:
-   * Blackreach and Glowing Mushrooms 4K-2K
-Rally's City Roofs:
    * None
-Rally's Dark Brotherhood Clutter:
-   * None
-Rally's Jurgen Windcaller Tomb:
-   * Jurgen Windcaller Tomb 4K
-Rally's Candle Flames:
-   * None
--Optional:
-   * None
-Rally's Road Signs:
-   * None
--Patches
-   * None
-Rally's Dark Elf Furniture:
-   * None
-Rally's Gold Coin:
-   * None
-Rally's Fishing Pole:
-   * Fishing Pole
-Rally's Hanging Moss:
-   * Desaturated
-Rally's Ragged Flagon sign:
-   * Carved
--Plugin
-   * None
-Rally's Wall of Kings:
-   * None
+Rally's Brooms:
+   * Dirty
 Rally's Butterflies and Moths and Torchbugs:
    * Gimme That
 -ENB Light Patches:
    * Torchbugs ENB Light
    * Green Moth ENB Light
-~~~
-
-## Skyland AIO
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34179) | Version: `2.1` | Author: `JohnRose81` | ![Core] ![Visuals]|
-Download: | Main Files - Skyland All In One
-
-![FOMOD]
-~~~
-Install Landscape Textures:
-   * Yes
-Select Mountain Types:
-   * Granite Mountains for Majestic Mountains (Favorite)
-Stone Roads or Dirt Roads:
-   * Stone Roads (Favorite)
-Select Cities to Install:
-   * Whiterun
-   * Riften
-   * Solitude
-Towns, Villages and Farmhouses:
-   * Yes
-Fort and Dungeons:
-   * Imperial Forts and Dungeons
-   * Nordic Ruins
-Boats, Ships and Shacks:
-   * Yes
-Imperial and Nordic Tents:
-   * Yes
-Skyland Watercolor:
+Rally's Candle Flames:
    * None
-Skyland Night Skies:
-   * Skyking Galaxy (Favorite)   
-~~~
-
-![PostInstall]
-~~~
-Delete Skyland Imperial Forts and Dungeons.esp.
+-Optional:
+   * Reduced Candle Glow
+Rally's City Roofs:
+   * None
+Rally's Civil War Document Tubes
+   * Lore Version
+Rally's Creepcluster for Skyrim:
+   * None
+Rally's Dark Elf Furniture:
+   * None
+Rally's Dark Brotherhood Clutter:
+   * None
+Rally's Drawknife:
+   * None
+Rally's Farming Tools:
+   * Rally's Farming Tools
+Rally's Fishing Pole:
+   * Fishing Pole
+Rally's Gold Coin:
+   * None
+Rally's Hanging Moss:
+   * Desaturated
+Rally's Hooks and Saws:
+   * Rusty - ENV
+Rally's Honey Pot:
+   * New Vanilla Version
+Rally's Instruments:
+   * None
+Rally's Jurgen Windcaller Tomb:
+   * Jurgen Windcaller Tomb 4K
+Rally's Lava
+   * Lava 4K
+Rally's Manhole of Solitude:
+   * None
+-Patches:
+   * None
+Rally's Mead Barrels:
+   * Gimme that!
+Rally's Nightingale Clutters:
+   * Nightingale Clutter
+Rally's Nord War Horns:
+   * Golden-Red
+-Torygg's Horn
+   * None
+Rally's Pillows:
+   * New Vanilla
+Rally's Quill and Inkwell:
+   * Quill and Inkwell
+Rally's Ragged Flagon sign:
+   * Carved
+-Plugin
+   * None
+Rally's Road Signs:
+   * None
+-Patches
+   * None
+Rally's Skeleton Key:
+   * None
+Rally's Smithy
+   * None
+-Rally's Smelter
+   * None
+Rally's Temple of Kynareth Mosaic:
+   * None
+-Patches:
+   * None
+Rally's Vampire Coffins:
+   * Black
+Rally's Wall of Kings:
+   * None
+Rally's Water Foam:
+   * None
+Rally's Werewolf Totems:
+   * Werewolf Totems 4K-2K
 ~~~
 
 ---
@@ -246,6 +228,11 @@ Delete Skyland Imperial Forts and Dungeons.esp.
 # Architecture
 
 ---
+
+## Ancient AF Windhelm - Windhelm Retextured
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `2.0` | Author: `agentw` | ![Core] ![Visuals]
+Download: | Main Files - Ancient AF Windhelm 4K
 
 ## Auriel's Chantry HD
 
@@ -316,12 +303,6 @@ Delete DawnGuardDoors.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51749) | Version: `1.0` | Author: `lazygecko` | ![Visuals] |
 Download: | Main Files - High Fantasy Whiterun 4K
 
-![PostInstall]
-~~~
-Delete textures/architecture/whiterun/wrcity*.
-Delete textures/architecture/whiterun/wrmarketstallroof01_n.dds.
-~~~
-
 ## High Hrothgar - Skyrim Remastered 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51788) | Version: `1.0` | Author: `Gravos8890` | ![Core] ![Visuals]|
@@ -338,37 +319,20 @@ Download: | Main Files - Mrf's Markarth 4k
 Delete meshes.
 ~~~
 
-## Mrf's Solitude
+## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
-Download: | Main Files - Mrf's Solitude 4K
-| Main Files - Mrf's solitude Optional files fomod
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals]|
+Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
 ~~~
-Patch option - Solitude fix:
-   * Solitude no parallax fix
-Texture option:
-   * Mrf's solitude Church windows
-   * Mrf Another type of floor
+Versions:
+   * Dirty Version - 4K-2K
+Weathered Road Signs:
+   * None
+(Patches):
+   * None
 ~~~
-
-![PostInstall]
-~~~
-Delete meshes.
-Delete textures/architecture/solitude/smanhole*.
-Delete Mrf Solitude.esp.
-~~~
-
-## Northfire's Windhelm
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44099) | Version: `1` | Author: `Northfire` | ![Core] ![Visuals]|
-Download: | Main Files - Northfires Windhelm
-
-## Ancient AF Windhelm - Windhelm Retextured
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63330) | Version: `2.0` | Author: `agentw` | ![Core] ![Visuals]
-Download: | Main Files - Ancient AF Windhelm 4K
 
 ## Orc Settlements Enhanced 
 
@@ -406,20 +370,73 @@ Daedric Shrines:
    * Dark 4K
 ~~~
 
+## Skyland Imperial Forts and Dungeons
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16354) | Version: `2.5` | Author: `Skyking` | ![Core] ![Visuals]
+Download: | Main Files - Skyland - Imperial Forts and Dungeons
+
+## Skyland Nordic Ruins
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19116) | Version: `2.0` | Author: `Skyking` | ![Core] ![Visuals]
+Download: | Main Files - Skyland Nordic Ruins
+
 ## Skyland Skyhaven Temple
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65228) | Version: `1.0` | Author: `Skyking` | ![Core] ![Visuals]|
 Download: | Main Files - Skyland Skyhaven Temple
 
-## Soul Cairn HD
+## Skyland Solitude
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15481) | Version: `5.0` | Author: `LoD` | ![Core] ![Visuals]|
-Download: | Main Files - Soul Cairn 4K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24252) | Version: `1.7` | Author: `Skyking` | ![Core] ![Visuals]
+Download: | Main Files - Skyland Solitude
 
-## Sovngarde HD
+## Skyland Sovngarde
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15891) | Version: `3.1` | Author: `LoD` | ![Core] ![Visuals]|
-Download: | Main Files - Sovngarde HD 4K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65502) | Version: `1.0` | Author: `Skyking` | ![Core] ![Visuals]
+Download: | Main Files - Skyland Sovngarde
+
+## Skyrim 3D Docks and Boardwalks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28781) | Version: `1.0.0` | Author: `mathy79` | ![Core] ![Visuals]|
+Download: | Main Files - Skyrim 3D Docks and Boardwalks
+| Optional Files - Skyrim 3D Docks and BoardWalks Weathered Riften Textures
+
+## The Soul Cairn
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66261) | Version: `1.2` | Author: `PraedythXVI` | ![Core] ![Visuals]
+Download: | Main Files - The SoulCairn 4K
+| Optional Files - The SoulCairn 8K Sky-New
+
+![FOMOD]
+~~~
+Soul Husk
+   * With SoulHusk Replacer Op1
+Arvak
+   * Arvak Retexture
+Bone Piles
+   * x2
+Sky
+   * Dark New
+BoneyardGate
+   * Option 1
+Effects
+   * None
+ElderScrollChest
+   * None
+Patches
+   * None
+~~~
+
+## Windhelm Fence 3D
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65346) | Version: `0.3.3` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Windhelm Fence 3D - Fomod Installer
+
+![FOMOD]
+~~~
+Options:
+   * Custom textures 4K
+~~~
 
 ## WiZkiD Riften and Ratway
 
@@ -428,7 +445,27 @@ Download: | Optional Files - WiZkiD Riften and Ratway 4k
 
 ![PostInstall]
 ~~~
-Delete meshes/architecture.
+Delete meshes.
+~~~
+
+## WiZkiD Signs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30481) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]|
+Download: | Main Files - WiZkiD Signs
+
+![FOMOD]
+~~~
+Main
+   * WiZkiD Signs (Movable by the Wind version)
+Birna's Oddments Addon
+   * None
+Patches
+   * Interesting NPC patch
+~~~
+
+![PostInstall]
+~~~
+Delete WiZKiD Signs - Interesting NPC patch.esp.
 ~~~
 
 ## Glorious Doors of Skyrim
@@ -470,19 +507,37 @@ Delete GDOS - Glorious Solitude Door - Rotation Fix.esp.
 Delete GDOS - Splendid Mechanized Dwemer Door.esp.
 ~~~
 
-## My Road Signs are Beautiful - Multilingual HD Retexture
+## Mrf's Solitude
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals]|
-Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
+Download: | Main Files - Mrf's Solitude 4K
+| Main Files - Mrf's solitude Optional files fomod
 
 ![FOMOD]
 ~~~
-Versions:
-   * Dirty Version - 4K-2K
-Weathered Road Signs:
-   * None
-(Patches):
-   * None
+Patch option - Solitude fix:
+   * Solitude no parallax fix
+Texture option:
+   * Mrf's solitude Church windows
+   * Mrf Another type of floor
+~~~
+
+![PostInstall]
+~~~
+Delete meshes.
+Delete textures/architecture/solitude/smanhole*.
+Delete textures/architecture/solitude/sthrone*.
+Delete Mrf Solitude.esp.
+~~~
+
+## Riften of Reverie
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65596) | Version: `0.9` | Author: `winedave` | ![Core] ![Visuals]
+Download: | Optional Files - Riften of Reverie 4K
+
+![PostInstall]
+~~~
+Delete meshes.
 ~~~
 
 ## RUSTIC WINDOWS
@@ -496,42 +551,6 @@ Delete textures/architecture/solitude/.
 Delete textures/architecture/winterhold/.
 ~~~
 
-## Skyrim 3D Docks and Boardwalks
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28781) | Version: `1.0.0` | Author: `mathy79` | ![Core] ![Visuals]|
-Download: | Main Files - Skyrim 3D Docks and Boardwalks
-| Optional Files - Skyrim 3D Docks and BoardWalks Weathered Riften Textures
-
-## Windhelm Fence 3D
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65346) | Version: `0.3.1` | Author: `wSkeever` | ![Core] ![Visuals]
-Download: | Main Files - Windhelm Fence 3D - Fomod Installer
-
-![FOMOD]
-~~~
-Options:
-   * Custom textures 4K
-~~~
-
-## WiZkiD Signs
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30481) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]|
-Download: | Main Files - WiZkiD Signs
-
-![FOMOD]
-~~~
-Main
-   * WiZkiD Signs (Movable by the Wind version)
-Birna's Oddments Addon
-   * None
-Patches
-   * Interesting NPC patch
-~~~
-
-![PostInstall]
-~~~
-Delete WiZKiD Signs - Interesting NPC patch.esp.
-~~~
 
 ---
 
@@ -542,7 +561,13 @@ Delete WiZKiD Signs - Interesting NPC patch.esp.
 ## WiZkiD Farmhouses
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39185) | Version: `1.4` | Author: `WiZkiD` | ![Visuals] |
-Download: | Optional - Files - WiZkiD Parallax Farmhouses 4K no parallax
+Download: | Optional Files - WiZkiD Parallax Farmhouses 4K no parallax
+| Misc Files - WiZkiD Parallax Farmhouses weathered-desaturated wood textures 4K
+
+![PostInstall]
+~~~
+Delete meshes/architecture/farmhouse/interior.
+~~~
 
 ## Rudy HQ - Hay
 
@@ -671,22 +696,6 @@ Download: | Main Files - Skyrim Remastered - Caves 4K Non Parallax
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30738) | Version: `1.3` | Author: `fadingsignal` | ![Core] ![Visuals]|
 Download: | Main Files - Metallurgy - Ingots Ore and Veins HD 2K (LOOSE)
-
-## Rally's Lava
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34695) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]|
-Download: | Rally's Lava 4K
-
-## RUSTIC RELIEFS 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34684) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
-Download: | Main Files - RUSTIC RELIEFS
-
-![PostInstall]
-~~~
-Delete textures/architecture.
-Delete textures/clutter.
-~~~
 
 ---
 
@@ -1074,7 +1083,7 @@ Patches:
 
 ## Water Effects Brightness and Reflection Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.3` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63862) | Version: `0.4` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Water Effects Brightness and Reflection Fix
 
 ![FOMOD]
@@ -1090,7 +1099,8 @@ Skyrim Particle Patch fix:
 ## Water for ENB
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.61` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Optional Files - Water for ENB Beta
+Download: | Main Files - Water for ENB
+| Optional Files - Water for ENB - Patch - Rudy ENB for Cathedral Weathers (SOS)
 
 ![FOMOD]
 ~~~
@@ -1309,7 +1319,7 @@ Download: | Main Files - Freezing Cold Frost Salts
 ## Hagraven Feathers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65457) | Version: `1.0` | Author: `PraedythXVI` | ![Visuals]
-Download: | Main Files - HagravenFeathers
+Download: | Main Files - HagravenFeathers less glossy
 
 ## HD Animal and Creature Drops
 
@@ -1335,11 +1345,6 @@ Download: | Main Files - High Poly Blackreach Mushrooms - Skyrim Remastered Patc
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40278) | Version: `1.2` | Author: `powerofthree` | ![Visuals] |
 Download: | Main Files - High Poly Gleamblossoms - ENB Light
-
-## High Poly Soul Husks
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47891) | Version: `0.2.1` | Author: `wSkeever` | ![Visuals] |
-Download: | Main Files - High Poly Soul Husks
 
 ## Icy Wraith Teeth
 
@@ -1515,27 +1520,6 @@ Download: | Main Files - Volatile Void Salts SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24039) | Version: `1.1.0` | Author: `mathy79` | ![Visuals] |
 Download: | Main Files - Ancient Pottery
 
-## Animated Clutter
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14398) | Version: `1.9` | Author: `JackMorris` | ![Visuals] |
-Download: | Main Files - Animated Clutter SSE
-
-![FOMOD]
-~~~
-Choose One:
-   * Install everything
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/architecture/solitude.
-Delete meshes/architecture/whiterun/wrterrain/wrskyforge01.nif
-Delete meshes/architecture/windhelm.
-Delete meshes/clutter/container/dwesoulgemcontainer01.nif
-Delete meshes/dungeon/imperial/door.
-Delete meshes/dlc01/architecture.
-~~~
-
 ## Archery Targets 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21726) | Version: `1.0` | Author: `TheJabberturtle` | ![Visuals] |
@@ -1556,11 +1540,6 @@ Download: | Main Files - Awesome Potions Simplified
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30055) | Version: `1.0` | Author: `SpotDisk` | ![Visuals] |
 Download: | Main Files - Basic Dining Set Replacer 2k
-
-## BLOODSTONE CHALICE REBORN
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/63551) | Version: `1.1` | Author: `Gamwich and Nazenn` | ![Visuals] |
-Download: | Main Files - BLOODSTONE CHALICE REBORN 2K
 
 ## BURP - Book Unity and Revamp Project
 
@@ -1780,7 +1759,12 @@ Metal Options:
    * Gold
 ~~~
 
-##  JS Dragon Claws 
+## JS Bloodstone Chalice
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66038) | Version: `1.01` | Author: `johnskyrim` | ![Core] ![Visuals]
+Download: | Main Files - JS Bloodstone Chalice SE - 2k Textures
+
+## JS Dragon Claws 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
 Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
@@ -1803,6 +1787,11 @@ Skyrim Sewers:
 ~~~
 Delete *.esp.
 ~~~
+
+## JS Initiate's Ewer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66242) | Version: `1.0` | Author: `johnskyrim` | ![Core] ![Visuals]
+Download: | Main Files - JS Initiate's Ewer SE - 2k Textures
 
 ## JS Instruments of Skyrim
 
@@ -1846,37 +1835,6 @@ Download: | Main Files - Near Vanilla Project - Control Cube Redone 4K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51646) | Version: `1.0` | Author: `GRY` | ![Visuals] |
 Download: | Main Files - Nocturnal's Pool HD 4K
-
-## Rally's Civil War Document Tubes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47637) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
-Download: | Main Files - Rally's Civil War Document Tubes
-
-![FOMOD]
-~~~
-Color Options:
-   * Lore Versions
-Enhanced Battlemap Flags:
-   * Gimme That!
-~~~
-
-## Rally's Mead Barrels
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49641) | Version: `1.1` | Author: `Rallyeator` | ![Visuals] |
-Download: | Main Files - Rally's Mead Barrels
-
-## Rally's Nord War Horns
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46872) | Version: `1.2` | Author: `Rallyeator` | ![Visuals] |
-Download: | Main Files - Rallys Nord War Horns
-
-![FOMOD]
-~~~
-Color Variations:
-   * Golden Red
-Torygg's Horn Replacer:
-   * None
-~~~
 
 ## Ray's UHD Folded Rag 
 
@@ -1987,11 +1945,25 @@ Download: | Main Files - SD's Horn Candles SE 2k
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
 Download: | Main Files - Sigils of Skyrim - Banners
 
+## Skyland Imperial and Nordic Tents
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57002) | Version: `1.6` | Author: `Skyking` | ![Visuals]
+Download: | Main Files - Skyland Imperial and Nordic Tents 4K
+
 ## Skyrim 3D Furniture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23552) | Version: `1.9.0` | Author: `mathy79` | ![Visuals] |
 Download: | Main Files - Skyrim 3D Furniture
 | Miscellaneous Files - Skyrim 3D Furniture SMIM patch
+
+![PostInstall]
+~~~
+Delete meshes/architecture.
+Delete meshes/clutter/common/cratesmall*.
+Delete meshes/clutter/meadery/meadbarrel01.nif.
+Delete meshes/furniture/clutter/meadbarrelfurniture.nif.
+Delete meshes/furniture/
+~~~
 
 ## Skyrim 3D Misc
 
@@ -2213,6 +2185,11 @@ Alternate Textures - Alt. Blood Textures (Optional):
    * None
 ~~~
 
+![PostInstall]
+~~~
+Delete textures/effects.
+~~~
+
 ## FleshFX
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27456) | Version: `1.1` | Author: `Deserter X` | ![Visuals] |
@@ -2324,15 +2301,17 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.5` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Optional Files - Embers XD Beta
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.7` | Author: `mindflux` | ![Core] ![Visuals]|
+Download: | Main Files - Embers XD Beta
 
 ![FOMOD]
 ~~~
 Flames Customization:
    * Embers XD Flame (Orange/Red)
-Effects Quality:
+Particle Lights - Quality:
    * Optimized
+Particle Lights - Intensity:
+   * Normal
 Plugin Selection:
    * Lux Orbis
 Fire Magick Add-On:
@@ -2681,6 +2660,12 @@ ShieldOptions:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44778) | Version: `1` | Author: `dpillari` | ![Visuals] |
 Download: | Main Files - dpillari 4k daedric armors SE
 
+![PostInstall]
+~~~
+Delete textures/armor/ebonymail/f/chitin_e_ebony.dds.
+Delete textures/armor/ebonymail/m/chitin_e_ebony.dds.
+~~~
+
 ## Dwarven Black Bow of Fate - retexture 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16136) | Version: `1.2` | Author: `UndeadSadness` | ![Visuals] |
@@ -2856,7 +2841,6 @@ Download: | Main Files - RAW SSE - 2K
 ![PostInstall]
 ~~~
 Delete textures/armor/dbarmor/.
-Delete textures/weapon/bladeofwoe/.
 ~~~
 
 ## Sigils of Skyrim - Shields
@@ -3102,32 +3086,6 @@ Delete PraedysSkeletons.esp.
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/35576) | Version: `1.0` | Author: `AurianaValoria1 and Zerofrost` | ![Visuals] |
 Download: | Main Files - Thanatos as Durnehviir Copper
-
-## The Elder Scrolls V Rewritten - Arvak 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11999) | Version: `1.1.1` | Author: `Oriius and Ph0rce` | ![Core] ![Visuals]|
-Download: | Main Files - Dawnguard Rewritten Arvak 1.1.1
-
-![FOMOD]
-~~~
-Texture Sizes:
-   * Extreme Definition
-Model Options:
-   * Soul Cairn
-~~~
-
-## The New Ideal - A Battlespire Inspired Ideal Master Replacer 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52962) | Version: `1.0` | Author: `HeartAttackMan` | ![Visuals] |
-Download: | Main Files - The New Ideal - Main
-
-![FOMOD]
-~~~
-Choose Color:
-   * Skyrim Purple
-Texture Size:
-   *  4K
-~~~
 
 ## TROLL
 

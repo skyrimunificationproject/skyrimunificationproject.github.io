@@ -3,6 +3,88 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-04-11
+
+---
+
+![Added]
+~~~
+Core 1 - Modified Vanilla Content - Soul-Cairn Objects Secured
+Core 2 - Architecture - Skyland Imperial Forts
+Core 2 - Architecture - Skyland Nordic Ruins
+Core 2 - Architecture - Skyland Ships and Shacks
+Core 2 - Architecture - Skyland Solitude
+Core 2 - Architecture - The Soul Cairn
+Core 2 - Architecture - Riften of Reverie
+Core 2 - Architecture - Adjusted mod order
+Core 2 - Clutter - Skyland Imperial and Nordic Tents
+Core 3 - Hair and Eyes - Beards for High Poly Head
+Core 3 - Hair and Eyes - Salt and Wind - KS Hairdos - Update
+Core 3 - Late Loaders Meshes - Alchemy Ingredients ENB Light
+Core 3 - Late Loaders Meshes - Particle Lights - Falmer Things
+~~~
+
+![Removed]
+~~~
+General World Improvement - Skyland AIO (replaced with individuals)
+Architecture - Soul Cairn HD (replaced with Praedy)
+Architecture - Sovngarde HD (replaced with Skyland)
+Caves and Dungeons - Rally's Lava (included in aio)
+Caves and Dungeons - RUSTIC RELIEFS (covered by Skyland)
+Food Flora Ingredeints - High Poly Soul Husks (covered in The Soul Cairn)
+Clutter and Misc - BLOODSTONE CHALICE REBORN (replaced with JS)
+Clutter and Misc - Rally's Civil War Document Tubes (included in aio)
+Clutter and Misc - Rally's Mead Barrels (included in aio)
+Clutter and Misc - Rally's Nord War Horns (included in aio)
+Creatures and Wildlife - TESV Rewritten - Arvak (covered by The Soul Cairn)
+Creatures and Wildlife - The New Ideal (covered by The Soul Cairn)
+Particle Lights - Ingredients (replaced with ws version)
+~~~
+
+![Updated]
+~~~
+Core 1 - Immersive Equipment Displays updated to 1.5.0.
+Core 1 - Better Courier updated to 1.7.1.
+Core 1 - Better Third Person Selection updated to 0.5.1.
+Core 1 - Papyrus Extender SE updated to 5.0.2.
+Core 1 - BUVARP RE updated to 1.1.
+Core 1 - Animated Clutter moved to General World Improvement (above SMIM)
+Core 2 - Assorted Mesh Fixes updated to 0.48.
+Core 2 - Water Effects Brightness and Reflection Fix updated to 0.4.
+Core 2 - Rally's All the Things updated to 1.5.
+Core 2 - Windhelm Fence 3D updated to 0.3.3.
+Core 2 - Static Mesh Improvement Mod Improvement Mod updated to 1.4.
+Core 2 - Embers XD updated to 2.5.7.
+Core 2 - Water for ENB optional file added.
+Core 2 - High Fantasy Whiterun - Updated delete instructions.
+Core 2 - WiZkiD Riften and Ratway - Updated delete instructions.
+Core 2 - WiZkiD Farmhouses - Updated delete instructions.
+Core 2 - Skyrim 3D Furniture - Updated delete instructions.
+Core 2 - Enhanced Blood Textures - Updated delete instructions.
+Core 2 - Daedric Armor Remastered - Updated delete instructions.
+Core 3 - Sprites or Specters updated to 0.2.1.
+Core 3 - Realistic AI Detection updated to 3.0.
+Core 3 - Particle Lights for ENB - Dwarven Spiders updated to 1.1.
+Core 3 - Particle Lights for ENB - Falmer Drips updated to 1.1.
+Core 3 - Particle Lights for ENB - Fire Traps updated to 1.1
+Core 3 - Particle Lights for ENB - Light Orbs - Motes updated to 1.1.
+Core 3 - Particle Lights for ENB - Moon Crests updated to 1.1.
+Core 3 - Particle Lights for ENB - Wisps - Witchlight updated to 1.2.
+Core 3 - Sprites or Specters ENB Light updated to 0.3.
+Core 3 - Spiders of Solstheim ENB Light updated to 0.4.1.
+Core 3 - Misc Effects ENB Light updated to 1.5.
+Core 3 - More Lights for ENB - Blood Splatter Fix updated to 0.3.
+Core 3 - Cathedral 3D Mountain Flowers Base Object Swapper updated to 0.1.3.
+Core 3 - Experience updated to 2.1.0.
+Core 3 - Unique Markarth Doors updated to 0.3.1.
+Core 3 - Better Windhelm Ground Meshes updated to 1.3.5.
+Core 3 - EVG Conditional Idles updated to 1.42.
+Core 3 - Fixed Mesh Lighting updated to 1.7.4.
+Core 3 - Savage Skyrim updated to 4.00.
+~~~
+
+---
+
 # 2022-03-25
 
 ---

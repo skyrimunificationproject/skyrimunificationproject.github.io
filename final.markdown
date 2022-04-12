@@ -47,7 +47,6 @@ Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Aspens Ablaze.esp | Apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
-Beards.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
@@ -103,7 +102,7 @@ RaceMenuPlugin.esp | Add ESL flag
 Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
 ReadingImprovesSpeech.esp | Add ESL flag
-Realistic AI Detection 2 SE Lite.esp | Compact formIDs, add ESL flag
+Realistic AI Detection 3 - Lite.esp | Compact formIDs, add ESL flag
 RealRainSE.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag

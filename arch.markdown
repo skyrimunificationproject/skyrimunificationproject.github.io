@@ -43,9 +43,12 @@ BluePalaceTerrace.esp | Apply ESMifier script
 ClefJ's Winterhold.esp | Apply ESMifier script
 COTN - Dawnstar.esp | Apply ESMifier script
 COTN - Falkreath.esp | Apply ESMifier script
+COTN Addon - Anga's mill.esp | Apply ESMifier script
 ETaC - Complete.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
+Half-Moon Mill - COTNed.esp | Apply ESMifier script
 JK's Skyrim.esp | Apply ESMifier script
+Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 MarkarthBookstoreSE.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script

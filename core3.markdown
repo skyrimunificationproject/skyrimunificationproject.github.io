@@ -698,6 +698,11 @@ Choose resolution:
    * High: 2048
 ~~~
 
+## Beards by Hvergelmir for High Poly Head
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65920) | Version: `1.0` | Author: `naChooey` | ![Core] ![Visuals]
+Download: | Main Files - Beards by Hvergelmir - High Poly Head
+
 ## Brows
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1062) | Version: `4.1` | Author: `Hvergelmir` | ![Core] ![Visuals] |
@@ -772,6 +777,11 @@ Serana Options:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52336) | Version: `1.0` | Author: `Repzik` | ![Visuals] |
 Download: | Main Files - KS Hairdos 1-8 Salt and Wind 1-1
+
+## Salt and Wind - KS Hairdos - Update
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64707) | Version: `1.0` | Author: `dovaya` | ![Visuals]
+Download: | Main Files - Main file
 
 ## Salt and Wind - KS Hairdos - Kalilies NPCs
 
@@ -1073,14 +1083,8 @@ Download: | Main Files - Dialogue Animation Remix (DAR) - main archive
 
 ## EVG Conditional Idles
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.4` | Author: `Everglaid` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.42` | Author: `Everglaid` | ![Core] |
 Download: | Main Files - EVG Conditional Idles
-
-![FOMOD]
-~~~
-Options:
-   * Recommended
-~~~
 
 ## EVG Animation Variance 
 
@@ -1206,7 +1210,7 @@ Download: | Main Files - XPMSSE Weapons Uncloaked
 
 ## Savage Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `3.98` | Author: `ROUGESHOT` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `4.00` | Author: `ROUGESHOT` | ![Core] |
 Download: | Main Files - Savage Skyrim
 
 ![PostInstall]
@@ -1555,8 +1559,8 @@ Pack the mod with CAO.
 
 ## Realistic AI Detection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2345) | Version: `2.0` | Author: `Olivier Doorenbos` | ![Core] |
-Download: | Main Files - Realistic AI Detection 2 SE - Lite
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2345) | Version: `3.0` | Author: `Olivier Doorenbos` | ![Core] |
+Download: | Main Files - Realistic AI Detection 3 SE - Lite
 
 ---
 
@@ -1661,7 +1665,7 @@ Download: | Main Files - Smithing Perks Overhaul -- New Perk Tree
 
 ## Experience
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.0.2` | Author: `zax` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.1.0` | Author: `zax` | ![Core] |
 Download: | Main Files - Experience SE
 
 ![PostInstall]
@@ -1813,7 +1817,7 @@ Select Miscellaneous Patches:
 ## YOT - Your Own Thoughts
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/762) | Version: `4.2SE` | Author: `Tooplex` | ![Core] |
-Download: | Main Files - YOT - Your Own Thoughts 4.2
+Download: | Old Files - YOT - Your Own Thoughts 4.2
 | [YOT - Your Own Thoughts - Patches](https://www.dropbox.com/s/k2ruv6czdkxyemd/YOT%20-%20Your%20Own%20Thoughts%20-%20Patches.7z?dl=0)
 
 ![FOMOD]
@@ -1833,7 +1837,7 @@ Download: | Main Files - Animated Coffins
 
 ## Better Windhelm Ground Meshes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42746) | Version: `1.3.4` | Author: `cuyima` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42746) | Version: `1.3.5` | Author: `cuyima` | ![Core]
 Download: | Main Files - Better Windhelm Ground Meshes
 | Optional Files - Better Windhelm Ground Meshes - Valunstrad
 
@@ -1849,7 +1853,7 @@ Download: | Main Files - Bright Falling Leaves Fix
 
 ## Cathedral 3D Mountain Flowers - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.2` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.3` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
@@ -1958,8 +1962,14 @@ Download: | Main Files - Skyrim - A Mountainous Experience
 
 ## Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62969) | Version: `0.2.4` | AUthor: `wSkeever` ![Core]![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62969) | Version: `0.3.1` | AUthor: `wSkeever` ![Core]![Visuals]
 Download: | Main Files - Unique Markarth Doors
+
+![FOMOD]
+~~~
+Open Cities
+   - No Open Cities Patch
+~~~
 
 ## Upgraded Blackreach Mushrooms For CACO
 
@@ -2033,7 +2043,7 @@ Delete /textures.
 
 ## Fixed Mesh Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.7.1` | Author: `Catnyss` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.7.4` | Author: `Catnyss` | ![Core] ![Visuals]|
 Download: | Main Files - Fixed Mesh Lighting
 
 ![FOMOD]
@@ -2079,6 +2089,8 @@ Other - Beehives:
 Other - Hagraven:
    * Vanilla
    * Dynamic Things Alternative
+Other - Potions:
+   * None
 ~~~
 
 ![PostInstall]
@@ -2145,6 +2157,7 @@ Delete meshes/dlc02/landscape/dlc2firecrater*.
 Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
 Delete meshes/dlc02/landscape/trees/.
 Delete meshes/magic/fireball01handeffects.nif.
+Delete meshes/magic/fxfirecloakhandeffects.nif.
 ~~~
 
 ## Apocrypha ENB Light
@@ -2179,9 +2192,10 @@ Download: | Main Files - ENB Lights For Effect Shaders
 
 ## Misc Effects ENB Light
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65070) | Version: `1.2.1` | Author: `Mur4s4me` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65070) | Version: `1.5` | Author: `Mur4s4me` | ![Core] ![Visuals]
 Download: | Main Files - Misc Effects ENB Light
 | Optional Files - Misc Effects ENB Light - Leanwolf's Better-Shaped Weapons
+| Optional Files - Misc Effects ENB Light - Obscure's College of Winterhold
 
 ## Particle Lights - Bugs in a Jar
 
@@ -2190,44 +2204,34 @@ Download: | Main Files - Particle Lights For ENB SE - Bugs in a Jar
 
 ## Particle Lights - Dwarven Spiders
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64313) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64313) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Dwarven Spiders
 | Optional Files - Dwemer Tech Glowmapped PATCH
 
 ## Particle Lights - Falmer Drips
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64457) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64457) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Falmer Drips
+
+## Particle Lights - Falmer Things
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65984) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+Download: | Main Files - Particle Lights for ENB - Falmer Things
+| Optional Files - Eyes of the Falmer - Gemstones Replacers HD SE PATCH
 
 ## Particle Lights - Fire Traps
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64690) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64690) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Fire Traps - FULL
-
-## Particle Lights - Ingredients
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44022) | Version: `1.2` | Author: `LossRec and Daralima` | ![Core] ![Visuals]|
-Download: | Main Files - Particle Lights For ENB SE - Ingredients
-
-![FOMOD]
-~~~
-Installation Options:
-   * For HPP
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/clutter/ingredients/frostsalts.nif.
-~~~
 
 ## Particle Lights - Light Orbs - Motes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50737) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50737) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]|
 Download: | Main Files - Particle Lights for ENB - Light Orbs - Motes
 
 ## Particle Lights - Moon Crests
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63878) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63878) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Moon Crests
 | Optional Files - Castle Volkihar HD - SE PATCH
 
@@ -2274,7 +2278,7 @@ Delete meshes/clutter/sarcophagusboltlock/.
 
 ## Particle Lights - Wisps - Witchlight
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50868) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50868) | Version: `1.2` | Author: `RemmyKun` | ![Core] ![Visuals]|
 Download: | Main Files - Particle Lights for ENB - Wisps - Witchlight
 
 ## Rudy HQ - More Lights - Bthardamz
@@ -2299,13 +2303,18 @@ Download: | Main Files - Rudy HQ - More Lights for ENB SE - Moths and Fireflys
 
 ## Spiders of Solstheim - ENB Light
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64818) | Version: `0.3.1` | Author: `wSkeever` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64818) | Version: `0.4.1` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Spiders of Solstheim - ENB Light
 
 ## Sprites or Specters - ENB Light
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64948) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64948) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Sprites or Specters - ENB Light
+
+## Alchemy Ingredients ENB Lights
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65509) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Alchemy Ingredients ENB Light
 
 ## Crystalline Fire Salts
 
@@ -2335,7 +2344,7 @@ Ingredients:
 
 ## More Lights for ENB - Blood Splatter Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Visuals]|
 Download: | Main Files - More Lights for ENB - Blood Splatter Fix
 
 ![FOMOD]

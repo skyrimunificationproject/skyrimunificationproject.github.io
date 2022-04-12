@@ -29,7 +29,7 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `4.5.7` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.0.2` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
 
 ## Scaleform Translation Plus Plus
@@ -94,8 +94,8 @@ Download: | Main Files - BetterStealing v2
 
 ## Better Third Person Selection - BTPS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.4.2` | Author: `Shrimperator` | ![Core]
-Download: | Main Files - Better Third Person Selection
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.5.1` | Author: `Shrimperator` | ![Core]
+Download: | Main Files - Better Third Person Selection (SE)
 
 ## Bug Fixes
 
@@ -144,7 +144,7 @@ Download: | Old Files - I'm Walkin' Here
 
 ## Immersive Equipment Displays
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62001) | Version: `1.4.0` | Author: `SlavicPotato` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62001) | Version: `1.5.0` | Author: `SlavicPotato` | ![Core]
 Download: | Main Files - Immersive Equipment Displays
 
 ## Keyword Item Distributor (KID)
@@ -400,10 +400,16 @@ Walkway Wall Fix:
    * Walkway Wall Fix SMIM
 ~~~
 
-## Skyrim Particle Patch
+## Particle Patch for ENB
 
-[![mod]](https://drive.google.com/file/d/1rIFzOZ5UXkEmYaok-aeukjvSNtKv9vJO/view) | Version: `2020-02-08` | Author: `mindflux` | ![Core] |
-Download: | Skyrim Particle Patch for ENB-SSE-2020-02-08.rar
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.0` | Author: `mindflux` | ![Core] |
+Download: | Main Files - Particle Patch for ENB
+
+![FOMOD]
+~~~
+Install custom textures?
+   * Yes
+~~~
 
 ![PostInstall]
 ~~~
@@ -1152,12 +1158,12 @@ Download: | Main Files - Animated Wedding Scene SE - MAIN USSEP
 
 ## Better Courier
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.7` | Author: `Korodic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.7.1` | Author: `Korodic` | ![Core] |
 Download: | Main Files - Better Courier
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.0.6` | Author: `AndrealphusVIII` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.1` | Author: `AndrealphusVIII` | ![Core] ![CAO]|
 Download: | Main Files - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
 
 ![PostInstall]
@@ -1291,6 +1297,11 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34681) | Version: `1.1.2` | Author: `Parapets` | ![Core] |
 Download: | Main Files - Save the Icerunner
+
+## Soul-Cairn Objects Secured
+
+[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/59741) | Version: `1.0` | Author: `Fuzzlesz` | ![Core]
+Download: | Soul-Cairn Objects Secured
 
 ## The Only Cure - Quest Expansion
 
@@ -1605,7 +1616,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-23` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-24` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
