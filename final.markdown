@@ -86,6 +86,7 @@ LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
 Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
+middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 NoBrokenWhiterunTower.esp | Apply ESMifier script
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
@@ -93,7 +94,6 @@ Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier sc
 Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-ORM-Arvak.esp | Compact formIDs, add ESL flag
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 QuestsAreInSkyrimUSSEP.esp | Add ESL flag
 RaceMenu.esp | Add ESL flag
@@ -102,7 +102,6 @@ RaceMenuPlugin.esp | Add ESL flag
 Radiance - Locations.esp | Apply ESMifier script
 Radiance - Quests.esp | Apply ESMifier script
 ReadingImprovesSpeech.esp | Add ESL flag
-Realistic AI Detection 3 - Lite.esp | Compact formIDs, add ESL flag
 RealRainSE.esp | Add ESL flag
 RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag

@@ -29,8 +29,14 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.0.2` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.0.3` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
+
+![FOMOD]
+~~~
+DLL
+   * SSE v1.5.97 ("Special Edition")
+~~~
 
 ## Scaleform Translation Plus Plus
 
@@ -74,8 +80,14 @@ Download: | Main Files - Autorun
 
 ## Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.3.0` | Author: `powerofthree` | ![Core]
-Download: | Main Files - Base Object Swapper SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.5.0` | Author: `powerofthree` | ![Core]
+Download: | Main Files - Base Object Swapper
+
+![FOMOD]
+~~~
+DLL
+   * SSE v1.5.97 ("Special Edition")
+~~~
 
 ## Better Combat Escape
 
@@ -94,7 +106,7 @@ Download: | Main Files - BetterStealing v2
 
 ## Better Third Person Selection - BTPS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.5.1` | Author: `Shrimperator` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.5.4` | Author: `Shrimperator` | ![Core]
 Download: | Main Files - Better Third Person Selection (SE)
 
 ## Bug Fixes
@@ -326,6 +338,11 @@ Post-Download: | Install downloaded archive via MO2
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43083) | Version: `0.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Blackreach Tentacle Mesh Fix
+
+## CritterSpawn Congestion Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.1` | Author: `Excinerus` | ![Core]
+Download: | Main Files - Critter Spawn Congestion Fix
 
 ## Drunk Sinking Head Idle Fix
 
@@ -1059,6 +1076,11 @@ Delete Stendarr Rising - NSUTR Patch.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | Version: `8.1.1` | Author: `Sarthes Arai` | ![Core] |
 Download: | Main Files - ESOImports 8 1 1
+
+## The Midden - Expanded
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2219) | Version: `1.06` | Author: `EasierRider` | ![Core]
+Download: | Main Files - The Midden Expanded SSE v1.07
 
 ## Unique Border Gates
 

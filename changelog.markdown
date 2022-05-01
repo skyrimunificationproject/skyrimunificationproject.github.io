@@ -3,6 +3,59 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-04-??
+
+---
+
+![Added]
+~~~
+Core 1 - Bugs and Mesh Fixes - Critter Spawn Congestion Fix
+Core 1 - World Expansion - The Midden Expanded
+Core 2 - Clutter and Misc - BURP Spell Tomes Patches
+Core 2 - Dwemer Ruins - JS Dwarven Oil SE
+Core 2 - Dwemer Ruins - JS Dwemer Ichor Barrels SE
+Core 2 - Dwemer Ruins - JS Dwemer Kitchenware SE
+Core 2 - Dwemer Ruins - JS Essence Extractor SE
+Core 2 - Flora Food Ingredients - Glimmering Glow Dust
+Core 2 - Armor and Weapon Retextures - JS Unique Utopia SE - Daggers
+Core 2 - Armor and Weapon Retextures - Praedy's Staves AIO
+~~~
+
+![Removed]
+~~~
+Core 2 - Armor and Weapon Retextures - Elemental Staffs (replaced with Praedy)
+Core 2 - Armor and Weapon Retextures - Eyes and Staves of Magnus (replaced with Praedy)
+Core 3 - New NPC and Enemy Encounters - Immersive Patrols Simplified (no longer needed)
+Core 3 - Late Loaders Meshes - Elemental Staffs - Apocalypse (replaced with Praedy)
+~~~
+
+![Updated]
+~~~
+Core 1 - Papyrus Extender updated to 5.0.3.
+Core 1 - Better Third Person Selection updated to 0.5.4.
+Core 1 - Base Object Swapper updated to 1.5.0.
+Core 2 - Assorted Mesh Fixes updated to 0.50.1.
+Core 2 - JS Dragon Claws updated to 1.3.
+Core 2 - Lux updated to 4.1.1.
+Core 2 - Lux Orbis updated to 2.6.
+Core 2 - Lux Via updated to 1.4.
+Core 2 - Lucid Rain updated to 2.11.
+Core 2 - Ancient Dwemer Metal - My Patches optional files updated.
+Core 2 - Simplicity of Snow updated to 0.6.1.
+Core 2 - Water for ENB updated to 1.62.
+Core 3 - Feminine Khajiit Textures updated to 3.2.
+Core 3 - Reliquary of Myth updated to 4.5.1.
+Core 3 - NPC Animation Remix updated to 1.1.0.
+Core 3 - Gesture Animation Remix (formerly Dialog Animation Remix) updated to 1.1.0.
+Core 3 - Experience updated to 2.1.1.
+Core 3 - Realistic AI Detection updated to 3.1.
+Core 3 - Hanaisse's Ingredients Bowl and ENB Light Patch updated to 2.0.
+Core 3 - Immersive Patrols updated to 3.0.
+Core 3 - SUP Conflict Resolution, Gameplay Overhaul updated without version change
+~~~
+
+---
+
 # 2022-04-11
 
 ---
@@ -62,7 +115,6 @@ Core 2 - WiZkiD Farmhouses - Updated delete instructions.
 Core 2 - Skyrim 3D Furniture - Updated delete instructions.
 Core 2 - Enhanced Blood Textures - Updated delete instructions.
 Core 2 - Daedric Armor Remastered - Updated delete instructions.
-Core 3 - Sprites or Specters updated to 0.2.1.
 Core 3 - Realistic AI Detection updated to 3.0.
 Core 3 - Particle Lights for ENB - Dwarven Spiders updated to 1.1.
 Core 3 - Particle Lights for ENB - Falmer Drips updated to 1.1.
@@ -344,7 +396,7 @@ Core 1 - Dear Diary Dark mode updated to 1.0.1.
 Core 1 - Timing Is Everything changed to non-FISS version.
 Core 1 - Simple Block Sparks updated to 0.31.
 Core 1 - Extended Encounters updated to 1.6.4.
-Core 1 - Base Object Swapper updated to 1.3.0.
+Core 1 - Base Object Swapper updated to 1.2.0.
 Core 2 - Aspens Ablaze updated to 2.33.
 Core 2 - Ancient Dwemer Metal Patches - removed Spellbreaker
 Core 2 - HD Medieval Anvil - removed Embers patch (covered by Animated Forge Water)

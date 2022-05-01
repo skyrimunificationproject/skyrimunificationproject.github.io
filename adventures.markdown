@@ -9,7 +9,7 @@ This module is not ready for download yet. This page is for internal tracking on
 
 ---
 
-# Adventures - Mod Changes
+# Adventures - Install Changes
 
 ---
 
@@ -43,7 +43,7 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Com
 | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
 | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
-##  JS Dragon Claws 
+## JS Dragon Claws 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
 Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
@@ -65,6 +65,38 @@ Skyrim Sewers:
 ![PostInstall]
 ~~~
 Delete *.esp.
+~~~
+
+## Praedy's Staves AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65481) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals]
+Download: | Main Files - Staves AIO 2K
+
+![FOMOD]
+~~~
+Allow overwriting of previous install
+
+- LotdOrVanilla
+   * Lotd
+- DragonPriestStaffBase
+   * WithGemsOp2
+- StaffEnchanter
+   * Enchanted + gems
+- AlterationStaffOptions - MagelightStaff
+   * Option1
+- StaffOfMagnusOptions
+   * BlueCrystal
+- Patches
+   * OliviaStaff
+- CC
+   * None
+- Extras
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete Praedy's StavesAIOLotd.esp.
 ~~~
 
 ---
@@ -518,6 +550,17 @@ Download: | Filename
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
+
+## LOTD Cleaned Textures
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] ![CAO]|
+Download: | Filename
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 
 ## LOTD Dragonmail Cuirass Enhanced
 

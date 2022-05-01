@@ -19,21 +19,8 @@ Download: | Main Files - Diverse Werewolves Collection
 
 ## Immersive Patrols
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `2.2.4` | Author: `Scrabbulor` | ![Core] |
-Download: | Main Files - Immersive Patrols SE
-
-## Immersive Patrols - Simplified
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32765) | Version: `2.1.0` | Author: `Scrabbulor and moose` | ![Core] |
-Download: | Main Files - Immersive Patrols II Simplified
-
-![FOMOD]
-~~~
-Immersive Patrols Versions:
-   * Complete
-Patches:
-   * Reduced Battles
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `3.0` | Author: `Scrabbulor` | ![Core] |
+Download: | Main Files - Immersive Patrols (11 vs 11 Battles)
 
 ## More Werewolves 
 
@@ -642,7 +629,7 @@ Chest Variations (2K)
 
 ## Feminine Khajiit Textures 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/183) | Version: `3.1` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/183) | Version: `3.2` | Author: `MONSTERaider` | ![Core] ![Visuals] |
 Download: | Main Files - Feminine Grey Cat and Leopard (CBBE) 2K
 
 ![FOMOD]
@@ -1076,11 +1063,6 @@ Select One: (only these)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Version: `1.0.1` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - Conditional tavern cheering (DAR)
 
-## Dialogue Animation Remix (DAR)
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.0` | Author: `CHIMgarden` | ![Core]
-Download: | Main Files - Dialogue Animation Remix (DAR) - main archive
-
 ## EVG Conditional Idles
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.42` | Author: `Everglaid` | ![Core] |
@@ -1102,11 +1084,15 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62849) | Version: `1.1.1` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - Immersive folded hands (DAR mod)
 
+## Gesture Animation Remix (DAR)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.1.0` | Author: `CHIMgarden` | ![Core]
+Download: | Main Files - Gesture Animation Remix (DAR) - main archive
+
 ## NPC Animation Remix (DAR)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.0.1` | Author: `CHIMgarden` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.1.0` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - NPC Animation Remix (DAR) - main download
-| Optional Files - NPC AR weight shift idles replacer to install with Dialogue Animation Remix
 
 ## Sleeping Expanded - Animations and NPC Reactions
 
@@ -1559,7 +1545,7 @@ Pack the mod with CAO.
 
 ## Realistic AI Detection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2345) | Version: `3.0` | Author: `Olivier Doorenbos` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2345) | Version: `3.1` | Author: `Olivier Doorenbos` | ![Core] |
 Download: | Main Files - Realistic AI Detection 3 SE - Lite
 
 ---
@@ -1591,7 +1577,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.4.7` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.5.1` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1665,7 +1651,7 @@ Download: | Main Files - Smithing Perks Overhaul -- New Perk Tree
 
 ## Experience
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.1.0` | Author: `zax` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.1.1` | Author: `zax` | ![Core] |
 Download: | Main Files - Experience SE
 
 ![PostInstall]
@@ -1874,11 +1860,6 @@ Expansion Packs for Others' Mods:
 ~~~
 Delete DtRS - Apoc+Arsenal Patch.esp.
 ~~~
-
-## Elemental Staffs - Apocalypse - Magic of Skyrim
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34521) | Version: `1.00` | Author: `Carnage2K4` | ![Core] ![Visuals]|
-Download: | Main Files - Elemental Staffs SE for AMoS
 
 ## Enchanting Station Candles 2.0
 
@@ -2121,7 +2102,6 @@ Download: | Main Files - ENB Helper SE 1.5 for SSE 1.5.97
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22574) | Version: `0.94` | Author: `4109` | ![Core] ![Visuals]|
 Download: | Update Files - ENB Light 0.98 Alpha 2
-| Optional Files - [ENB Light - SD's Horn Candles](https://drive.google.com/file/d/1CLK-EmqSGGCp4RN5sRqLe3-v6qYfkLBj/view?usp=sharing)
 | Optional Files - Redesigned Candle Flame for ENB
 
 ![FOMOD]
@@ -2153,6 +2133,7 @@ Select 'Install anyway'.
 
 ![PostInstall]
 ~~~
+Delete meshes/clutter/candles/.
 Delete meshes/dlc02/landscape/dlc2firecrater*.
 Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
 Delete meshes/dlc02/landscape/trees/.
@@ -2286,6 +2267,11 @@ Download: | Main Files - Particle Lights for ENB - Wisps - Witchlight
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22703) | Version: `1.0a` | Author: `Rudy102` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy HQ - More Lights for ENB SE - Bthardamz
 
+![PostInstall]
+~~~
+Delete meshes/clutter/dwemer/.
+~~~
+
 ## Rudy HQ - More Lights - Chaurus Eggs and Sacs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22705) | Version: `1.0a` | Author: `Rudy102` | ![Core] ![Visuals]|
@@ -2331,7 +2317,7 @@ ENB Particle Lighting:
 
 ## Hanaisse's Ingredients Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63530) | Version: `0.1` | Author: `Hanaisse - mathy79 - Skurkbro` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63530) | Version: `2.0` | Author: `Hanaisse - mathy79 - Skurkbro` | ![Core] ![Visuals]
 Download: | Main Files - Hanaisse's Bowl and ENB Light Ingredients Patch
 
 ![FOMOD]
@@ -2340,6 +2326,9 @@ Ingredients:
    * Eerie Ectoplasm
    * Dusty Vampire Dust
    * Surreal Spriggan Sap
+   * Freezing Cold Frost Salts
+   * Glimmering Glow Dust
+   * Volatile Void Salts
 ~~~
 
 ## More Lights for ENB - Blood Splatter Fix
@@ -2357,6 +2346,8 @@ Installation options:
 
 ![PostInstall]
 ~~~
+Delete meshes/clutter/dwemer/.
+
 You can disable or delete Rudy HQ Bthardamz or Chaurus Eggs above as you wish.
 ~~~
 

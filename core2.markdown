@@ -59,7 +59,7 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.48` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.50.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -375,6 +375,11 @@ Daedric Shrines:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16354) | Version: `2.5` | Author: `Skyking` | ![Core] ![Visuals]
 Download: | Main Files - Skyland - Imperial Forts and Dungeons
 
+![PostInstall]
+~~~
+Delete Skyland Imperial Forts and Dungeons.esp.
+~~~
+
 ## Skyland Nordic Ruins
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19116) | Version: `2.0` | Author: `Skyking` | ![Core] ![Visuals]
@@ -636,6 +641,26 @@ Download: | Main Files - Improved Dwemer Glass
 Delete meshes/dlc02/dungeons/dwemer/animated.
 ~~~
 
+## JS Dwarven Oil SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66770) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwarven Oil SE - 4k Textures (Leaked Oil Version)
+
+## JS Dwemer Ichor Barrels SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67162) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwemer Ichor Barrels - 4k Textures
+
+## JS Dwemer Kitchenware SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67026) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwemer Kitchenware SE - 4k Textures
+
+## JS Essence Extractor SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66578) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Essence Extractor SE - 4k Textures
+
 ## Ancient Dwemer Metal - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
@@ -645,7 +670,17 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v5
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
-| Note: During install right-click 4K and set as Data Directory
+|   Note: During install right-click 4K and set as Data Directory
+| Optional Files - Ancient Dwemer Metal - My Patches - Gemstones Replacers HD SE
+|   Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwarven Oil SE
+|   Note: During install right click Leaked Oil / 4K and set as Data Directory
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Ichor Barrels SE
+|   Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
+|   Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
+|   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - My bronze cubemap SE
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
 | Note: During install select 4K in BAIN installer
@@ -1060,8 +1095,14 @@ Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.5.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.6.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
+
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
 
 ![PostInstall]
 ~~~
@@ -1098,7 +1139,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.61` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.62` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 | Optional Files - Water for ENB - Patch - Rudy ENB for Cathedral Weathers (SOS)
 
@@ -1315,6 +1356,11 @@ Download: | Main Files - 2k GleamBlossom and glowing groun plants
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65292) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
 Download: | Main Files - Freezing Cold Frost Salts
+
+## Glimmering Glow Dust
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67291) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
+Download: | Main Files - Glimmering Glow Dust SE - Blue
 
 ## Hagraven Feathers
 
@@ -1583,6 +1629,16 @@ BURSPST Lite:
    * None
 ~~~
 
+## BURP Spell Tomes Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.3` | Author: `MidnightVoyager` | ![Core] ![Visuals]
+Download: | Main Files - BURPST New Resources
+
+![PostInstall]
+~~~
+Delete BURP_SpellTomes_New.esp.
+~~~
+
 ## CC's HQ Barset 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7974) | Version: `1.2` | Author: `ClearanceClarence` | ![Visuals] |
@@ -1710,6 +1766,7 @@ Options:
 ![PostInstall]
 ~~~
 Delete Praedy's Gemstones ISCPatched.esp.
+Delete textures/dlc02/.
 ~~~
 
 ## HD Medieval Anvil
@@ -1766,7 +1823,7 @@ Download: | Main Files - JS Bloodstone Chalice SE - 2k Textures
 
 ## JS Dragon Claws 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.3` | Author: `johnskyrim` | ![Core] ![Visuals]|
 Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
 
 ![FOMOD]
@@ -1962,7 +2019,6 @@ Delete meshes/architecture.
 Delete meshes/clutter/common/cratesmall*.
 Delete meshes/clutter/meadery/meadbarrel01.nif.
 Delete meshes/furniture/clutter/meadbarrelfurniture.nif.
-Delete meshes/furniture/
 ~~~
 
 ## Skyrim 3D Misc
@@ -2111,8 +2167,8 @@ Download: | Main Files - RealRain 3.2
 
 ## Lucid Rain
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28552) | Version: `1.0` | Author: `nicostein` | ![Core] ![Visuals]|
-Download: | Main Files - Lucid Rain
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28552) | Version: `2.11` | Author: `nicostein` | ![Core] ![Visuals]|
+Download: | Main Files - Lucid Rain for Cathedral and Azurite Weathers
 
 ## Masser and Secunda - Moons HD
 
@@ -2348,7 +2404,7 @@ Option:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `4.0.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `4.1.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
@@ -2397,7 +2453,7 @@ Delete textures/architecture/solitude/.
 
 ## Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.5` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `2.6` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux Orbis
 
 ![FOMOD]
@@ -2414,7 +2470,7 @@ Additional content and patches:
 
 ## Lux Via
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.2` | Author: `GGUNIT` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.4` | Author: `GGUNIT` | ![Core] ![Visuals]
 Download: | Main Files - Lux Via
 
 ![FOMOD]
@@ -2676,26 +2732,10 @@ Download: | Main Files - Dwarven Black Bow of Fate - 2k
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30029) | Version: `1.5-SE` | Author: `OperatorCactus` | ![Visuals] |
 Download: | Main Files - Special Ebony Shiny Reflective Refractive Reshlective 2k 4k...
 
-## Elemental Staffs 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5319) | Version: `2.01` | Author: `Carnage2K4` | ![Core] ![Visuals]|
-Download: | Main Files - Elemental Staffs SE
-
 ## Elven Weapons for Silence 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27994) | Version: `1.0` | Author: `Erlioniel` | ![Visuals] |
 Download: | Optional Files - Leanwolf Elven - Default Silver
-
-## Eyes and Staves of Magnus HD
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38719) | Version: `1.2` | Author: `PraedythXVI` | ![Visuals] |
-Download: | Main Files - Eyes and Staves of Magnus 4K SE - Enb-Light
-
-![FOMOD]
-~~~
-Staff and Eye Options:
-   * Transparent Silver Cracked
-~~~
 
 ## Frankly HD - Dawnguard Armor and Weapons
 
@@ -2791,6 +2831,36 @@ Download: | Main Files - Finished Harkon's Sword mesh and textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51346) | Version: `1.0` | Author: `johnskyrim` | ![Visuals] |
 Download: | Main Files - JS Helm of Yngol SE - 2k
+
+## JS Unique Utopia SE - Daggers
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65394) | Version: `1.1` | Author: `johnskyrim` | ![Core] ![Visuals]
+Download: | Main Files - JS Unique Utopia SE - Daggers - 2k Textures
+
+## Praedy's Staves AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65481) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals]
+Download: | Main Files - Staves AIO 2K
+
+![FOMOD]
+~~~
+LotdOrVanilla
+   * Default
+DragonPriestStaffBase
+   * WithGemsOp2
+StaffEnchanter
+   * Enchanted + gems
+AlterationStaffOptions - MagelightStaff
+   * Option1
+StaffOfMagnusOptions
+   * BlueCrystal
+Patches
+   * OliviaStaff
+CC
+   * None
+Extras
+   * None
+~~~
 
 ## Remiros' Ancient Falmer Armor HD
 
