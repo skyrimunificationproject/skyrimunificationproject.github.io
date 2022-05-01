@@ -36,7 +36,7 @@ Core 1 - Better Third Person Selection updated to 0.5.4.
 Core 1 - Base Object Swapper updated to 1.5.0.
 Core 2 - Assorted Mesh Fixes updated to 0.50.1.
 Core 2 - JS Dragon Claws updated to 1.3.
-Core 2 - Lux updated to 4.1.1.
+Core 2 - Lux updated to 4.2.
 Core 2 - Lux Orbis updated to 2.6.
 Core 2 - Lux Via updated to 1.4.
 Core 2 - Lucid Rain updated to 2.11.
