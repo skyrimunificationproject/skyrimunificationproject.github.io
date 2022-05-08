@@ -32,8 +32,11 @@ Plugin |
 AHZBetterDGEntranceSE.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
+middenexpanded.esp |
 NoBrokenWhiterunTower.esp |
 Sepolcri.esp |
+Water for ESB.esm |
+yumcheese.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -60,8 +63,6 @@ DeadlySpellImpacts.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
 DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
-Elemental_Staffs.esp | Compact formIDs, add ESL flag
-Elemental_Staffs_Patch_AMoS.esp | Compact formIDs, add ESL flag
 ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script

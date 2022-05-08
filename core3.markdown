@@ -1084,6 +1084,11 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62849) | Version: `1.1.1` | Author: `CHIMgarden` | ![Core]
 Download: | Main Files - Immersive folded hands (DAR mod)
 
+## Lively Children Animations (DAR)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Versions: `1.0` | Author: `CHIMgarden` | ![Core]
+Download: | Main Files - Lively Children Animations (DAR)
+
 ## Gesture Animation Remix (DAR)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.1.0` | Author: `CHIMgarden` | ![Core]
@@ -1244,7 +1249,7 @@ Download: | Main Files - Hunters Not Bandits for RDO
 
 ## Immersive Citizens - AI Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4` | Author: `Arnaud dOrchymont` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4.0.1` | Author: `Arnaud dOrchymont` | ![Core] |
 Download: | Main Files - Immersive Citizens - AI Overhaul
 
 ![FOMOD]
@@ -1936,10 +1941,15 @@ Download: | Main Files - Rudy Candles for SMIM Lanterns
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57925) | Version: `1.0` | Author: `Mur4s4me - PraedythXVI - EnaiSiaion` | ![Core] ![Visuals] |
 Download: | Main Files - Sacrosanct - Skeleton Replacer HD Patch
 
+## Sconces of Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Version: `0.2.1` | Author: `wSkeever` ![Core] ![Visuals]
+Download: | Main Files - Markarth Braziers Improved
+
 ## Skyrim - A Mountainous Experience
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.5.6` | Author: `NeverLose, DuskyB` | ![Core] ![Visuals] |
-Download: | Main Files - Skyrim - A Mountainous Experience
+Download: | Main Files - Skyrim - A Mountainous Experience (double-sided)
 
 ## Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
 
@@ -2204,6 +2214,11 @@ Download: | Main Files - Particle Lights for ENB - Falmer Things
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64690) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Fire Traps - FULL
+
+## Particle Lights - Ice Torches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67663) | Version: `1.0` | Author: `RemmyKun` | ![Core] ![Visuals]
+Download: | Main Files - Particle Lights for ENB - Ice Torches
 
 ## Particle Lights - Light Orbs - Motes
 

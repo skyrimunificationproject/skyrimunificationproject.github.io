@@ -3,6 +3,38 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-05-08
+
+---
+
+![Added]
+~~~
+Core 2 - General World Improvement - SMIM Barrel Expansion
+Core 2 - Dwemer Ruins - JS Dwemer Artifacts SE
+Core 3 - Animation Conditional - Lively Children Animations
+Core 3 - Late Loaders Meshes - Sconces of Skyrim
+Core 3 - Late Loaders Meshes - Particle Lights - Ice Torches
+~~~
+
+![Updated]
+~~~
+Prerequisites - Cathedral Assets Optimizer updated to 5.3.13.
+Core 1 - Nilheim Misc Quest Expansion updated to 1.12.
+Core 1 - Soul-Cairn Objects Secured updated to 1.1.
+Core 1 - DynDOLOD Resources updated to Alpha-25.
+Core 1 - Critter Spawn Congestion Fix updated to 1.2.
+Core 2 - Assorted Mesh Fixes updated to 0.54.
+Core 2 - Veydosebrom updated to 1.2.1.
+ -- UPDATE ENB BINARY TO USE COMPLEX GRASS
+Core 2 - Ancient Dwemer Metal My Patches instructions updated
+Core 2 - Water for ENB updated to 1.63.
+Core 2 - Embers XD updated to 2.5.8.
+Core 2 - Major Cities Mesh Overhaul updated to 1.1.
+Core 3 - Immersive Citizens updated to 0.4.0.1.
+~~~
+
+---
+
 # 2022-05-01
 
 ---

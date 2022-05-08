@@ -341,7 +341,7 @@ Download: | Main Files - Blackreach Tentacle Mesh Fix
 
 ## CritterSpawn Congestion Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.1` | Author: `Excinerus` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.2` | Author: `Excinerus` | ![Core]
 Download: | Main Files - Critter Spawn Congestion Fix
 
 ## Drunk Sinking Head Idle Fix
@@ -1297,7 +1297,7 @@ Download: | Main Files - Keeper Carcette Survives SSE 1.1
 
 ## Nilheim - Misc Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.11` | Author: `JaySerpa` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.12` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - Nilheim - Quest Expansion
 
 ![PostInstall]
@@ -1322,7 +1322,7 @@ Download: | Main Files - Save the Icerunner
 
 ## Soul-Cairn Objects Secured
 
-[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/59741) | Version: `1.0` | Author: `Fuzzlesz` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59741) | Version: `1.1` | Author: `Fuzzlesz` | ![Core]
 Download: | Soul-Cairn Objects Secured
 
 ## The Only Cure - Quest Expansion
@@ -1638,7 +1638,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-24` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-25` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

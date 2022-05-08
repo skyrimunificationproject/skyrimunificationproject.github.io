@@ -151,7 +151,7 @@ The Scripts folder will be installed later with Mod Organizer 2.
 
 ## Cathedral Assets Optimizer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.12` | Author: `G_k` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.13` | Author: `G_k` | ![Core] |
 Download: | Main Files - Cathedral Assets Optimizer 64
 
 ![PostInstall]
@@ -251,7 +251,7 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.20.6` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `latest` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -463,8 +463,8 @@ For each add the following to the arguments field: -sse.
 
 ## ENB Series Skyrim
 
-[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.465` | Author: `Boris Vorontsov` | ![Core] |
-Download: | Main Files - v0.465 (or newest)
+[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.473` | Author: `Boris Vorontsov` | ![Core] |
+Download: | Main Files - v0.473 (or newest)
 
 ![PostInstall]
 ~~~

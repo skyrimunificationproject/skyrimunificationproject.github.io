@@ -52,14 +52,19 @@ Shell:
    * Shell
 ~~~
 
+## SMIM Barrel Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67676) | Version: `0.1.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
+
 ## Major Cities Mesh Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.0a` | Author: `raiserfx` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.1` | Author: `raiserfx` | ![Core] 
 Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.50.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.54` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## High Poly Project
@@ -532,6 +537,14 @@ Texture option:
 Delete meshes.
 Delete textures/architecture/solitude/smanhole*.
 Delete textures/architecture/solitude/sthrone*.
+Delete textures/architecture/solitude/sdirt*.
+Delete textures/architecture/solitude/sdragontile*.
+Delete textures/architecture/solitude/sgrass*.
+Delete textures/architecture/solitude/smetal*.
+Delete textures/architecture/solitude/smoss*.
+Delete textures/architecture/solitude/sroof*.
+Delete textures/architecture/solitude/sstonefloor01*.
+Delete textures/architecture/solitude/sstuccowall.dds and _n.dds.
 Delete Mrf Solitude.esp.
 ~~~
 
@@ -646,6 +659,11 @@ Delete meshes/dlc02/dungeons/dwemer/animated.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66770) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Dwarven Oil SE - 4k Textures (Leaked Oil Version)
 
+## JS Dwemer Artifacts SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67631) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwemer Artifacts SE - 4k Textures
+
 ## JS Dwemer Ichor Barrels SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67162) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
@@ -675,6 +693,8 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwarven Oil SE
 |   Note: During install right click Leaked Oil / 4K and set as Data Directory
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Artifacts SE
+|   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Ichor Barrels SE
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
@@ -1139,9 +1159,8 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.62` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.63` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
-| Optional Files - Water for ENB - Patch - Rudy ENB for Cathedral Weathers (SOS)
 
 ![FOMOD]
 ~~~
@@ -1156,7 +1175,8 @@ Water Texture Resolution:
 Waterfalls And Effects Add-On:
    * 4K  
 Patches:
-   * None   
+   * Blue Volcanic Water
+   * Rudy ENB for Cathedral Weathers   
 ~~~
 
 ---
@@ -1167,7 +1187,7 @@ Patches:
 
 ## Veydosebrom Regions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26293) | Version: `1.1.2` | Author: `Elyem` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26293) | Version: `1.2.1` | Author: `Elyem` | ![Core] ![Visuals]|
 Download: | Main Files - Veydosebrom Regions
 
 ![FOMOD]
@@ -1178,6 +1198,8 @@ Options:
    * Fresh Install
 Vegetation Quality:
    * High Quality
+ENB Support:
+   * Yes -- Make sure ENB is 0.473+
 Style:
    * Dense Landscape
 Grass Density:
@@ -2357,7 +2379,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.7` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.8` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD Beta
 
 ![FOMOD]
