@@ -11,9 +11,15 @@ title: "Skyrim Unification Project"
 ~~~
 Core 2 - General World Improvement - SMIM Barrel Expansion
 Core 2 - Dwemer Ruins - JS Dwemer Artifacts SE
+Core 2 - Caves and Dungeons - Better Dirt Cliffs and Alphas
 Core 3 - Animation Conditional - Lively Children Animations
 Core 3 - Late Loaders Meshes - Sconces of Skyrim
 Core 3 - Late Loaders Meshes - Particle Lights - Ice Torches
+~~~
+
+![Removed]
+~~~
+Core 1 - Pause After Load Unscripted (weird lighting flickers)
 ~~~
 
 ![Updated]

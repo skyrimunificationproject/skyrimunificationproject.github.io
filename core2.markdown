@@ -713,6 +713,11 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 
 ---
 
+## Better Dirt Cliffs and Alphas
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34035) | Version: `4.0` | Author: `cthunsthrall` | ![Visuals]
+Download: | Main Files - Better Dirt Cliffs and Alphas (4K)
+
 ## Detailing the Eldrich - Higher-Res Apocrypha
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/45782) | Version: `FINAL` | Author: `ObsidianStag` | ![Visuals] |

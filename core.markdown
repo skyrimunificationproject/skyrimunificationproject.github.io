@@ -182,11 +182,6 @@ This is for users who wish to generate grass LODs on their own.
 Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.06
 | Optional Files - NPC AI Process Pos Fixed -- Immersive Citizen Patch
 
-## Pause After Load Unscripted
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60958) | Version: `1.0.0.9` | Author: `SteveTownsend` | ![Core]
-Download: | Main Files - Pause After Unload Unscripted SE-1.0.0.9-rar
-
 ## powerofthree's Tweaks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.6.0` | Author: `powerofthree` | ![Core] |
