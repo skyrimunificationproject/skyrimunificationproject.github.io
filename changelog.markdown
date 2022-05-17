@@ -16,7 +16,7 @@ Core 2 - Caves and Dungeons - CC's Enhanced Ore Veins
 
 ~~~
 
-![Update]
+![Updated]
 ~~~
 Core 1 - Papyrus Extender updated to 5.1.0.
 Core 1 - DynDOLOD Resources updated to Alpha-26.
