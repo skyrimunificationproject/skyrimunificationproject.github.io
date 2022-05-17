@@ -29,7 +29,7 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.0.3` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.1.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
 
 ![FOMOD]
@@ -126,7 +126,7 @@ Download: | Main Files - DynamicEquipmentManagerSSE-Updated
 
 ## Equip Enchantment Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.4` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42839) | Version: `1.3.5` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Equip Enchantment Fix
 
 ## Encounter Zones Unlocked SE
@@ -382,7 +382,7 @@ Download: | Main Files - MageArmorScriptFix
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.6` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.7` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -443,6 +443,17 @@ Download: | Main Files - Spiders of Solstheim - Transparency Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60762) | Version: `0.2` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Stones of Solitude - Better Blended Rock Piles
 
+## Stones of Solitude - Majestic Mountain Rocks
+
+[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/68007) | Version: `1.0` | Author: `Blackread` | ![Core]
+Download: | Main Files - Stones of SOlitude - MM patch
+
+![FOMOD]
+~~~
+Version:
+   * Regular
+~~~
+
 ## TrapSwingingWall Script Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61978) | Version: `1.0.1` | Author: `tarlazo` | ![Core]
@@ -498,7 +509,7 @@ Download: | Main Files - Butterflies Unchained (ESL Version)
 
 ## Dwemer Gates Don't Reset
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.3.3` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.3.4` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Dwemer Gates Don't Reset
 
 ![FOMOD]
@@ -1302,7 +1313,7 @@ Pack the mod with CAO.
 
 ## Paarthurnax - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.10` | Author: `hayserpa` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.11` | Author: `hayserpa` | ![Core] ![CAO]|
 Download: | Main Files - Paarthurnax Quest Expansion
 
 ![PostInstall]
@@ -1633,7 +1644,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-25` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-26` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

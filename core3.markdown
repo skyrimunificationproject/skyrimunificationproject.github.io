@@ -19,7 +19,7 @@ Download: | Main Files - Diverse Werewolves Collection
 
 ## Immersive Patrols
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `3.0` | Author: `Scrabbulor` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `3.0a` | Author: `Scrabbulor` | ![Core] |
 Download: | Main Files - Immersive Patrols (11 vs 11 Battles)
 
 ## More Werewolves 
@@ -1004,7 +1004,7 @@ Download: | Main Files - Smooth Staff Animation
 
 ## Conditional Armor Type Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51507) | Version: `1.0` | Author: `Verolevi` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51507) | Version: `1.1` | Author: `Verolevi` | ![Core] |
 Download: | Main Files - Conditional Armor Type Animations - CATA
 
 ## Leviathan Animations - Female Idle Walk And Run
@@ -1457,6 +1457,12 @@ SKSE Addons:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.0` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
+| Misc Files - Dragon War - Deadly Spell Impacts Patch
+
+![PostInstall]
+~~~
+Delete DragonWar - Deadly Spell Impacts Patch.esp.
+~~~
 
 ## Enchanting Adjustments Updated
 
@@ -2024,7 +2030,7 @@ Download: | Main Files - WiZkiD - Hall of the Dead Stained Glass Windows
 
 ## Dynamic Things Alternative - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60741) | Version: `0.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60741) | Version: `0.2.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative - Base Object Swapper
 
 ![PostInstall]
@@ -2034,7 +2040,7 @@ Delete /textures.
 
 ## Fixed Mesh Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.7.4` | Author: `Catnyss` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.7.6` | Author: `Catnyss` | ![Core] ![Visuals]|
 Download: | Main Files - Fixed Mesh Lighting
 
 ![FOMOD]
@@ -2044,7 +2050,7 @@ Main:
 Flora - Main:
    * Vanilla Flora
 Flora - Patches:
-   * None
+   * Assorted Mesh Fixes
 Flora - Mountain Flowers:
    * 3D Mountain Flowers
 Flora - Snowberries:
@@ -2055,6 +2061,8 @@ Flora - Tundra Cotton:
    * Tundra Cotton by Mari
 Flora - Jazbay:
    * Jazbay by Mari
+Flora - Creep Cluster:
+   * Creep Cluster by Mari
 Flora - Canticle Tree:
    * High Poly Canticle Tree (note: does not require actual mod)
 Trees - Main:
@@ -2080,8 +2088,14 @@ Other - Beehives:
 Other - Hagraven:
    * Vanilla
    * Dynamic Things Alternative
+   * Static Mesh Improvement Mod Improvement Mod
+   * Unofficial Material Fix
 Other - Potions:
    * None
+Other - Rag:
+   * Vanilla
+Other - Effects:
+   * Vanilla
 ~~~
 
 ![PostInstall]

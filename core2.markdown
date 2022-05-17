@@ -119,7 +119,7 @@ Pack the mod with CAO.
 
 ## Forgotten Retex Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `5.3` | Author: `JDAnchor` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `6.2` | Author: `JDAnchor` | ![Core] ![Visuals] |
 Download: | Main Files - Forgotten Retex Project
 | Miscellaneous Files -Realistic HD Woodcutter's Axe Remastered - Patches
 
@@ -226,6 +226,21 @@ Rally's Water Foam:
    * None
 Rally's Werewolf Totems:
    * Werewolf Totems 4K-2K
+~~~
+
+## Fyx - 3D Solitude Sighpost
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - 3D Solitude SighPost
+
+## Solitude Objects SMIMed
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68115) | Version: `0.2` | Author: `wSkeever` | ![Visuals]
+
+![FOMOD]
+~~~
+Texture Options:
+   * Dock Ropes
 ~~~
 
 ---
@@ -661,7 +676,7 @@ Download: | Main Files - JS Dwarven Oil SE - 4k Textures (Leaked Oil Version)
 
 ## JS Dwemer Artifacts SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67631) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67631) | Version: `1.1` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Dwemer Artifacts SE - 4k Textures
 
 ## JS Dwemer Ichor Barrels SE
@@ -757,6 +772,23 @@ Download: | Main Files - Skyrim Remastered - Caves 4K Non Parallax
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30738) | Version: `1.3` | Author: `fadingsignal` | ![Core] ![Visuals]|
 Download: | Main Files - Metallurgy - Ingots Ore and Veins HD 2K (LOOSE)
 
+## CC's Enhanced Ore Veins
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1306) | Version: `9.0.1` | Author: `ClearanceClarance` | ![Core] ![Visuals]
+Download: | Main Files - Enhanced Ore Veins - 2K - 9.0.1
+
+![FOMOD]
+~~~
+Brightness:
+   * Normal (you can choose Brighter if you prefer)
+Mined Ores:
+   * Keep Old Ones
+Ingots:
+   * No new ingots
+Patches:
+   * None
+~~~
+
 ---
 
 # Ancient Structures, Statues and Shrines
@@ -791,7 +823,7 @@ Step 1:
 
 ## JS Shrines of the Divines
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | Version: `1.2` | Author: `johnskyrim` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33394) | Version: `1.3` | Author: `johnskyrim` | ![Visuals] |
 Download: | Main Files - JS Shrines of the Divines SE - 4K
 
 ## JS Shrines of the Divines - HD Glaze
@@ -1164,7 +1196,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.63` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.64` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -1201,14 +1233,14 @@ Mod Manager:
    * Mod Organizer 2
 Options:
    * Fresh Install
+ENB Support:
+   * Yes -- Make sure ENB is 0.475+
 Vegetation Quality:
    * High Quality
-ENB Support:
-   * Yes -- Make sure ENB is 0.473+
 Style:
-   * Dense Landscape
+   * Vanilla Landscape
 Grass Density:
-   * Default
+   * Sparse
 ~~~
 
 ## Happy Little Trees 
@@ -1658,7 +1690,7 @@ BURSPST Lite:
 
 ## BURP Spell Tomes Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.3` | Author: `MidnightVoyager` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.5.2` | Author: `MidnightVoyager` | ![Core] ![Visuals]
 Download: | Main Files - BURPST New Resources
 
 ![PostInstall]
@@ -1845,7 +1877,7 @@ Metal Options:
 
 ## JS Bloodstone Chalice
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66038) | Version: `1.01` | Author: `johnskyrim` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66038) | Version: `1.02` | Author: `johnskyrim` | ![Core] ![Visuals]
 Download: | Main Files - JS Bloodstone Chalice SE - 2k Textures
 
 ## JS Dragon Claws 
@@ -2384,8 +2416,8 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.8` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Main Files - Embers XD Beta
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.9` | Author: `mindflux` | ![Core] ![Visuals]|
+Download: | Main Files - Embers XD
 
 ![FOMOD]
 ~~~

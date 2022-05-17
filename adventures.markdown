@@ -22,7 +22,7 @@ Download and merge into previous install: | Main Files - Missives - Falskaar Pat
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
-Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
+Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
 ~~~
@@ -46,7 +46,7 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Com
 ## JS Dragon Claws 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
-Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
+Download and merge into previous install: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
 
 ![FOMOD]
 ~~~
@@ -70,7 +70,7 @@ Delete *.esp.
 ## Praedy's Staves AIO
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65481) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals]
-Download: | Main Files - Staves AIO 2K
+Download and merge into previous install: | Main Files - Staves AIO 2K
 
 ![FOMOD]
 ~~~
@@ -97,6 +97,43 @@ Allow overwriting of previous install
 ![PostInstall]
 ~~~
 Delete Praedy's StavesAIOLotd.esp.
+~~~
+
+## kryptopyr's Patch Hub
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] |
+Download and merge into previous install: | Main Files - kryptopyr's Patch Hub Installer
+ | Misc Files - Bandoliers \_\_ CCOR
+
+![FOMOD]
+~~~
+Mods:
+   * CCOR - Complete Crafting Overhaul Remastered
+   * CACO - Complete Alchemy and Cooking Overhaul
+   * TCIY - The Choice is Yours
+   * IT - Improved Traps
+CCOR - Winter Is Coming SSE - Cloaks:
+   * With Cloaks of Skyrim
+CCOR - Other:
+   * Bandolier - Bags and Pouches Classic
+   * Cloaks of Skyrim
+   * Metallurgy - Ingots and Ores HD
+   * Ordinator - Perks of Skyrim
+CACO - Other:
+   * Falskaar
+   * Growl - Werebeasts of Skyrim
+   * Inigo
+   * Moonpath to Elswyr
+   * Ordinator - Perks of Skyrim
+   * Predator Vision - Night Eye and Thermal Vision Overhaul
+   * The Gray Cowl of Nocturnal
+   * Unofficial Skyrim Special Edition Patch
+   * Wintersun - Faiths of Skyrim
+   * Wyrmstooth
+TCIY - Patches:
+   * Wintersun - Faiths of Skyrim
+IT - Patches:
+   * Unofficial Material Fix
 ~~~
 
 ---

@@ -95,6 +95,7 @@ Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier sc
 Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
+Praedy's Soul Cairn | Apply ESMifier script
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 QuestsAreInSkyrimUSSEP.esp | Add ESL flag
 RaceMenu.esp | Add ESL flag
@@ -299,23 +300,58 @@ Move SSE_LODGEN folder to your MO2’s mod folder and activate it as a mod.
 
 ---
 
+# Grass Cache (Optional)
+
+---
+
+Note: Only do this step if you plan to enable Grass LOD.  The grass cache may take up several GB on your drive.
+
+Download the script here: https://www.nexusmods.com/skyrimspecialedition/mods/55152 and place it into your xEdit scripts folder.
+
+Load your entire LO in xEdit and rightclick any mod, Apply Script, "List worldspaces with grass", OK.
+
+When the script finishes, copy the output string and edit your No Grass In Objects config.txt via Windows:
+
+~~~
+OnlyPregenerateWorldSpaces = "<output string>"
+UseGrassCache = True
+OverwriteGrassDistance = 12000
+OverwriteGrassFadeRange = 8000
+OnlyLoadFromCache = True
+DynDOLODGrassMode = 1
+~~~
+
+Select the Utilities dropdown in MO2 and choose PreCache Grass.  Click Yes on the popup.  Skyrim will run at a loading screen; it may crash and restart several times.  Don't close the popup; you can open console and see its worldspace progress.  If it repeatedly immediately crashes after launching, abort the process and check for Net Script Framework crash logs, and correct whatever error is causing the crash.  In this case, it will restart from the beginning.
+
+If you want to increase the speed it generates the cache, you can disable Septentronial Landscapes (remember to reenable it after this step!) and disable ENB with Shift-Enter each time the game starts.  Disabling other texture mods may have diminishing returns, as 4K landscape is present in every cell but other objects are much less frequent individually.
+
+Once the process completes, move the overwrite/grass/ to a new Grass Cache mod folder and refresh MO2.
+
+---
+
 # DynDOLOD
 
 ---
+
+IMPORTANT: If you disabled texture mods for Grass Cache, turn them back on!
 
 Launch Texgen from Mod Organizer 2, and configure it as shown:
 
 ![](./assets/img/texgen.png)
 
-Click Start.  When the log file says complete, close, and move TexGen_Output to a mod in MO2 and activate it.
+Additionally, if you are generating Grass LOD, check the Grass box. (Direct 186, Ambient 11)
+
+Click Start.  When the log file says complete, choose "Zip and Exit", and then install the zip file as a mod in MO2.
 
 Launch DynDOLOD, Click Advanced \>\>, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
 ![](./assets/img/dyndolod.PNG)
 
+Additionally, if you are generating Grass LOD, check that box.
+
 Click start.
 
-After it completes, exit.  Move Dyndolod output to your MO2 mod folder and activate it as a mod.
+After it completes, choose "Save and Zip and Exit", then install the zip as a mod in MO2.
 
 ---
 

@@ -3,6 +3,45 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-05-??
+
+---
+
+![Added]
+~~~
+Core 1 - Bugs and Mesh Fixes - Stones of Solitude Majestic Mountain Rocks
+Core 2 - General World Improvement - FYX 3D Solitude Sighpost
+Core 2 - General World Improvement - Solitude Objects SMIMed
+Core 2 - Caves and Dungeons - CC's Enhanced Ore Veins
+
+~~~
+
+![Update]
+~~~
+Core 1 - Papyrus Extender updated to 5.1.0.
+Core 1 - DynDOLOD Resources updated to Alpha-26.
+Core 1 - Paarthurnax Quest Expansion updated to 1.11.
+Core 1 - Navigator updated to 1.1.7.
+Core 1 - Dwemer Gates Don't Reset updated to 1.3.4.
+Core 2 - JS Dwemer Artifacts SE updated to 1.1
+Core 2 - JS Bloodstone Chalice SE updated to 1.02.
+Core 2 - JS Shrines of the Divines SE updated to 1.3.
+Core 2 - Embers XD updated to 2.5.9.
+Core 2 - Water for ENB updated to 1.64.
+Core 2 - BURP Spell Tomes Patches updated to 1.5.2.
+Core 2 - Forgotten Retex Project updated to 6.2.
+Core 2 - Veydesbrom - changed install instructions.
+Core 3 - Fixed Mesh Lighting updated to 1.7.6.
+Core 3 - Dynamic Things Alternative Base Object Swapper updated to 0.2.1.
+Core 3 - Conditional Armor Type Animations updated to 1.1.
+Core 3 - Immersive Patrols updated to 3.0a.
+Core 3 - SUP Gameplay Overhaul updated without version change.
+Core 3 - SUP Consistency Patches updated without version change.
+Core 3 - SUP Conflict Resolution updated without version change.
+~~~
+
+---
+
 # 2022-05-08
 
 ---

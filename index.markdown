@@ -463,8 +463,8 @@ For each add the following to the arguments field: -sse.
 
 ## ENB Series Skyrim
 
-[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.473` | Author: `Boris Vorontsov` | ![Core] |
-Download: | Main Files - v0.473 (or newest)
+[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.475` | Author: `Boris Vorontsov` | ![Core] |
+Download: | Main Files - v0.475 (or newest)
 
 ![PostInstall]
 ~~~
