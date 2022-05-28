@@ -175,8 +175,8 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1918) | Version: `0.18.2` | Author: `WrinklyNinja, et al` | ![Core] |
-Download: | Main Files - LOOT v0.18.2 - Installer (64-Bit)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1918) | Version: `0.18.3` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - LOOT v0.18.3 - Installer (64-Bit)
 
 ![PostInstall]
 ~~~
@@ -297,7 +297,7 @@ Download: | Main Files - Mod Organizer 2 (Archive)
 
 ## BethINI
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4875) | Version: `3.5` | Author: `DoubleYou` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4875) | Version: `3.6.1` | Author: `DoubleYou` | ![Core] |
 Download: | Main Files - BethINI Standalone Version
 
 ![PostInstall]
@@ -332,15 +332,17 @@ Close Mod Organizer 2 and run BethINI.exe.
    + Set 'Particles' to '6000'.
    + Uncheck the 'Lens Flare' option.
    + Set 'Shadow Bias' to '0.47'.
-   + Check the 'Sun-Shadow Transitions' option.
-   + Set 'Sun-Shadow Update Time' to '0'.
-   + Set 'Sun-Shadow Update Threshold' to '2.0'.
    + Uncheck the 'Ambient Occlusion' option.
 * Select the 'View Distance' tab.
    + Set 'Grass Fade' to '18000'.
+   + Set 'Flickering Light' to '8192'.
+   + Set 'uGridsToLoad' to '5'.
+   + Set Distant Object Detail 'Preset' dropdown to 'BethINI High'
 * Select the 'Visuals' tab.
    + Set 'Grass Density' to '60'.
    + Set 'Grass Diversity' to '15'.
+   + Set 'Far-off Tree Distance' to '75000'.
+   + Set 'Tree Detail Fade' dropdown to 'BethINI Ultra'
 * Select the 'Basic' tab.
    + Click the 'Save and Exit' button.
    
@@ -363,7 +365,7 @@ Close Mod Organizer 2 and run BethINI.exe.
    fBookOpenTime=500
    uMaxCustomItemNameLength=64
 
-[Landscape] (add after [LightingShader])
+[Landscape] (add after [Interface])
    fLandFriction=32
 
 [MapMenu]
@@ -383,36 +385,12 @@ Close Mod Organizer 2 and run BethINI.exe.
    bAllowScriptedAutoSave=0
    iAutoSaveCount=5
 
-[Terrain] (add after [SaveGame])
-   fHDLODSnowThresholdAngle=90
-   fLODSnowThresholdAngle=90
-
 * Edit or add these lines for SkyrimPrefs.ini:
 [Display]
    fDynamicDOFBlurMultiplier=0.0000
-   fInteriorShadowDistance=8192
-   fShadowBiasScale=0.47
-   iBlurDeferredShadowMask=0
-   iMaxAnisotropy=0
-   iMultiSample=0
 
 [General]
    uLargeRefLODGridSize=11
-   
-[TerrainManager]
-   bShowLODInEditor=1
-   fBlockLevel0Distance=75000.0000
-   fBlockLevel1Distance=140000.0000
-   fBlockMaximumDistance=300000.0000
-   fSplitDistanceMult=4.0000
-   fTreeLoadDistance=75000.0000
-
-[Trees]
-   uiMaxSkinnedTreesToRender=200
-
-[Water]
-   iWaterReflectHeight=2048
-   iWaterReflectWidth=2048
 ~~~
 
 ---

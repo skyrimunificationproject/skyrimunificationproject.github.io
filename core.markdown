@@ -34,7 +34,7 @@ Download: | Main Files - Papyrus Extender SE
 
 ![FOMOD]
 ~~~
-DLL
+DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
@@ -60,8 +60,8 @@ Download: | Main Files - Spell Perk Item Distributor - SSE
 
 ## More Informative Console
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `0.43` | Author: `Linthar` | ![Core] |
-Download: | Main Files - More Informative Console 0.43
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `1.0.1` | Author: `Linthar` | ![Core] |
+Download: | Main Files - More Informative Console 1.0 SSE
 
 ## Actor Limit Fix
 
@@ -85,7 +85,7 @@ Download: | Main Files - Base Object Swapper
 
 ![FOMOD]
 ~~~
-DLL
+DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
@@ -96,7 +96,7 @@ Download: | Main Files - Better Combat Escape - SSE V0.83
 
 ## Better Jumping
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.8.3` | Author: `meh321 and z65536` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.7.2` | Author: `meh321 and z65536` | ![Core] |
 Download: | Old Files - Better Jumping SE
 
 ## Better Stealing
@@ -161,8 +161,14 @@ Download: | Main Files - Immersive Equipment Displays
 
 ## Keyword Item Distributor (KID)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Version: `1.3.1` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55728) | Version: `2.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Keyword Item Distributor - SE
+
+![FOMOD]
+~~~
+DLL:
+   * SSE v1.5.97 ("Special Edition")
+~~~
 
 ## No Grass In Objects
 
@@ -175,6 +181,11 @@ Download: | Main Files - Grass Control v8
 Install GrassPrecacher.py in MO2/Plugins.  
 This is for users who wish to generate grass LODs on their own.
 ~~~
+
+## NPCs Use Potions
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `1.1.1` | Author: `KoeniglichePM` | ![Core]
+Download: | Main Files - NPCsUsePotions SE
 
 ## NPC AI Process Position Fix
 
@@ -248,6 +259,11 @@ Download: | Main Files - Shield Of Stamina - Blocking redux - SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.31` | Author: `maxsu2017` | ![Core]
 Download: | Main Files - Simple Block Sparks - v0.31SE
 
+## Soaking Wet
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68025) | Version: `1.1.2` | Author: `slavicpotato1` | ![Core]
+Download: | Main Files - Soaking Wet - Character Wetness Effect
+
 ## Splashes of Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3.1` | Author: `powerofthree` | ![Core] |
@@ -307,9 +323,8 @@ Download: | Old Files - Whose Quest Is It Anyway
 
 ## Project Clarity AIO - Skyrim Textures Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45306) | Version: `2.2` | Author: `Iconic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45306) | Version: `3.1.1` | Author: `Iconic` | ![Core] |
 Download: | Main Files - Project Clarity AIO Half Res BSA
-| Update Files - Hotfix To v2.2 Half Res
 
 ## Unofficial High Definition Audio Project
 
@@ -382,7 +397,7 @@ Download: | Main Files - MageArmorScriptFix
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.7` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.1.9` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -425,7 +440,8 @@ Install custom textures?
 
 ![PostInstall]
 ~~~
-Delete the Skyrim Particle Patch esp.
+Delete Particle Patch for ENB SSE.esp.
+Delete textures/effects/cloudtileflat_n.dds.
 ~~~
 
 ## Sound Hammering Sounds
@@ -445,7 +461,7 @@ Download: | Main Files - Stones of Solitude - Better Blended Rock Piles
 
 ## Stones of Solitude - Majestic Mountain Rocks
 
-[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/68007) | Version: `1.0` | Author: `Blackread` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68007) | Version: `1.0` | Author: `Blackread` | ![Core]
 Download: | Main Files - Stones of SOlitude - MM patch
 
 ![FOMOD]
@@ -532,7 +548,7 @@ Download: | Main Files - Sensible Bribes
 
 ## SPID-Protected Innocent Citizens
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57736) | Version: `1.2` | Author: `Oaristys` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57736) | Version: `1.3` | Author: `Oaristys` | ![Core] |
 Download: | Main Files - SPID-Protected Innocent Citizens
 
 ![FOMOD]
@@ -635,7 +651,7 @@ Download: | Main Files - Immersive HUD - iHUD
 
 ## moreHUD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `4.0.0.5Beta` | Author: `Ahzaab` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12688) | Version: `4.1.1.0` | Author: `Ahzaab` | ![Core] |
 Download: | Optional Files - moreHUD SE Light Master - Pre AE
 
 ## moreHUD - Inventory Edition
@@ -792,8 +808,8 @@ Resave IcePenguinWorldMap.esp in the Creation Kit.
 
 ## Atlas Map Markers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.1` | Author: `Kronixx and kryptopyr` | ![Core] |
-Download: | Main Files - Atlas Map Markers
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.3` | Author: `Kronixx and kryptopyr` | ![Core] |
+Download: | Main Files - Atlas Map Markers - No FISS Version
 
 ## Dynamic Snow for Map
 
@@ -1286,6 +1302,11 @@ FaceGens:
    * Standard FaceGens
 ~~~
 
+## Immersive Rejections
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67930) | Version: `1.0` | Author: `jayserpa` | ![Optional]
+Download: | Main Files - Immersive Rejections
+
 ## Improved College Entry - Questline Tweak
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22184) | Version: `2.8` | Author: `Parapets - SomethingObscure` | ![Core] |
@@ -1306,6 +1327,11 @@ Download: | Main Files - Keeper Carcette Survives SSE 1.1
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.12` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - Nilheim - Quest Expansion
 
+## NPCs Wear Amulets of Mara PLUS
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.0` | Author: `JaySerpa` | ![Core]
+Download: | Main Files - NPCs Wear Amulets of Mara 2.0
+
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
@@ -1320,6 +1346,11 @@ Download: | Main Files - Paarthurnax Quest Expansion
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Realistic Dark Brotherhood Kidnapping
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68260) | Version: `1.0` | Author: `Scrab` | ![Core]
+Download: | Main Files - RDBK - Time and Location
 
 ## Save the Icerunner - Lights Out Alternate Routes
 
@@ -1644,7 +1675,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-26` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-27` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

@@ -255,7 +255,7 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Ice Skating Fixed For Real', 'Matsu Stagger Direction Fix' and 'True Directional Movement'.
+Select 'Ice Skating Fixed For Real' and 'Matsu Stagger Direction Fix'.
 
 Click 'Update Engine'
 

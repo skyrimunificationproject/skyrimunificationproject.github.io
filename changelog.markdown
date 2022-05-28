@@ -3,6 +3,69 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-05-28
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - NPCs Use Potions
+Core 1 - SKSE - Soaking Wet
+Core 1 - Modified Vanilla Content - Immersive Rejections
+Core 1 - Modified Vanilla Content - NPCs Wear Amulets of Mara PLUS
+Core 1 - Modified Vanilla Content - Realistic Dark Brotherhood Kidnapping
+Core 2 - General World Improvement - Better Wooden Spikes Retexture
+Core 2 - Dwemer Ruins - JS Dwemer Puzzle Cube SE
+Core 2 - Caves and Dungeons - Overlooked Dungeon Object Retextures
+Core 2 - Clutter and Misc - JS Common Cages SE
+Core 3 - New NPC and Enemy Encounters - Heritage 2
+Core 3 - NPC Retexture - Modpocalypse NPCs - Heritage Enemies 2
+Core 3 - Animation Conditional - Random Prayer Animation
+Core 3 - Late Loaders Meshes - Nocturnal Moths
+~~~
+
+![Removed]
+~~~
+Core 2 - Near Vanilla Project - Portal to Sovngarde Redone (Overlooked Retextures)
+Core 3 - Modpocalypse NPCs - Immersive Patrols (until updated)
+Core 3 - Rudy HQ - More Lights - Bthardamz (JS Dwemer Barrels)
+Core 3 - Rudy HQ - More Lights - Torchbugs and Moths (Rally)
+~~~
+
+![Updated]
+~~~
+Prerequisites - LOOT updated to 0.18.3.
+Prerequisites - BethINI updated to 3.6.1. (missed this update)
+Core 1 - Project Clarity AIO updated to 3.0.1, additional instructions.
+Core 1 - Keyword Item Distributor updated to 2.0.
+Core 1 - DynDOLOD Resources updated to Alpha-27.
+Core 1 - More Informative Console updated to 1.0.1.
+Core 1 - Project Clarity AIO updated to 3.1.1.
+            If you already have it, just download Update files-3.1.1.
+Core 1 - Navigator updated to 1.1.9.
+Core 1 - Atlas Map Markers updated to 2.2.
+Core 1 - SPID-Protected Innocent Citizens updated to 1.3.
+Core 1 - MoreHUD updated to 4.1.1.0.
+Core 2 - Skyrim 3D Misc - removed Markarth Cage download.
+Core 2 - Cathedral 3D Mountain Flowers updated to 2.0.
+Core 2 - Solitude Objects SMIMed updated to 0.4.
+Core 2 - Fyx 3D Solitude SighPost updated to 1.0.3.1.
+Core 2 - Embers XD updated to 2.6.0.
+Core 2 - Fixed Mesh Lighting updated to 1.8.0.
+Core 2 - Ancient Dwemer Metal Patches - add JS Dwemer Cube
+Core 2 - Static Mesh Improvement Mod Improvement Mod updated to 1.4.1.
+Core 2 - Water for ENB updated to 1.65.
+Core 3 - Mesh Patch for Various Mods - updated instructions.
+Core 3 - Rudy ENB - updated to 6.0-Alpha-Test, updated download files.
+Core 3 - Cathedral 3D Mountain Flowers Base Object Swapper updated to 0.1.4.
+Core 3 - ENB Light - updated instructions (firefly)
+Core 3 - XPMSSE Settings Loader updated to 1.2.0.
+Core 3 - CBPC updated to 1.5.1.
+Core 3 - SUP Gameplay, Consistency Patches and Conflict Resolution updated.
+~~~
+
+---
+
 # 2022-05-16
 
 ---

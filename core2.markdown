@@ -36,7 +36,7 @@ Pack the mod with CAO.
 
 ## Static Mesh Improvement Mod Improvement Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.0` | Author: `Novelyst` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.1` | Author: `Novelyst` | ![Core] |
 Download: | Main Files - Static Mesh Improvement Mod Improvement Mod
 
 ![FOMOD]
@@ -66,6 +66,11 @@ Download: | Main Files - Major Cities Mesh Overhaul SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.54` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
+
+## Better Wooden Spikes Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68562) | Version: `1.0` | Author: `RobinxR` | ![Visuals]
+Download: | Main Files - Wooden Spike Retexture
 
 ## High Poly Project
 
@@ -230,12 +235,13 @@ Rally's Werewolf Totems:
 
 ## Fyx - 3D Solitude Sighpost
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
-Download: | Main Files - FYX - 3D Solitude SighPost
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.3.1` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - 3D Solitude SighPost - DockRopes
 
 ## Solitude Objects SMIMed
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68115) | Version: `0.2` | Author: `wSkeever` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68115) | Version: `0.4` | Author: `wSkeever` | ![Visuals]
+Download: | Main Files - Solitude Objects SMIMed - festival ropes
 
 ![FOMOD]
 ~~~
@@ -689,6 +695,11 @@ Download: | Main Files - JS Dwemer Ichor Barrels - 4k Textures
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67026) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Dwemer Kitchenware SE - 4k Textures
 
+## JS Dwemer Puzzle Cube SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68570) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwemer Puzzle Cube SE - 2k Textures
+
 ## JS Essence Extractor SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66578) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
@@ -714,6 +725,8 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
 |   Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Puzzle Cube SE
+|   Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - My bronze cubemap SE
@@ -788,6 +801,11 @@ Ingots:
 Patches:
    * None
 ~~~
+
+## Overlooked Dungeon Objects Retextures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66418) | Version: `1.0` | Author: `agentw` | ![Visuals]
+Download: | Main Files - Overlooked Dungeon Objects Retextures - 4K
 
 ---
 
@@ -1196,7 +1214,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.64` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.65` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -1341,7 +1359,7 @@ Download: | Main Files - Sweet Roll Boiled Creme Treat and Pie
 
 ## Cathedral - 3D Mountain Flowers 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `1.8` | Author: `Jonny Wang` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `2.0` | Author: `Jonny Wang` | ![Core] ![Visuals]|
 Download: | Main Files - Cathedral - 3D Mountain Flowers
 
 ## Cathedral - Plants 
@@ -1877,8 +1895,13 @@ Metal Options:
 
 ## JS Bloodstone Chalice
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66038) | Version: `1.02` | Author: `johnskyrim` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66038) | Version: `1.02` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Bloodstone Chalice SE - 2k Textures
+
+## JS Common Cages
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68236) | Version: `1.0.1` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Common Cages SE - 4k Textures
 
 ## JS Dragon Claws 
 
@@ -1906,7 +1929,7 @@ Delete *.esp.
 
 ## JS Initiate's Ewer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66242) | Version: `1.0` | Author: `johnskyrim` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66242) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Initiate's Ewer SE - 2k Textures
 
 ## JS Instruments of Skyrim
@@ -1935,11 +1958,6 @@ Coin Pile Textures:
 Replacer Options:
    * Vanilla Overwrite
 ~~~
-
-## Near Vanilla Project - Portal to Sovngarde Redone
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42422?tab=files) | Version: `1.0` | Author: `neardaniel` | ![Visuals] |
-Download: | Main Files - Near Vanilla Project - Portal to sovngarde Redone 4K
 
 ## Near Vanilla Project - Control Cube Redone - ENB Light 
 
@@ -2087,7 +2105,6 @@ Download: | Main Files - Skyrim 3D Misc - Barrels
 | Main Files - Skyrim 3D Misc - Buckets v2
 | Main Files - Skyrim 3D Misc - Butterchurn
 | Main Files - Skyrim 3D Misc - Giant Mortar and Pestle
-| Main Files - Skyrim 3D Misc - Markarth Cage
 | Main Files - Skyrim 3D Misc - Tanning Rack
 | Main Files - Skyrim 3D Misc - Traps
 
@@ -2416,7 +2433,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.5.9` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.0` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
