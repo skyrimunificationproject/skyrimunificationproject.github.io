@@ -36,12 +36,16 @@ Expanded Towns and Cities:
    * None / (If installing Project Arch) Expanded Towns and Cities
 ~~~
 
-## Ancient Dwemer Metal - Patches
+## Ancient Dwemer Metal - Patches - SUP Adventures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
-| Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
+| Optional Files - Ancient Dwemer Metal - My Patches - Kthonia's Unique Weapon Pack
+| Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
+| Optional Files - Ancient Dwemer Metal - My Patches - Moon and Star
+| Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
 | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
+
 
 ## JS Dragon Claws 
 
