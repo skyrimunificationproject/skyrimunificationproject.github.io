@@ -36,17 +36,6 @@ Expanded Towns and Cities:
    * None / (If installing Project Arch) Expanded Towns and Cities
 ~~~
 
-## Ancient Dwemer Metal - Patches - SUP Adventures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
-| Optional Files - Ancient Dwemer Metal - My Patches - Kthonia's Unique Weapon Pack
-| Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
-| Optional Files - Ancient Dwemer Metal - My Patches - Moon and Star
-| Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
-| Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
-
-
 ## JS Dragon Claws 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals]|
@@ -103,11 +92,22 @@ Allow overwriting of previous install
 Delete Praedy's StavesAIOLotd.esp.
 ~~~
 
+## Lucien 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] |
+Download and merge into previous install: | Optional Files - Lucien - Moon and Star Patch
+| Optional Files - Lucien - Moonpath to Elsweyr Patch
+
+## Dragon War - A Dragon Overhaul 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.1` | Author: `Delta` | ![Core] |
+Download and merge: | Misc Files - Dragon War - Wyrmstooth Patch
+
+
 ## kryptopyr's Patch Hub
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] |
 Download and merge into previous install: | Main Files - kryptopyr's Patch Hub Installer
- | Misc Files - Bandoliers \_\_ CCOR
 
 ![FOMOD]
 ~~~
@@ -167,6 +167,11 @@ Download: | Filename
 Download: | Filename
 
 ## Helgen Reborn with Level and Quest Requirement
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
+Download: | Filename
+
+## Helgen Reborn - Even More Immersive Start
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
@@ -254,11 +259,6 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
-## Artifacts of Skyrim
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
-Download: | Filename
-
 ## Artifacts - The Ice Blade of the Monarch
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
@@ -296,11 +296,6 @@ Core Files:
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
-## Leviathan Axe - Dwemer Artifacts SE
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
-Download: | Filename
-
 ## New Treasure Hunt
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
@@ -311,22 +306,12 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
-## Ruin's Edge
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
-Download: | Filename
-
 ## Runic Dawnguard - Separated Lost Relic Questline
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
 ## Skyrim's Unique Treasures
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
-Download: | Filename
-
-## The Staff of Sheogorath
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
@@ -363,6 +348,11 @@ Download: | Filename
 Download: | Filename
 
 ## Legacy of the Dragonborn - Followers Patch
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Legacy of the Dragonborn - Mementos
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
@@ -415,6 +405,16 @@ Delete meshes/dlc02/clutter/.
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
+## Legacy of the Dragonborn - Replicas for Both Sides - No One Escapes From Cidnha Mine
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Legacy of the Dragonborn - Replicas for Good Guys - House of Horrors Quest Expansion
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
 ## Legacy of the Dragonborn - Spelling Patch
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
@@ -450,11 +450,6 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
 
-## EVG Conditional Idles - Mannequin Modesty Fix
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
-Download: | Filename
-
 ## Legacy Safehouse Plus
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
@@ -481,7 +476,7 @@ Download: | Filename
 
 ---
 
-## Legacy of the Dragonborn - NPC Overhaul
+## Legacy of the Dragonborn Visual Overhaul
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
@@ -512,6 +507,11 @@ Download: | Filename
 Download: | Filename
 
 ## Modpocalypse NPCs - The Forgotten City
+
+[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
+Download: | Filename
+
+## Modpocalypse NPCs - The Gray Cowl of Nocturnal
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures]
 Download: | Filename
@@ -608,7 +608,7 @@ Pack the mod with CAO.
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
-## LOTD Upscale - Ancient Shrouded Armor
+## Moonpath To Elswyr Retexture SE
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
@@ -643,20 +643,20 @@ Download: | Filename
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
-## Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Compilation
+## Wyrmstooth Suleyk Retexture SE
 
 [![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
 Download: | Filename
 
-## Ancient Dwemer Metal - My Patches - The Tools of Kagrenac
+## Ancient Dwemer Metal - Patches - SUP Adventures
 
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
-Download: | Filename
-
-## Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] ![Adventures] |
-Download: | Filename
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
+| Optional Files - Ancient Dwemer Metal - My Patches - Kthonia's Unique Weapon Pack
+| Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
+| Optional Files - Ancient Dwemer Metal - My Patches - Moon and Star
+| Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
+| Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
 ---
 
