@@ -80,7 +80,7 @@ Download: | Main Files - Autorun
 
 ## Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.5.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `1.6.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Base Object Swapper
 
 ![FOMOD]
@@ -184,14 +184,27 @@ This is for users who wish to generate grass LODs on their own.
 
 ## NPCs Use Potions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `1.1.1` | Author: `KoeniglichePM` | ![Core]
-Download: | Main Files - NPCsUsePotions SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `2.0.0` | Author: `KoeniglichePM` | ![Core]
+Download: | Main Files - NPCsUsePotions - Fomod
 
-## NPC AI Process Position Fix
+![FOMOD]
+~~~
+Game Version:
+   * Skyrim SE
+Compatibility Addon:
+   * None
+~~~
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40261) | Version: `4.06` | Author: `Maxsu` | ![Core] |
-Download: | Main Files - NPC AI Process Pos Fix-SSE-V4.06
-| Optional Files - NPC AI Process Pos Fixed -- Immersive Citizen Patch
+## NPC AI Process Position Fix - NG
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69326) | Version: `1.1.0` | Author: `Maxsu and Doodlezoid` | ![Core] |
+Download: | Main Files - NPC AI Process Position Fix - NG
+
+![FOMOD]
+~~~
+Patches:
+   * Immersive Citizens
+~~~
 
 ## powerofthree's Tweaks
 
@@ -261,7 +274,7 @@ Download: | Main Files - Simple Block Sparks - v0.31SE
 
 ## Soaking Wet
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68025) | Version: `1.1.2` | Author: `slavicpotato1` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68025) | Version: `1.2.0` | Author: `slavicpotato1` | ![Core]
 Download: | Main Files - Soaking Wet - Character Wetness Effect
 
 ## Splashes of Skyrim
@@ -271,7 +284,7 @@ Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.9` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.10` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - SSE Display Tweaks
 
 ## SSE Engine Fixes
@@ -323,7 +336,7 @@ Download: | Old Files - Whose Quest Is It Anyway
 
 ## Project Clarity AIO - Skyrim Textures Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45306) | Version: `3.1.1` | Author: `Iconic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45306) | Version: `3.1.5` | Author: `Iconic` | ![Core] |
 Download: | Main Files - Project Clarity AIO Half Res BSA
 
 ## Unofficial High Definition Audio Project
@@ -353,6 +366,11 @@ Download: | Main Files - Blackreach Tentacle Mesh Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.2` | Author: `Excinerus` | ![Core]
 Download: | Main Files - Critter Spawn Congestion Fix
+
+## Dragon Mound Dirt FIX
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69119) | Version: `2.0` | Author: `RemmyKun` | ![Core]
+Download: | Main Files - Dragon Mound Dirt FIX
 
 ## Drunk Sinking Head Idle Fix
 
@@ -488,8 +506,13 @@ Download: | Main Files - Unofficial Material Fix
 
 ## Vanilla Script (micro)Optimizations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.15a` | Author: `Subhuman0100` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54061) | Version: `1.16a` | Author: `Subhuman0100` | ![Core] |
 Download: | Main Files - Vanilla Script microOptimizations
+
+## Vanilla Scripting Enhancements
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68139) | Version: `2.0` | Author: `Nightfallstorm` | ![Core]
+Download: | Main Files - Loose Version
 
 ## Whiterun Mesh Fixes
 
@@ -809,7 +832,7 @@ Resave IcePenguinWorldMap.esp in the Creation Kit.
 ## Atlas Map Markers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.3` | Author: `Kronixx and kryptopyr` | ![Core] |
-Download: | Main Files - Atlas Map Markers - No FISS Version
+Download: | Main Files - Atlas Map Markers
 
 ## Dynamic Snow for Map
 
@@ -1384,7 +1407,7 @@ Download: | Main Files - Thugs Not Assassins
 
 ## True Hunter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `4.0` | Author: `lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `4.1` | Author: `lilebonymace` | ![Core] |
 Download: | Main Files - True Hunter
 
 ![FOMOD]

@@ -36,7 +36,7 @@ Pack the mod with CAO.
 
 ## Static Mesh Improvement Mod Improvement Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.1` | Author: `Novelyst` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.2` | Author: `Novelyst` | ![Core] |
 Download: | Main Files - Static Mesh Improvement Mod Improvement Mod
 
 ![FOMOD]
@@ -59,18 +59,25 @@ Download: | Main Files - SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butt
 
 ## Major Cities Mesh Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.1` | Author: `raiserfx` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.2` | Author: `raiserfx` | ![Core] 
 Download: | Main Files - Major Cities Mesh Overhaul SE
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.54` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.59` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Wooden Spikes Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68562) | Version: `1.0` | Author: `RobinxR` | ![Visuals]
 Download: | Main Files - Wooden Spike Retexture
+
+## Dragonsreach 3D Trellis Alternative Style
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68666) | Version: `1.0` | Author: `InstantKor` | ![Visuals]
+Download: | Main Files - DragonnsReach 3D Trellis
+| Optional Files - JKs Bannered Mare 3D Trellis
+| Optional Files - Whiterun DragonsReach Door Mesh Fix - Trellis Patch
 
 ## High Poly Project
 
@@ -81,6 +88,11 @@ Download: | Main Files - High Poly Project
 ~~~
 Options:
    * Install Everything
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/architecture/whiterun/wrclutter/wrbrazier*.
 ~~~
 
 ## High Poly Project - My Fixes SE-AE
@@ -238,7 +250,7 @@ Rally's Werewolf Totems:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.3.1` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - 3D Solitude SighPost - DockRopes
 
-## Solitude Objects SMIMed
+## Solitude Objects SMIMed - Festival Ropes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68115) | Version: `0.4` | Author: `wSkeever` | ![Visuals]
 Download: | Main Files - Solitude Objects SMIMed - festival ropes
@@ -271,6 +283,11 @@ Download: | Main Files - Auriel's Chantry 4K
 Options:
    * Main Version
 ~~~
+
+## Boreal Boats
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47608) | Version: `1.2` | Author: `winedave` | ![Core] ![Visuals]
+Download: | Optional Files - Boreal Boat 4K
 
 ## Castle Volkihar HD
 
@@ -324,26 +341,11 @@ Options:
 Delete DawnGuardDoors.esp.
 ~~~
 
-## High Fantasy Whiterun
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51749) | Version: `1.0` | Author: `lazygecko` | ![Visuals] |
-Download: | Main Files - High Fantasy Whiterun 4K
-
 ## High Hrothgar - Skyrim Remastered 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51788) | Version: `1.0` | Author: `Gravos8890` | ![Core] ![Visuals]|
 Download: | Main Files - Skyrim Remastered - High Hrothgar v2 Quality Version
 | Optional Files - Skyrim Remastered - High Hrothgar v2 LODs for DynDOLOD
-
-## Mrf's Markarth
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53626) | Version: `2.1` | Author: `mo ru feng` | ![Core] ![Visuals]|
-Download: | Main Files - Mrf's Markarth 4k
-
-![PostInstall]
-~~~
-Delete meshes.
-~~~
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
@@ -432,6 +434,11 @@ Download: | Main Files - Skyland Sovngarde
 Download: | Main Files - Skyrim 3D Docks and Boardwalks
 | Optional Files - Skyrim 3D Docks and BoardWalks Weathered Riften Textures
 
+## Stony AF Markarth and Dwemer Ruins
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68815) | Version: `1.0` | AUthor: `AgentW` | ![Core] ![Visuals]
+Download: | Main Files - Stony AF Markarth and Dwemer Ruins 4K
+
 ## The Soul Cairn
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66261) | Version: `1.2` | Author: `PraedythXVI` | ![Core] ![Visuals]
@@ -498,6 +505,14 @@ Patches
 ~~~
 Delete WiZKiD Signs - Interesting NPC patch.esp.
 ~~~
+
+## Illustrious Whiterun
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]
+Download: | Optional Files - Illustrious Whiterun 4K
+| Update Files - Illustrious Whiterun 4K Update
+| Optional Files - Illustrious Whiterun - Wood Addition 2K
+| Optional Files - Illustrious Whiterun - Alt Stonefloor 4K
 
 ## Glorious Doors of Skyrim
 
@@ -663,17 +678,11 @@ Download: | Main Files - Dwemer Automatons Glowmapped 3
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | Version: `2.2` | Author: `Caleb2 ` | ![Visuals] |
 Download: | Main Files - Dwemer Tech Glowmapped 2.2
 
-## Dwemer - Improved Glass
+## JS Attunement Sphere and Lexicons SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44553) | Version: `1.1` | Author: `IWantATardis` | ![Visuals] |
-Download: | Main Files - Improved Dwemer Glass
-| Optional Files - ENB Lights For Aetherium Shards Patch
-| Optional Files - Unofficial Material Fix Patch
-
-![PostInstall]
-~~~
-Delete meshes/dlc02/dungeons/dwemer/animated.
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Attunement Sphere and Lexicons SE - 2k Textures
+| Misc Files - JS Attunement Sphere and Lexicons SE - LOTD Display Patch
 
 ## JS Dwarven Oil SE
 
@@ -717,6 +726,8 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   Note: During install right-click 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My Patches - Gemstones Replacers HD SE
 |   Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Attunement Sphere and Lexicons SE
+|   Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwarven Oil SE
 |   Note: During install right click Leaked Oil / 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Artifacts SE
@@ -730,8 +741,10 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - My bronze cubemap SE
+| Optional Files - Ancient Dwemer Metal - My Patches - Praedy's Staves
+|   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
-| Note: During install select 4K in BAIN installer
+|   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
@@ -1170,7 +1183,7 @@ Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.6.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.6.4.1` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
 
 ![FOMOD]
@@ -1214,7 +1227,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.65` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.66` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -1528,6 +1541,11 @@ Canisroot type:
    * Flowering
 ~~~
 
+## Mari's Flora Texture Tweaks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68881) | Version: `1.0` | Author: `Blackread` | ![Visuals]
+Download: | Main Files - Mari's Flora Texture Tweaks
+
 ## Medieval Spirits 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24243) | Version: `1.0.2` | Author: `mathy79` | ![Visuals] |
@@ -1632,13 +1650,32 @@ Delete StrosMkaiRum.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64007) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
 Download: | Main Files - Volatile Void Salts SE
 
+## Cathedral - 3D Clovers
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68793) | Version: `1.0` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Clovers - Hybrid 3D
+
+## Cathedral - 3D Lavender
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68310) | Version: `1.3` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Lavender - Vanilla Size
+
+## Cathedral - 3D Thistle
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67619) | Version: `1.1` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Thistle
+
+## Cathedral - 3D Tundra Cotton
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68068) | Version: `2.0` | AUthor: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Tundra Cotton
+
 ---
 
 # Clutter and Miscellaneous
 
 ---
 
-## Ancient Pottery 
+## Ancient Pottery
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24039) | Version: `1.1.0` | Author: `mathy79` | ![Visuals] |
 Download: | Main Files - Ancient Pottery
@@ -1900,7 +1937,7 @@ Download: | Main Files - JS Bloodstone Chalice SE - 2k Textures
 
 ## JS Common Cages
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68236) | Version: `1.0.1` | Author: `johnskyrim` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68236) | Version: `1.03` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Common Cages SE - 4k Textures
 
 ## JS Dragon Claws 
@@ -1988,19 +2025,6 @@ Choose Texture:
    * Default Set
 ~~~
 
-## Revamped Assets
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/75380) | Version: `0.31` | Author: `jiffy` | ![Visuals] |
-Download: | Main Files - Revamped Assets Skyrim - High (FOMOD Package)
-
-![FOMOD]
-~~~
-Install Revamped Assets Skyrim:
-   * Custom Install
-Furniture:
-   * Install All
-~~~
-
 ## Riekling Barrels SMIM
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43306) | Version: `0.1` | Author: `wSkeever` | ![Visuals] |
@@ -2039,12 +2063,6 @@ Delete Rudy Nordic Pottery SSE.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5436) | Version: `1.1` | Author: `Gamwich` | ![Visuals] |
 Download: | Main Files - RUGNAROK - Special Edition - 2K
 
-## RUSTIC ALCHEMY and ENCHANTING TABLES
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/62328) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
-Download: | Main Files - RUSTIC ALCHEMY and ENCHANTING TABLES 2K
-| Optional Files - Retex of Revamped Alchemy Lab HD - 2K
-
 ##  RUSTIC CLUTTER COLLECTION
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5795) | Version: `1.0` | Author: `Gamwich` | ![Visuals] |
@@ -2052,6 +2070,7 @@ Download: | Main Files - RUSTIC CLUTTER COLLECTION - Special Edition - 2K
 
 ![PostInstall]
 ~~~
+Delete meshes/clutter/dwemer/.
 Delete textures/clutter/dwemer/.
 Delete textures/clutter/dwelorecube01.dds.
 Delete textures/clutter/glazedpotery*.
@@ -2151,6 +2170,19 @@ Download: | Main Files - Solstheim Objects SMIMed - High Poly Dark Elf Furniture
 ~~~
 ENB Particle Lights for Staff Enchanter:
    * Add ENB Particle Lights
+~~~
+
+## Stations of Sorcerers - Arcane Enchanters and Alchemy Labs Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59228) | Version: `2.0` | Author: `agentw` | ![Visuals]
+Download: | Main Files - Stations of Sorcerers 4K
+
+![FOMOD]
+~~~
+Resolution:
+   * 4K
+Glow:
+   * Alternate
 ~~~
 
 ## Stockades of Skyrim 3D
@@ -2433,7 +2465,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.0` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.1` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]

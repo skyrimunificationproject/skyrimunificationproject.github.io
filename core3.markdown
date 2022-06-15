@@ -544,8 +544,8 @@ Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch
 
 ## Caliente's Beautiful Bodies Enhancer - CBBE 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.6.2` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
-Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.6.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.7` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
+Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.7.0
 
 ![FOMOD]
 ~~~
@@ -933,7 +933,7 @@ Download: | Main Files - True Directional Movement (SE)
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.5.1 | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.5.2 | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -948,8 +948,10 @@ FPS Selection:
    * 60 fps
 Bounce Config:
    * Your choice
-Breast Amplitude:
+Bounce - Breast Amplitude:
    * Normal (or your choice)
+Bounce - Butt Amplitude:
+   * Normal
 Gravity Config:
    * Install Gravity Config
 ~~~
@@ -1436,7 +1438,7 @@ Delete WACCF_BashedPatchLvlListFix.esp.
 
 ## Armor and Clothing Extension 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.3` | Author: `kryptopyr and Gamwich` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.4` | Author: `kryptopyr and Gamwich` | ![Core] |
 Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
@@ -1453,7 +1455,7 @@ Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
 
-[![mod]](https://www.dropbox.com/s/4jnh1fvhpreis1p/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `1.0.0.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.dropbox.com/s/4jnh1fvhpreis1p/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul.7z?dl=0) | Version: `1.1.0.0a` | Author: `rev` | ![Core] |
 Download: | Skyrim Unification Project - Gameplay Overhaul
 
 ![FOMOD]
@@ -1462,28 +1464,27 @@ Modules:
    * Skyrim Unification Project - Hybrid Loot Distribution
    * Skyrim Unification Project - Economy Overhaul
    * Skyrim Unification Project - Enemy Overhaul
-   * Skyrim Unification Project - NPC Overhaul
    
 Addons:
    * SkyTEST
 
 SKSE Addons:
    * Experience
-   * SPID
    * Uncapper
+ 
+SPID:
+   * Perk Distribution
+   * Potion Distribution
+   * Item Distribution
 ~~~
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.0` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.1` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
+| Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
 | Misc Files - Dragon War - Deadly Spell Impacts Patch
-
-![PostInstall]
-~~~
-Delete DragonWar - Deadly Spell Impacts Patch.esp.
-~~~
 
 ## Enchanting Adjustments Updated
 
@@ -1609,7 +1610,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.5.1` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.5.2` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1656,7 +1657,7 @@ Download: | Main Files - Wintersun 3.2.0
 
 ## Dragonborn - Shouts Perk Tree 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41950) | Version: `3.0.2` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41950) | Version: `3.0.3` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragonborn - Shouts Perk Tree
 
 ## Ordinator - Perks of Skyrim
@@ -1893,17 +1894,6 @@ Expansion Packs for Others' Mods:
 Delete DtRS - Apoc+Arsenal Patch.esp.
 ~~~
 
-## Enchanting Station Candles 2.0
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30140) | Version: `2.0` | Author: `Khamee` | ![Core] ![Visuals]|
-Download: | Enchanting Stations Candles 2.0
-
-![FOMOD]
-~~~
-Choose version:
-   * 1.2
-~~~
-
 ## Flowers and Plants Meshes Fix - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35843) | Version: `1.0` | Author: `Xtudo` | ![Core] ![Visuals] |
@@ -1914,6 +1904,7 @@ Download: | Optional Files - Flowers and plants mesh fix SE - Dragons tongue by 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55254) | Version: `1.02` | Author: `Outpowner` | ![Core] ![Visuals]|
 Download: | Main Files - High Hrothgar Fixed
 | Optional Files - High Hrothgar Fixed - Lux Patch
+| Optional Files - High Hrothgar Fixed - Lux Orbis Patch
 
 ## Markarth - A Reflective Experience
 
@@ -1987,7 +1978,7 @@ Download: | Main Files - Sacrosanct - Skeleton Replacer HD Patch
 
 ## Sconces of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Version: `0.2.1` | Author: `wSkeever` ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Version: `0.2.2` | Author: `wSkeever` ![Core] ![Visuals]
 Download: | Main Files - Markarth Braziers Improved
 
 ## Skyrim - A Mountainous Experience
@@ -2041,6 +2032,11 @@ Generic Mine Wells:
    * Generic Mine Wells (No Parallax)
 ~~~
 
+![PostInstall]
+~~~
+Delete textures/SMIM.
+~~~
+
 ## Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19176) | Version: `1.1.1` | Author: `Shiva182` | ![Core] ![Visuals] |
@@ -2090,7 +2086,7 @@ Flora - Main:
 Flora - Patches:
    * Assorted Mesh Fixes
 Flora - Mountain Flowers:
-   * 3D Mountain Flowers
+   * None
 Flora - Snowberries:
    * Sufficiently Optimized Snowberries
 Flora - Juniper:
@@ -2143,7 +2139,25 @@ Other - Effects:
 Delete meshes/dlc02/landscape/trees/dlc2treepineforest*.
 Delete meshes/dlc02/landscape/trees/treepineforest*.
 Delete meshes/landscape/trees/tundradriftwood*.
+Delete meshes/plants/floralavender01.nif.
 ~~~
+
+## FYX - Smooth Wells
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - Smooth Wells - Water in Wells
+| Optional Files - FYX - Smooth Wells - CotN Falkreath
+| Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
+
+![PostInstall]
+~~~
+Delete meshes/architecture/whiterun.
+~~~
+
+## Solitude Objects SMIMed - Solitude Well
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68896) | Version: `0.1` | Author: `wSkeever` | ![Visuals]
+Download: | Main Files - Solitude Objects SMIMed - Solitude Well
 
 ## WiZkiD Hagraven Clutter and Bones
 
@@ -2404,7 +2418,7 @@ Ingredients:
 
 ## More Lights for ENB - Blood Splatter Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]|
 Download: | Main Files - More Lights for ENB - Blood Splatter Fix
 
 ![FOMOD]
@@ -2429,9 +2443,10 @@ Download: | Main Files - Daedra Heart
 
 ## Rudy ENB - Cathedral Weathers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `6.0-Alpha1a-Test` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `6.0-Alpha1b-Test` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files FOMOD
-| Update Files - Rudy and Zangdar ENB SE for Cathedral Weathers and EVLaS
+| Update Files - REQUIRED UPDATED FILES for 6.0 CW ALPHA EVLaS
+| Update Files - Rudy and Zangdar ENB SE for Cathedral Weathers and EVLaS (manual install)
 
 ![FOMOD]
 ~~~
@@ -2482,8 +2497,8 @@ Developmental Files:
 
 ## Bodyslide and Outfit Studio
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.5.2` | Author: `Ousnius and Caliente` | ![Core] |
-Download: | Main Files - BodySlide and Outfit Studio - v5.5.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/201) | Version: `5.6.0` | Author: `Ousnius and Caliente` | ![Core] |
+Download: | Main Files - BodySlide and Outfit Studio - v5.6.0
 
 ![PostInstall]
 ~~~
@@ -2507,7 +2522,7 @@ Download: | Main Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
 
 ## A Matter Of Time - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55365) | Version: `2.1` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55365) | Version: `2.1.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - A Matter Of Time - Settings Loader
 
 ## Cathedral Weathers MCM - Settings Loader

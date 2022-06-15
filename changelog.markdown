@@ -3,6 +3,77 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-06-14
+
+---
+
+![Added]
+~~~
+Core 1 - Bug Fixes - Vanilla Scripting Enhancements
+Core 2 - General World Improvement - Dragonsreach 3D Trellis Alternative Style
+Core 2 - General World Improvement - FYX - 3D Whiterun Castle Bridge
+Core 2 - General World Improvement - Shack Roofs Restored
+Core 2 - General World Improvement - Whiterun Objects SMIMed
+Core 2 - Architecture - Boreal Boats
+Core 2 - Architecture - Stony AF Markarth and Dwemer Ruins
+Core 2 - Architecture - Illustrious Whiterun
+Core 2 - Dwemer Ruins - JS Attunement Sphere and Lexicons SE
+Core 2 - Flora Food Ingredients - Mari's Flora Texture Tweaks
+Core 2 - Flora Food Ingredients - Cathedral - 3D Clovers
+Core 2 - Flora Food Ingredients - Cathedral - 3D Lavender
+Core 2 - Flora Food Ingredients - Cathedral - 3D Thistle
+Core 2 - Flora Food Ingredients - Cathedral - 3D Tundra Cotton
+Core 3 - Late Loaders Meshes - FYX - Smooth Wells
+Core 3 - Late Loaders Meshes - Solitude Object SMIMed - Solitude Well
+~~~
+
+![Removed]
+~~~
+Core 2 - Mrf's Markarth 4K (Stony AF)
+Core 2 - High Fantasy Whiterun (Illustrious)
+Core 2 - Skyland Ships and Shacks (Boreal Boats)
+Core 2 - Improved Dwemer Glass (doesn't look good)
+Core 2 - Revamped Assets (redundant with Snazzy)
+Core 3 - Enchanting Stations Candles (redundant with Snazzy)
+~~~
+
+![Updated]
+~~~
+Prereq - xLODGEN updated to v94.
+Prereq - DynDOLOD 3 Alpha updated to Alpha-94.
+Core 1 - Soaking Wet updated to 1.2.0.
+Core 1 - Vanilla Script microOptimizations updated to 1.16a.
+Core 1 - Base Object Swapper updated to 1.6.0.
+Core 1 - Project Clarity AIO updated to 3.1.5. (download hotfix if desired)
+Core 1 - NPC AI Process Position Fix swapped to NPC AI Process Position Fix NG
+Core 1 - NPCs Use Potions updated to 2.0.
+Core 2 - JS Common Cages updated to 1.03.
+Core 2 - Embers XD updated to 2.6.1.
+Core 2 - Assorted Mesh Fixes updated to 0.59.
+Core 2 - Simplicity of Snow updated to 0.6.4.1..
+Core 2 - Static Mesh Improvement Mod Improvement Mod updated to 1.4.2.
+Core 2 - RUSTIC CLUTTER - updated instructions. (remove dwemer meshes)
+Core 2 - Major Cities Mesh Overhaul updated to 1.2.
+Core 2 - Sconces of Skyrim updated to 0.2.2.
+Core 2 - Water for ENB updated to 1.66.
+Core 3 - More Lights for ENB Blood Splatter Fix updated to 0.4.
+Core 3 - CBBE updated to 1.7.0.
+Core 3 - A Matter of Time Settings Loader updated to 2.1.1.
+Core 3 - Dragon War updated to 2.1.1.
+Core 3 - Dragonborn - Shouts Perk Tree updated to 3.0.3.
+Core 3 - BodySlide and Outfit Studio updated to 5.6.0.
+Core 3 - Added download file to Zangdar Rudy CW ENB.
+Core 3 - Reliquary of Myth updated to 4.5.2.
+Core 3 - CBPC updated to 1.5.2.
+Core 3 - Armor and Clothing Extension updated to 1.4.
+Core 3 - Updated Water in Wells instructions. (delete SMIM tex)
+Core 3 - High Hrothgar Fixed - add additional Orbis file
+Core 3 - Rudy Zangdar ENB updated to 6.0-Alpha1b-Test.
+Core 3 - SUP Gameplay Overhaul, Consistency Patches, Conflict Resolution updated.
+~~~
+
+---
+
 # 2022-05-28
 
 ---

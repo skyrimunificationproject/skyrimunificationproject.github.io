@@ -402,7 +402,7 @@ Close Mod Organizer 2 and run BethINI.exe.
 ## xLODGEN
 
 [![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 86` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 90
+Download: | xLODGen beta 94
 
 ![PostInstall]
 ~~~
@@ -420,7 +420,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32382) | Version: `2.97` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-94` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
