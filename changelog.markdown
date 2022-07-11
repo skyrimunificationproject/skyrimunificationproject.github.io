@@ -3,6 +3,87 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-07-10
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - Classic Paralysis
+Core 1 - SKSE - Essential Favorites
+Core 1 - SKSE - Favorite Misc Items
+Core 1 - SKSE - Magic Sneak Attacks
+Core 1 - SKSE - Read or Take SKSE
+Core 1 - SKSE - Use or Take SKSE
+Core 1 - Bugs and Mesh Fixes - Ethereal Immunity
+Core 1 - Bugs and Mesh Fixes - OSHA-Compliant Sovengarde Mesh Fixes
+Core 1 - Gameplay Tweaks - Immersive Display Overhaul
+Core 1 - Character Creation - Racemenu Memory Leak Hotfix
+Core 2 - General World Improvement - Dragonsreach 3D Trellis Alternative Style
+Core 2 - General World Improvement - FYX - 3D Whiterun Castle Bridge
+Core 2 - General World Improvement - Shack Roofs Restored
+Core 2 - General World Improvement - Whiterun Objects SMIMed
+Core 2 - Dwemer Ruins - JS Dwemer Control Cube SE
+Core 2 - Clutter and Misc - Silver Objects SMIMed
+Core 2 - Clutter and Misc - Remiros' Draw Knife HD
+Core 3 - NPC - Retexture - Dovahnique's High Poly Inigo Replacer
+Core 3 - Animation - Draugr Ragdoll Bug Fix
+Core 3 - Animation Conditional - Flute Animation Fix
+Core 3 - Animation Conditional - Lively Cart Driver
+Core 3 - Late Loaders Meshes - High Poly Dragonborn Ingredients
+Core 3 - Conflict Resolution - Skyrim Unification Project Replaced Plugins
+~~~
+
+![Removed]
+~~~
+Core 2 - Clutter and Misc - Near Vanilla Project Control Cube (JS)
+Core 3 - Enchanting Adjustments (SUP)
+~~~
+
+![Updated]
+~~~
+Prereq - DynDOLOD updated to 3.0 Alpha-95
+Core 1 - NPCs Use Potions updated to 2.2.
+Core 1 - True Hunter updated to 4.2.
+Core 1 - FYX - 3D Solitude SighPost updated to 1.0.4.
+Core 1 - Whiterun Watchtower Doesn't Start Broken updated to 1.0.2.
+Core 1 - Papyrus Extender updated to 5.1.1.
+Core 1 - Atlas Map Markers updated to 2.4.
+Core 1 - Security Overhaul SKSE updated to 3.1.
+Core 1 - Security Overhaul SKSE Addons updated to 0.1.6.
+Core 1 - ESO Imports updated to 9.0.
+Core 1 - Better Third Person Selection updated to 0.5.5.
+Core 1 - BUVARP SE RE updated to 1.1a.
+Core 1 - At Your Own Pace updated to 1.2.1MG.
+Core 1 - Project Clarity AIO updated to 3.2.
+Core 1 - CoMAP updated to 3.4.2.
+Core 2 - Assorted Mesh Fixes updated to 0.67.
+Core 2 - JS Essence Extractor updated to 1.1.
+Core 2 - Happy Little Trees updated to 1.03.
+Core 2 - Happy Little Trees DynDOLOD updated to 1.03.
+Core 2 - Bellyaches Animal and Creature pack swapped to Revamp
+Core 2 - aMidianBorn Content Addon SE updated to 2.4.
+Core 2 - Armor and Clothing Extension updated to 1.5.
+Core 2 - Major Cities Mesh Overhaul updated to 1.3a.
+Core 2 - Rearranged Rudy HQ, SMIM Retexture and Basic Dining Set within category
+Core 3 - CBBE updated to 1.7.1.
+Core 3 - Dragon War updated to 2.1.5.
+Core 3 - Forceful Tongue updated to 3.0.7.
+Core 3 - Trade and Barter Settings Loader updated to 1.0.4.
+Core 3 - Female Argonian Textures updated to 3.2.
+Core 3 - Smithing Perks Overhaul updated to 2.1.
+Core 3 - CBBA Vanilla Armors No Rim Lighting updated to 1.1.
+Core 3 - Cathedral Mountain Flowers Base Object Swapper updated to 0.1.5.
+Core 3 - Rudy Candles for SMIM Lanterns updated to 1.0.1b.
+Core 3 - Awesome Potions Simplified ENB Lights updated to 1.2.
+Core 3 - Complete Crafting Overhaul Remastered updated to 2.5.
+Core 3 - Complete Crafting Overhaul Remastered Settings Loader updated to 1.3.
+Core 3 - Your Own Thoughts (delete YOT - Your Own Thoughts - Patches.esp)
+Core 3 - SUP Gameplay Overhaul, Consistency Patches, and Conflict Resolution updated.
+~~~
+
+---
+
 # 2022-06-14
 
 ---
@@ -10,10 +91,6 @@ title: "Skyrim Unification Project"
 ![Added]
 ~~~
 Core 1 - Bug Fixes - Vanilla Scripting Enhancements
-Core 2 - General World Improvement - Dragonsreach 3D Trellis Alternative Style
-Core 2 - General World Improvement - FYX - 3D Whiterun Castle Bridge
-Core 2 - General World Improvement - Shack Roofs Restored
-Core 2 - General World Improvement - Whiterun Objects SMIMed
 Core 2 - Architecture - Boreal Boats
 Core 2 - Architecture - Stony AF Markarth and Dwemer Ruins
 Core 2 - Architecture - Illustrious Whiterun

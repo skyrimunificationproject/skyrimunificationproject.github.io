@@ -33,7 +33,6 @@ AHZBetterDGEntranceSE.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 middenexpanded.esp |
-NoBrokenWhiterunTower.esp |
 Sepolcri.esp |
 Water for ESB.esm |
 yumcheese.esp |
@@ -59,7 +58,9 @@ CBBE.esp | Add ESL flag
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
+DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
+DiverseWerewolvesCollection.esp | Apply ESMifier script
 DungeonsRevisited.esp | Apply ESMifier script
 DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
@@ -88,11 +89,10 @@ Lucien.esp | Apply ESMifier script
 Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
-MoreWerewolves.esp | Compact formIDs, add ESL flag
-NoBrokenWhiterunTower.esp | Apply ESMifier script
+MoreWerewolves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag
+Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag, apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Praedy's Soul Cairn | Apply ESMifier script
@@ -249,13 +249,15 @@ Create a new mod in Mod Organizer named `Nemesis - Output`
 
 Open up the Executables within Mod Organizer 2 and select Nemesis
 
+Create a new empty mod named Nemesis - Output.
+
 Select 'Nemesis - Output' for 'Create files in mod instead of overwrite (*)\'
 
 Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Ice Skating Fixed For Real' and 'Matsu Stagger Direction Fix'.
+Select 'Draugr Ragdoll Bug Fix', 'Ice Skating Fixed For Real' and 'Matsu Stagger Direction Fix'.
 
 Click 'Update Engine'
 
@@ -263,8 +265,7 @@ After the 'Update Engine' finishes, click 'Launch Nemesis Behavior Engine'
 
 Note: If an error occurs after launching 'Launch Nemesis Behavior Engine' about missing hkx files, simply 'Update Engine' and 'Launch Nemesis Behavior Engine' again without closing Nemesis.
 
-Close out of Nemesis when it finishes and create a new mod from overwrite \\
-with the name `Nemesis Output`. (Nemesis_Engine, meshes)
+When the log window says 'Behavior generation complete.', close Nemesis.
 
 Flag the generated FNIS.esp as ESL.
 

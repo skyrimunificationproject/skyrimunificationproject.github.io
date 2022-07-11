@@ -3,12 +3,6 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
-# WIP NOTICE
-
-This module is not ready for download yet. This page is for internal tracking only until the conflict resolution patches are finalized.
-
----
-
 # Addon - Adventures - Install Changes
 
 ---
@@ -52,7 +46,7 @@ Download and merge into previous install: | Main Files - Missives - Falskaar Pat
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
 Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
@@ -60,11 +54,9 @@ Download and merge into previous install: | Main Files - 01 My Road Signs are Be
 Versions:
    * Weathered Version - 4K-2K
 Wyrmstooth:
-   * Wyrmstooth
+   * Textures - 4K-2K
 Falskaar:
-   * Falskaar
-Expanded Towns and Cities:
-   * None / (If installing Project Arch) Expanded Towns and Cities
+   * Textures - 4K-2K
 ~~~
 
 ## JS Dragon Claws 
@@ -217,6 +209,21 @@ IT - Patches:
    * Unofficial Material Fix
 ~~~
 
+## Skyrim Unification Project - Consistency Patches
+
+[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
+Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
+
+![FOMOD]
+~~~
+Install Type:
+   * All In One
+Select AIO Install Type:
+   * Core (automatic)
+   * Addons - Magic and Enchanting
+   * Addons - Adventures
+~~~
+
 ---
 
 # Addon - Adventures - Legacy of the Dragonborn
@@ -254,7 +261,7 @@ Download: | Main Files - Falskaar V2_2
 Pack the mod with CAO. (note: extract/repack to optimize)
 ~~~
 
-## Comprehensive Falskaar Fixes
+## Falskaar - Comprehensive Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62819) | Version: `1.2.0` | Author: `Wartortle` | ![Core] ![Adventures] ![CAO]|
 Download: | Main Files - Comprehensive Falskaar Fixes
@@ -303,18 +310,21 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4301) | Version: `3.2` | Author: `GanXingba` | ![Core] ![Adventures]
 Download: | Main Files - Moon and Star
-| [Replacer ESP](https://www.dropbox.com/s/wlntf1kgood5x5u/Moon%20and%20Star%20-%20Replacer.7z?dl=0)
 
 ## Moonpath to Elsweyr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![Core] ![Adventures] 
 Download: | Main Files - Moonpath to Elsweyr SSE
-| [Replacer ESP](https://www.dropbox.com/s/uziksxhkyf0l0je/Moonpath%20to%20Elsweyr%20-%20Replacer.7z?dl=0)
 
 ## Teldryn Serious - Backstory Quest
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5541) | Version: `7.0` | Author: `Undriel` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5541) | Version: `7.0` | Author: `Undriel` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Teldryn Serious Enhanced Edition
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Teldryn Serious - Backstory Quest - Patch
 
@@ -329,7 +339,7 @@ Download: | Main Files - The Brotherhood of Old
 
 ## The Forgotten City
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1179) | Version: `1.8` | Author: `TheModernStoryteller` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1179) | Version: `1.8` | Author: `TheModernStoryteller` | ![Core] ![Adventures] 
 Download: | Main Files - The Forgotten City
 
 ## The Gray Cowl of Nocturnal
@@ -351,6 +361,16 @@ Download: | Main Files - The Tools of Kagrenac V1.59 SSE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.27` | Author: `FableForge` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - FloatingSwordFollower.zip
+
+![FOMOD]
+~~~
+Patches for Book Covers:
+   * None
+Other Patches:
+   * None
+Replacer:
+   * ENB Light
+~~~
 
 ![PostInstall]
 ~~~
@@ -610,7 +630,7 @@ Legacy Book Covers Skyrim Patches:
 
 ![PostInstall]
 ~~~
-Delete meshes/architecture/solitude/serikur house.nif.
+Delete meshes/armor/.
 Delete meshes/dlc02/clutter/.
 ~~~
 
@@ -741,7 +761,7 @@ Delete *.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34698) | Version: `1.1` | Author: `AgentW` | ![Core] ![Adventures] |
 Download: | Main Files - LOTD Version
 
-## Legacy of the Dragonborn CBBE Patch
+## Legacy of the Dragonborn - CBBE Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44045) | Version: `1.3.1` | Author: `cupcakeninja64` | ![Core] ![Adventures] |
 Download: | Main Files - LOTD CBBE Patch v5
@@ -800,7 +820,7 @@ Download: | Main Files - LotD Plaques Retexture
 
 ## Legacy of the Dragonborn - SMIM Chests
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55720) | Version: `0.1.1` | Author: `wSkeever` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55720) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Adventures] |
 Download: | Main Files - Legacy of The Dragonborn - SMIM Chests
 
 ## Legacy of the Dragonborn - Visage of the Dragonborn
@@ -815,13 +835,23 @@ Download: | Main Files - Moonpath To Elsweyr Retexture SE
 
 ## The Brotherhood of Old SE - Cleaned Textures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51049) | Version: `1.1` | Author: `TomTesoro - senatorjarjarbinks` | ![Core] ![Adventures] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51049) | Version: `1.1` | Author: `TomTesoro - senatorjarjarbinks` | ![Core] ![Adventures] ![Visuals] ![CAO]|
 Download: | Main Files - Choose one main file. 4k
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## The Gray Cowl of Nocturnal - HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![Core] ![Adventures] ![CAO]|
 Download: | Main Files - The Grey Cowl of Nocturnal SE - HD Texture pack
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Volkihar Knight - CBBE Bodyslide
 
@@ -842,6 +872,11 @@ Delete *.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39992) | Version: `1.0` | Author: `Kartoffels` | ![Core] ![Adventures] ![Visuals]
 Download: | Main Files - Wyrmstooth_4x
+
+![PostInstall]
+~~~
+Delete textures/clutter/signage/.
+~~~
 
 ## Wyrmstooth Suleyk Retexture SE
 
@@ -864,10 +899,25 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor
 
 ---
 
-## Skyrim Unification Project - Conflict Resolution - Adventures Addon
+## Skyrim Unification Project - Conflict Resolution - Addon - Adventures
 
-[![mod]](nexusurl) | Version: `1.0A` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.dropbox.com/s/3ccj2zyke42pldy/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0A` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Filename
+
+## Skyrim Unification Project - Replacement Plugins - Addon - Adventures
+
+[![mod]](https://www.dropbox.com/s/p31h6w7pi44tx0y/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
+Download: | Skyrim Unification Project - Repacement Plugins - Addon - Adventures.7z
+
+![FOMOD]
+~~~
+Replacement Plugins:
+   * DBM_RoyalArmory_Patch
+   * Falskaar Wildlife
+   * Moon and Star
+   * Moonpath
+   * Treasure Hunter
+~~~
 
 ---
 
@@ -886,6 +936,7 @@ Falskaar.esm |
 ForgottenCity.esp |
 Gray Fox Cowl.esp |
 konahrik_accoutrements.esp |
+RSC HR Patch.esp |
 yumcheese.esp |
 
 Manually edit Falskaar.esp: Delete "Landscape Texture" top group.
@@ -901,7 +952,6 @@ DBM_SkyrimSewers_Patch.esp | Apply ESMifier script
 FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag
 FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
 FarmhouseChimneysWyrmstooth | Compact formIDs, add ESL flag
-FGCLeviathanAxe.esp | Apply ESMifier script
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
 Gray Fox Flora Overhaul.esp | Compact formIDs, add ESL flag
@@ -916,6 +966,13 @@ TSR_TeldrynSerious.esp | Apply ESMifier script
 Wyrmstooth.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
 
+---
+
+## Finishing Steps
+
+---
+
+Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square

@@ -54,17 +54,42 @@ Shell:
 
 ## SMIM Barrel Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67676) | Version: `0.1.1` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67676) | Version: `0.1.1` | Author: `wSkeever` | ![Visuals]
 Download: | Main Files - SMIM Barrel Expansion - Mead Barrel - Oil Barrel - Butter Churn
 
 ## Major Cities Mesh Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.2` | Author: `raiserfx` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49259) | Version: `1.3a` | Author: `raiserfx` | ![Core] 
 Download: | Main Files - Major Cities Mesh Overhaul SE
+
+## 3D Riften Trellis and Roofs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56973) | Version: `1.0` | Author: `RedBag` | ![Visuals]
+Download: | Main Files - 3D Riften Trellis and Roofs
+
+## 3D Solitude Market Trellis
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42472) | Version: `2.0` | Author: `RedBag` | ![Visuals]
+Download: | Main Files - 3D Solitude Trellis
+
+## 3D Solitude Market Trellis Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67818) | Version: `3.1` | Author: `Korodic` | ![Visuals]
+Download: | Main Files - 3D Solitude Market Trellis Expansion
+
+## 3D Whiterun Trellis
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41801) | Version: `1.1` | Author: `SparrowPrince` | ![Visuals]
+Download: | Main Files - 3D Whiterun Trellis v1.1
+
+## 3D Whiterun Trellis Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67700) | Version: `1.3.1` | Author: `Korodic` | ![Visuals]
+Download: | Main Files - 3D Whiterun Trellis Expansion - Metal Trellis
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.59` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.67` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Wooden Spikes Retexture
@@ -245,10 +270,20 @@ Rally's Werewolf Totems:
    * Werewolf Totems 4K-2K
 ~~~
 
-## Fyx - 3D Solitude Sighpost
+## FYX - 3D Solitude Sighpost
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.3.1` | Author: `Yuril` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - 3D Solitude SighPost - DockRopes
+
+## FYX - 3D Whiterun Castle Bridge
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69124) | Version: `1.0.1` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - 3D Whiterun Castle Bridge - 3D Trellis
+
+## Shack Roofs Restored
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52365) | Version: `2.1` | Author: `Featherstone` | ![Visuals]
+Download: | Main Files - Shack Roofs Restored 2 - shack walls
 
 ## Solitude Objects SMIMed - Festival Ropes
 
@@ -260,6 +295,11 @@ Download: | Main Files - Solitude Objects SMIMed - festival ropes
 Texture Options:
    * Dock Ropes
 ~~~
+
+## Whiterun Objects SMIMed
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69125) | Version: `0.3.1` | Author: `wSkeever` | ![Visuals]
+Download: | Main Files - Whiterun Objects SMIMed
 
 ---
 
@@ -349,7 +389,7 @@ Download: | Main Files - Skyrim Remastered - High Hrothgar v2 Quality Version
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.4` | Author: `Nymphamie` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals]|
 Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
@@ -694,6 +734,11 @@ Download: | Main Files - JS Dwarven Oil SE - 4k Textures (Leaked Oil Version)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67631) | Version: `1.1` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Dwemer Artifacts SE - 4k Textures
 
+## JS Dwemer Control Cube SE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70257) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Dwemer Control Cube SE - 2k Textures
+
 ## JS Dwemer Ichor Barrels SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67162) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
@@ -711,7 +756,7 @@ Download: | Main Files - JS Dwemer Puzzle Cube SE - 2k Textures
 
 ## JS Essence Extractor SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66578) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66578) | Version: `1.1` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Essence Extractor SE - 4k Textures
 
 ## Ancient Dwemer Metal - Patches
@@ -732,6 +777,8 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   Note: During install right click Leaked Oil / 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Artifacts SE
 |   Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Control Cube SE
+|   Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Ichor Barrels SE
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
@@ -1271,12 +1318,12 @@ Vegetation Quality:
 Style:
    * Vanilla Landscape
 Grass Density:
-   * Sparse
+   * Default (if you intend to use grass LOD and your card is not the newest, you may consider Scattered or Sparse)
 ~~~
 
 ## Happy Little Trees 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.01` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.03` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees
 
 ![FOMOD]
@@ -1285,11 +1332,13 @@ Trees:
    * All Trees
 Add on:
    * None
+Snowy Pine Textures:
+   * Default
 ~~~
 
 ## Happy Little Trees Add-On - DynDOLOD 3
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `1.0` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `1.03` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees 3D Lods performance
 
 ## Aspens Ablaze
@@ -1696,11 +1745,6 @@ Texture Size:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57607) | Version: `2.1` | Author: `Revoith` | ![Visuals]
 Download: | Main Files - Awesome Potions Simplified
 
-## Basic Dining Set Replacer
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30055) | Version: `1.0` | Author: `SpotDisk` | ![Visuals] |
-Download: | Main Files - Basic Dining Set Replacer 2k
-
 ## BURP - Book Unity and Revamp Project
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
@@ -1996,12 +2040,6 @@ Replacer Options:
    * Vanilla Overwrite
 ~~~
 
-## Near Vanilla Project - Control Cube Redone - ENB Light 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47845?tab=files) | Version: `1.1` | Author: `neardaniel` | ![Visuals] |
-Download: | Main Files - Near Vanilla Project - Control Cube Redone 4K
-| Main Files - Near Vanilla Project - Control Cube Redone - Dara ENG Light
-
 ## Nocturnal's Portal HD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51646) | Version: `1.0` | Author: `GRY` | ![Visuals] |
@@ -2011,6 +2049,11 @@ Download: | Main Files - Nocturnal's Pool HD 4K
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26944) | Version: `1.1` | Author: `Ray` | ![Visuals] |
 Download: | Main Files - Ray's UHD Folded Rag 2k SE
+
+## Remiros' Draw Knife HD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70333) | Version: `1.0` | Author: `Remiros` | ![Visuals]
+Download: | Main Files - Remiros' Draw Knife HD
 
 ## RETEXTURE FOR THE SCROLL
 
@@ -2030,27 +2073,7 @@ Choose Texture:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43306) | Version: `0.1` | Author: `wSkeever` | ![Visuals] |
 Download: | Main Files - Riekling Barrels SMIM
 
-## Rudy HQ - Miscellaneous 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19867) | Version: `1.02` | Author: `Rudy102` | ![Visuals] |
-Download: | Main Files - Rudy HQ - Miscellaneous SE
-
-![FOMOD]
-~~~
-HQ Silverware:
-   * Rudy HQ Silverware for Rustic Silverware
-HQ Silverware for Smoking Torches and Candles Mod:
-   * None
-Additional HQ candle models:
-   * Rudy HQ Imperial Candles
-   * Rudy HQ Nordic Ruins Candles
-HQ Glazed Pottery:
-   * Rudy HQ Glazed Pottery Vanilla Style 2K
-HQ Glazed Pottery for Smoking Torches and Candles Mod:
-   * None
-Textures for Nordic ruins pottery:
-   * Rudy HQ Brown Textures for Dungeon Pottery 2K
-~~~
 
 ![PostInstall]
 ~~~
@@ -2098,6 +2121,11 @@ Download: | Main Files - SD's Horn Candles SE 2k
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
 Download: | Main Files - Sigils of Skyrim - Banners
 
+## Silver Objects SMIMed
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70787) | Version: `0.3.1` | Author: `wSkeever` | ![Visuals]
+Download: | Main Files - Silver Objects SMIMed
+
 ## Skyland Imperial and Nordic Tents
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57002) | Version: `1.6` | Author: `Skyking` | ![Visuals]
@@ -2137,11 +2165,6 @@ Download: | Main Files - Skyrim Remastered - Soul Gems Quality Version
 ~~~
 Delete Skyrim Remastered - Soul Gems.esp.
 ~~~
-
-## SMIM Upper Furniture Wood Retexture by BuddhaSante
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61055) | Version: `1.0` | Author: `BuddhaSante` | ![Visuals]
-Download: | Main Files - SMIM Upper Furniture ReTexture - 4k
 
 ## Snazzy Furniture and Clutter Overhaul 
 
@@ -2240,6 +2263,38 @@ Download: | Main Files - Vanilla Table Replacers 4k 2k
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61520) | Version: `1.2` | Author: `XNFRain` | ![Visuals]
 Download: | Main Files - XNFRain's Civil War Map Flag Replacer
 | Optional Files - XNFRain's Civil War Map Flag Replacer - 50
+
+## Rudy HQ - Miscellaneous 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19867) | Version: `1.02` | Author: `Rudy102` | ![Visuals] |
+Download: | Main Files - Rudy HQ - Miscellaneous SE
+
+![FOMOD]
+~~~
+HQ Silverware:
+   * Rudy HQ Silverware for Rustic Silverware
+HQ Silverware for Smoking Torches and Candles Mod:
+   * None
+Additional HQ candle models:
+   * Rudy HQ Imperial Candles
+   * Rudy HQ Nordic Ruins Candles
+HQ Glazed Pottery:
+   * Rudy HQ Glazed Pottery Vanilla Style 2K
+HQ Glazed Pottery for Smoking Torches and Candles Mod:
+   * None
+Textures for Nordic ruins pottery:
+   * Rudy HQ Brown Textures for Dungeon Pottery 2K
+~~~
+
+## SMIM Upper Furniture Wood Retexture by BuddhaSante
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61055) | Version: `1.0` | Author: `BuddhaSante` | ![Visuals]
+Download: | Main Files - SMIM Upper Furniture ReTexture - 4k
+
+## Basic Dining Set Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30055) | Version: `1.0` | Author: `SDlutz` | ![Visuals] |
+Download: | Main Files - Basic Dining Set Replacer 2k
 
 ---
 
@@ -2682,7 +2737,7 @@ Download: | Main Files - 2) aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON
 
 ## aMidianBorn Content Addon
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.3` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.4` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
 Download: | Main Files - aMidianBorn Content Addon SE
 
 ## aMidianBorn Blade of Woe
@@ -3062,10 +3117,10 @@ Download: | Main Files - Nightshade Vampire Armor Retexture
 
 ---
 
-## Bellyaches Animal and Creature Pack
+## Bellyaches Animal and Creature Pack Revamp
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6839) | Version: `1.2` | Author: `Kelsenellenelvian` | ![Visuals]
-Download: | Main Files - Bellyaches Animal and Creature Pack SSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70493) | Version: `1.1` | Author: `Kelsenellenelvian and StepModifications` | ![Visuals]
+Download: | Main Files - Bellyaches Animal and Creature Pack Revamp v1.1
 
 ![FOMOD]
 ~~~

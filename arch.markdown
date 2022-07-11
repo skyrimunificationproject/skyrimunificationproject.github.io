@@ -13,6 +13,24 @@ This module is not ready for download yet. This page is for internal tracking on
 
 ---
 
+## My Road Signs are Beautiful - Multilingual HD Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
+Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
+
+![FOMOD]
+~~~
+Versions:
+   * Weathered Version - 4K-2K
+Expanded Towns and Cities:
+   * Textures - 4K-2K
+Wyrmstooth:
+   * Textures - 4K-2K
+Falskaar:
+   * Textures - 4K-2K
+
+~~~
+
 ## Windhelm Fake Windows Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals] ![Arch]|
@@ -22,6 +40,12 @@ Download and merge into previous install: | Optional Files - Capital Windhelm Ex
 ~~~
 Delete WindhelmFakeWindowsFix.esp.
 ~~~
+
+## FYX - Smooth Wells
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals] ![Arch]
+Download and merge into previous install: | Optional Files - FYX - Smooth Wells - CotN Falkreath
+
 
 ---
 
@@ -60,9 +84,11 @@ Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmEntranceOverhaul.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
 
+JK's College of Winterhold.esp | Apply ESMifier script
 JK's High Hrothgar.esp | Apply ESMifier script
 JK's Temple of the Divines.esp | Apply ESMifier script
 JK's Sky Haven Temple.esp | Apply ESMifier script
+JK's Sinderion's Field Laboratory | Apply ESMifier script
 
 ---
 

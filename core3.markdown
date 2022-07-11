@@ -504,6 +504,11 @@ Download: | Main Files - Pandorable's Lucien SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30498) | Version: `1.0` | Author: `Froztee` | ![Visuals] |
 Download: | Main Files - Sofia Re-Imagined SSE CBBE Version
 
+## Dovahnique's High Poly Inigo Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70673) | Version: `1.0` | Author: `dovahnique` | ![Visuals]
+Download: | Main Files - Dovahnique's High Poly Inigo
+
 ## RS Children Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2650) | Version: `1.1.3` | Author: `Ranaline and Atsuraelu` | ![Core] ![Visuals] |
@@ -544,7 +549,7 @@ Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch
 
 ## Caliente's Beautiful Bodies Enhancer - CBBE 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.7` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.7.1` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
 Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.7.0
 
 ![FOMOD]
@@ -568,7 +573,7 @@ Morph Files:
 
 ## CBBE - 3BA Vanilla Armors - No Rim Lighting
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.0` | Author: `Admiral30` | ![Core] ![Visuals] | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.1` | Author: `Admiral30` | ![Core] ![Visuals] | 
 Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
 
 ## Vitruvia - Skin Texture Overhaul 
@@ -628,7 +633,7 @@ Cheek Type:
 
 ## Feminine Argonian Textures 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/184) | Version: `3.1` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/184) | Version: `3.2` | Author: `MONSTERaider` | ![Core] ![Visuals] |
 Download: | Main Files - Feminine Chameleon and Lizard (CBBE) 2K
 
 ![FOMOD]
@@ -956,6 +961,11 @@ Gravity Config:
    * Install Gravity Config
 ~~~
 
+## Draugr Ragdoll Bug Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `1.1.0` | Author: `illuke00` | ![Core]
+Download: | Main Files - Draugr Ragdoll Bug Fix
+
 ## Ice skating fixed for real - No more attack sliding movement
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55417) | Version: `1.3` | Author: `Exalderan` | ![Core] |
@@ -1097,10 +1107,20 @@ Options:
    * Full Install
 ~~~
 
+## Flute Animation Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69609) | Version: `1.0` | Author: `jayserpa` | ![Visuals]
+Download: | Main Files - Flute Animation Fix
+
 ## Immersive Folded Hands (DAR)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62849) | Version: `1.1.1` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - Immersive folded hands (DAR mod)
+
+## Lively Cart Driver Animation Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70595) | Version: `1.0` | Author: `CHIMgarden` | ![Visuals]
+Download: | Main Files - Lively cart driver animation replacer - SE or AE
 
 ## Lively Children Animations (DAR)
 
@@ -1273,7 +1293,7 @@ Download: | Main Files - Hunters Not Bandits for RDO
 ## Immersive Citizens - AI Overhaul 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4.0.1` | Author: `Arnaud dOrchymont` | ![Core] |
-Download: | Main Files - Immersive Citizens - AI Overhaul
+Download: | Old Files - Immersive Citizens - AI Overhaul (0.4.0.1)
 
 ![FOMOD]
 ~~~
@@ -1450,7 +1470,7 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul
 
 ## Complete Crafting Overhaul Remastered 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.4` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
@@ -1480,35 +1500,15 @@ SPID:
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.1` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.5` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
 | Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
 | Misc Files - Dragon War - Deadly Spell Impacts Patch
 
-## Enchanting Adjustments Updated
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49471) | Version: `3.1.1` | Author: `sasnikol` | ![Core] |
-Download: | Main Files - Enchanting Adjustments
-
-![FOMOD]
-~~~
-NOTE: Only select specified options, uncheck anything that is autoselected.
-
-Add-ons:
-   * None
-Patches:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
 ## Forceful Tongue - Shouts Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.6` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.7` | Author: `Delta` | ![Core] |
 Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
@@ -1679,7 +1679,7 @@ Download: | Main Files - Sets of Skill - A Skyrim Class Mod
 
 ## Smithing Perks Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19246) | Version: `2.0` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19246) | Version: `2.1` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Smithing Perks Overhaul -- New Perk Tree
 
 ## Experience
@@ -1837,7 +1837,6 @@ Select Miscellaneous Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/762) | Version: `4.2SE` | Author: `Tooplex` | ![Core] |
 Download: | Old Files - YOT - Your Own Thoughts 4.2
-| [YOT - Your Own Thoughts - Patches](https://www.dropbox.com/s/k2ruv6czdkxyemd/YOT%20-%20Your%20Own%20Thoughts%20-%20Patches.7z?dl=0)
 
 ![FOMOD]
 ~~~
@@ -1872,7 +1871,7 @@ Download: | Main Files - Bright Falling Leaves Fix
 
 ## Cathedral 3D Mountain Flowers - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.4` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.5` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
@@ -1968,8 +1967,8 @@ Particle Light Node Color:
 
 ## Rudy Candles for SMIM Lanterns
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61022) | Version: `1.0a` | Author: `VeryWhiteGuy` | ![Visuals]
-Download: | Main Files - Rudy Candles for SMIM Lanterns
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61022) | Version: `1.0.1b` | Author: `VeryWhiteGuy` | ![Visuals]
+Download: | Main Files - Rudy Candles for SMIM Lanterns - ENB Particle Effect
 
 ## Sacrosanct and Sacrilege - Skeleton Replacer HD Patch
 
@@ -2146,7 +2145,6 @@ Delete meshes/plants/floralavender01.nif.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Smooth Wells - Water in Wells
-| Optional Files - FYX - Smooth Wells - CotN Falkreath
 | Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
 
 ![PostInstall]
@@ -2228,7 +2226,7 @@ Download: | Main Files - Apocrypha ENB Light
 
 ## Awesome Potions Simplified - ENB Lights
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58607) | Version: `1.1` | Author: `Revoith - Nicoroshi - greenleaf1mile` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58607) | Version: `1.2` | Author: `Revoith - Nicoroshi - greenleaf1mile` | ![Core] ![Visuals]
 Download: | Main Files - Awesome Potions Simplified ENB Lights
 
 ## Dark Elf Lantern ENB Light - Animated Glow
@@ -2416,6 +2414,11 @@ Ingredients:
    * Volatile Void Salts
 ~~~
 
+## High Poly Dragonborn Ingredients
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69406) | Version: `1.2` | Author: `Remiros` | ![Core] ![Visuals]
+Download: | Main Files - High Poly Dragonborn Ingredients - ENB Lights
+
 ## More Lights for ENB - Blood Splatter Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55582) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]|
@@ -2476,6 +2479,7 @@ Install Type:
    * All In One
 Select AIO Install Type:
    * Core (automatic)
+   * Addons - Magic and Enchanting
 ~~~
 
 ## Skyrim Unification Project - Conflict Resolution
@@ -2485,8 +2489,24 @@ Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ![FOMOD]
 ~~~
-Developmental Files:
+Other Files:
    * None
+~~~
+
+## Skyrim Unification Project - Replacement Plugins
+
+[![mod]](https://www.dropbox.com/s/rjsf5jgpo94t5al/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
+Download: | Skyrim Unification Project - Repacement Plugins.7z
+
+![FOMOD]
+~~~
+Replacement Plugins:
+   * Beyond Skyrim - Wares of Tamriel
+   * Dwemer Automations Glowmapped
+   * Improved Closefaced Helmets
+   * Outlaws Refuges
+   * Skyrim Bridges
+   * Sofia - The Funny Fully Voiced Follower
 ~~~
 
 ---
@@ -2537,7 +2557,7 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
 
 ## Complete Crafting Overhaul Remastered - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.2.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.3.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered - Settings Loader
 
 ## EVG Conditional Idles - Settings Loader
@@ -2582,7 +2602,7 @@ Download: | Main Files - Timing is Everything SE - Settings Loader
 
 ## Trade and Barter - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57926) | Version: `1.0.2` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57926) | Version: `1.0.4` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Trade and Barter - Settings Loader
 
 ## VioLens - A Killmove Mod SE - Settings Loader
