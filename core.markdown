@@ -623,7 +623,7 @@ Plugin Type:
 
 ## Immersive Display Overhaul
 
-[![mod](https://www.nexusmods.com/skyrimspecialedition/mods/70508) | Version: `1.1` | Author: `Ashen` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70508) | Version: `1.1` | Author: `Ashen` | ![Core]
 Download: | Main Files - Immersive Display Overhaul
 
 ## MEZF - Missing Encounter Zones FIXED
