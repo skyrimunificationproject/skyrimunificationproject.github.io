@@ -34,6 +34,11 @@ Main Installer Choice:
 Pack the mod with CAO.
 ~~~
 
+## Static Mesh Improvement Mod - SMIM - Cleaned and Upscaled Textures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69158) | Version: `0.90` | Author: `xilamonstrr` | ![Optional] ![Visuals]
+Download: | Optional Files - .SMIM 4K AiO BSAs
+
 ## Static Mesh Improvement Mod Improvement Mod
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.4.2` | Author: `Novelyst` | ![Core] |
@@ -89,7 +94,7 @@ Download: | Main Files - 3D Whiterun Trellis Expansion - Metal Trellis
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.67` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.68` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Wooden Spikes Retexture
@@ -136,6 +141,22 @@ Delete HPP - My fixes by Xtudo - Chopping Blocks.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5870) | Version: `3.2b` | Author: `raiserfx` | ![Core] ![CAO]|
 Download: | Main Files - Ruins Clutter Improved SE Mod Manager
+
+![FOMOD]
+~~~
+Options:
+   * Install Everything
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Ruins Clutter Improved - Cleaned and Upscaled Textures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71127) | Version: `1.0` | Author: `xilamonstrr` | ![Optional] ![Visuals] ![CAO]
+Download: | Main Files - Ruins Clutter Improved 2K
 
 ![FOMOD]
 ~~~
@@ -711,7 +732,6 @@ Download: | Main Files - Dwemer Elevator Lights
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48724) | Version: `3` | Author: `Caleb2` | ![Visuals] |
 Download: | Main Files - Dwemer Automatons Glowmapped 3
-| [Replacement Plugin](https://www.dropbox.com/s/fwkkosduiti5btv/Dwemer%20Glowmapped%20-%20Automatons%20-%20Replacement.7z?dl=0)
 
 ## Dwemer Glowmapped - Tech
 
@@ -763,9 +783,10 @@ Download: | Main Files - JS Essence Extractor SE - 4k Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
-| Note: Install in this order!
+|   Note: Install following files after above main file:
 | Main Files - Ancient Dwemer Metal - My patches - Converted Meshes to SE and AE
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v5
+|   End note
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
 |   Note: During install right-click 4K and set as Data Directory
@@ -787,7 +808,6 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
 |   Note: During install select 4K in BAIN installer
-| Optional Files - Ancient Dwemer Metal - My patches - My bronze cubemap SE
 | Optional Files - Ancient Dwemer Metal - My Patches - Praedy's Staves
 |   Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
@@ -1323,7 +1343,7 @@ Grass Density:
 
 ## Happy Little Trees 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.03` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.04` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees
 
 ![FOMOD]
@@ -1371,15 +1391,19 @@ Download: | Optional Files - Canticle Bark
 
 ## Fancy Sleeping Tree Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.3` | Author: `Jeannetta182` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.4` | Author: `Jeannetta182` | ![Core] ![Visuals]
 Download: | Main Files - Fancy Sleeping Tree Replacer
 
 ![FOMOD]
 ~~~
+Color:
+   * Purple
+ENB Light:
+   * ENB Light
 Tree Version:
-   * Leafless (or your choice)
+   * Leafless
 Original Path Patch:
-   * Add Patch (pending CRing patch)
+   * Add Patch
 ~~~
 
 ![PostInstall]
@@ -1866,7 +1890,6 @@ Plugin Type:
 Options:
    * ElderScrollChest
    * LOTDPatch
-   * IDG UMF Patch
    * CubemapFile
 ~~~
 
@@ -1937,11 +1960,6 @@ Download: | Main Files - ElSopa - HD Medieval Anvil 2k
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22674) | Version: `1.0` | Author: `DarShonDo` | ![Visuals] |
 Download: | Main Files - HD Executioners Block SE
-
-## Honningbrew Decanter
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53042) | Version: `1.0` | Author: `CloudBird` | ![Visuals] |
-Download: | Main Files - Honningbrew Decanter - 4K
 
 ## Iconic's Bust Of The Gray Fox Retexture
 
@@ -2073,14 +2091,6 @@ Choose Texture:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43306) | Version: `0.1` | Author: `wSkeever` | ![Visuals] |
 Download: | Main Files - Riekling Barrels SMIM
 
-
-
-![PostInstall]
-~~~
-Delete textures/effects.
-Delete Rudy Nordic Pottery SSE.esp.
-~~~
-
 ## RUGNAROK 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5436) | Version: `1.1` | Author: `Gamwich` | ![Visuals] |
@@ -2142,6 +2152,7 @@ Download: | Main Files - Skyrim 3D Furniture
 Delete meshes/architecture.
 Delete meshes/clutter/common/cratesmall*.
 Delete meshes/clutter/meadery/meadbarrel01.nif.
+Delete meshes/clutter/weaponrack*.
 Delete meshes/furniture/clutter/meadbarrelfurniture.nif.
 ~~~
 
@@ -2306,7 +2317,6 @@ Download: | Main Files - Basic Dining Set Replacer 2k
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33` | Author: `JonnyWang13` | ![Core] |
 Download: | Main Files - Cathedral - Weathers
-| Update Files - Cathedral Weathers Unofficial Update
 
 ## Cathedral Weathers and Seasons - MCM
 
@@ -2631,6 +2641,11 @@ Additional content and patches:
    * None
 ~~~
 
+![PostInstall]
+~~~
+Delete textures/clutter/common/lampgeneric01*.
+~~~
+
 ## Lux Via
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.4` | Author: `GGUNIT` | ![Core] ![Visuals]
@@ -2846,7 +2861,6 @@ Delete AcolyteMasks.esp.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/824) | Version: `1.58` | Author: `navida1` | ![Core] ![Visuals] ![BSA]|
 Download: | Main Files - Improved Closefaced Helmets (SSE)
-| [Replacer ESP](https://www.dropbox.com/s/vjmtqr36rwcdd7d/Improved%20Closefaced%20Helmets.7z?dl=0)
 
 ![PostInstall]
 ~~~
@@ -3193,6 +3207,16 @@ Mesh:
    * Fixed UVs
 ~~~
 
+## Hermaeus Mora - Water and Tentacles - My HD Version
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37330) | Version: `1.2` | Author: `Xtudo` | ![Visuals]
+Download: | Hermaeus Mora - My HD version SE
+
+![PostInstall]
+~~~
+Delete textures/cubemaps/.
+~~~
+
 ## Horker
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28452) | Version: `2.0` | Author: `Pfuscher` | ![Visuals] |
@@ -3292,6 +3316,7 @@ Please Select At Least One:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52845) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
 Download: | Main Files - Skeleton Replacer HD 2K SE
 | Miscellaneous Files - SkeletonReplacer - PatchCollection
+| Miscellaneous Files - SkeletonReplacer - LuxPatch
 
 ![FOMOD]
 ~~~
@@ -3303,6 +3328,7 @@ SCSkeletons:
    * SoulCairnSkeletons AE
 Support Options:
    * BeastSkeletons
+   * M'Rissi (for soft compat.)
 
 Patches:
    * MajesticMountains
@@ -3369,6 +3395,92 @@ Download: | Main Files - Wispmother.2x1k
 Select One:
    * Full Version - Skin with a Mesh Fabric Veil (Recommended)
 ~~~
+
+---
+
+# New NPC and Enemy Encounters
+
+---
+
+## DIVERSE SKYRIM 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7707) | Version: `2.14` | Author: `CEMN` | ![Core] |
+Download: | Main Files - DIVERSE SKYRIM SSE
+
+## Diverse Werewolves Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7009) | Version: `1.3.2` | Author: `opusGlass` | ![Core] |
+Download: | Main Files - Diverse Werewolves Collection
+
+## Heritage Enemies 2 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55989) | Version: `1.0` | Author: `PastChristmas` | ![Core] ![CAO]|
+Download: | Main Files - Heritage 2
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Immersive Patrols
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `3.0a` | Author: `Scrabbulor` | ![Core] |
+Download: | Main Files - Immersive Patrols (11 vs 11 Battles)
+
+## More Werewolves 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7259) | Version: `1.2.1` | Author: `opusGlass` | ![Core] |
+Download: | Main Files - More Werewolves
+
+![FOMOD]
+~~~
+Version:
+   * DWC Version
+~~~
+
+---
+
+# New Followers and NPCs
+
+---
+
+## Citizens of Tamriel
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29069) | Version: `Redux` | Author: `Craftian` | ![Core] ![CAO]|
+Download: | Main Files - Citizens of Tamriel SE - Complete
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Interesting NPCs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29194) | Version: `4.4` | Author: `Kris Takahashi` | ![Core] |
+Download: | Main Files - Interesting NPCs SE - BSAs
+| Update Files - Interesting NPCs SE - 4.3.6 to 4.4 Hotfix
+| Optional Files - Interesting NPCs SE - Alternative Locations - Flagged ESL
+| Optional Files - Interesting NPCs SE - Rumarin Solstheim Commentary by Mazekial
+
+## Interesting NPCs - Zora’s Voice-Boost
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16090) | Version: `2` | Author: `OblivionUser101` | ![Core] |
+Download: | Main Files - Zora_normalizedv2
+
+## INIGO 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1461) | Version: `2.4.C` | Author: `Smartbluecat` | ![Core] |
+Download: | Main Files - INIGO_V2.4C SE
+
+## Lucien 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] |
+Download: | Main Files - Lucien
+
+## Sofia
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2180) | Version: `2.51` | Author: `John Jarvis and Christine Slagman` | ![Core] |
+Download: | Main Files - Sofia Follower v.2.51 (BSA)
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square

@@ -139,6 +139,36 @@ Lovely Longswords:
    * None
 ~~~
 
+## Skeleton Replacer HD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52845) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Skeleton Replacer HD 2K SE
+| Miscellaneous Files - SkeletonReplacer - PatchCollection
+
+![FOMOD]
+~~~
+PluginType:
+   * ESPFE
+SkeletonEyeGlow:
+   * SkeletonsWithEyeGlow
+SCSkeletons:
+   * SoulCairnSkeletons AE
+Support Options:
+   * BeastSkeletons
+   * M'Rissi (for soft compat.)
+
+Patches:
+   * MajesticMountains
+   * SkeletonEyesENBLight
+   * UniqueSkullsPotema
+   * ToolsOfKagrenac
+~~~
+
+![PostInstall]
+~~~
+Delete PraedysSkeletons.esp.
+~~~
+
 ## Lucien 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] ![Adventures]|
@@ -147,7 +177,7 @@ Download and merge into previous install: | Optional Files - Lucien - Moon and S
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.1` | Author: `Delta` | ![Core] ![Adventures]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.7` | Author: `Delta` | ![Core] ![Adventures]|
 Download and merge into previous install: | Misc Files - Dragon War - Wyrmstooth Patch
 
 ## Forceful Tongue - Shouts Overhaul 
@@ -181,32 +211,16 @@ Download and merge into previous install: | Main Files - kryptopyr's Patch Hub I
 ![FOMOD]
 ~~~
 Mods:
-   * CCOR - Complete Crafting Overhaul Remastered
    * CACO - Complete Alchemy and Cooking Overhaul
-   * TCIY - The Choice is Yours
-   * IT - Improved Traps
-CCOR - Winter Is Coming SSE - Cloaks:
-   * With Cloaks of Skyrim
-CCOR - Other:
-   * Bandolier - Bags and Pouches Classic
-   * Cloaks of Skyrim
-   * Metallurgy - Ingots and Ores HD
-   * Ordinator - Perks of Skyrim
+Mod Detection:
+   * None
+CACO - Wintersun:
+   * Without Custom Race Support
 CACO - Other:
    * Falskaar
-   * Growl - Werebeasts of Skyrim
-   * Inigo
    * Moonpath to Elswyr
-   * Ordinator - Perks of Skyrim
-   * Predator Vision - Night Eye and Thermal Vision Overhaul
    * The Gray Cowl of Nocturnal
-   * Unofficial Skyrim Special Edition Patch
-   * Wintersun - Faiths of Skyrim
    * Wyrmstooth
-TCIY - Patches:
-   * Wintersun - Faiths of Skyrim
-IT - Patches:
-   * Unofficial Material Fix
 ~~~
 
 ## Skyrim Unification Project - Consistency Patches
@@ -328,7 +342,7 @@ Pack the mod with CAO.
 
 ## Teldryn Serious - Backstory Quest - Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32415) | Version: `1.1.4` | Author: `tarlazo` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32415) | Version: `1.1.5` | Author: `tarlazo` | ![Core] ![Adventures]
 Download: | Main Files - Teldryn Serious Patch
 
 ## The Brotherhood of Old
@@ -359,7 +373,7 @@ Download: | Main Files - The Tools of Kagrenac V1.59 SSE
 
 ## There Is No Umbra - Chapter II
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.27` | Author: `FableForge` | ![Core] ![Adventures] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.29` | Author: `FableForge` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]

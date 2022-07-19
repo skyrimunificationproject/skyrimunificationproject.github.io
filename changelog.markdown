@@ -3,6 +3,115 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-07-??
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - Horse Stamina HUD
+Core 1 - Bug Fixes - First Person Sneak Strafe-Walk Stutter Fix
+Core 1 - Bug Fixes - Optimized USSEP Valdr Quest
+Core 1 - Bug Fixes - Word Wall Suspended Stack Fix
+Core 1 - Camera and World Map - SmoothCam - EasyEase Preset
+Core 1 - Audio Music Sounds - Phoenix Compendium
+Core 1 - Modified Vanilla Content - Alternate Start Voiced
+Core 1 - Modified Vanilla Content - Caught Red Handed - Quest Expansion
+Core 1 - Modified Vanilla Content - College of Winterhold - Quest Expansion
+Core 1 - New Items Clothing - Bandolier Cleaned Textures
+Core 1 - New Items Weapons - DX Faction Crossbows Cleaned Textures
+Core 2 - General World Improvement - SMIM Cleaned Textures
+Core 2 - General World Improvement - Ruins Clutter Improved Cleaned Textures
+Core 2 - Creatures - Hermaeus Mora - Water and Tentacles
+Core 3 - NPC Retexture - Pandorable's Sofia Replacer
+Core 3 - Eyes - Eye Normal Map Fix
+Core 3 - Eyes - Improved Eye Model
+Core 3 - Eyes - The Eyes of Beauty - Ai Remastered
+Core 3 - Multiple animation mods, recheck the new sections
+Core 3 - Follower Framework - Simplest Horses
+Core 3 - Late Loaders - Informed Mail Delivery
+Core 3 - Late Loaders - Immersive Equipment Displays - Preset - Weapons Positioner
+Core 3 - Late Loaders Textures - Andromeda Cleaned Textures
+Core 3 - Late Loaders Textures - Apocalypse Cleaned Textures
+Core 3 - Late Loaders Textures - Imperious Cleaned Textures
+Core 3 - Late Loaders Textures - Odin Cleaned Textures
+Core 3 - Late Loaders Textures - Ordinator Cleaned Textures
+Core 3 - Late Loaders Textures - Triumvirate Cleaned Textures
+Core 3 - Late Loaders Textures - Wintersun Cleaned Textures
+~~~
+
+![Removed]
+~~~
+Core 1 - Camera - Alternate Conversation Camera Tweaks
+Core 1 - Sound - Heart of the Beast Werewolf Sound Overhaul
+Core 2 - Clutter and Misc - Honningbrew Decanter
+Core 3 - NPC Retexture - Sofia - Re-Imagined
+Core 3 - NPC Resources - Ilygaid Eye Improver
+Core 3 - Eyes - Improved Eyes
+Core 3 - Animation - Smooth Magic Casting Animation
+Core 3 - Animation - Smooth Staff Animation
+Core 3 - Follower Framework - Saddlebags
+Core 3 - Perks - Smithing Perks Overhaul
+Core 3 - Late Loaders - Weapons Repositioner
+Core 3 - Late Loaders - Smithing Perks Overhaul - Ordinator - Mashup
+Core 3 - Late Loaders Meshes - Upgraded Blackreach Mushrooms for CACO
+~~~
+
+![Updated]
+~~~
+Prerequisites - Added CAO profile link
+Core 1 - The Stumbling Sabrecat updated to 1.2.1.
+Core 1 - Better Courier updated to 1.7.2.
+Core 1 - Alternate Conversation Camera Plus changed to Improved Alternate Conversation Camera
+Core 1 - Butterflies Land True moved to Bug Fixes.
+Core 1 - Butterflies Unchained moved to Bug Fixes.
+Core 1 - Soul Cairn Objects Secured moved to Gameplay Tweaks.
+Core 1 - Follower Framework category moved to Core 3.
+Core 2 - Fancy Sleeping Tree Replacer updated to 1.4.
+Core 2 - Assorted Mesh Fixes updated to 0.68.
+Core 2 - Skyrim 3D Furniture - updated instructions (weapon racks)
+Core 2 - Happy Little Trees updated to 1.04.
+Core 2 - Interesting NPCs - added alt locations patch to downloads.
+Core 2 - Skeleton Replacer HD - added Lux patch to downloads.
+Core 3 - Dragonborn Shouts Perk Tree updated to 3.1.0.
+Core 3 - Dragon War updated to 2.1.7.
+Core 3 - Hanaisse's Ingredients Bowl and ENB Light Patch updated to 2.01.
+Core 3 - Odin Summons Redone updated to 1.3.
+Core 3 - Misc Effects ENB Light updated to 1.5.1 and additional file added.
+Core 3 - Seranaholic updated to 1.8.5.
+Core 3 - Rudy Candles for SMIM Lanterns updated to 1.0.2b.
+Core 3 - Immersive Interactions updated to 1.66.
+Core 3 - kryptopyr's Patch Hub updated to 3.3.
+Core 3 - Masculine Argonian Textures updated to 2.1.
+Core 3 - CACO - added cleaned textures download and extract/pack instructions.
+Core 3 - Dynamic Animation Replacer moved to SKSE.
+Core 3 - Dynamic Things Alternative moved to Late Loaders.
+Core 3 - ENB Helper moved to SKSE.
+Core 3 - Several mods rearranged within Animation categories.
+Core 3 - New Enemy Encounters and New Followers and NPCs moved to Core 2.
+
+Several mods had CAO instructions added:
+  Skyrim Particle Patch
+  Nether's Follower Framework
+  At Your Own Pace
+  AWS - Animated Wedding Scene
+  Even Better Quest Objectives
+  Immersive Rejections
+  Radiance - Quests
+  Hvergelmir's Aesthetics - Beards
+  Hvergelmir's Aesthetics - Brows
+  Kalilies Brows
+  Northborn Scars
+  Sleeping Expanded
+  Bandit Lines Expansion
+  Odin - Summons Redone
+  Tavern AI Fix
+  Use Telekinesis on Traps
+  Vanilla Plus Writing Purity Patch
+~~~
+
+---
+
 # 2022-07-10
 
 ---

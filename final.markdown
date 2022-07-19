@@ -30,11 +30,13 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 Plugin |
 - | -
 AHZBetterDGEntranceSE.esp |
+Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 middenexpanded.esp |
 Sepolcri.esp |
 Water for ESB.esm |
+Windhelm Lighthouse.esp |
 yumcheese.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -47,17 +49,23 @@ AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Aspens Ablaze.esp | Apply ESMifier script
+At Your Own Pace - College of Winterhold | Apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
+Better Courier.esp | Apply ESMifier script
+Black Briar Banners.esp | Apply ESMifier script
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 BUVARP SE RE - CFTO Patch.esp | Add ESL flag
 Cathedral - 3D Mountain Flowers.esp | Apply ESMifier script
 CBBE.esp | Add ESL flag
+CFTO.eso | Apply ESMifier script
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
+College Of Winterhold - Quest Expansion | Apply ESMifier script
 CompanionsTweaks.esp | Add ESL flag
+Cow_AtYourOwnPace_Patch.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
 DiverseWerewolvesCollection.esp | Apply ESMifier script
@@ -74,13 +82,15 @@ FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Apply ESMifier script
 High Poly Head.esm | Add ESL flag
-HoldBorderBanners.esp | Compact formIDs, add ESL flag
+HoldBorderBanners.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Hunters Not Bandits.esp | Add ESL flag
 IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
+Inigo.esp | Apply ESMifier script
+KeeperCarcetteSurvives.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
@@ -118,11 +128,14 @@ SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
-SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag
+SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SofiaFollower.esp | Apply ESMifier script
 SPO_Ordinated.esp | Add ESL flag
 Stendarr Rising.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
+TheEyesOfBeauty.esp | Compact formIDs, add ESL flag
+The Eyes of Beauty - Elves Edition.esp | Compact formIDs, add ESL flag
+TheStumblingSabrecat.esp | Apply ESMifier script
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
@@ -132,6 +145,7 @@ Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Waymark.esp | Apply ESMifier script
 WedDialogueFix.esp | Add ESL flag
+Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
 ---
