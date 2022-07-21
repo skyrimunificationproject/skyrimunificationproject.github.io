@@ -10,7 +10,7 @@ title: "Skyrim Unification Project"
 ## .NET Script Framework
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21294) | Version: `18` | Author: `meh321` | ![Core] |
-Download: | Main Files - NetScriptFramework SkyrimSE v17
+Download: | Main Files - NetScriptFramework SkyrimSE v18
 
 ## Address Library for SKSE Plugins
 
@@ -24,7 +24,7 @@ Download: | Main Files - Custom Skills Framework v1
 
 ## ConsoleUtilSSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.3.1` | Author: `Ryan` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24858) | Version: `1.2.0` | Author: `Ryan` | ![Core] |
 Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
@@ -61,7 +61,7 @@ Download: | Main Files - Spell Perk Item Distributor - SSE
 ## More Informative Console
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `1.0.1` | Author: `Linthar` | ![Core] |
-Download: | Main Files - More Informative Console 1.0 SSE
+Download: | Main Files - More Informative Console 1.0.1 SSE
 
 ## Actor Limit Fix
 
@@ -146,8 +146,8 @@ Download: | Main Files - ENB Helper SE 1.5 for SSE 1.5.97
 
 ## Encounter Zones Unlocked SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19608) | Version: `1.5.3` | Author: `z65536` | ![Core] |
-Download: | Old Files - Encounter Zones Unlocked SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19608) | Version: `1.4` | Author: `z65536` | ![Core] |
+Download: | Main Files - Encounter Zones Unlocked SE
 
 ## Enhanced Invisibility
 
@@ -211,6 +211,11 @@ DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
+## No Crime Teleport RE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71691) | Version: `1.0` | Author: `dTry` | ![Core]
+Download: | Main Files - No Crime Teleport SE
+
 ## No Grass In Objects
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42161) | Version: `8.0` | Author: `meh321` | ![Core] |
@@ -220,12 +225,12 @@ Download: | Main Files - Grass Control v8
 ![PostInstall]
 ~~~
 Install GrassPrecacher.py in MO2/Plugins.  
-This is for users who wish to generate grass LODs on their own.
+This is for users who wish to generate grass LODs as an optional step later.
 ~~~
 
 ## NPCs Use Potions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `2.2` | Author: `KoeniglichePM` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `2.3` | Author: `KoeniglichePM` | ![Core]
 Download: | Main Files - NPCsUsePotions - Fomod
 
 ![FOMOD]
@@ -256,7 +261,7 @@ Download: | Main Files - powerofthree's Tweaks SE
 
 ## Read Or Take SKSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Version: `1.0.1` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Read Or Take SKSE
 
 ## Scrambled Bugs
@@ -327,7 +332,7 @@ Download: | Main Files - Soaking Wet - Character Wetness Effect
 
 ## Splashes of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Splashes of Skyrim SE
 
 ## SSE Display Tweaks
@@ -491,7 +496,7 @@ Download: | Main Files - High Gate Ruins Puzzle Reset Fix
 
 ## Landscape Fixes For Grass Mods
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9005) | Version: `4.9` | Author: `code1k` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9005) | Version: `5.0` | Author: `code1k` | ![Core] |
 Download: | Main Files - Landscape Fixes For Grass Mods
 | Optional Files - z Vanilla Military Camps
 
@@ -544,12 +549,14 @@ Walkway Wall Fix:
 
 ## Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.0` | Author: `mindflux` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.0.9` | Author: `mindflux` | ![Core] ![CAO]|
 Download: | Main Files - Particle Patch for ENB
 
 ![FOMOD]
 ~~~
-Install custom textures?
+Installation Type:
+   * Loose Files
+Custom Textures
    * Yes
 ~~~
 
@@ -597,6 +604,11 @@ Download: | Main Files - TrapSwingingWall Script Fix
 TrapSwingingWall Script Fix:
    * Improved Traps
 ~~~
+
+## Unaggressive Dragon Priests Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69026) | Version: `1.1` | Author: `AndrealphusVIII` | ![Core]
+Download: | Main Files - Unaggressive Dragon Priests Fix
 
 ## Unofficial Material Fix
 
@@ -752,6 +764,8 @@ Select an Option:
    * Vanilla
 Select an Option:
    * Sovngarde - A Nordic Font
+Install Test Books:
+   * None
 ~~~
 
 ## UI Extensions
@@ -761,7 +775,7 @@ Download: | Main Files - UIExtensions v1-2-0
 
 ## MCM Helper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.2` | Author: `Parapets` | ![Core] ![BSA]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53000) | Version: `1.3.0` | Author: `Parapets` | ![Core] ![BSA]|
 Download: | Main Files - MCM Helper SE (1.5)
 
 ![PostInstall]
@@ -802,7 +816,7 @@ Download: | Optional Files - moreHUD Inventory Edition Loose Version - Pre AE
 
 ## SkyHUD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/463) | Version: `0.90.1B` | Author: `Fhaarkas` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/463) | Version: `0.90B` | Author: `Fhaarkas` | ![Core] |
 Download: | Main Files - SkyHUD v090B v4
 
 ![FOMOD]
@@ -849,8 +863,6 @@ Mod Configuration Menu
    * Yes
 Map Menu - Install Map Menu
    * Yes
-Map Menu - Beige Map Markers
-   * Yes
 Inventory, Magic, Crafting etc Menu
    * Yes
 Favorites Menu
@@ -880,8 +892,6 @@ Start Menu - frames replacer
 Start Menu - background replacer
    * Yes
 HUD Menu - Install HUD
-   * Yes
-HUD Menu - Compass Markers replacer
    * Yes
 Dialogue Menu
    * Yes
@@ -939,7 +949,7 @@ Download: | Main Files - SmoothCam_EasyEase_Preset_1.5
 
 ## A Quality World Map
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5804) | Version: `9.0.1F` | Author: `IcePenguin` | ![Core] ![CK]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5804) | Version: `9.0.1VF` | Author: `IcePenguin` | ![Core] ![CK]|
 Download: | Main Files - 9.0.1 A Quality World Map - Vivid with Flat Roads
 
 ![PostInstall]
@@ -1014,6 +1024,8 @@ Bow Pull Options:
    * IS Default
 Arrow Impact Options:
    * High Fantasy
+Extra Weaponry Options:
+   * None
 Soul Trap Options:
    * Soul Suck
 Restoration Options:
@@ -1037,8 +1049,8 @@ Pack the mod with CAO.
 
 ## Immersive Sounds - Compendium - AOS Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36761) | Version: `1.0.2` | Author: `Dylan James - lazygecko - Katarsi` | ![Core] |
-Download: | Main Files - Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.0.2)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36761) | Version: `1.1.0` | Author: `Dylan James - lazygecko - Katarsi` | ![Core] |
+Download: | Main Files - Audio Overhaul Skyrim - Immersive Sounds Compendium Integration (1.1.0)
 
 ## Barefoot Footstep Extended
 
@@ -1221,7 +1233,6 @@ Download: | Main Files - Road Signs Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34105) | Version: `1.2` | Author: `WiZkiD` | ![Core] ![CAO]|
 Download: | Main Files - Sepolcri - A Complete Burial Sites Overhaul
-| Optional Files - Sepolcri - DynDOLOD patch
 
 ![PostInstall]
 ~~~
@@ -1257,11 +1268,11 @@ Delete Stendarr Rising - NSUTR Patch.esp.
 ## The Elder Scrolls Online Imports
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11729) | Version: `9.0` | Author: `Sarthes Arai` | ![Core] |
-Download: | Main Files - ESOImports 8 1 1
+Download: | Main Files - ESOImports 9 0
 
 ## The Midden - Expanded
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2219) | Version: `1.06` | Author: `EasierRider` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2219) | Version: `1.07` | Author: `EasierRider` | ![Core]
 Download: | Main Files - The Midden Expanded SSE v1.07
 
 ## Unique Border Gates
@@ -1343,6 +1354,14 @@ Download: | Main Files - A Lovely Letter Alternate Routes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20668) | Version: `2.5.2` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - AtCW - Siege Damage Repairs
+
+![FOMOD]
+~~~
+Patches:
+   * None
+Enija:
+   * None
+~~~
 
 ## Alternate Start - Live Another Life
 
@@ -1531,7 +1550,7 @@ Pack the mod with CAO.
 
 ## NPCs Wear Amulets of Mara PLUS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.0` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.0` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - NPCs Wear Amulets of Mara 2.0
 
 ![PostInstall]
@@ -1551,7 +1570,7 @@ Pack the mod with CAO.
 
 ## Realistic Dark Brotherhood Kidnapping
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68260) | Version: `1.0` | Author: `Scrab` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68260) | Version: `1.1` | Author: `Scrab` | ![Core]
 Download: | Main Files - RDBK - Time and Location
 
 ## Save the Icerunner - Lights Out Alternate Routes
@@ -1677,7 +1696,7 @@ Pack the mod with CAO.
 
 ## C.O.I.N. - Coins of Interesting Natures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `1.1.11` | Author: `Tate Taylor and VictorF` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `2.0.1` | Author: `Tate Taylor and VictorF` | ![Core] |
 Download: | Main Files - C.O.I.N.
 
 ![FOMOD]
@@ -1686,6 +1705,13 @@ Asset Selection:
    * Author's Choice
 Auto-Conversion:
    * Enabled
+Patches:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete C.O.I.N. - LOTD Patch.esp. (if updating w/ Adventures installed)
 ~~~
 
 ## Extended Encounters

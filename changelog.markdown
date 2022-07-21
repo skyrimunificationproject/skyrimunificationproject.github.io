@@ -3,6 +3,36 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-07-20
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - No Crime Teleport RE
+Core 1 - Bug Fixes - Unaggressive Dragon Priests Fix
+Core 3 - Late Loaders - Missives Quests Raise Disposition
+Core 3 - Late Loaders - No Crime Teleport Voice Consistency
+Core 3 - Late Loaders - Security Overhaul Patch for Ordinator
+Core 3 - Late Loaders Meshes - Deadly Spell Impacts Transparency Fix
+~~~
+
+![Updated]
+~~~
+Core 1 - NPCs Use Potions updated to 2.3.
+Core 1 - Particle Patch for ENB updated to 1.0.9.
+Core 1 - C.O.I.N. updated to 2.0.1.
+Core 1 - Audio Overhaul Skyrim - ISC Integration updated to 1.1.0.
+Core 1 - Realistic Dark Brotherhood Kidnapping updated to 1.1.
+Core 1 - Landscape Fixes for Grass Mods updated to 5.0. (recompact/flag)
+Core 3 - Masculine Khajiit Textures updated to 2.1.
+Core 3 - SUP Gameplay Overhaul, Conflict Resolution updated.
+Adventures - Legacy of the Dragonborn updated to 5.6.4.
+Adventures - Legacy of the Dragonborn Patches updated to 2.9.1.
+~~~
+
+---
+
 # 2022-07-18
 
 ---

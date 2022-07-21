@@ -169,6 +169,55 @@ Patches:
 Delete PraedysSkeletons.esp.
 ~~~
 
+## Lux
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `4.2` | Author: `GGUNIT` | ![Core] ![Visuals]|
+Download: | Main Files - Lux
+
+![FOMOD]
+~~~
+Lux optimized Creation Club meshes:
+   * None
+Lux optional effects:
+   * Beams - PARTICLE without effect lighting
+   * Mists and fogs - Effect lighting without PARTICLE
+   * Webs
+Lux optimized SMIM Meshes:
+   * SMIM meshes
+Lux optimized rugs:
+   * RUGNAROK rugs
+Lux optimized pelts:
+   * PELTAPALOOZA pelts
+Lux optimized tables:
+   * SD's Table replacer
+Lux optimized chandeliers:
+   * SD's chandeliers
+Lux optimized Embers meshes:
+   * BYOH fireplace
+Lux optional Giant Campfires:
+   * None
+No Grass In Caves:
+   * None
+Brighter Templates:
+   * None (you can adjust for personal taste)
+Compatibility Patches:
+   * Legacy of the Dragonborn (uncheck all others)
+Crossover Patches:
+   * None (uncheck all)
+Non automated patches:
+   * None
+Language packs:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/dungeons/caves/ice/.
+Delete meshes/dungeons/dwemer/bghalls/.
+Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
+Delete textures/architecture/solitude/.
+~~~
+
 ## Lucien 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] ![Adventures]|
@@ -246,7 +295,7 @@ Select AIO Install Type:
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `5.6.3` | Author: `icecreamassassin` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `5.6.4` | Author: `icecreamassassin` | ![Core] ![Adventures]
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn
 
 ## Legacy of the Dragonborn - Safehouse Plus
@@ -612,7 +661,7 @@ Download: | Optional Files - Mystic Condenser 2.3 UCE
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.8` | Author: `The Legacy Patch Team` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.1` | Author: `The Legacy Patch Team` | ![Core] ![Adventures]
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -950,6 +999,7 @@ Falskaar.esm |
 ForgottenCity.esp |
 Gray Fox Cowl.esp |
 konahrik_accoutrements.esp |
+ktWeaponPackSE.esp |
 RSC HR Patch.esp |
 yumcheese.esp |
 

@@ -154,7 +154,7 @@ Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
 ---
 
-Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution folder to (your user)\AppData\Local\LOOT\Skyrim Special Edition\.
+Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution folder to (your user)\AppData\Local\LOOT\games\Skyrim Special Edition\.
 
 Sort your mods with the LOOT executable shortcut from MO2.
 

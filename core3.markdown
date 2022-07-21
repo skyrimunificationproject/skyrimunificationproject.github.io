@@ -579,7 +579,7 @@ Chest Variations (2K):
 
 ## Masculine Khajiit Textures 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/186) | Version: `1.5` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/186) | Version: `2.1` | Author: `MONSTERaider` | ![Core] ![Visuals] |
 Download: | Main Files - Masculine Grey Cat and Leopard (Vanilla) 2K
 
 ![FOMOD]
@@ -1977,10 +1977,25 @@ Inescapable Insights:
    * None
 ~~~
 
+## Missives Quests Raise Disposition
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61934) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core]
+Download: | Main Files - Missives Quests Raise Disposition
+
+## No Crime Teleport - Voice Consistency Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70336) | Version: `2.1` | Author: `Korodic` | ![Core]
+Download: | Main Files - No Crime Teleport - Voice Consistency Fix
+
 ## Predator Vision - Night Eye and Thermal Vision Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2777) | Version: `2.0` | Author: `Gopher` | ![Core] |
 Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul
+
+## Security Overhaul Patch for Ordinator
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70264) | Version: `1.0` | Author: `LordMala` | ![Core]
+Download: | Main Files - Security Overhaul for Ordinator
 
 ## Simple Dual Sheath
 
@@ -2074,6 +2089,11 @@ Expansion Packs for Others' Mods:
 Delete DtRS - Apoc+Arsenal Patch.esp.
 ~~~
 
+## Deadly Spell Impacts Transparency Fix for ENB
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41284) | Version: `3.1` | Author: `Korodic` | ![Core]
+Download: | Main Files - Deadly Spell Impacts Transparency Fix
+ 
 ## Flowers and Plants Meshes Fix - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35843) | Version: `1.0` | Author: `Xtudo` | ![Core] ![Visuals] |
@@ -2698,8 +2718,10 @@ Download: | Skyrim Unification Project - Conflict Resolution.7z
 
 ![FOMOD]
 ~~~
+Addons:
+   * Quest and Misc Tweaks
 Other Files:
-   * None
+   * None (or your choice)
 ~~~
 
 ## Skyrim Unification Project - Replacement Plugins

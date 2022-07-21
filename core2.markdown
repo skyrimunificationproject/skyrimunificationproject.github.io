@@ -303,7 +303,7 @@ Download: | Main Files - FYX - 3D Whiterun Castle Bridge - 3D Trellis
 
 ## Shack Roofs Restored
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52365) | Version: `2.1` | Author: `Featherstone` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52365) | Version: `2.0` | Author: `Featherstone` | ![Visuals]
 Download: | Main Files - Shack Roofs Restored 2 - shack walls
 
 ## Solitude Objects SMIMed - Festival Ropes
@@ -313,8 +313,10 @@ Download: | Main Files - Solitude Objects SMIMed - festival ropes
 
 ![FOMOD]
 ~~~
-Texture Options:
+Rope Texture Options:
    * Dock Ropes
+Ring Texture Options:
+   * Metal Ring
 ~~~
 
 ## Whiterun Objects SMIMed
@@ -347,7 +349,7 @@ Options:
 
 ## Boreal Boats
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47608) | Version: `1.2` | Author: `winedave` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47608) | Version: `1.3` | Author: `winedave` | ![Core] ![Visuals]
 Download: | Optional Files - Boreal Boat 4K
 
 ## Castle Volkihar HD
@@ -376,7 +378,7 @@ Delete Praedy's MageStatueFX.esp
 
 ## Extravagant Interiors - Blue Palace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41621) | Version: `1.0` | Author: `Ababmer` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41621) | Version: `1.1` | Author: `Ababmer` | ![Core] ![Visuals]|
 Download: | Optional Files - Blue Palace only version - by Titansbane
 
 ## Extravagant Interiors - Blue Palace - 4K
@@ -410,7 +412,7 @@ Download: | Main Files - Skyrim Remastered - High Hrothgar v2 Quality Version
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals]|
 Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
@@ -471,7 +473,7 @@ Delete Skyland Imperial Forts and Dungeons.esp.
 
 ## Skyland Nordic Ruins
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19116) | Version: `2.0` | Author: `Skyking` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19116) | Version: `2.5` | Author: `Skyking` | ![Core] ![Visuals]
 Download: | Main Files - Skyland Nordic Ruins
 
 ## Skyland Skyhaven Temple
