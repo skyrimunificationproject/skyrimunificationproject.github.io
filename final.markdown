@@ -37,7 +37,6 @@ middenexpanded.esp |
 Sepolcri.esp |
 Water for ESB.esm |
 Windhelm Lighthouse.esp |
-yumcheese.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -59,7 +58,6 @@ Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 BUVARP SE RE - CFTO Patch.esp | Add ESL flag
 Cathedral - 3D Mountain Flowers.esp | Apply ESMifier script
-CBBE.esp | Add ESL flag
 CFTO.eso | Apply ESMifier script
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
@@ -88,7 +86,6 @@ IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
-Improved Eyes Skyrim.esp | Compact formIDs, add ESL flag
 Inigo.esp | Apply ESMifier script
 KeeperCarcetteSurvives.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
@@ -120,7 +117,6 @@ RSChildren.esp | Add ESL flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
-Saddlebags.esp | Compact formIDs, add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SimplyKnock.esp | Apply ESMifier script
@@ -130,7 +126,6 @@ SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SofiaFollower.esp | Apply ESMifier script
-SPO_Ordinated.esp | Add ESL flag
 Stendarr Rising.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 TheEyesOfBeauty.esp | Compact formIDs, add ESL flag
