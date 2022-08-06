@@ -7,6 +7,8 @@ title: "Skyrim Unification Project"
 
 ---
 
+This section updates previously installed parts of the guide for Adventures content.  In all cases the new files are added/merged to the previously installed mod without moving it.
+
 ## Farmhouse Chimneys
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core] ![Adventures]|
@@ -46,16 +48,18 @@ Download and merge into previous install: | Main Files - Missives - Falskaar Pat
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
 Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
 ~~~
 Versions:
-   * Weathered Version - 4K-2K
-Wyrmstooth:
-   * Textures - 4K-2K
+   * Dirty Version - 4K-2K
+Weathered Road Signs:
+   * None
 Falskaar:
+   * Textures - 4K-2K
+Wyrmstooth:
    * Textures - 4K-2K
 ~~~
 
@@ -356,8 +360,13 @@ Download: | Main Files - Helgen Reborn level req MCM
 
 ## Helgen Reborn - Even More Immersive Start
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | ![Core] ![Adventures] ![CAO]|
 Download: | Main Files - Main File
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Konahrik's Accoutrements
 
@@ -422,7 +431,7 @@ Download: | Main Files - The Tools of Kagrenac V1.59 SSE
 
 ## There Is No Umbra - Chapter II
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.29` | Author: `FableForge` | ![Core] ![Adventures] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.32` | Author: `FableForge` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -453,8 +462,13 @@ Download: | Main Files - Wyrmstooth
 
 ## Additional Hearthfire Dolls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![Core] ![Adventures] ![CAO]|
 Download: | Main Files - Additional Hearthfire Dolls SE 3.0 Separate
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Aetherium Armor and Weapons Compilation
 
@@ -547,8 +561,13 @@ Pack the mod with CAO. (repacking with upgraded textures)
 
 ## Runic Dawnguard - Separated Lost Relic Questline
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63108) | Version: `1.2` | Author: `Janquel` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63108) | Version: `1.2` | Author: `Janquel` | ![Core] ![Adventures] ![CAO]|
 Download: | Main Files - Runic Dawnguard - USSEP Version
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Skyrim's Unique Treasures
 
@@ -630,13 +649,23 @@ Download: | Main Files - Fossil Mining Map Markers
 
 ## Legacy of the Dragonborn - Interesting NPCs Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39834) | Version: `1.3.1` | Author: `gutmaw` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39834) | Version: `1.3.1` | Author: `gutmaw` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - Interesting NPCs Patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Followers Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `2.21` | Author: `gutmaw` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `2.21` | Author: `gutmaw` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - Inigo Follower Patch Room A-2
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Mementos
 
@@ -645,7 +674,7 @@ Download: | Main Files - LOTD Mementos
 
 ## Legacy of the Dragonborn - Museum Exterior Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of The Dragonborn - Museum Exterior Fixes
 
 ![FOMOD]
@@ -654,10 +683,20 @@ Options:
    * None
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Legacy of the Dragonborn - Mystic Condenser
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10176) | Version: `2.3` | Author: `Dave0523` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10176) | Version: `2.3` | Author: `Dave0523` | ![Core] ![Adventures] ![CAO]
 Download: | Optional Files - Mystic Condenser 2.3 UCE
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Patches
 
@@ -699,8 +738,13 @@ Delete meshes/dlc02/clutter/.
 
 ## Legacy of the Dragonborn - Perk Menus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `0.6` | Author: `wSkeever` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `0.6` | Author: `wSkeever` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Perk Menus
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Quest and Reward Delay
 
@@ -709,9 +753,14 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - The Brotherhood of Old Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40920) | Version: `1.3` | Author: `Spacedroner` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40920) | Version: `1.3` | Author: `Spacedroner` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - The Brotherhood of Old Patch OAP
 | Optional Files - LOTD - TBO - Curator's Companion Patch for OAP
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
@@ -728,19 +777,34 @@ The Curator's Shield:
 
 ## Legacy of the Dragonborn - Unofficial YASTM Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57124) | Version: `1.1c` | Author: `Nechigawara` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57124) | Version: `1.1c` | Author: `Nechigawara` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - LOTD - YASTM Azura and Black Star Variations Patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Volkihar Knight Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `1.3` | Author: `Spacedroner` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `1.3` | Author: `Spacedroner` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - Volkihar Knight Patch (your choice MALE or FEMALE)
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54899) | Version: `1.0` | Author: `Spacedroner` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54899) | Version: `1.0` | Author: `Spacedroner` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - YCM Dark Brotherhood Patch
 | Optional Files - Curator's Companion Patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ---
 
@@ -861,10 +925,15 @@ Download: | Main File - Fate Cards - Skyrim Concept Art - 01
 
 ## Legacy of the Dragonborn - Fixes and Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `1.0` | Author: `gutmaw` | ![Core] ![Adventures]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `1.0` | Author: `gutmaw` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - LotD Tweaks - Main - No Lighting
 | Optional Files - LotD Tweaks - Stucco Texture A
 | Optional Files - LotD Tweaks - Wood Textures
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn - FrankFamily's Paladin Replacer for the Crusader Set
 
@@ -893,8 +962,13 @@ Download: | Main Files - Visage of the Dragonborn (Gifts of Akatosh) Upscaled 4k
 
 ## Moonpath To Elswyr Retexture SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67295) | Version: `1.0` | Author: `xavbio` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67295) | Version: `1.0` | Author: `xavbio` | ![Core] ![Adventures] ![CAO]
 Download: | Main Files - Moonpath To Elsweyr Retexture SE
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## The Brotherhood of Old SE - Cleaned Textures
 
@@ -920,6 +994,11 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39480) | Version: `1.0` | Author: `AnInsaneMoose` | ![Core] ![Adventures] |
 Download: | Main Files - Volkihar Knight CBBE Bodyslide
+
+## Wyrmstooth Animated ENB Light
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72668) | Version: `0.1` | Author: `wSkeever` | ![Core] ![Adventures]
+Download: | Main Files - Wyrmstooth Animated ENB Light
 
 ## Wyrmstooth Metallurgy Patch
 
@@ -1010,25 +1089,34 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+AetheriumSwordsnArmor.esp | Apply ESMifier script
 Artifacts.esp | Apply ESMifier script
 DBM_HelgenReborn_Patch.esp | Apply ESMifier script
 DBM_SkyrimSewers_Patch.esp | Apply ESMifier script
-FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag
-FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
-FarmhouseChimneysWyrmstooth | Compact formIDs, add ESL flag
+FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag, apply ESMifier script
+FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag, apply ESMifier script
+FarmhouseChimneysWyrmstooth | Compact formIDs, add ESL flag, apply ESMifier script
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
-Gray Fox Flora Overhaul.esp | Compact formIDs, add ESL flag
+Fossilsyum.esp | Apply ESMifier script
+Gray Fox Flora Overhaul.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Helgen Reborn.esp | Apply ESMifier script
+icebladeofthemonarch.esp | Apply ESMifier script
 konahrik_accoutrements.esp | Apply ESMifier script
+ktWeaponPackSE.esp | Apply ESMifier script
+Missives - Falskaar.esp | Apply ESMifier script
+Missives - Wyrmstooth.esp | Apply ESMifier script
 MoonAndStar_MAS.esp | Apply ESMifier script
 moonpath.esp | Apply ESMifier script
+SkyrimUniqueTreasures.esp | Apply ESMifier script
+SL01AmuletsSkyrim.esp | Apply ESMifier script
 The Brotherhood of Old.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
 TreasureHunter.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
 Wyrmstooth.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
+yumcheese.esp | Apply ESMifier script
 
 ---
 

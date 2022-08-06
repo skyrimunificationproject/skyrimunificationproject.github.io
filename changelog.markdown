@@ -3,6 +3,83 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-08-06
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - Splashes of Storms
+Core 1 - Bug Fixes - Actually Flat Flat Snow Drifts
+Core 1 - Gameplay Tweaks - Artful Dodger
+Core 1 - Gameplay Tweaks - Hawk Patch Base Object Swapper Remake
+Core 2 - Dwemer Ruins - Ancient Dwemer Metal - Spider Gem Restored
+Core 3 - Animation - Combat - Large Stagger Animation
+Core 3 - Combat - IFrame Generator
+Core 3 - Combat - Zxlice Hitstop SSE
+Core 3 - Combat - Blade and Blunt
+Core 3 - Combat - TK Dodge SE
+Core 3 - Combat - TK Dodge RE
+Core 3 - Late Loaders Meshes - Large Portcullis Collision Mesh Fix
+Core 3 - Late Loaders Meshes - Particle Lights - Luminous Ground Cover
+Core 3 - Utilities - Quest Journal Limit Bug Fixer
+Adventures - Late Loaders Meshes - Wyrmstooth Animated ENB Light
+~~~
+
+![Removed]
+~~~
+Core 3 - Know Your Enemy Redux (creating SUP alternative)
+Core 3 - Valravn (Blade and Blunt)
+Core 3 - Valravn Uncloaked
+~~~
+
+![Updated]
+~~~
+Core 1 - Bandoliers Cleaned Textures updated to 1.1.
+Core 1 - BUVARP updated to 1.1b. (re-ESM)
+Core 1 - College of Winterhold Quest Expansion updated to 1.07. (re-ESM)
+Core 1 - More Informative Console updated to 1.1.0.
+Core 1 - Better Jumping updated to 1.7.3.
+Core 1 - The Choice Is Yours updated to 2.5.
+Core 1 - Atlas Map Markers updated to 2.5.
+Core 1 - DynDOLOD Resources updated to alpha-28.
+Core 1 - Papyrus Extender updated to 5.2.0.
+Core 1 - Shield of Stamina moved to Core 3 - Combat.
+Core 2 - Lux Via updated to 1.5.1.
+Core 2 - JS Initiate's Ewer SE updated to 1.1.
+Core 2 - Simplicity of Snow updated to 0.7.
+Core 2 - Happy Little Trees updated to 2.0.1. (re-ESM)
+Core 2 - Happy Little Trees Dyndolod updated to 2.0.
+Core 2 - Obsidian Mountain Fogs changed to Obsidian Mountain Fogs Tweaked.
+Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.9.
+Core 3 - kryptopyr's Patch Hub updated to 3.4.
+Core 3 - Cathedral Mountain Flowers Base Object Swapper updated to 0.1.6.
+Core 3 - Immersive Folded Hands (DAR) updated to 1.2.0.
+Core 3 - Smooth Random Jump Animation "updated" to 1.2.
+Core 3 - Hunters Not Bandits updated to 4.0.
+Core 3 - Simple Dual Sheath updated to 1.5.3.
+Core 3 - Sleeping Expanded updated to 1.21.
+Core 3 - Alchemy Ingredients ENB Light updated to 0.3.1.
+Core 3 - Thieves Guild Requirements SE Settings Loader updated to 2.1.0.
+Core 3 - Nocturnal Moths updated to 2.2.
+Core 3 - Sets of Skills updated to 2.0.
+Core 3 - True Directional Movement updated to 2.2.2.
+Core 3 - Rudy ENB SE for Cathedral Weathers updated to 6.0.
+Core 3 - Reliquary of Myth updated to 4.5.3.
+Core 3 - Updated install instructions for Fixed Mesh Lighting (reachtree01magic)
+Core 3 - SUP Gameplay Overhaul, Consistency Patches, Conflict Resolution updated.
+Adventures - There Is No Umbra updated to 1.32. (re-ESM)
+
+Final Steps - removed xedit instr. for Obsidian Mountain Fogs.
+~~~
+
+![Regenerate]
+~~~
+Texgen, DynDOLOD, Nemesis
+~~~
+
+---
+
 # 2022-07-20
 
 ---
@@ -119,6 +196,7 @@ Core 3 - Dynamic Things Alternative moved to Late Loaders.
 Core 3 - ENB Helper moved to SKSE.
 Core 3 - Several mods rearranged within Animation categories.
 Core 3 - New Enemy Encounters and New Followers and NPCs moved to Core 2.
+Final - ESP instructions updated.
 
 Several mods had CAO instructions added:
   Skyrim Particle Patch

@@ -106,7 +106,6 @@ Download: | Main Files - Wooden Spike Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68666) | Version: `1.0` | Author: `InstantKor` | ![Visuals]
 Download: | Main Files - DragonnsReach 3D Trellis
-| Optional Files - JKs Bannered Mare 3D Trellis
 | Optional Files - Whiterun DragonsReach Door Mesh Fix - Trellis Patch
 
 ## High Poly Project
@@ -817,6 +816,11 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
+## Ancient Dwemer Metal - Spider Gem Restored
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72640) | Version: `1.0` | Author: `MysticElodie` | ![Visuals]
+Download: | Main Files - Ancient Dwemer Metal - Spider Gem Restored
+
 ---
 
 # Caves and Dungeons
@@ -1242,7 +1246,7 @@ Resave Skyrim Remastered - Glaciers and Ice.esp in the Creation Kit.
 
 ## Ashbound - Solstheim Enhanced
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14663) | Version: `1.1` | Author: `Ruse` | ![Core] |
+[![mod]](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=70917&game_id=1704) | Version: `1.1` | Author: `Ruse` | ![Core] |
 Download: | Main Files - Ashbound 1.1
 
 ## Shaders of Solstheim - Ash and Moss
@@ -1252,7 +1256,7 @@ Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.6.4.1` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.7` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
 
 ![FOMOD]
@@ -1311,7 +1315,7 @@ Water Texture Resolution:
    * 4K
 Waterfalls And Effects Add-On:
    * 4K  
-Patches:
+Patches: (select only)
    * Blue Volcanic Water
    * Rudy ENB for Cathedral Weathers   
 ~~~
@@ -1345,7 +1349,7 @@ Grass Density:
 
 ## Happy Little Trees 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `1.04` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50961) | Version: `2.0.1` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees
 
 ![FOMOD]
@@ -1360,8 +1364,8 @@ Snowy Pine Textures:
 
 ## Happy Little Trees Add-On - DynDOLOD 3
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `1.03` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
-Download: | Main Files - Happy Little Trees 3D Lods performance
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `2.0` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
+Download: | Main Files - Happy Little Trees 3D LOD - Performance
 
 ## Aspens Ablaze
 
@@ -1653,7 +1657,7 @@ Download: | Main Files - Replacement Ivy 4096
 
 ## Retexture for Soup
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/65238) | Version: `1.4` | Author: `quilb` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrim/mods/65238) | Version: `1.3` | Author: `quilb` | ![Visuals] |
 Download: | Main Files - For SMIM Mesh - Poor Version
 
 ## Roos' Butter
@@ -1741,6 +1745,7 @@ Download: | Main Files - Cathedral - 3D Lavender - Vanilla Size
 Download: | Main Files - Cathedral - 3D Thistle
 
 ## Cathedral - 3D Tundra Cotton
+
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68068) | Version: `2.0` | AUthor: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Tundra Cotton
 
@@ -1949,12 +1954,11 @@ Options:
 ![PostInstall]
 ~~~
 Delete Praedy's Gemstones ISCPatched.esp.
-Delete textures/dlc02/.
 ~~~
 
 ## HD Medieval Anvil
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48825) | Version: `1.0` | Author: `ElSopa` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48825) | Version: `1.2` | Author: `ElSopa` | ![Visuals] |
 Download: | Main Files - ElSopa - HD Medieval Anvil 2k
 | Optional Files - ElSopa - Medieval Anvil Hammer HotFix
 
@@ -2030,7 +2034,7 @@ Delete *.esp.
 
 ## JS Initiate's Ewer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66242) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66242) | Version: `1.1` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Initiate's Ewer SE - 2k Textures
 
 ## JS Instruments of Skyrim
@@ -2317,7 +2321,7 @@ Download: | Main Files - Basic Dining Set Replacer 2k
 
 ## Cathedral Weathers and Seasons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33` | Author: `JonnyWang13` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33b` | Author: `JonnyWang13` | ![Core] |
 Download: | Main Files - Cathedral - Weathers
 
 ## Cathedral Weathers and Seasons - MCM
@@ -2325,10 +2329,10 @@ Download: | Main Files - Cathedral - Weathers
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24940) | Version: `1.3` | Author: `Sandman53` | ![Core] |
 Download: | Main Files - Cathedral Weathers MCM
 
-## Obsidian Mountain Fogs
+## Obsidian Mountain Fogs Tweaked
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13539) | Version: `1.01` | Author: `HiShutUp Arindel Dr Megaloblast` | ![Core] |
-Download: | Main Files - Obsidian Mountain Fogs
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71189) | Version: `1.01` | Author: `Cathedral Team - clayvn` | ![Core] |
+Download: | Main Files - Obsidian Mountain Fogs Tweaked - Default ESL
 
 ## Real Rain
 
@@ -2643,29 +2647,29 @@ Additional content and patches:
    * None
 ~~~
 
-![PostInstall]
-~~~
-Delete textures/clutter/common/lampgeneric01*.
-~~~
-
 ## Lux Via
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.4` | Author: `GGUNIT` | ![Core] ![Visuals]
-Download: | Main Files - Lux Via
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.5.1` | Author: `GGUNIT` | ![Core] ![Visuals]
+Download: | Main Files - Lux Via (main mod)
 
 ![FOMOD]
 ~~~
 Lux Resource Pack:
    * Lux Resource Pack (ENB Light)
+Lux Via Bridges Blended Roads options
+   * Via Bridges for Blended Roads Redone version
 Optional plugins:
    * None
 Compatibility Patches:
    * None (uncheck all)
+Non-automated Patches:
+   * None
 ~~~
 
 ![PostInstall]
 ~~~
 Delete Lux Via - plugin.esp.
+Delete Lux Via - Blended Roads Texture sets.esp.
 ~~~
 
 ---
@@ -2774,7 +2778,7 @@ Download: | aMidianBorn Iron cabals cut 2k
 
 ## aMidianBorn Scaled Armor
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/33196) | Version: `1` | Author: `CaBaL` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrim/mods/33196) | Version: `2` | Author: `CaBaL` | ![Core] ![Visuals]|
 Download: | Main Files - aMidianBorn Scaled V2
 
 ## aMidianBorn Stormcloak Officer Armor
@@ -3069,7 +3073,7 @@ Download: | Main Files - Remiros' Dawnbreaker HD
 
 ## Remiros' Ebony Blade HD 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42999) | Version: `1.2` | Author: `Remiros` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42999) | Version: `1.1` | Author: `Remiros` | ![Visuals] |
 Download: | Main Files - Remiros' Ebony Blade HD 2k
 
 ## Remiros' Hrothmund's Axe HD
@@ -3162,8 +3166,8 @@ Download: | Main Files - Better Bears 2k
 ## Deiform Alduin
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44329) | Version: `1.2` | Author: `winedave` | ![Visuals] |
-Download: | Optimal Files - Deiform Alduin 4K
-| Optimal Files - Deiform Alduin Eye textures 4K
+Download: | Optional Files - Deiform Alduin 4K
+| Main Files - Deiform Alduin Eye textures 2K
 
 ## DRAGON PRIEST
 
@@ -3252,7 +3256,7 @@ Download: | Main Files - Real Rabbits HD - Fluffy
 ## Real Skeevers 
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/95106) | Version: `1.2` | Author: `MassiveMaster` | ![Visuals] |
-Download: | Optional Files - MM- REAL SKEEVER 2K NEW
+Download: | Miscellaneous Files - MM- REAL SKEEVER 2K NEW
 
 ## Realistic Horse Breeds 
 
@@ -3336,11 +3340,15 @@ Patches:
    * MajesticMountains
    * SkeletonEyesENBLight
    * UniqueSkullsPotema
+   
+LuxPatches:
+   * EnbLight
 ~~~
 
 ![PostInstall]
 ~~~
 Delete PraedysSkeletons.esp.
+Delete textures/smim/.
 ~~~
 
 ## Thanatos as Durnehviir
@@ -3427,7 +3435,7 @@ Pack the mod with CAO.
 ## Immersive Patrols
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/718) | Version: `3.0a` | Author: `Scrabbulor` | ![Core] |
-Download: | Main Files - Immersive Patrols (11 vs 11 Battles)
+Download: | Main Files - Immersive Patrols (Main)
 
 ## More Werewolves 
 
@@ -3471,7 +3479,7 @@ Download: | Main Files - Zora_normalizedv2
 
 ## INIGO 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1461) | Version: `2.4.C` | Author: `Smartbluecat` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1461) | Version: `2.4C` | Author: `Smartbluecat` | ![Core] |
 Download: | Main Files - INIGO_V2.4C SE
 
 ## Lucien 

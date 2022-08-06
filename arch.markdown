@@ -64,12 +64,14 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 BluePalaceTerrace.esp | Apply ESMifier script
+BUVARP SE RE - Chillridge Farm COTNed.esp | Apply ESMifier script
 ClefJ's Winterhold.esp | Apply ESMifier script
 COTN - Dawnstar.esp | Apply ESMifier script
 COTN - Falkreath.esp | Apply ESMifier script
 COTN Addon - Anga's mill.esp | Apply ESMifier script
 ETaC - Complete.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
+GG's Thieves Guild Headquarters.esp | Apply ESMifier script
 Half-Moon Mill - COTNed.esp | Apply ESMifier script
 JK's Skyrim.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
@@ -87,6 +89,7 @@ WindhelmSSE.esp | Apply ESMifier script
 JK's College of Winterhold.esp | Apply ESMifier script
 JK's High Hrothgar.esp | Apply ESMifier script
 JK's Temple of the Divines.esp | Apply ESMifier script
+JK's The Bards College.esp | Apply ESMifier script
 JK's Sky Haven Temple.esp | Apply ESMifier script
 JK's Sinderion's Field Laboratory | Apply ESMifier script
 

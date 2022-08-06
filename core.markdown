@@ -29,7 +29,7 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.1.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.2.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
 
 ![FOMOD]
@@ -60,8 +60,8 @@ Download: | Main Files - Spell Perk Item Distributor - SSE
 
 ## More Informative Console
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `1.0.1` | Author: `Linthar` | ![Core] |
-Download: | Main Files - More Informative Console 1.0.1 SSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `1.1.0` | Author: `Linthar` | ![Core] |
+Download: | Main Files - More Informative Console 1.1.0 SSE
 
 ## Actor Limit Fix
 
@@ -96,8 +96,8 @@ Download: | Main Files - Better Combat Escape - SSE V0.83
 
 ## Better Jumping
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.7.2` | Author: `meh321 and z65536` | ![Core] |
-Download: | Old Files - Better Jumping SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18967) | Version: `1.7.3` | Author: `meh321 and z65536` | ![Core] |
+Download: | Main Files - Better Jumping SE
 
 ## Better Stealing
 
@@ -264,6 +264,12 @@ Download: | Main Files - powerofthree's Tweaks SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Read Or Take SKSE
 
+![FOMOD]
+~~~
+DLL:
+   * SSE v1.5.97 ("Special Edition")
+~~~
+
 ## Scrambled Bugs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43532) | Version: `17.0` | Author: `meh321, KernalsEgg` | ![Core] |
@@ -315,11 +321,6 @@ Textures:
    * 4K Textures
 ~~~
 
-## Shield of Stamina - Blocking Redux
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62137) | Version: `1.1b` | Author: `Tyuan` | ![Core]
-Download: | Main Files - Shield Of Stamina - Blocking redux - SE
-
 ## Simple Block Sparks - Script Free
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58927) | Version: `0.31` | Author: `maxsu2017` | ![Core]
@@ -334,6 +335,17 @@ Download: | Main Files - Soaking Wet - Character Wetness Effect
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47710) | Version: `1.3` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Splashes of Skyrim SE
+
+## Splashes of Storms
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72115) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
+Download: | Main Files - Splashes of Storms
+
+![FOMOD]
+~~~
+DLL:
+   * SSE v1.5.97 ("Special Edition")
+~~~
 
 ## SSE Display Tweaks
 
@@ -420,6 +432,11 @@ Post-Download: | Install downloaded archive via MO2
 # Bugs and Mesh Fixes
 
 ---
+
+## Actually Flat Flat Snow Drifts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71437) | Version: `1.0` | Author: `carpenihil` | ![Core]
+Download: | Main Files - Actually Flat Flat Snow Drifts
 
 ## Blackreach Tentacle Mesh Fix
 
@@ -646,6 +663,11 @@ Download: | Main Files - Word Wall Trigger Fix - No Minor Optimization
 
 ---
 
+## Artful Dodger - Dynamic Pickpocket Cap
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17273) | Version: `1.11` | Author: `Gopher` | ![Core]
+Download: | Main Files - ARTFUL DODGER - Dynamic Pickpocket Cap
+
 ## Bard Instrumentals Only - Sing Upon Request
 
 [![mod]](https://www.nexusmods.com/skyrim/mods/58555) | Version: `1.0` | Author: `fadingsignal` | ![Core] |
@@ -663,6 +685,11 @@ Version:
 Plugin Type: 
    * ESM
 ~~~
+
+## Hawk Patch - Base Object Swapper Remake
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71546) | Version: `1.0` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Hawk Patch - Base Object Swapper Remake
 
 ## Immersive Display Overhaul
 
@@ -959,7 +986,7 @@ Resave IcePenguinWorldMap.esp in the Creation Kit.
 
 ## Atlas Map Markers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.4` | Author: `Kronixx and kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.5` | Author: `Kronixx and kryptopyr` | ![Core] |
 Download: | Main Files - Atlas Map Markers
 
 ## Dynamic Snow for Map
@@ -1342,7 +1369,7 @@ Pack the mod with CAO.
 
 ## The Choice is Yours 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.4` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - The Choice is Yours
 
 ## A Lovely Letter Alternate Routes
@@ -1401,7 +1428,7 @@ Download: | Main Files - Better Courier
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.1a` | Author: `AndrealphusVIII` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56120) | Version: `1.1b` | Author: `AndrealphusVIII` | ![Core] ![CAO]|
 Download: | Main Files - BUVARP SE RE - Barely Used Vanilla Actors Recycle Project Special Edition Revamped
 
 ![PostInstall]
@@ -1421,10 +1448,15 @@ Download: | Main Files - Choose Your Own Arch-Mage
 
 ## College of Winterhold - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66666) | Version: `1.04` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66666) | Version: `1.07` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - College of Winterhold - Quest Expansion
 | Optional Files - Patch for At Your Own Pace (College of Winterhold)
 | Optional Files - Patch for RS Children Overhaul
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Even Better Quest Objectives
 
@@ -1786,7 +1818,7 @@ Repack the mod with CAO. (Poorly optimized)
 
 ## Bandolier - Bags and Pouches - Cleaned and Upscaled Textures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68725) | Version: `1.0` | Author: `xilamonstrr` | ![Optional] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68725) | Version: `1.1` | Author: `xilamonstrr` | ![Optional] ![Visuals]
 Download: | Main Files - 4K Bandoliers
 
 ## Cloaks of Skyrim
@@ -1872,8 +1904,8 @@ Download: | Main Files - DX Faction Crossbows 4k
 
 ## Heavy Armory - New Weapons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6308) | Version: `3.3` | Author: `PrivateEye` | ![Core] |
-Download: | Old Files - Heavy Armory SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6308) | Version: `4.0` | Author: `PrivateEye` | ![Core] |
+Download: | Old Files - Heavy Armory V4.0
 
 ## Lore Weapon Expansion
 
@@ -1918,7 +1950,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-27` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-28` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]

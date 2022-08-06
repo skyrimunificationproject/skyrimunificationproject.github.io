@@ -99,12 +99,10 @@ middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Obsidian Mountain Fogs.esp | Compact formIDs, add ESL flag, apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Praedy's Soul Cairn | Apply ESMifier script
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
-QuestsAreInSkyrimUSSEP.esp | Add ESL flag
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
