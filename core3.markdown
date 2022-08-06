@@ -1654,6 +1654,8 @@ Addons:
    * Enchanting Overhaul - Hybrid Loot Patch
    * Magic Tweaks
    * SkyTEST
+   * Traits - Armor
+   * Traits - Enemy
 
 SKSE Addons:
    * Experience
