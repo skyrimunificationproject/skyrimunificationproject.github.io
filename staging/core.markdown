@@ -1319,7 +1319,8 @@ Pack the mod with CAO.
 
 ## Regional Sounds Expansion
 
-[![mod]]()
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77829) | Version: `2.0` | Author: `Dylan James` | ![Core]
+Download: | Main Files - Regional Sounds Expansion (2.0.0)
 
 ## Reverb Interior Sounds Expansion
 

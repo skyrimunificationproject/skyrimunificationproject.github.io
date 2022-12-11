@@ -13,7 +13,7 @@ Addons without links are not yet available. Posted here as a roadmap for guide d
 
 Built around Campfire, Sunhelm, and a variety of mods to add immersion or optionally make the game more difficult.
 
-## [Core - Addon - Armor and Weapons](addonsWeaponsArmor.html)
+## Core - Addon - Armor and Weapons
 
 A curated selection of additional weapons and armor, integrated into loot distribution.
 

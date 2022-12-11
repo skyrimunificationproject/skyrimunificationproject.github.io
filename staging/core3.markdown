@@ -2257,39 +2257,39 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v6
 | Optional Files - Ancient Dwemer Metal - My patches - C.O.I.N
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Automatons Glowmapped
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Tech Glowmapped
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - ENB Particle Lights - Dwemer Lanterns
 | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
-|   Note: During install right-click 4K and set as Data Directory
+|   --Note: During install right-click 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My Patches - Gemstones Replacers HD SE
-|   Note: During install select 2K in BAIN installer
+|   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Attunement Sphere and Lexicons SE
-|   Note: During install select 2K in BAIN installer
+|   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwarven Oil SE
-|   Note: During install right click Leaked Oil / 4K and set as Data Directory
+|   --Note: During install right click Leaked Oil / 4K and set as Data Directory
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Artifacts SE
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Control Cube SE
-|   Note: During install select 2K in BAIN installer
+|   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Ichor Barrels SE
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Puzzle Cube SE
-|   Note: During install select 2K in BAIN installer
+|   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - JS Unique Utopia - Keening - SE
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Metallurgy
-|   Note: During install select 2K in BAIN installer
+|   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Praedy's Staves
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
-|   Note: During install select 4K in BAIN installer
+|   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
 | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
@@ -2546,7 +2546,7 @@ Addons:
    * Windows Op2
 AlternativeTextures
    * Stairs and trims
-~~
+~~~
 
 ## Rudification - Rudy Candles Expanded
 
@@ -3074,7 +3074,8 @@ Night Eye Version:
 Delete textures/dlc01/sky/soulcairnlighting01.dds.
 
 Copy the ENB files from the zip's "[ Skyrim SE folder ]" to your skyrim directory.
-Copy the files from the zip's "ADDONS \ !_Night Eye Fix \ Predator Vision mod" to your skyrim directory.
+Copy the files from the zip's "ADDONS \ !_Night Eye Fix \ Predator Vision mod" 
+  to your skyrim directory.
 
 ~~~
 
@@ -3129,7 +3130,6 @@ Replacement Plugins:
    * Missives
    * Oblivion Gates
    * Outlaws Refuges
-   * Skyrim Bridges
    * Sofia - The Funny Fully Voiced Follower
 ~~~
 
@@ -3171,8 +3171,9 @@ Download: | Main Files - Quest Journal Limit Bug Fixer
 
 ![PostInstall]
 ~~~
-Note: If you need to run the quest journal fixer, you will want to use the Experience MCM
-to disable all exp from quests until the process is complete, then restore the previous values.
+Note: If you need to run the quest journal fixer, you will want to use the 
+Experience MCM to disable all exp from quests until the process is
+complete, then restore the previous values.
 ~~~
 
 ## A Matter Of Time - Settings Loader

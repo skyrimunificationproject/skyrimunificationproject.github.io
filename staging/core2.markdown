@@ -1325,7 +1325,8 @@ Vegetation Quality:
 Style:
    * Vanilla Landscape
 Grass Density:
-   * Default (if you intend to use grass LOD and your card is not the newest, you may consider Scattered or Sparse)
+   * Default (if you intend to use grass LOD and your card is not the newest,
+              you may consider Scattered or Sparse)
 ~~~
 
 ## Happy Little Trees 
