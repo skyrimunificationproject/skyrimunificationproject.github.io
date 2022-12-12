@@ -261,7 +261,7 @@ Voldsea:
 
 ## Pandorable's NPCs - Dawnguard 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24135) | Version: `1.2` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24135) | Version: `1.3` | Author: `Pandorable` | ![Core] ![Visuals] |
 Download: | Main Files - Pandorable's NPCs - Dawnguard SE - USSEP
 
 ## Pandorable's NPCs - Dragonborn
@@ -482,6 +482,11 @@ Morph Files:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.1` | Author: `Admiral30` | ![Core] ![Visuals] | 
 Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
+
+## CBBE Creation Club Outfits Bodyslides
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29947) | Version: `1.6` | Author: `syb888` | ![Core] ![Visuals]
+Download: | Main Files - CBBE Creation Club Outfits
 
 ## Vitruvia - Skin Texture Overhaul 
 
@@ -751,10 +756,24 @@ Step4
 
 ## The Eyes of Beauty - Ai Remastered
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70263) | Version: `1.1` | AUthor: `wammy` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70263) | Version: `v1.Final` | Author: `wammy` | ![Visuals]
 Download: | Main Files - 2k - The Eyes of Beauty - Ai Remastered - Standalone Textures
-| Main Files - 2k - The Eyes of Beauty - Ai Remastered - Vanilla Eyes Replacer (NPC)
-| Main Files - 2k - The Eyes of Beauty - Ai Remastered - Elven Addon - 2k
+| Main Files - 2k - The Eyes of Beauty - Ai Remastered - Vanilla Eyes Replacer
+
+## The Eyes of Beauty - Vampire Eyes Remastered
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75010) | Version: `1.0` | Author: `wammy` | ![Visuals]
+Download: | Main Files - 2k - The Eyes of Beauty - Vampire Eyes Remastered
+
+![FOMOD]
+~~~
+Glow:
+   * Glowing (or your choice)
+Eye Color:
+   * Fire Red (or your choice: used for females)
+Eye Color:
+   * Fire Red (or your choice: used for males)   
+~~~
 
 ---
 
@@ -848,10 +867,10 @@ Add Nemesis Unlimited Behavior Engine to MO2 as an executable.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31667) | Version: `0.8b` | Author: `Shikyo Kira` | ![Core] |
 Download: | Main Files - Nemesis PCEA Main
 
-## Ultimate Combat and Creatures Behavior Compatibility For Nemesis
+## Nemesis Creature Behavior Compatibility
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45966) | Version: `1.12` | Author: `NickaNak` | ![Core] |
-Download: | Main Files - Ultimate Combat and Creature Behaviour's Nemesis Compatibility
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45966) | Version: `1.32` | Author: `NickaNak` | ![Core] |
+Download: | Main Files - Nemesis Creature Behaivour Compatiblity
 
 ![FOMOD]
 ~~~
@@ -861,12 +880,12 @@ Optional:
 
 ## Animation Motion Revolution 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50258) | Version: `1.5` | Author: `alexsylex` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50258) | Version: `1.5.3` | Author: `alexsylex` | ![Core] |
 Download: | Main Files - Animation Motion Revolution - Special Edition
 
 ## True Directional Movement 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `2.2.2` | Author: `Ersh` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51614) | Version: `2.2.3` | Author: `Ersh` | ![Core] |
 Download: | Main Files - True Directional Movement (SE)
 
 ## True Directional Movement - Tail Animation Fix
@@ -887,7 +906,7 @@ Download: | Main Files - Conditional Armor Type Animations - CATA
 
 ## CBPC - Physics with Collisions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.5.2 | Author: `Shizof` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21224) | Version: `1.5.6 | Author: `Shizof` | ![Core] |
 Download: | Main Files - CBPC - Fomod installer - MAIN FILE
 
 ![FOMOD]
@@ -910,10 +929,15 @@ Gravity Config:
    * Install Gravity Config
 ~~~
 
-## Draugr Ragdoll Bug Fix
+## Disable Turn Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `1.1.0` | Author: `illuke00` | ![Core]
-Download: | Main Files - Draugr Ragdoll Bug Fix
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78106) | Version: `1.0` | Author: `skypia` | ![Core]
+Download: | Main Files - Disable Turn Animation SE I AE
+
+## Some Creature Behavior Bug Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `2.0.1` | Author: `illuke00` | ![Core]
+Download: | Main Files - Some Creature Behavior Bug Fixes
 
 ## Flute Animation Fix
 
@@ -1017,9 +1041,9 @@ Fast Sprinting:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59239) | Version: `3.2` | Author: `skypia` | ![Visuals]
 Download: | Main Files - Smooth Random Blocking Animation 3.2
 
-## Smooth Random Jump Animation
+## Smooth Random Jump Animation Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59633) | Version: `1.2` | Author: `skypia` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59633) | Version: `1.4` | Author: `skypia` | ![Visuals]
 Download: | Main Files - Smooth Random Jump Animation Rework
 
 ## Large Stagger Animation
@@ -1056,6 +1080,16 @@ Download: | Main Files - Goetia Animations - Enchanted Staves
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70204) | Version: `1.4` | Author: `Verolevi` | ![Visuals]
 Download: | Main Files - Goetia Animations - Magic Spell Casting
+
+## Goetia Animations - Conditional Shouts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76388) | Version: `1.2` | Author: `Verolevi` | ![Visuals]
+Download: | Main Files - Goetia Animations - Conditional Shouts
+
+## Goetia Animations - Sneak Magic
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75482) | Vewrsion: `1.1` | Author: `Verolevi` | ![Visuals]
+Download: | Main Files - Goetia Animations - Sneak Magic
 
 ## Leviathan Animations - Female Idle Walk And Run
 
@@ -1189,6 +1223,16 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34006) | Version: `1.42` | Author: `Everglaid` | ![Visuals] |
 Download: | Main Files - EVG Conditional Idles
 
+## Axarien's Animations - Inigo (DAR)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70423) | Version: `1.0` | Author: `Axarien` | ![Visuals]
+Download: | Main Files - Axarien's Animations - Inigo (DAR)
+
+## Axarien's Animations - Lucien (DAR)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76390) | Version: `1.0` | Author: `Axarien` | ![Visuals]
+Download: | Main Files - Axarien's Animations - Lucien (DAR)
+
 ## Conditional Tavern Cheering (DAR)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Version: `1.0.1` | Author: `CHIMgarden` | ![Visuals]
@@ -1216,6 +1260,17 @@ Select One: (only these)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45148) | Version: `1.26` | Author: `JaySerpa` | ![Visuals]
 Download: | Main Files - Conditional Expressions
 
+## Customizable Faster Mining Animation - DAR
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73923) | Version: `1.0` | Author: `MaskedRPGFan` | ![Visuals]
+Download: | Main Files - Customizable Faster Mining Animation - DAR
+
+![FOMOD]
+~~~
+Speed:
+   * 30% Faster
+~~~
+
 ## Don't Sheathe Bound Weapons
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70354) | Version: `1.3` | Author: `samuelga24` | ![Visuals]
@@ -1225,6 +1280,11 @@ Download: | Main Files - Don't sheat bound weapons
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62191) | Version: `1.4` | Author: `samuelga24` | ![Visuals]
 Download: | Main Files - Drunk animations CACO ESPFE
+
+## Dynamic Random Spell Idle
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77025) | Version: `1.3` | Author: `skypia` | ![Visuals]
+Download: | Main Files - Dynamic Random Spell Idle - Player NPC All
 
 ## Dynamic Swimming
 
@@ -1244,12 +1304,17 @@ Download: | Main Files - Lively cart driver animation replacer - SE or AE
 
 ## Lively Children Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Versions: `1.0` | Author: `CHIMgarden` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67557) | Version: `1.0` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - Lively Children Animations (DAR)
+
+## New Praying Animations
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76889) | Version: `1.0.1` | Author: `CHIMgarden` | ![Visuals]
+Download: | Main Files - idlepray.hkx replacer for females (DAR)
 
 ## Gesture Animation Remix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.1.0` | Author: `CHIMgarden` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64420) | Version: `1.9.9` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - Gesture Animation Remix (DAR) - main archive
 
 ## NPC Animation Remix
@@ -1262,15 +1327,30 @@ Download: | Main Files - NPC Animation Remix (DAR) - main download
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68289) | Version: `1.1` | Author: `skypia` | ![Visuals]
 Download: | Main Files - Random Prayer Animation option
 
+## Read the Room - Immersive and Animated Helmet Management
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77605) | Version: `2.1.1` | Author: `istayzoomin` | ![Visuals]
+Download: | Main Files - Read the Room
+
 ## Sleeping Expanded - Animations and NPC Reactions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.21` | Author: `jayserpa` | ![Visuals] ![CAO] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.22` | Author: `jayserpa` | ![Visuals] ![CAO] |
 Download: | Main Files - Sleeping Expanded
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Sleeping Expanded for Interesting NPCs (3DNPC)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76753) | Version: `1.0` | Author: `TheCyclist` | ![Visuals]
+Download: | Main Files - Sleeping Expanded for Interesting NPCs
+
+## Smooth Random Idle Animation
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72787) | Version: `1.6` | Author: `skypia` | ![Visuals]
+Download: | Main Files - Smooth Random idle Animation 1.6 (Shield on back)
 
 ## Take A Seat - New DAR Sitting Animations
 
@@ -1279,7 +1359,7 @@ Download: | Main Files - Take a Seat - DAR Animations
 
 ## Tools Not Weapons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70117) | Version: `1.4` | Author: `samuelga24` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70117) | Version: `1.5` | Author: `samuelga24` | ![Visuals]
 Download: | Main Files - Tools not weapons DAR animations
 
 ---
@@ -1290,7 +1370,7 @@ Download: | Main Files - Tools not weapons DAR animations
 
 ## XP32 Maximum Skeleton Special Extended - XPMSSE 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1988) | Version: `4.80` | Author: `Team XPMSE` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1988) | Version: `4.81` | Author: `Team XPMSE` | ![Core] |
 Download: | Main Files - XP32 Maximum Skeleton Special Extended
 
 ![FOMOD]
@@ -1348,6 +1428,11 @@ Download: | Main Files - XPMSSE - Nemesis - Script Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54720) | Version: `1.0.0` | Author: `chuckseven1` | ![Core] |
 Download: | Main Files - XPMSSE Weapons Uncloaked
 
+## XPMSSE Spazzing Skeleton and Corpse Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75830) | Version: `1.0` | Author: `Zipzopdippidybop` | ![Core]
+Download: | Main Files - XPMSSE SPazzing Skeleton Fix
+
 ## Savage Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37768) | Version: `4.00` | Author: `ROUGESHOT` | ![Core] |
@@ -1383,8 +1468,39 @@ Download: | Main Files - Wicked Werewolves SE XP32
 
 ## Bandit Lines Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63733) | Version: `1.03` | Author: `jayserpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63733) | Version: `1.06` | Author: `jayserpa` | ![Core] ![CAO]
 Download: | Main Files - Bandit Lines Expansion
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Carriages and Stables Dialogue Bundle
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79297) | Version: `1.0` | Author: `JaySerpa` | ![Core] ![CAO]
+Download: | Main Files - Carriages and Stables Dialogue Bundle
+| Optional Files - Carriage and Ferry Travel Overhaul Patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Civil War Lines Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | Version: `1.05` | Author: `JaySerpa` | ![Core] ![CAO]
+Download: | Main Files - Civil War Lines Expansion
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Forsworn and Thalmor Lines Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80188) | Version: `1.1` | Author: `JaySerpa` | ![Core] ![CAO]
+Download: | Main Files - Forsworn and Thalmor Lines Expansion
 
 ![PostInstall]
 ~~~
@@ -1403,31 +1519,49 @@ Download: | Main Files - Hunters Not Bandits
 
 ## Immersive Citizens - AI Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4.0.1` | Author: `Arnaud dOrchymont` | ![Core] |
-Download: | Old Files - Immersive Citizens - AI Overhaul (0.4.0.1)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173) | Version: `0.4.0.2` | Author: `Arnaud dOrchymont` | ![Core] |
+Download: | Main Files - Immersive Citizens - AI Overhaul
 
 ![FOMOD]
 ~~~
 Install Options:
    * Core
-Enhanced Lights and FX:
+Patches:
    * None
 ~~~
 
 ## Misc Dialogue Edits
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.7` | Author: `GOsteW and lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8` | Author: `GOsteW and lilebonymace` | ![Core] |
 Download: | Main Files - Misc Dialogue Edits
+
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
 
 ## More Dialogue Options 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28905) | Version: `1.3.1` | Author: `GOsteW and lilebonymace` | ![Core] |
-Download: | Main Files - More Dialogue Options - for Misc Dialogue Edits
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28905) | Version: `1.4` | Author: `GOsteW and lilebonymace` | ![Core] |
+Download: | Main Files - More Dialogue Options
+| Update Files - More Dialogue Options - Farengar hotfix
+
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
 
 ## More to Say
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `8.0.3` | Author: `abramcf` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `9.0.1` | Author: `abramcf` | ![Core] |
 Download: | Optional Files - More to Say (merged version)
+
+## NPCs React To Necromancy (And More)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70428) | Version: `1.02` | Author: `JaySerpa` | ![Core]
+Download: | Main Files - NPCs React to Necromancy
 
 ## Relationship Dialogue Overhaul
 
@@ -1476,7 +1610,6 @@ Download: | Main Files - SeranaDialogEdit v 102
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8379) | Version: `2.0` | Author: `Kinaga` | ![Core] |
 Download: | Main Files - Carriage and Ferry Travel Overhaul
-| Optional Files - CFTO - Immersive Citizens AI Overhaul Patch
 
 ![PostInstall]
 ~~~
@@ -1512,7 +1645,7 @@ Download: | Main Files - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
 
 ## Immersive Interactions - Animated Actions 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47670) | Version: `1.66` | Author: `JaySerpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47670) | Version: `1.67` | Author: `JaySerpa` | ![Core] |
 Download: | Main Files - Immersive Interactions
 
 ## Improved Innkeepers 
@@ -1532,7 +1665,7 @@ Download: | Main Files - Pumping Iron
 
 ## Pumping Iron - Addon - Stay In Shape 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50371) | Version: `1.01` | Author: `Tsaxaman - JaySerpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50371) | Version: `1.02` | Author: `Tsaxaman - JaySerpa` | ![Core] |
 Download: | Main Files - Stay In Shape
 | Optional Files - Patch for Immersive Interactions (Boxing)
 
@@ -1583,7 +1716,7 @@ Pack the mod with CAO.
 
 ## Simplest Horses (And Other Mounts)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54225) | Version: `0.8.8` | Author: `Hackfield` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54225) | Version: `0.9.4` | Author: `Hackfield` | ![Core]
 Download: | Main Files - Simplest Horses - Main File
 
 ---
@@ -1594,7 +1727,7 @@ Download: | Main Files - Simplest Horses - Main File
 
 ## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.9` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.9.1` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 
 ![FOMOD]
@@ -1669,7 +1802,7 @@ SPID:
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.7` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 | Optional Files - Dragon War - Variants
 | Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
@@ -1691,10 +1824,10 @@ Download: | Main Files - Odin 1.9.1
 
 ---
 
-## IFrame Generator
+## IFrame Generator RE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56965) | Version: `0.91` | Author: `maxsu2017` | ![Core]
-Download: | Main Files - IFrame Generator-V0.91
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74401) | Version: `1.03` | Author: `maxsu2017` | ![Core]
+Download: | Main Files - IFrame Generator RE
 
 ## Shield of Stamina - Blocking Redux
 
@@ -1708,23 +1841,18 @@ Download: | Main Files - zxlice hitStop - SSE v0.9.3a
 
 ## Blade and Blunt - A Combat Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34549) | Version: `2.0.1` | Author: `SimonMagus616` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34549) | Version: `2.0.2` | Author: `SimonMagus616` | ![Core]
 Download: | Main Files - Blade and Blunt - A Combat Overhaul
 | Optional Files - Blade and Blunt - Sneak Addon
 
-## TK Dodge SE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15309) | Version: `3.18` | Author: `tktk1` | ![Core]
-Download: | Main Files - TK Dodge SE
-
 ## TK Dodge RE - Script Free
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56956) | Version: `0.48a` | Author: `maxsu2017` | ![Core]
-Download: | Main Files - TK Dodge RE-V0.48a -SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56956) | Version: `0.61` | Author: `maxsu2017` | ![Core]
+Download: | Main Files - TK Dodge RE- Only Dodge version
 
 ![FOMOD]
 ~~~
-Option Patch:
+Ultimate Combat:
    * None
 ~~~
 
@@ -1801,7 +1929,7 @@ Download: | Main Files - Imperious 7.28.0
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.5.3` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.6.3` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -1865,7 +1993,7 @@ Download: | Main Files - Reading Improves Speech
 
 ## Sets of Skills - A Skyrim Class Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `2.0` | Author: `Robin959` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `2.0.2` | Author: `Robin959` | ![Core] |
 Download: | Main Files - Sets of Skill - A Skyrim Class Mod
 
 ![FOMOD]
@@ -1876,8 +2004,14 @@ Optional Files:
 
 ## Experience
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `2.1.1` | Author: `zax` | ![Core] |
-Download: | Main Files - Experience SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17751) | Version: `3.1.0` | Author: `zax` | ![Core] |
+Download: | Main Files - Experience NG
+
+![FOMOD]
+~~~
+Aspect Ratio:
+   * 16:9 (unless using otherwise)
+~~~
 
 ![PostInstall]
 ~~~
@@ -1925,12 +2059,12 @@ Delete /textures.
 
 ## IED - Weapons Repositioner
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65148) | Version: `1.3` | Author: `VishVadeva50` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65148) | Version: `2.0` | Author: `VishVadeva50` | ![Core]
 Download: | Main Files - IED - Weapons Repositioner
 
 ## Informed Mail Delivery
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66339) | Version: `1.2` | Author: `Glanzer` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66339) | Version: `1.4` | Author: `Glanzer` | ![Core]
 Download: | Main Files - Informed Mail Delivery
 
 ![FOMOD]
@@ -1950,6 +2084,7 @@ Download: | Main Files - Quick Light SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `3.4` | Author: `kryptopyr and others` | ![Core] |
 Download: | Main Files - kryptopyr's Patch Hub Installer
+| Misc Files - Cloaks of Skyrim__CCOR
 
 ![FOMOD]
 ~~~
@@ -1973,6 +2108,10 @@ CCOR - Winter Is Coming SSE - Cloaks:
 CCOR - Other: (Select only)
    * Bandolier - Bags and Pouches Classic
    * Metallurgy - Ingots and Ores HD
+CACO - Creation Club: (Deselect Survival)
+   * Fishing
+   * Rare Curios
+   * Saints and Seducers
 CACO - Wintersun:
    * Without Custom Race Support
 CACO - Other:
@@ -1984,6 +2123,12 @@ CACO - Other:
    * Unofficial Skyrim Special Edition Patch
 IT - Patches:
    * Unofficial Material Fix
+TCIY - Creation Club:
+   * None
+TCIY - Crimson Trail:
+   * None
+TCIY - Saints and Seducers:
+   * Saints and Seducers
 TCIY - Other Patches:
    * Wintersun - Faiths of Skyrim
 ~~~
@@ -2030,6 +2175,22 @@ Download: | Main Files - Missives Quests Raise Disposition
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70336) | Version: `2.1` | Author: `Korodic` | ![Core]
 Download: | Main Files - No Crime Teleport - Voice Consistency Fix
 
+## Optimized Scripts for Apocalypse
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77161) | Version: `1.0` | Author: `Borgut1337` | ![Core]
+Download: | Main Files - Optimized Scripts for Apocalypse
+| Optional Files - Optimised Scripts for Apocalypse-Ordinator Patch
+
+## Optimized Scripts for Enhanced Blood Textures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76767) | Version: `1.0` | Author: `Borgut1337` | ![Core]
+Download: | Main Files - Optimized Scripts for Enhanced Blood Textures - SPID version
+
+## Optimized Scripts for Ordinator
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.0` | Author: `Borgut1337` | ![Core]
+Download: | Main Files - Optimized Scripts for Ordinator
+
 ## Predator Vision - Night Eye and Thermal Vision Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2777) | Version: `2.0` | Author: `Gopher` | ![Core] |
@@ -2042,8 +2203,8 @@ Download: | Main Files - Security Overhaul for Ordinator
 
 ## Simple Dual Sheath
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50049) | Version: `1.5.3` | Author: `SlavicPotato` | ![Core] |
-Download: | Main Files - Simple Dual Sheath
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50049) | Version: `1.5.4` | Author: `SlavicPotato` | ![Core] |
+Download: | Main Files - Simple Dual Sheath for 1.5.39 - 1.6.353
 | Optional Files - XPMSSE Left Hand Sheath Rotation Fix
 
 ## Weapons Repositioner
@@ -2053,7 +2214,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.9.1` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.10.3` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -2065,7 +2226,8 @@ Select SKSE Plugin:
 Configuration Patches:
    * Black Soul Gems can store white souls
 Custom Soul Gem Patches:
-   * None
+   * Rare Curios
+   * Saints and Seducers
 Soul Gem Graphics/Sounds Mod Pathces
    * None
 Select Miscellaneous Patches:
@@ -2086,6 +2248,57 @@ Alternative Plugin:
 # Late Loaders - ENB, Meshes and Textures
 
 ---
+
+## Ancient Dwemer Metal - Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
+| Main Files - Ancient Dwemer Metal - My patches - Converted Meshes to SE and AE
+| Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v6
+| Optional Files - Ancient Dwemer Metal - My patches - C.O.I.N
+| Optional Files - Ancient Dwemer Metal - My patches - Dwemer Automatons Glowmapped
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
+| Optional Files - Ancient Dwemer Metal - My patches - Dwemer Tech Glowmapped
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - ENB Particle Lights - Dwemer Lanterns
+| Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
+|   --Note: During install right-click 4K and set as Data Directory
+| Optional Files - Ancient Dwemer Metal - My Patches - Gemstones Replacers HD SE
+|   --Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Attunement Sphere and Lexicons SE
+|   --Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwarven Oil SE
+|   --Note: During install right click Leaked Oil / 4K and set as Data Directory
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Artifacts SE
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Control Cube SE
+|   --Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Ichor Barrels SE
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Kitchenware SE
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Dwemer Puzzle Cube SE
+|   --Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - JS Essence Extractor SE
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My patches - JS Unique Utopia - Keening - SE
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - Metallurgy
+|   --Note: During install select 2K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - Praedy's Staves
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Lock Variations
+|   --Note: During install select 4K in BAIN installer
+| Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
+| Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
+
+![PostInstall]
+~~~
+Delete meshes/dlc01/armor/circlets.
+Delete meshes/dungeons/mines/ore.
+Delete textures/armor/dwarven.
+~~~
 
 ## Animated Coffins
 
@@ -2110,7 +2323,7 @@ Download: | Main Files - Bright Falling Leaves Fix
 
 ## Cathedral 3D Mountain Flowers - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.6` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.15` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
@@ -2142,6 +2355,83 @@ Download: | Main Files - Deadly Spell Impacts Transparency Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35843) | Version: `1.0` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Flowers and plants mesh fix SE - Dragons tongue by Mari
 
+## Fixed Mesh Lighting
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.8.0` | Author: `Catnyss` | ![Core] ![Visuals]|
+Download: | Main Files - Fixed Mesh Lighting
+
+![FOMOD]
+~~~
+Main:
+   * Modular
+Modular:
+   * Creatures
+Creatures - Patches:
+   * Dynamic Things Alternative
+   * Grahl
+   * Savage Skyrim
+   * Skeleton Replacer HD
+   * TESO Imports
+   * Unique Barbas
+Other - Beehives:
+   * Animated Clutter
+Other - Hagraven:
+   * Vanilla
+   * Dynamic Things Alternative
+   * Static Mesh Improvement Mod Improvement Mod
+   * Unofficial Material Fix
+Other - Potions:
+   * None
+Other - Rag:
+   * Vanilla
+Other - Effects:
+   * Vanilla
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/clutter/potions/*.
+~~~
+
+## HD Sleeping Tree Sap Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79482) | Version: `1.0` | Author: `dpillari` | ![Visuals]
+Download: | Main Files - dpillari sleeping tree 2k Enb light
+
+## Icy Mesh Remaster
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.7` | Author: `RokHel` | ![Visuals]
+Download: | Main Files - Icy Mesh Remaster
+
+![FOMOD]
+~~~
+Mesh Quality:
+   * High Poly Consistency
+LOD:
+   * High Poly
+Caves:
+   * None
+Plugins:
+   * IcyFixes
+Optionals:
+   * Iceflow skirt visibility off
+Patches Tamriel:
+   * Just Ice: None
+   * Skyrim Remastered - Glaciers and Ice: Skyrim Remastered 4K
+   * RIS - Real Ice and Snow: None
+Patches Forgotten Valley:
+   * Just Ice: None
+   * Skyrim Remastered - Glaciers and Ice: Skyrim Remastered 4K
+   * RIS - Real Ice and Snow: None
+LOD Patches:
+   * Skyrim Remastered
+~~~
+
+## KG's Imperial Tents
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79266) | Version: `1.1` | Author: `Kiddgimmick` | ![Visuals]
+Download: | Main Files - KG's Imperial Tents
+
 ## High Hrothgar Fixed 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55254) | Version: `1.02` | Author: `Outpowner` | ![Core] ![Visuals]|
@@ -2154,10 +2444,41 @@ Download: | Main Files - High Hrothgar Fixed
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71991) | Version: `0.0.1` | Author: `hairahcaz` | ![Core] ![Visuals]
 Download: | Main Files - Portcullis Collision Fix (Ruins Clutter Improved)
 
+## Less Shiny Bloody Bones - Skeleton Replacer HD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68097) | Version: `1.0` | Author: `GroundAura` | ![Core] ![Visuals]
+Download: | Main Files - Less Shiny Bloody Bones
+| Optional Files - Sacrosanct Patch
+
 ## Markarth - A Reflective Experience
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43864) | Version: `1.3.1` | Author: `NeverLost` | ![Core] ![Visuals] |
 Download: | Main Files - Markarth - A Reflective Experience
+
+## Medieval Spirits 
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24243) | Version: `1.0.2` | Author: `mathy79` | ![Visuals] |
+Download: | Main Files - Medieval Spirits
+
+## Mesh Patches for Lux and Lux Orbis
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67266) | Version: `1.5.1` | Author: `Blackread` | ![Visuals]
+Download: | Main Files - Mesh patches for Lux and Lux Orbis
+
+![FOMOD]
+~~~
+Main:
+   * Lux
+   * Lux Orbis
+Lux - Glacier Meshes:
+   * Icy Mesh Remaster - High Poly
+Lux - General:
+   * Skyrim Remastered - Caves
+Lux Orbis:
+   * Riften Temple Sconce Fix
+   * Skyrim Objects SMIMed - Warmaiden's Holes
+   * Whiterun Objects SMIMed
+~~~
 
 ## Mesh Patch for Various Mods
 
@@ -2198,6 +2519,35 @@ Download: | Main Files - Odin - Summons Redone
 Pack the mod with CAO.
 ~~~
 
+## Praedy's College of Winterhold
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46334) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Praedy's College of Winterhold 4K
+| Optional Files - Praedy's College of Winterhold patches and addons 4K
+
+![FOMOD]
+~~~
+Main Textures:
+   * College Textures
+Entrances:
+   * Doors
+   * Gate
+MageStatue:
+   * None
+Banners:
+   * None
+   
+Patches TGC:
+   * None (or TGCWinterhold 4K if using Project Arch addon)
+Patches OCW:
+   * OCW LUX texture path
+Addons:
+   * Repaired Bridge Op1
+   * Windows Op2
+AlternativeTextures
+   * Stairs and trims
+~~~
+
 ## Rudification - Rudy Candles Expanded
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55852) | Version: `1.14` | Author: `Daralima and InstantKor` | ![Visuals] |
@@ -2224,11 +2574,6 @@ Particle Light Node Color:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61022) | Version: `1.0.2b` | Author: `VeryWhiteGuy` | ![Visuals]
 Download: | Main Files - Rudy Candles for SMIM Lanterns - ENB Particle Effect
 
-## Sacrosanct and Sacrilege - Skeleton Replacer HD Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57925) | Version: `1.0` | Author: `Mur4s4me - PraedythXVI - EnaiSiaion` | ![Core] ![Visuals] |
-Download: | Main Files - Sacrosanct - Skeleton Replacer HD Patch
-
 ## Sconces of Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67386) | Version: `0.2.2` | Author: `wSkeever` ![Core] ![Visuals]
@@ -2236,8 +2581,37 @@ Download: | Main Files - Markarth Braziers Improved
 
 ## Skyrim - A Mountainous Experience
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.5.6b` | Author: `NeverLose, DuskyB` | ![Core] ![Visuals] |
-Download: | Main Files - Skyrim - A Mountainous Experience (double-sided)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.6` | Author: `NeverLose, DuskyB` | ![Core] ![Visuals] |
+Download: | Main Files - Skyrim - A Mountainous Experience Double Sided
+
+## Solitude Interiors Meshes Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.2` | Author: `WiZkiD` | ![Core] ![Visual]
+Download: | Main Files - Solitude Interior Meshes FIXES
+
+## Stairs of Skyrim - Windhelm Bridge Stairs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78399) | Version: `0.5.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Windhelm Bridge Stairs
+
+![FOMOD]
+~~~
+Options:
+   * Lux Orbis + Northern Roads mesh
+~~~
+
+## Subdivide and Smooth - Bandit Poles
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73731) | Version: `1.1` | Author: `markuskarttunen1` | ![Visuals]
+Download: | Main Files - Subdivide and Smooth - Bandit Poles
+
+![FOMOD]
+~~~
+Pole texture path:
+   * New Texture Path
+Patch:
+   * Skeleton Replacer HD - Less Shiny
+~~~
 
 ## Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
 
@@ -2257,7 +2631,7 @@ Download: | Main Files - Water in Wash Basins
 
 ## Water in Wells
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.6` | Author: `wSkeever` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57268) | Version: `0.7` | Author: `wSkeever` | ![Core] ![Visuals] |
 Download: | Main Files - Water in Wells - mesh-only animated wells
 
 ![FOMOD]
@@ -2283,6 +2657,35 @@ Generic Mine Wells:
 ![PostInstall]
 ~~~
 Delete textures/SMIM.
+~~~
+
+## FYX - Smooth Wells
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - Smooth Wells - Water in Wells
+| Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
+
+![PostInstall]
+~~~
+Delete meshes/architecture/whiterun.
+~~~
+
+## Solitude Objects SMIMed - Solitude Well
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68896) | Version: `0.1` | Author: `wSkeever` | ![Visuals]
+Download: | Main Files - Solitude Objects SMIMed - Solitude Well
+
+## WiZkiD Hagraven Clutter and Bones
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49277) | Version: `1.1` | Author: `WiZkiD` | ![Visuals] |
+Download: | Main Files - WiZkiD Hagraven Clutter and Bones
+
+![FOMOD]
+~~~
+Main Installation:
+   * 4K
+Patches:
+   * High Poly Project Patch
 ~~~
 
 ## Weapons Armor Clothing and Clutter Fixes - CBBE Patch
@@ -2345,106 +2748,6 @@ Download: | Optional Files - Triumvirate Cleaned BSA
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55554) | Version: `2.0` | Author: `MrShadowBlood` | ![Visuals]
 Download: | Optional Files - Wintersun 2k BSA
 
-## Fixed Mesh Lighting
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53653) | Version: `1.8.0` | Author: `Catnyss` | ![Core] ![Visuals]|
-Download: | Main Files - Fixed Mesh Lighting
-
-![FOMOD]
-~~~
-Main:
-   * All-In-One
-Flora - Main:
-   * Vanilla Flora
-Flora - Patches:
-   * Assorted Mesh Fixes
-Flora - Mountain Flowers:
-   * None
-Flora - Snowberries:
-   * Sufficiently Optimized Snowberries
-Flora - Juniper:
-   * Juniper by Mari
-Flora - Tundra Cotton:
-   * None
-Flora - Jazbay:
-   * Jazbay by Mari
-Flora - Creep Cluster:
-   * Creep Cluster by Mari
-Flora - Soul Husks:
-   * None
-Flora - Canticle Tree:
-   * High Poly Canticle Tree (note: does not require actual mod)
-Trees - Main:
-   * None
-Trees - Patches:
-   * Assorted Mesh Fixes
-   * SMIM
-Ice - Patches:
-   * Arctic
-   * Landscape and Water Fixes
-   * Unofficial Material Fix
-Ice - Ice Replacer:
-   * Remastered Glaciers and Ice
-Creatures - Patches:
-   * Dynamic Things Alternative
-   * Grahl
-   * Savage Skyrim
-   * Skeleton Replacer HD
-   * TESO Imports
-   * Unique Barbas
-Other - Beehives:
-   * Animated Clutter
-Other - Hagraven:
-   * Vanilla
-   * Dynamic Things Alternative
-   * Static Mesh Improvement Mod Improvement Mod
-   * Unofficial Material Fix
-Other - Potions:
-   * None
-Other - Rag:
-   * Vanilla
-Other - Effects:
-   * Vanilla
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/dlc02/landscape/trees/dlc2treepineforest*.
-Delete meshes/dlc02/landscape/trees/treepineforest*.
-Delete meshes/landscape/trees/tundradriftwood*.
-Delete meshes/landscape/trees/treereachtree01magic.nif.
-Delete meshes/plants/floralavender01.nif.
-~~~
-
-## FYX - Smooth Wells
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
-Download: | Main Files - FYX - Smooth Wells - Water in Wells
-| Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
-
-![PostInstall]
-~~~
-Delete meshes/architecture/whiterun.
-~~~
-
-## Solitude Objects SMIMed - Solitude Well
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68896) | Version: `0.1` | Author: `wSkeever` | ![Visuals]
-Download: | Main Files - Solitude Objects SMIMed - Solitude Well
-
-## WiZkiD Hagraven Clutter and Bones
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49277) | Version: `1.1` | Author: `WiZkiD` | ![Visuals] |
-Download: | Main Files - WiZkiD Hagraven Clutter and Bones
-
-![FOMOD]
-~~~
-Main Installation:
-   * 4K
-Patches:
-   * High Poly Project Patch
-~~~
-
 ## ENB Light
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22574) | Version: `0.98Alpha2` | Author: `4109` | ![Core] ![Visuals]|
@@ -2459,7 +2762,6 @@ Wall-mounted torches:
 Additional Options:
    * Solstheim
    * Blackreach and Cave plants
-   * Smelter
    * Minor Effects
    * Magic hand effects
    * Creatures - Flame Atronachs
@@ -2500,7 +2802,12 @@ Download: | Main Files - Awesome Potions Simplified ENB Lights
 ## Dark Elf Lantern ENB Light - Animated Glow
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63176) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
-Download | Main Files - Dark Elf Lantern ENB Light
+Download: | Main Files - Dark Elf Lantern ENB Light
+
+## Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76417) | Version: `1.0` | Author: `agentw` | ![Core] ![Visuals]
+Download: | Main Files - Dark Elf Lantern ENB Light - Particle Patch for ENB
 
 ## ENB Fixes - Word Wall Transparency
 
@@ -2514,7 +2821,7 @@ Download: | Main Files - ENB lights for Aetherium Shards SE
 
 ## ENB Lights - Effect Shaders
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `2.0` | Author: `powerofthree` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56362) | Version: `2.1.0` | Author: `powerofthree` | ![Core] ![Visuals]|
 Download: | Main Files - ENB Lights For Effect Shaders
 
 ## Misc Effects ENB Light
@@ -2536,6 +2843,11 @@ Download: | Main Files - Particle Lights For ENB SE - Bugs in a Jar
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64313) | Version: `1.1` | Author: `RemmyKun` | ![Core] ![Visuals]
 Download: | Main Files - Particle Lights for ENB - Dwarven Spiders
 | Optional Files - Dwemer Tech Glowmapped PATCH
+
+## Particle Lights - Elytra and Bliss Bug
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64824) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]
+Download: | Main Files - Elytra and Bliss Bug ENB Light - Non-Scrambled Bugs Version
 
 ## Particle Lights - Falmer Drips
 
@@ -2640,6 +2952,11 @@ Download: | Main Files - Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sac
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22814) | Version: `1.0b` | Author: `Rudy102` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy HQ - More Lights for ENB SE - Deathbells and Nirnroots
 
+## Rudy HQ - More Lights - Glowing Mushrooms
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40991) | Version: `1.0a` | Author: `Rudy102` | ![Core] ![Visuals]
+Download: | Main Files - Rudy HQ - More Lights for ENB SE - Glowing Mushrooms
+
 ## Rudy HQ - More Lights - Torchbugs and Moths
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22819) | Version: `1.0b` | Author: `Rudy102` | ![Core] ![Visuals]|
@@ -2655,23 +2972,21 @@ Download: | Main Files - Spiders of Solstheim - ENB Light - Scrambled Bugs Versi
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64948) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Sprites or Specters - ENB Light - Scrambled Bugs Version
 
+## WeldingMan's Smelter With ENB Light
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74816) | Version: `1.3.1` | Author: `WeldingManDE` | ![Core] ![Visuals]
+Download: | Main Files - WeldingMans Smelter
+| Optional Files - WeldingMans Smelter - EmbersXD Patch
+
 ## Alchemy Ingredients ENB Lights
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65509) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Alchemy Ingredients ENB Light
 
-## Crystalline Fire Salts
+## Glorious Gradients
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49858) | Version: `1.1.0` | Author: `sync67` | ![Core] ![Visuals]
-Download: | Main Files - Crystalline Fire Salts - FOMOD
-
-![FOMOD]
-~~~
-Texture Resolution:
-   * High
-ENB Particle Lighting:
-   * Subtle Particle Lighting
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79583) | Vewrsion: `0.0.4` | Author: `Akira1364` | ![Core] ![Visuals]
+Download: | Main Files - Glorious Gradients
 
 ## Hanaisse's Ingredients Patch
 
@@ -2695,6 +3010,11 @@ ELIF Patch:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69406) | Version: `1.2` | Author: `Remiros` | ![Core] ![Visuals]
 Download: | Main Files - High Poly Dragonborn Ingredients - ENB Lights
+
+## Kabu's Fire Salts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.2` | Author: `Kabu` | ![Core] ![Visuals]
+Download: | Main Files - Kabu's Fire Salts 2k
 
 ## More Lights for ENB - Blood Splatter Fix
 
@@ -2721,9 +3041,20 @@ You can disable or delete Rudy HQ Bthardamz or Chaurus Eggs above as you wish.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63685) | Version: `1.1` | Author: `Unbrntoast` | ![Core] ![Visuals]
 Download: | Main Files - Daedra Heart
 
+## Rudy fix for Splashes of Storms and ENB
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72985) | Version: `1.2` | Author: `Rudy102` | ![Core] ![Visuals]
+Download: | Main Files - Rudy fix for Splashes of Storms and ENB
+
+![FOMOD]
+~~~
+Version:
+   * ENB Intensity plus Wind
+~~~
+
 ## Rudy ENB - Cathedral Weathers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `6.0` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `6.1` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files FOMOD 6.0
 | Optional Files - Rudy ENB CW Zangdar's Edit Lux Edition (manual install)
 
@@ -2743,7 +3074,8 @@ Night Eye Version:
 Delete textures/dlc01/sky/soulcairnlighting01.dds.
 
 Copy the ENB files from the zip's "[ Skyrim SE folder ]" to your skyrim directory.
-Copy the files from the zip's "ADDONS \ !_Night Eye Fix \ Predator Vision mod" to your skyrim directory.
+Copy the files from the zip's "ADDONS \ !_Night Eye Fix \ Predator Vision mod" 
+  to your skyrim directory.
 
 ~~~
 
@@ -2789,10 +3121,15 @@ Download: | Skyrim Unification Project - Repacement Plugins.7z
 ~~~
 Replacement Plugins:
    * Beyond Skyrim - Wares of Tamriel
+   * Butterflies Unchained
+   * Crime Overhaul (original mod not required)
+   * Dungeons Revisited
    * Dwemer Automations Glowmapped
+   * Honed Metal
    * Improved Closefaced Helmets
+   * Missives
+   * Oblivion Gates
    * Outlaws Refuges
-   * Skyrim Bridges
    * Sofia - The Funny Fully Voiced Follower
 ~~~
 
@@ -2834,8 +3171,9 @@ Download: | Main Files - Quest Journal Limit Bug Fixer
 
 ![PostInstall]
 ~~~
-Note: If you need to run the quest journal fixer, you will want to use the Experience MCM
-to disable all exp from quests until the process is complete, then restore the previous values.
+Note: If you need to run the quest journal fixer, you will want to use the 
+Experience MCM to disable all exp from quests until the process is
+complete, then restore the previous values.
 ~~~
 
 ## A Matter Of Time - Settings Loader
@@ -2873,6 +3211,12 @@ Download: | Main Files - Immersive HUD - Settings Loader
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55503) | Version: `2.1.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - moreHUD SE PapyrusUtil - Settings Loader
 
+![FOMOD]
+~~~
+Core:
+   * PapyrusUtil version
+~~~
+
 ## Nether's Follower Framework - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57022) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
@@ -2882,6 +3226,11 @@ Download: | Main Files - Nether's Follower Framework - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59432) | Version: `1.0.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
+
+## Read the Room - Settings Loader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.0` | Author: `MaskedRPGFan` | ![Core]
+Download: | Main Files - Read the Room - Immersive and Animated Helmet Management - Settings Loader
 
 ## Storm Lightning for SSE and VR - Settings Loader
 

@@ -33,9 +33,9 @@ AHZBetterDGEntranceSE.esp |
 Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
+Inigo.esp |
 middenexpanded.esp |
 Sepolcri.esp |
-Water for ESB.esm |
 Windhelm Lighthouse.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -46,27 +46,19 @@ Plugin | Instructions |
 3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-Ashbound.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Aspens Ablaze.esp | Apply ESMifier script
-At Your Own Pace - College of Winterhold | Apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
-Better Courier.esp | Apply ESMifier script
-Black Briar Banners.esp | Apply ESMifier script
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
+BSMBonemoldset.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 BUVARP SE RE - CFTO Patch.esp | Add ESL flag
-Cathedral - 3D Mountain Flowers.esp | Apply ESMifier script
-CFTO.eso | Apply ESMifier script
 CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
-College Of Winterhold - Quest Expansion | Apply ESMifier script
 CompanionsTweaks.esp | Add ESL flag
 Cow_AtYourOwnPace_Patch.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
-DiverseWerewolvesCollection.esp | Apply ESMifier script
 DungeonsRevisited.esp | Apply ESMifier script
 DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
@@ -75,19 +67,18 @@ ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | Compact formIDs, add ESL flag
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Finding_Helgi_and_Laelette.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
+KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
-HappyLittleTrees.esp | Apply ESMifier script
+HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
-HoldBorderBanners.esp | Compact formIDs, add ESL flag, apply ESMifier script
+HoldBorderBanners.esp | Compact formIDs, add ESL flag
 Hunters Not Bandits.esp | Add ESL flag
-IcePenguinWorldMap.esp | Compact formIDs, add ESL flag
+IcyFixes.esm | Add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Inigo.esp | Apply ESMifier script
-KeeperCarcetteSurvives.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
@@ -96,47 +87,38 @@ Lucien.esp | Apply ESMifier script
 Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
-MoreWerewolves.esp | Compact formIDs, add ESL flag, apply ESMifier script
-NoGrassINCaves.esp | Compact formIDs, add ESL flag, apply ESMifier script
+MoreWerewolves.esp | Compact formIDs, add ESL flag
+NoGrassINCaves.esp | Compact formIDs, add ESL flag
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Northern Roads.esp | Apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-Praedy's Soul Cairn | Apply ESMifier script
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
-Radiance - Locations.esp | Apply ESMifier script
-Radiance - Quests.esp | Apply ESMifier script
 ReadingImprovesSpeech.esp | Add ESL flag
 RealRainSE.esp | Add ESL flag
-RoadSignsOverhaul.esp | Apply ESMifier script
 RSChildren.esp | Add ESL flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
-s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
-SimplyKnock.esp | Apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
-SofiaFollower.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
-TheEyesOfBeauty.esp | Compact formIDs, add ESL flag
-The Eyes of Beauty - Elves Edition.esp | Compact formIDs, add ESL flag
 TheStumblingSabrecat.esp | Apply ESMifier script
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
-UniqueBorderGates-All.esp | Apply ESMifier script, compact formIDs, add ESL flag
+UniqueBorderGates-All.esp | Compact formIDs, add ESL flag, apply ESMifier script (do in same session as below)
 UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
-Waymark.esp | Apply ESMifier script
 WedDialogueFix.esp | Add ESL flag
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
@@ -147,7 +129,7 @@ Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
 ---
 
-Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution folder to (your user)\AppData\Local\LOOT\games\Skyrim Special Edition\.
+Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution\[MOVE to LOOT]\ folder to (your user)\AppData\Local\LOOT\games\Skyrim Special Edition\.
 
 Sort your mods with the LOOT executable shortcut from MO2.
 
@@ -182,7 +164,6 @@ If the patcher shows a red dot for an error, make sure a Project is selected, an
 
 Do the same for:
 ~~~
-AOSISCSoundPatcher
 Khajiitearsshow
 NoDragonLods
 OppositeAnimationDisabler
@@ -264,7 +245,7 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Draugr Ragdoll Bug Fix', 'Ice Skating Fixed For Real' and 'Matsu Stagger Direction Fix'.
+Select 'Draugr Ragdoll Bug Fix', 'Ice Skating Fixed For Real', 'Matsu Stagger Direction Fix', and 'Only TK Dodge RE'.
 
 Click 'Update Engine'
 
@@ -351,11 +332,17 @@ Additionally, if you are generating Grass LOD, check the Grass box. (Direct 186,
 
 Click Start.  When the log file says complete, choose "Zip and Exit", and then install the zip file as a mod in MO2.
 
-Launch DynDOLOD, Click Advanced \>\>, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
+Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.  Set Wizard=0.  Set Level32=1.  Set WorkaroundLargeReferencesBugs=1.
+
+Launch DynDOLOD, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
 ![](./assets/img/dyndolod.PNG)
 
 Additionally, if you are generating Grass LOD, check that box.
+
+Scroll down to the bottom of the rules section.
+Doubleclick the rule for "tree" and in the popup, set LOD Level 32 dropdown to Billboard6.
+Doubleclick the rule for "/" and in the popup, set LOD Level 32 dropdown to Level0.
 
 Click start.
 

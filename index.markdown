@@ -14,7 +14,29 @@ Placeholder text.
 
 Note that many compatibility patches have already been included in the Conflict Resolution patches installed at the end of the guide.  If you see a FOMOD option that you think should be installed and we don't specify it, it's probably handled.
 
-The version listed in each mod entry is the last 'main' version of the mod the guide was checked against.  Only the files listed are required.
+The version listed in each mod entry is the last version of the 'main' plugin download that the guide was checked against.  Only the files listed are required.  If the mod maintains both SE and AE versions, this may not be the same as the version listed on Nexus/MO2.
+
+![Core]
+
+Placeholder for core description.
+
+---
+
+![Adventures]
+
+The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, the ability to alter the state of locations via Skyrim Realistic Conquering and Lawbringer, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
+
+---
+
+![Arch]
+
+Project Arch is an optional add-on to Core and Adventures (both required).  It combines several popular city and town overhauls, notably but not limited to: JK's Skyrim, Expanded Towns and Cities, Blue Palace Terrace, Cities of the North Dawnstar, Cities of the North Falkreath, Rodryk's Dragon Bridge, Capital Windhelm Expansion, and Quaint Raven Rock.  All conflicts between these mods and the ones in Core and Adventures are resolved in a single set of conflict resolution patches, so all mods within this category are required.
+
+---
+
+![Addon]
+
+Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.
 
 ---
 
@@ -70,29 +92,21 @@ Instructions on files to move or delete *within the mod* after installing into M
 
 ---
 
-![Adventures]
-
-The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, the ability to alter the state of locations via Skyrim Realistic Conquering and Lawbringer, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
-
----
-
-![Arch]
-
-Project Arch is an optional add-on to Core and Adventures (both required).  It combines several popular city and town overhauls, notably but not limited to: JK's Skyrim, Expanded Towns and Cities, Blue Palace Terrace, Cities of the North Dawnstar, Cities of the North Falkreath, Rodryk's Dragon Bridge, Capital Windhelm Expansion, and Quaint Raven Rock.  All conflicts between these mods and the ones in Core and Adventures are resolved in a single set of conflict resolution patches, so all mods within this category are required.
-
----
-
-![Addon]
-
-Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.  Several followers who are not included in Core can be found here, as well as enhancements to follower and trader npcs, and several optional additions to Arch including JK's interior mods.
-
----
-
 # Prerequisites
 
 ---
 
 The following modding tools should be installed into a directory that is not the base skyrim folder, nor a UAC-protected location such as Program Files (x86), the root of C:, or /Users/.  
+
+---
+
+# Best Of Both Worlds Downgrader
+
+---
+
+Make sure Skyrim is updated to the latest version in Stream.
+
+Download the "Best of Both" optional file from [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) and run it.
 
 ---
 
@@ -151,7 +165,7 @@ The Scripts folder will be installed later with Mod Organizer 2.
 
 ## Cathedral Assets Optimizer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.13` | Author: `G_k` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.14` | Author: `G_k` | ![Core] |
 Download: | Main Files - Cathedral Assets Optimizer 64
 Download: | [CAO Profile](https://www.dropbox.com/s/rchbrsb2952sit4/Skyrim%20Unification%20Project%20-%20BSA.7z?dl=0)
 
@@ -197,7 +211,7 @@ Manually extract the folder into Modding\Skyrim\Tools\Nifskope
 
 ## Easy NPC
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52313) | Version: `0.9.5` | Author: `focustense` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52313) | Version: `0.9.6` | Author: `focustense` | ![Core] |
 Download: | EasyNPC
 
 ![PostInstall]
@@ -242,6 +256,7 @@ Download: | Optional Files - ESMifyer and set unique NPCs Persistent combined
 ~~~
 Manually extract ESMifier_with_persistent_unique_NPCs.pas 
   into Modding\Skyrim\Tools\xEdit\Edit Scripts\.
+  (or to a folder where you will store your tools)
 ~~~
 
 ---
@@ -252,12 +267,13 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `latest` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.24` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
 ~~~
-Extract the contents into Modding\Skyrim\Tools\Synthesis\.
+Extract the contents into a Modding\Skyrim\Tools\Synthesis\.
+  (or to a folder where you will store your tools)
 ~~~
 
 ---
@@ -273,7 +289,7 @@ Download: | Main Files - Mod Organizer 2 (Archive)
 
 ![PostInstall]
 ~~~
-* Create a folder named 'Mod Organizer 2' in Modding\Skyrim\.
+* Create a folder named 'Mod Organizer 2' in Modding\Skyrim\. (or a folder where you will store your tools).
 * Extract the contents of the archive into this folder.
 * Run Mod Organizer 2, when 'Choose an Instance' appears, select 'Portable'.
 * In the next pop-up, select 'Skyrim Special Edition'.
@@ -421,7 +437,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-95` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-106` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

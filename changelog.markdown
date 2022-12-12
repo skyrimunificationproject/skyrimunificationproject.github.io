@@ -3,6 +3,328 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-12-11
+
+---
+
+![Added]
+~~~
+Core 1 - SKSE - Barter Limit Fix
+Core 1 - SKSE - Behavior Data Injector
+Core 1 - SKSE - Enemies Respect Encounter Zones
+Core 1 - SKSE - FormList Manipulator - FLM
+Core 1 - SKSE - Infinity UI
+Core 1 - SKSE - Papyrus Tweaks NG
+Core 1 - SKSE - Recursion Monitor
+Core 1 - SKSE - Simple Offense Suppression
+Core 1 - SKSE - Sound Record Distributor
+Core 1 - SKSE - Unique Map Weather
+Core 1 - Bug Fixes - No More Swimming In Air - Fixed Floating SwimIdle
+Core 1 - Bug Fixes - Rudy Fix For Smoke
+Core 1 - Bug Fixes - WE05 Script Fix
+Core 1 - Gameplay Tweaks - Animals Swim (Sort Of)
+Core 1 - Gameplay Tweaks - Random Barrel Roll - Base Object Swapper
+Core 1 - HUD - Compass Navigation overhaul
+Core 1 - World Map - A Clear Map of Skyrim And Other Worlds
+Core 1 - Audio - Immersive Sounds Compendium SRDified
+Core 1 - World Expansion - Immersive Vampire Clutter Base Object Swapper
+Core 1 - World Expansion - Northern Roads
+Core 1 - World Expansion - Northern Roads Patch Collection
+Core 1 - World Expansion - Simple Snow Improvements - Giant Obelisks
+Core 1 - World Expansion - Simple Snow Improvements - Skyrim
+Core 1 - Modified Vanilla Content - Another Redbelly Mine Mod
+Core 1 - Modified Vanilla Content - The Whispering Door - Quest Expansion
+Core 1 - Modified Vanilla Content - White Phial - Tweaks and Enhancements
+Core 1 - Modified Vanilla Content Quests - Favor Quests Separated
+Core 1 - New Items Armor and Weapons - Beyond Skyrim Morrowind Bonemold Weapon Pack
+Core 1 - New Items Armor and Weapons - New Armory Series - Ash Spawn Weapons
+Core 1 - New Items Armor and Weapons - New Armory Series - Dragon Cult Weapons
+Core 1 - New Items Armor and Weapons - Rare Curios Bolts Expanded
+Core 1 - LOD Generation - DynDOLOD Resources Large Reference Workaround Scripts
+Core 2 - General World Improvement - 3D Trellis Improved - Gildergreen Plaza
+Core 2 - General World Improvement - FYX - 3D Coal in the Shovel
+Core 2 - General World Improvement - FYX - 3D Whiterun Guard Towers
+Core 2 - General World Improvement - FYX - Jorrvaskr
+Core 2 - General World Improvement - FYX - Ravenrock Docks and Fences Round Posts
+Core 2 - General World Improvement - FYX - Riften Canal and Round Posts
+Core 2 - General World Improvement - FYX - Rowboat
+Core 2 - General World Improvement - FYX - The Temple of Mara
+Core 2 - Architecture - Nordic Northern Roads
+Core 2 - Architecture - WiZkiD Specific Signs
+Core 2 - Farmhouse and Mills - Solitude Farmhouses Rework
+Core 2 - Landscape - Skyrim Remastered Glaciers and Ice - 4K Textures
+Core 2 - Trees and Grasses - Happy Little Logs
+Core 2 - Trees and Grasses - High Poly Canticle Tree
+Core 2 - Trees and Grasses - Subdivide and Smooth - Ash Pebbles
+Core 2 - Food Flora Ingredients - A Potato Plant
+Core 2 - Food Flora Ingredients - Beehive Replacer
+Core 2 - Food Flora Ingredients - Beehive Replacer - Optimized Textures SE
+Core 2 - Food Flora Ingredients - HD Giant's Toe Replacer
+Core 2 - Food Flora Ingredients - Realistic HD Mushrooms Rock Texture Integration
+Core 2 - Food Flora Ingredients - Creation Club Asset Patch
+Core 2 - Food Flora Ingredients - Garlic
+Core 2 - Food Flora Ingredients - Powdery Bone Meal
+Core 2 - Food Flora Ingredients - Praedy's repository
+Core 2 - Clutter and Misc - Iconic's Falmer Rosetta Stone
+Core 2 - Clutter and Misc - Fixed Nordic Metal Grate
+Core 2 - Clutter and Misc - Pails of Tamriel - A Bucket Mod
+Core 2 - Clutter and Misc - Skyrim Objects SMIMed - Noble Furniture
+Core 2 - Clutter and Misc - Rally's Barrels
+Core 2 - Clutter and Misc - Remastered Remastered Soul Gems
+Core 2 - Effects - Deadly Spell Impacts 4K
+Core 2 - Followers and NPCs - Interesting Follower Requirements for Interesting NPCs
+Core 3 - Body and Skin - CBBE Creation Club Outfits Bodyslides
+Core 3 - Hair and Eyes - The Eyes of Beauty Vampire Eyes Remastered
+Core 3 - Animation - Disable Turn Animation
+Core 3 - Animation - Combat - Goetia Animations - Conditional Shouts
+Core 3 - Animation - Combat - Goetia Animations - Sneak Magic
+Core 3 - Animation - Conditional - Axarien's Animations - Inigo
+Core 3 - Animation - Conditional - Axarien's Animations - Lucien
+Core 3 - Animation - Conditional - Customizable Faster Mining Animation
+Core 3 - Animation - Conditional - Dynamic Random Spell Idle
+Core 3 - Animation - Conditional - New Praying Animations
+Core 3 - Animation - Conditional - Read the Room - Immersive and Animated Helmet Management
+Core 3 - Animation - Conditional - Sleeping Expanded for Interesting NPCs
+Core 3 - Animation - Conditional - Smooth Random Idle Animation
+Core 3 - Skeleton - XPMSSE Spazzing Skeleton and Corpse Fix
+Core 3 - Dialogue and Relationships - Carriage and Stables Dialogue Bundle
+Core 3 - Dialogue and Relationships - Civil War Lines Expansion
+Core 3 - Dialogue and Relationships - Forsworn and Thalmor Lines Expansion
+Core 3 - Dialogue and Relationships - NPCs React To Necromancy (And More)
+Core 3 - Late Loaders - Optimized Scripts for Apocalypse
+Core 3 - Late Loaders - Optimized Scripts for Enhanced Blood Textures
+Core 3 - Late Loaders - Optimized Scripts for Ordinator
+Core 3 - Late Loaders Meshes - HD Sleeping Tree Sap Replacer
+Core 3 - Late Loaders Meshes - Icy Mesh Remaster
+Core 3 - Late Loaders Meshes - KG Imperial Tents
+Core 3 - Late Loaders Meshes - Less Shiny Bloody Bones - Skeleton Replacer HD
+Core 3 - Late Loaders Meshes - Mesh Patches for Lux and Lux Orbis
+Core 3 - Late Loaders Meshes - Solitude Interiors Meshes Fixes
+Core 3 - Late Loaders Meshes - Stairs of Skyrim - Windhelm Bridge Stairs
+Core 3 - Late Loaders Meshes - Subdivide and Smooth - Bandit Poles
+Core 3 - Late Loaders Meshes - Dark Elf Lantern ENB Light - Particle Patch for ENB - Patch
+Core 3 - Late Loaders Meshes - Rudy HQ - More Lights - Glowing Mushrooms
+Core 3 - Late Loaders Meshes - WeldingMan's Smelter With ENB Light
+Core 3 - Late Loaders Meshes - Kabu's Fire Salts
+Core 3 - Late Loaders Meshes - Rudy fix for Splashes of Storms and ENB
+Adventures - Wyrmstooth Brimstone and Wyrmstone Armory
+Adventures - Wyrmstooth Brimstone and Wyrmstone Armory TCC Patch
+Adventures - Wyrmstooth World Map Edge Fix
+Adventures - Wyrmstooth World Map Unique Weather
+Adventures - Additional Hearthfire Dolls Small Fixes
+Adventures - Dynamic Treasure Map Journal
+Adventures - Legacy of the Dragonborn - Cathedral 3D Mountain Flowers Patch
+Adventures - Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
+Adventures - Legacy of the Dragonborn - Patches - Creation Club
+Adventures - Legacy of the Dragonborn - Fate Cards Remade
+Adventures - Legacy of the Dragonborn - Fate Cards New Style
+Adventures - Legacy of the Dragonborn - Museum Gate Remade
+~~~
+
+![Removed]
+~~~
+Core 1 - Dynamic Equipment Manager Updated (replaced with Read the Room)
+Core 1 - A Quality World Map (replaced with ACMOS)
+Core 1 - Skyrim Bridges (Northern Roads replacement)
+Core 2 - SMIM Barrel Expansion (Rally's)
+Core 2 - Riekling Barrels SMIMed (Rally's)
+Core 2 - High Poly Project (too problematic)
+Core 2 - High Poly Project - My Fixes SE-AE (no longer required)
+Core 2 - Majestic Mountains - More Accurate Collision
+Core 2 - Auriel's Chantry Throne Replacer HD (in AIO)
+Core 2 - Auriel's Bow and Shield (in AIO)
+Core 2 - Hagraven Feathers (moved to repository)
+Core 2 - Chisel Replacer HD (moved to repository)
+Core 2 - DragonStone Re-texture HD (moved to repository)
+Core 2 - SMIM Upper Furniture Wood Retexture (no longer using s3d Upper)
+Core 3 - TK Dodge SE (not required for TK Dodge RE new version)
+Core 3 - Crystalline Fire Salts (replaced with Kabu)
+Adventures - Legacy of the Dragonborn - Fate Cards Re-texture
+~~~
+
+![Updated]
+~~~
+Prerequisites - Cathedral Assets Optimizer updated to 5.3.14.
+Prerequisites - Synthesis updated to 0.24.
+Prerequisites - DynDOLOD updated to Alpha-106.
+
+Core 1 - Papyrus Extender updated to 5.3.0.
+Core 1 - Spell Perk Item Distributor updated to 6.3.0.
+Core 1 - Base Object Swapper updated to 2.5.0.
+Core 1 - Better Third Person Selection updated to 0.5.7.
+Core 1 - Classic Paralysis updated to 3.3.1.
+Core 1 - Enhanced Invisibility updated to 1.3.0.
+Core 1 - EVLAS updated to 1.3.1.
+Core 1 - Essential Favorites updated to 2.3.0.
+Core 1 - Favorite Misc Items updated to 3.7.1.
+Core 1 - Immersive Equipment Displays updated to 1.6.3.
+Core 1 - Keyword Item Distributor updated to 2.2.0.
+Core 1 - Magic Sneak Attacks updated to 1.2.0.
+Core 1 - NPCs Use Potions updated to 2.3.4u.
+Core 1 - NPC AI Process Position Fix updated to 1.1.1.
+Core 1 - powerofthree's Tweaks updated to 1.7.5.
+Core 1 - Read or Take SKSE updated to 1.2.0.
+Core 1 - Security Overhaul SKSE updated to 3.2.0.
+Core 1 - Splashes of Skyrim updated to 1.4,0.
+Core 1 - Splashes of Storms updated to 1.3.0.
+Core 1 - SSE Display Tweaks updated to 0.5.12.
+Core 1 - SSE Engine Fixes updated to 5.9.1.
+Core 1 - Stagger Direction Fix updated to 2.02b
+Core 1 - Use or Take SKSE updated to 1.1.0.
+
+Core 1 - Unofficial Skyrim Special Edition Patch updated to 4.2.8.
+Core 1 - Landscape Fixes for Grass Mods updated to 5.1.
+Core 1 - Navigator updated to 1.4.1.
+Core 1 - OSHA-Compliant Sovengarde Mesh Fixes updated to 2.0.
+Core 1 - Landscape and Water Fixes updated to 7.3.
+Core 1 - Particle Patch for ENB updated to 1.1.5.
+Core 1 - Dwemer Gates Don't Reset updated to 1.3.6.
+Core 1 - Immersive Display Overhaul updated to 1.2.
+Core 1 - SPID-Protected Innocent Citizens updated to 1.5.
+Core 1 - MCM Helper updated to 1.4.
+Core 1 - MoreHUD updated to 4.1.2.0.
+Core 1 - Dear Diary Dark Mode updated to 1.1.1.
+Core 1 - SmoothCam updated to 1.7.
+Core 1 - Audio Overhaul Skyrim updated to 4.0.1.
+Core 1 - ESO Imports updated to 10.0.1. (re-ESM)
+Core 1 - BUVARP SE RE updated to 1.2. (re-ESM)
+Core 1 - College of Winterhold Quest Expansion updated to 1.11.
+Core 1 - Even Better Quest Objectives updated to 1.9.2.
+Core 1 - NPCs Wear Amulets of Mara updated to 2.01
+Core 1 - Thieves Guild Requirements updated to 5.3.
+Core 1 - Thieves Night On The Town updated to 1.0.6.
+Core 1 - C.O.I.N. updated to 2.1.0.2.
+Core 1 - Headhunter - Bounties Redone updated to 1.40.
+Core 1 - Missives - The Witcher Board updated to 2.1.
+Core 1 - Heavy Armory updated to 5.2.
+Core 1 - DynDOLOD Resources updated to Alpha-29.
+
+Core 2 - Static Mesh Improvement Mod Improvement Mod updated to 1.6.0.
+Core 2 - Major Cities Mesh Overhaul instructions updated (meadery)
+Core 2 - 3D Solitude Market Trellis updated to 3.1.
+Core 2 - Assorted Mesh Fixes updated to 0.77.
+Core 2 - Forgotten Retex Project updated to 7.2.
+Core 2 - FYX 3D Whiterun Castle Bridge updated to 1.0.2.
+Core 2 - MOVED - Auriel's Chantry HD renamed Praedy's Chantry of Auriel AIO, updated to 2.0.
+Core 2 - MOVED - Castle Volkihar HD renamed Praedy's Castle Volkihar, updated to 2.0.
+Core 2 - MOVED - College of Winterhold HD renamed Praedy's College of Winterhold, updated to 2.0,
+         moved to Core 3 - Late Loaders Meshes
+Core 2 - MOVED - Fort Dawnguard HD renamed Praedy's Fort Dawnguard, updated to 2.0.
+Core 2 - MOVED - Soul Cairn HD renamed Praedy's Soul Cairn, updated to 2.0
+Core 2 - Stony AF Markarth updated to 1.5.
+Core 2 - Glorious Doors of Skyrim updated to 1.1.
+Core 2 - Riften of Reverie updated to 0.95.
+Core 2 - Metallurgy instructions updated (delete dwarven bar tex)
+Core 2 - Iconic Statues instructions updated (-Auriel)
+Core 2 - Majestic Mountains updated to 4.02.
+Core 2 - Ashbound changed to updated mod (replace in MO2)
+Core 2 - Simplicity of Snow updated to 0.10.
+
+Core 2 - Water Effects Brightness and Reflection Fix updated to 0.5.
+Core 2 - Water for ENB updated to 1.70.
+Core 2 - Happy Little Trees updated to 2.0.3. (re-compact/flag),
+		 instructions updated (delete firewood)
+Core 2 - Happy Little Trees DynDOLOD updated to 2.02.
+Core 2 - Aspens Ablaze DynDOLOD updated to 2.36.
+Core 3 - MOVED Medieval Spirits to Late Loaders Meshes (after Fixed Mesh Lighting)
+Core 2 - BURP Spell Tome Patches updated to 1.7.
+Core 2 - Silver Objects SMIMed updated to 0.4.
+Core 2 - Masser and Secunda Moons SE changed to Praedy's Sky AIO.
+Core 2 - Storm Lightning updated to 1.4.17.
+Core 2 - Arctic Frost Effects Redux updated to 3.1.
+Core 2 - Inferno Fire Effects Redux updated to 5.1.
+Core 2 - Embers XD updated to 2.6.7.
+Core 2 - Animated Forge Water updated to 0.6.
+Core 2 - Lux updated to 5.1, fomod instr. updated (creation club meshes)
+Core 2 - Lux Orbis updated to 3.0.
+Core 2 - Praedy's Staves instr updated (hagfeather)
+Core 2 - Stormcloak Armor Revival instr updated (stormcloakshield)
+Core 2 - Interesting NPCs updated to 4.53. (re-ESM)
+Core 2 - Lucien instr updated (Creation Club)
+
+Core 3 - Pandorable's NPCs - Dawnguard updated to 1.3.
+Core 3 - The Eyes of Beauty Ai Remastered updated to v1.Final.
+Core 3 - Nemesis Creature Behavior Compatibility updated to 1.32. (mod also renamed)
+Core 3 - Animation Motion Revolution updated to 1.5.3.
+Core 3 - True Directional Movement updated to 2.2.3.
+Core 3 - CBPC updated to 1.5.6.
+Core 3 - Draugr Ragdoll Bug Fix updated to 2.0.1, renamed Some Creature Behavior Bug Fixes
+Core 3 - Smooth Random Jump Animation Rework updated to 1.4.
+Core 3 - Gesture Animation Remix updated to 1.9.9.
+Core 3 - Sleeping Expanded updated to 1.22.
+Core 3 - Tools Not Weapons updated to 1.5.
+Core 3 - XPMSSE updated to 4.81.
+Core 3 - Bandit Lines Expansion updated to 1.06.
+Core 3 - Immersive Citizens updated to 0.4.0.2.
+Core 3 - Misc Dialogue Edits updated to 1.8.
+Core 3 - More Dialogue Options updated to 1.4.
+Core 3 - More To Say updated to 9.0.1.
+Core 3 - Changed CFTO instructions (ICAIO patch folded into Resources esp)
+Core 3 - Immersive Interactions updated to 1.67.
+Core 3 - Pumping Iron - Stay In Shape updated to 1.02.
+Core 3 - Simplest Horses updated to 0.9.4.
+Core 3 - WACCF updated to 2.9.1.
+Core 3 - Dragon War updated to 2.1.8.
+Core 3 - IFrame Generator changed to IFrame Generator RE 1.03.
+Core 3 - Blade and Blunt updated to 2.0.2.
+Core 3 - TK Dodge SE changed to TK Dodge RE 0.61.
+Core 3 - Reliquary of Myth updated to 4.6.3.
+Core 3 - Sets of Skills updated to 2.0.2.
+Core 3 - Experience updated to 3.1.0.
+Core 3 - IED Weapons Repositioner updated to 2.0.
+Core 3 - Informed Mail Delivery updated to 1.4.
+Core 3 - kryptopyr's Patch Hub fomod instr. updated (CC, Cloaks_CCOR)
+Core 3 - Simple Dual Sheath updated to 1.5.4.
+Core 3 - MOVED - Ancient Dwemer Metal My Patches instructions updated (Metallurgy, Glowmapped)
+Core 3 - MOVED - Some rearrangement within Late Loaders section
+Core 3 - Yet Another Soul Trap Manager updated to 1.10.3, update optional files.
+Core 3 - Cathedral 3D Mountain Flowers Base Object Swapper updated to 0.1.15.
+Core 3 - Fixed Mesh Lighting - updated fomod instr. (removed flora/trees, too many conflicts)
+Core 3 - Skyrim A Mountainous Experience updated to 1.6.
+Core 3 - Water In Wells updated to 0.7.
+Core 3 - ENB Lights for Effect Shaders updated to 2.1.0.
+Core 3 - Rudy ENB SE for Cathedral updated to 6.1. (optional file)
+
+Core 3 - SUP Gameplay Overhaul updated.
+Core 3 - SUP Consistency Patches updated.
+Core 3 - SUP Replacement Plugins updated. (instructions updated)
+Core 3 - SUP Conflict Resolution updated.
+
+Final - Removed clean instruction for WFE, added clean instruction for Inigo.
+Final - Removed ESM instructions for Ashbound, Aspens Ablaze, At Your Own Pace, Better Courier,
+          Black Briar Banners, Cathedral 3D Mountain Flowers, CFTO, College of Winterhold Quest Expansion,
+		  Diverse Werewolves Collection, Finding Helgi, Happy Little Trees,
+		  Hold Border Banners, Keeper Carcette Survives, More Werewolves, No Grass in Caves,
+		  Radiance Locations, Radiance Quests, Road Signs Overhaul, Oblivion Gates, Simply Knock, Sofia, Waymark.
+Final - Added ESM instruction for Northern Roads
+Final - Added compact instructions for BSMBonemold, Happy Little Trees, IcyFixes, Keeper Carcette Survives.
+Final - Removed compact instructions for Eyes of Beauty.
+Final - Updated Nemesis instructions (TK Dodge RE)
+Final - Updated xLODGEN and DynDOLOD instructions.
+
+Adventures - Missives Wyrmstooth Patch updated to 2.05, added Missives Gray Cowl
+Adventures - Lux instructions updated for LOTD CC.
+Adventures - Dragon War Wyrmstooth Patch updated to 2.1.8.
+Adventures - The Brotherhood of Old updated to 1.1.2. (re-ESM)
+Adventures - Wyrmstooth updated to 1.19.8.
+Adventures - Additional Hearthfire Dolls instructions updated.
+Adventures - Skyrim Unique Treasures updated to 4.6. (re-ESM)
+Adventures - Treasure Hunter SSE updated to 1.2.1, changed download to original page.
+Adventures - Legacy of the Dragonborn - Followers Patch updated to 3.0.
+Adventures - Legacy of the Dragonborn - Museum Exterior Fixes updated to 0.6.
+Adventures - Legacy of the Dragonborn - Patches updated to 2.9.5.
+Adventures - Legacy of the Dragonborn - The Brotherhood of Old Unofficial Patch updated to 1.5.
+Adventures - LOTD CBBE updated to 1.0.4.
+Adventures - Removed ESM instructions for DBM_HelgenReborn, DBM_SkyrimSewers, FarmhouseChimneys patches,
+				Missives patches
+Adventures - Added ESM instruction for Additional Hearthfire Dolls, BGCollectables, Treasure Hunt.
+
+Survival - Addon section added.
+
+~~~
+
+---
+
 # 2022-08-06
 
 ---

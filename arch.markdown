@@ -46,6 +46,16 @@ Delete WindhelmFakeWindowsFix.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals] ![Arch]
 Download and merge into previous install: | Optional Files - FYX - Smooth Wells - CotN Falkreath
 
+## Ashbound - Solstheim Revisited
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | ![Core] |
+Download and merge into previous install: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
+| Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
+
+## Embers XD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.4` | Author: `mindflux` | ![Core] ![Visuals]|
+Download and merge into previous install: | Optional Files - Cultured Orc Furniture
 
 ---
 
@@ -65,33 +75,35 @@ Plugin | Instructions |
 - | -
 BluePalaceTerrace.esp | Apply ESMifier script
 BUVARP SE RE - Chillridge Farm COTNed.esp | Apply ESMifier script
-ClefJ's Winterhold.esp | Apply ESMifier script
 COTN - Dawnstar.esp | Apply ESMifier script
 COTN - Falkreath.esp | Apply ESMifier script
+COTN - Winterhold.esp | Apply ESMifier script
 COTN Addon - Anga's mill.esp | Apply ESMifier script
+Denizens of Morthal__Lollia.esp | Apply ESMifer script
 ETaC - Complete.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 GG's Thieves Guild Headquarters.esp | Apply ESMifier script
 Half-Moon Mill - COTNed.esp | Apply ESMifier script
+JK's The Bannered Mare.esp | Apply ESMifier script
+JK's The Ragged Flagon.esp | Apply ESMifier script
 JK's Skyrim.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 MarkarthBookstoreSE.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
+OpulentThievesGuild.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
+RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script
+RYFTEN DOWN.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
 Tel Mithryn.esp | Apply ESMifier script
+The Great City of Winterhold v4.esp | Apply ESMifier script
+TGCotN Winterhold.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmEntranceOverhaul.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
 
-JK's College of Winterhold.esp | Apply ESMifier script
-JK's High Hrothgar.esp | Apply ESMifier script
-JK's Temple of the Divines.esp | Apply ESMifier script
-JK's The Bards College.esp | Apply ESMifier script
-JK's Sky Haven Temple.esp | Apply ESMifier script
-JK's Sinderion's Field Laboratory | Apply ESMifier script
 
 ---
 

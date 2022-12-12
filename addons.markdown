@@ -9,13 +9,25 @@ title: "Skyrim Unification Project"
 
 Addons without links are not yet available. Posted here as a roadmap for guide development.
 
-## [Core - Addon - Armor and Weapons](addonsWeaponsArmor.html)
+## [Core - Addon - Immersion and Survival](addonsSurvival.html)
+
+Built around Campfire, Sunhelm, and a variety of mods to add immersion or optionally make the game more difficult.
+
+## Core - Addon - Armor and Weapons
 
 A curated selection of additional weapons and armor, integrated into loot distribution.
+
+## Core - Addon - Ryn's Skyrim
+
+Ryn's overhaul of Skyrim locations, with conflict resolution.
 
 ## Adventures - Addon - Factions
 
 Lawbringer, Skyrim Realistic Conquering, Organic Factions.
+
+## Project Arch - Addon - Ryn's Skyrim
+
+A conflict-resolved collection of Ryn's lightweight location overhauls.
 
 ## Project Arch - Addon - Lore-Friendly Towns
 
