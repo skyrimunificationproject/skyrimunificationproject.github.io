@@ -33,6 +33,7 @@ AHZBetterDGEntranceSE.esp |
 Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
+Inigo.esp |
 middenexpanded.esp |
 Sepolcri.esp |
 Windhelm Lighthouse.esp |
@@ -77,7 +78,7 @@ IcyFixes.esm | Add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
-Inigo.esp | Apply ESMifier scrip
+Inigo.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
@@ -91,7 +92,7 @@ NoGrassINCaves.esp | Compact formIDs, add ESL flag
 Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Northern Roads.esp | Apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
-Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL fla
+Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
@@ -338,6 +339,10 @@ Launch DynDOLOD, right click in worldspaces and select all, click 'High' button 
 ![](./assets/img/dyndolod.PNG)
 
 Additionally, if you are generating Grass LOD, check that box.
+
+Scroll down to the bottom of the rules section.
+Doubleclick the rule for "tree" and in the popup, set LOD Level 32 dropdown to Billboard6.
+Doubleclick the rule for "/" and in the popup, set LOD Level 32 dropdown to Level0.
 
 Click start.
 

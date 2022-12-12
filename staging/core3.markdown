@@ -1334,7 +1334,7 @@ Download: | Main Files - Read the Room
 
 ## Sleeping Expanded - Animations and NPC Reactions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.21` | Author: `jayserpa` | ![Visuals] ![CAO] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59250) | Version: `1.22` | Author: `jayserpa` | ![Visuals] ![CAO] |
 Download: | Main Files - Sleeping Expanded
 
 ![PostInstall]

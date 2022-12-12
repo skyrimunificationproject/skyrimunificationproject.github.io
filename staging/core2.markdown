@@ -2356,7 +2356,7 @@ Download: | Main Files - XNFRain's Civil War Map Flag Replacer
 
 ## Rally's Barrels
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80061) | Version: `1.2` | Author: `Rallyeator` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80061) | Version: `1.3` | Author: `Rallyeator` | ![Visuals]
 Download: | Main Files - Rally's Barrels 4K
 
 ## Remastered Remastered Soul Gems
@@ -2571,7 +2571,7 @@ Download: | Main Files - SOUL v2 x2048
 
 ## Arctic - Frost Effects Redux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29817) | Version: `3.0` | Author: `Retrospect` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29817) | Version: `3.1` | Author: `Retrospect` | ![Core] ![Visuals] |
 Download: | Main Files - Arctic - Frost Effects Redux
 
 ![FOMOD]
@@ -2595,7 +2595,7 @@ Delete textures/effects/gradients/*.dds except for gradbluebright2.dds.
 
 ## Inferno - Fire Effects Redux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Version: `5.0` | Author: `Retrospect` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29316) | Version: `5.1` | Author: `Retrospect` | ![Core] ![Visuals]|
 Download: | Main Files - Inferno - Fire Effects Redux
 
 ![FOMOD]
