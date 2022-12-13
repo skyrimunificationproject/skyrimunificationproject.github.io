@@ -3,6 +3,24 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-12-??
+
+---
+
+![Removed]
+~~~
+Core 3 - CBBE Creation Club Outfits Bodyslides (covered in official CBBE)
+~~~
+
+![Updated]
+~~~
+Core 1 - Headhunter updated to 1.41.
+Core 3 - CBBE - Added CC optional
+Core 3 - CBBE No Rim Lighting - Added CC optional
+~~~
+
+---
+
 # 2022-12-11
 
 ---
@@ -123,7 +141,6 @@ Adventures - Legacy of the Dragonborn - Museum Gate Remade
 
 ![Removed]
 ~~~
-Core 1 - Dynamic Equipment Manager Updated (replaced with Read the Room)
 Core 1 - A Quality World Map (replaced with ACMOS)
 Core 1 - Skyrim Bridges (Northern Roads replacement)
 Core 2 - SMIM Barrel Expansion (Rally's)

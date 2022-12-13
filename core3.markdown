@@ -458,6 +458,7 @@ Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch--ESL Fl
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.7.1` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
 Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.7.0
+| Optional Files - AE-CC Outfits
 
 ![FOMOD]
 ~~~
@@ -482,11 +483,7 @@ Morph Files:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59268) | Version: `1.1` | Author: `Admiral30` | ![Core] ![Visuals] | 
 Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
-
-## CBBE Creation Club Outfits Bodyslides
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29947) | Version: `1.6` | Author: `syb888` | ![Core] ![Visuals]
-Download: | Main Files - CBBE Creation Club Outfits
+| Optional Files - CBBE Vanilla Armors - No Rim Lighting - CC Addon
 
 ## Vitruvia - Skin Texture Overhaul 
 
@@ -3146,7 +3143,7 @@ Download: | Main Files - BodySlide and Outfit Studio - v5.6.0
 
 ![PostInstall]
 ~~~
-Add BodySlide x64.exe as an executable in MO2.
+Add BodySlide x64.exe as an executable in MO2 and direct its output to a new mod eg. Bodyslide Output.
 ~~~
 
 ## JContainers
