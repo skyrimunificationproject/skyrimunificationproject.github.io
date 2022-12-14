@@ -653,7 +653,7 @@ Walkway Wall Fix:
 
 ## Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.1.5` | Author: `mindflux` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.1.6` | Author: `mindflux` | ![Core] ![CAO]|
 Download: | Main Files - Particle Patch for ENB
 
 ![FOMOD]
@@ -1237,7 +1237,8 @@ Download: | Main Files - ISC-SRDified Main File
 
 ## Acoustic Space Improvement Fixes
 
-[![mod]]() 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78992) | Version: `1.2.0` | Author: `Dylan James` | ![Core]
+Download: | Main Files - Acoustic Space Improvement Fixes (1.2.0)
 
 ![FOMOD]
 ~~~
@@ -1488,7 +1489,7 @@ Download: | Main Files - Road Signs Overhaul
 
 ## Sepolcri - A complete Burial Sites Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34105) | Version: `1.2` | Author: `WiZkiD` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34105) | Version: `2.0` | Author: `WiZkiD` | ![Core] ![CAO]|
 Download: | Main Files - Sepolcri - A Complete Burial Sites Overhaul
 
 ![PostInstall]

@@ -1713,7 +1713,7 @@ Pack the mod with CAO.
 
 ## Simplest Horses (And Other Mounts)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54225) | Version: `0.9.4` | Author: `Hackfield` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54225) | Version: `0.9.5` | Author: `Hackfield` | ![Core]
 Download: | Main Files - Simplest Horses - Main File
 
 ---

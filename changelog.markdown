@@ -15,8 +15,11 @@ Core 3 - CBBE Creation Club Outfits Bodyslides (covered in official CBBE)
 ![Updated]
 ~~~
 Core 1 - Headhunter updated to 1.41.
+Core 1 - Particle Patch for ENB updated to 1.1.6.
+Core 1 - Sepolcri updated to 2.0.
 Core 3 - CBBE - Added CC optional
 Core 3 - CBBE No Rim Lighting - Added CC optional
+Core 3 - Simplest Horses updated to 0.9.5.
 ~~~
 
 ---
