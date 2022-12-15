@@ -31,6 +31,7 @@ Core 3 - CBBE - Added CC optional
 Core 3 - CBBE No Rim Lighting - Added CC optional
 Core 3 - Simplest Horses updated to 0.9.5.
 Core 3 - Read the Room Settings Loader updated to 1.1.0.
+Core 3 - SUP Conflict Resolution patches updated.
 ~~~
 
 ---
