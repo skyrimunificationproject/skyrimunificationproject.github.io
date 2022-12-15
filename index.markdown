@@ -116,22 +116,26 @@ Download the "Best of Both" optional file from [Unofficial Skyrim Special Editio
 
 ## Skyrim Creation Kit
 
-[![mod]](https://bethesda.net/game/bethesda-launcher) | Version: `1.5.73.0` | Author: `Bethesda` | ![Core] |
-Download: | Main Files - Bethesda.net Launcher
+Install the Creation Kit from Steam. (https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
-![PostInstall]
-~~~
-Run the launcher and sign in. Click on the grey Creation icon on
- the left and install it. Launch the Creation Kit, selecting YES
- when asked to extract the scripts. Close the program.
-~~~
 
 ## SSE CreationKit Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20061) | Version: `3.1` | Author: `Nukem` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20061) | Version: `3.2` | Author: `Nukem` | ![Core] |
 Download: | Main Files - CK64Fixes Release 3.2
-| Main Files - FaceFXWrapper 0.3
+| Main Files - FaceFXWrapper 0.4
 | Main Files - [CreationKitCustom.ini](https://www.dropbox.com/s/2cnpzok3keb8v97/CreationKitCustom.ini?dl=0)
+
+![PostInstall]
+~~~
+Manually extract the files into your Skyrim Special Edition folder.
+~~~
+
+## SSE CreationKit Fixes Update
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `3.3` | Author: `Nukem and perchik71" | ![Core]
+Download: | Main Files - CK64Fixes Release 3.3
 
 ![PostInstall]
 ~~~
@@ -244,7 +248,8 @@ Download: | Code - Download ZIP
 
 ![PostInstall]
 ~~~
-Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\.
+Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\
+ (or where xEdit was installed)
 ~~~
 
 ## ESMifier Addon - Set unique NPCs persistent
@@ -267,7 +272,7 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.24` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.24.1` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -305,6 +310,40 @@ Download: | Main Files - Mod Organizer 2 (Archive)
         within it.  Select 'Set as data directory'.
     + Change the Name field to 'Skyrim Script Extender'. Click OK.	
 ~~~
+
+## Adding Executables in MO2
+
+Open the Modify Executables window by clicking the third from the right button.  Click the plus button to enter new entries.  Set up executables like below.
+Use the "..." button to open a file selection dialogue and navigate to the specified exe file.
+
+Title: SKSE
+Binary: (skyrim location)\skse_64_loader.exe
+Start In: (skyrim location)
+
+Title: SSEEdit
+Binary: Modding\Skyrim\Tools\xEdit.exe (or the location you stored it)
+Arguments: -IKnowWhatImDoing -sse
+
+Title: SSEEdit - Quick Auto Clean
+Binary: Same as above
+Arguments: -quickautoclean -sse
+
+Title: LOOT
+Binary: C:\Program Files\LOOT\LOOT.exe (or where LOOT is installed)
+Start In: C:\Program Files\LOOT
+
+Title: Creation Kit
+Binary: (skyrim location)\CreationKit.exe
+Start In: (skyrim location)
+Overwrite Steam AppId: 1946180
+
+Title: Synthesis
+Binary: (Synthesis location)\Synthesis.exe
+
+Title: EasyNPC
+Binary: (EasyNPC location)\EasyNPC.exe
+
+You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this same window as instructed to later in the guide.
 
 ---
 
@@ -444,7 +483,7 @@ Download: | Miscellaneous Files - DynDOLOD 3.00
 ~~~
 Create a folder named 'DynDOLOD' in the root directory of the drive
   where you have installed Skyrim, i.e. H:\DynDOLOD.
-Manually extract the archive into DynDOLOD.
+Manually extract the archive into \DynDOLOD.
 
 Add TexGenx64.exe and DynDOLODx64.exe as an executable in Mod Organizer 2.
 For each add the following to the arguments field: -sse.

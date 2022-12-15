@@ -296,7 +296,7 @@ Download: | Main Files - PAPER
 
 ## Papyrus Tweaks NG
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `3.0` | Author: `Nightfallstorm` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `3.0.1` | Author: `Nightfallstorm` | ![Core]
 Download: | Main Files - Papyrus Tweaks NG 3.0
 
 ## powerofthree's Tweaks
@@ -450,10 +450,10 @@ Download: | Main Files - Stagger Direction Fix-SSE V2.02b
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19832) | Version: `1.5` | Author: `Ryan, iammitochondrion` | ![Core] |
 Download: | Main Files - Stay At System Page
 
-## To Your Face Redux
+## To Your Face
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49047) | Version: `1.1` | Author: `powerofthree` | ![Core] |
-Download: | Main Files - To Your Face Redux - SSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24720) | Version: `1.0h` | Author: `powerofthree` | ![Core] |
+Download: | Main Files - To Your Face SE
 
 ## Yes I'm Sure
 

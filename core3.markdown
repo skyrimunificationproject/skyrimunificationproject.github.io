@@ -3226,7 +3226,7 @@ Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul
 
 ## Read the Room - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.0` | Author: `MaskedRPGFan` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.1.0` | Author: `MaskedRPGFan` | ![Core]
 Download: | Main Files - Read the Room - Immersive and Animated Helmet Management - Settings Loader
 
 ## Storm Lightning for SSE and VR - Settings Loader

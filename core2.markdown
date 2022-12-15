@@ -2359,6 +2359,12 @@ Download: | Main Files - XNFRain's Civil War Map Flag Replacer
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80061) | Version: `1.3` | Author: `Rallyeator` | ![Visuals]
 Download: | Main Files - Rally's Barrels 4K
 
+## Rally's Crates
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80417) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rally's Crates 4K
+| Optional Files - optional ESL flagged plugin
+
 ## Remastered Remastered Soul Gems
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73439) | Version: `1.0` | Author: `carpenihil` | ![Visuals]

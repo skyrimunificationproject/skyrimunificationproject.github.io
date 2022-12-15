@@ -3,9 +3,15 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
-# 2022-12-??
+# 2022-12-14
 
 ---
+
+![Added]
+~~~
+Prerequisites - CK Fixes Updated
+Core 2 - Clutter - Rally's Crates
+~~~
 
 ![Removed]
 ~~~
@@ -14,12 +20,17 @@ Core 3 - CBBE Creation Club Outfits Bodyslides (covered in official CBBE)
 
 ![Updated]
 ~~~
+Prerequisites - Updated tool instructions
+
+Core 1 - Papyrus Tweaks NG updated to 3.0.1.
+Core 1 - To Your Face Redux changed to To Your Face SE
 Core 1 - Headhunter updated to 1.41.
 Core 1 - Particle Patch for ENB updated to 1.1.6.
-Core 1 - Sepolcri updated to 2.0.
+Core 1 - Sepolcri updated to 2.0. (re-compact/ESM)
 Core 3 - CBBE - Added CC optional
 Core 3 - CBBE No Rim Lighting - Added CC optional
 Core 3 - Simplest Horses updated to 0.9.5.
+Core 3 - Read the Room Settings Loader updated to 1.1.0.
 ~~~
 
 ---
