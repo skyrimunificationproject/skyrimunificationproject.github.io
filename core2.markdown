@@ -405,7 +405,7 @@ Download: | Main Files - Praedy's Chantry of Auriel AIO 4K
 ![FOMOD]
 ~~~
 versions:
-   * old
+   * damaged
 Ruins:
    * Bridge Option 2
 Armor:
@@ -422,7 +422,7 @@ Ghosu Armory:
    * None
 ~~~
 
-![PostInstal]
+![PostInstall]
 ~~~
 Delete Praedy's AncientFalmerThrone.esp.
 ~~~
@@ -635,7 +635,6 @@ Farmhouse Door:
 
 ![PostInstall]
 ~~~
-Delete GDOS - Glorious Solitude Door - Rotation Fix.esp.
 Delete GDOS - Splendid Mechanized Dwemer Door.esp.
 ~~~
 
@@ -1281,7 +1280,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.70` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.71` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -1342,6 +1341,11 @@ Add on:
    * None
 Snowy Pine Textures:
    * Default
+~~~
+
+![PostInstall]
+~~~
+Delete landscape/trees/tundradriftwood01.nif
 ~~~
 
 ## Happy Little Trees Add-On - DynDOLOD 3
@@ -1708,6 +1712,9 @@ Download: | Optional Files - Chisel 2K
 ~~~
 Hagraven Feathers - Resolution:
    * 2K
+   
+Shein Matze - Options:
+   * Enb light
 ~~~
 
 ## Remiros' Dragonborn Alcohol HD
@@ -1719,11 +1726,6 @@ Download: | Main Files - Remiros' Dragonborn Alcohol HD 2k
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33749) | Version: `3.0` | Author: `Renthal and Pfuscher` | ![Visuals] |
 Download: | Main Files - Renthal Nettle SSE 3.0
-
-## Replacement Ivy
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/1878) | Version: `1.0.1` | Author: `Thonk` | ![Visuals] |
-Download: | Main Files - Replacement Ivy 4096
 
 ## Retexture for Soup
 
@@ -2245,6 +2247,14 @@ Download: | Main Files - Skyrim 3D Misc - Buckets v2
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77499) | Version: `0.4` | Author: `wSkeever` | ![Visuals]
 Download: | Main Files - Skyrim Objects SMIMed - Noble Furniture
 
+![FOMOD]
+~~~
+Texture Size:
+   * 4K textures
+Fate cards drawer:
+   * Install fate cards drawer
+~~~
+
 ## Skyrim Remastered - Soul Gems
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39397) | Version: `1.30` | Author: `Gravos8890` | ![Core] ![Visuals]|
@@ -2640,13 +2650,13 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.7` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.8` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
 ~~~
 Flames Customization:
-   * Embers XD Flame (Orange/Red)
+   * Embers XD Flames (Burnt Orange)
 Particle Lights - Quality:
    * Optimized
 Particle Lights - Intensity:
@@ -3002,6 +3012,14 @@ Download: | Main Files - Miraak's Staff Replacer
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51529) | Version: `1.1.1` | Author: `Jelidity` | ![Visuals]
 Download: | Main Files - Amber Refossilized
+
+![FOMOD]
+~~~
+Cloth Options:
+   * None
+Patches:
+   * None
+~~~
 
 ## BS Bonemold Weapon Pack - aMidianBorn Color Match
 

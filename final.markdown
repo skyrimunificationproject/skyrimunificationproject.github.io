@@ -49,14 +49,11 @@ Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
-BSMBonemoldset.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 BUVARP SE RE - CFTO Patch.esp | Add ESL flag
-CFTO - Immersive Citizens Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
-Cow_AtYourOwnPace_Patch.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
@@ -73,18 +70,15 @@ Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
-Hunters Not Bandits.esp | Add ESL flag
-IcyFixes.esm | Add ESL flag
+IcyFixes.esm | Compact formIDs, add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 ImperialSoldiersEscortFix.esp | Add ESL flag
 Inigo.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
-Landscape Fixes for Grass Mods.esp | Compact formIDs, add ESL flag, apply ESMifier script
-Landscape Fixes For Grass Mods - Military Camps.esp | Add ESL flag, apply ESMifier script
+Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
-Lux Orbis.esp | Add ESL flag
 MajesticMountains_Landscape.esm | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag

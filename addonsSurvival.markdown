@@ -36,6 +36,12 @@ Patches:
    * Wyrmstooth Region Patch (if using Adventures)
 ~~~
 
+![PostInstall]
+~~~
+Delete interface/skyui/bottombar.swf.
+Delete interface/skyui/itemcard.swf.
+~~~
+
 ## SunHelm Survival and Needs - Water-Borne Diseases
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62572) | Version: `1.0.1` | Author: `austindb98`
@@ -45,6 +51,13 @@ Download: | Main Files - Water-Borne Diseases for SunHelm
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/667) | Version: `1.12.1SEVR` | Author: `Chesko`
 Download: | Main Files: Campfire 1.12.1SEVR Release
+
+![PostInstall]
+~~~
+Delete Scripts/jsonutil.pex.
+Delete Scripts/StorageUtil.pex.
+Delete SKSE/Plugins/PapyrusUtil.dll.
+~~~
 
 ## Campfire - Complete Camping System - Collectable Deadwood and Branches
 
@@ -89,8 +102,8 @@ MineOreScript.pex:
 
 ## Go To Bed
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.3` | Author: `Andrelo`
-Download: | Main Files: Gotobed SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.4` | Author: `Andrelo`
+Download: | Old Files: Gotobed
 | Optional Files: Patches
 
 ![FOMOD]

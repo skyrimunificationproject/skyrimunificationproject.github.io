@@ -3,6 +3,45 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2022-12-18
+
+---
+
+![Removed]
+~~~
+Core 1 - Animated Wedding Scene (mod deleted)
+Core 3 - Rude Imperial Soldiers Escort Prisoner Fix (mod deleted)
+~~~
+
+![Updated]
+~~~
+Core 1 - FormList Manipulator updated to 1.5.4.
+Core 1 - Particle Patch for ENB updated to 1.1.7.
+Core 1 - SPID-Protected Innocent Citizens renamed to SPID-Protected Citizens
+Core 1 - Northern Roads updated to 1.3.
+Core 1 - Northern Roads Patch Collection updated to 1.11.1.
+Core 1 - NPCs Wear Amulets of Mara PLUS updated to 2.02.
+Core 1 - Rare Curios Bolts Expanded updated to 1.4.1.
+Core 2 - Water for ENB updated to 1.71.
+Core 2 - Happy Little Trees instructions updated (del tundradriftwood)
+Core 2 - Embers XD updated to 2.6.8.
+Core 3 - Read the Room updated to 2.2.0.
+Core 3 - Nether's Follower Framework upated to 2.8.0.
+Core 3 - Reliquary of Myth instructions updated (missing CC patches)
+Core 3 - BUVARP RE - Patches instructions updated (remove HOHQE patch)
+Core 3 - Ancient Dwemer Metal My Patches - Added Lore Weapon Expansion
+Core 3 - Particle Lights Elytra and Bliss Bug changed to Scrambled Bugs version
+Core 3 - Swapped Utilities and Conflict Resolution section positions
+Core 3 - Read the Room Settings Loader updated to 1.2.0.
+Adventures - Adjusted position of LOTD Quest and Reward Display
+
+Final - Removed ESL instructions for BSMBonemold, CFTO-Immersive Citizens, CoW-AYOP,
+          Hunters Not Bandits, LFFGM, LFFGM Military Camps, Lux Orbis
+Final - Added compact instructions for IcyFixes
+~~~
+
+---
+
 # 2022-12-14
 
 ---
@@ -11,10 +50,12 @@ title: "Skyrim Unification Project"
 ~~~
 Prerequisites - CK Fixes Updated
 Core 2 - Clutter - Rally's Crates
+Core 2 - Flora - Mari's Ivy Nordic Ruins Addon
 ~~~
 
 ![Removed]
 ~~~
+Core 2 - Replacement Ivy
 Core 3 - CBBE Creation Club Outfits Bodyslides (covered in official CBBE)
 ~~~
 

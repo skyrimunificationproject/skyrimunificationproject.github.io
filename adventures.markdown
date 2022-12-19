@@ -331,7 +331,7 @@ Download: | Main Files - Legacy Safehouse Plus
 
 ## Relic Hunter - Guildmaster Start
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1) | Version: `2.0.3` | Author: `icecreamassassin` |  
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `2.0.3` | Author: `icecreamassassin` |  
 Download: | Main Files - Relic Hunter- Guildmaster Start
 
 ---
@@ -377,18 +377,18 @@ Pack the mod with CAO. (note: extract/repack to optimize)
 
 ## Helgen Reborn - Level and Quest Requirement
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63923) | Version: `1.0` | Author: `ikillyou233` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63923) | Version: `1.0` | Author: `ikillyou233` | ![CAO]|
 Download: | Main Files - Helgen Reborn level req MCM
-
-## Helgen Reborn - Even More Immersive Start
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | ![CAO]|
-Download: | Main Files - Main File
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Helgen Reborn - Even More Immersive Start
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | 
+Download: | Main Files - Main File
 
 ## Konahrik's Accoutrements
 
@@ -540,6 +540,12 @@ Download: | Main Files - Amulets of Skyrim SSE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13972) | Version: `2.6` | Author: `FrankFamily` | 
 Download: | Main Files - Ice Blade of the Monarch 2.6
+
+![FOMOD]
+~~~
+Texture Resolution:
+   * 4K
+~~~
 
 ## Artifacts - The Tournament of the Ten Bloods
 
@@ -819,6 +825,11 @@ Download: | Optional Files - Mystic Condenser 2.3 UCE
 Pack the mod with CAO.
 ~~~
 
+## Legacy of the Dragonborn - Quest and Reward Delay
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44923) | Version: `1.3` | Author: `Kriana` | 
+Download: | Main Files - Legacy of the Dragonborn Delay Patch
+
 ## Legacy of the Dragonborn - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.5` | Author: `The Legacy Patch Team` | 
@@ -886,11 +897,6 @@ Download: | Main Files - Legacy of the Dragonborn Perk Menus
 ~~~
 Pack the mod with CAO.
 ~~~
-
-## Legacy of the Dragonborn - Quest and Reward Delay
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44923) | Version: `1.3` | Author: `Kriana` | 
-Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - The Brotherhood of Old Patch
 
@@ -981,7 +987,7 @@ Delete *.esp.
 
 ## Better Falskaar and Wyrmstooth Map With Roads
 
-[![mod]](nexuhttps://www.nexusmods.com/skyrim/mods/51339surl) | Version: `1.2` | Author: `dastrokes` | 
+[![mod]](https://www.nexusmods.com/skyrim/mods/51339) | Version: `1.2` | Author: `dastrokes` | 
 Download: | Main Files - Better Falskaar and Wyrmstooth Maps
 
 ## Daedric Armor
@@ -1292,3 +1298,4 @@ Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square

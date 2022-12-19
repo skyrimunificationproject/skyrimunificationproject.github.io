@@ -177,6 +177,8 @@ Download: | [CAO Profile](https://www.dropbox.com/s/rchbrsb2952sit4/Skyrim%20Uni
 ~~~
 Manually extract the folder into Modding\Skyrim\Tools\CAO
  (or to a folder where you will store your tools).
+ 
+Add the downloaded profile to CAO\Profiles.
 
 Add CAO to Windows Defender exclusions.
 ~~~

@@ -196,7 +196,7 @@ Download: | Main Files - Favorite Misc Items SE
 
 ## FormList Manipulator - FLM
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74037) | Version: `1.5.3` | Author: `MaskedRPGFan` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74037) | Version: `1.5.4` | Author: `MaskedRPGFan` | ![Core]
 Download: | Main Files - FormList Manipulator - FLM
 
 ## Fuz Ro D-oh - Silent Voice
@@ -275,6 +275,8 @@ Game Version:
 Compatibility Addon:
    * None
 Distribution Rules:
+   * None
+Patches:
    * None
 ~~~
 
@@ -653,7 +655,7 @@ Walkway Wall Fix:
 
 ## Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.1.6` | Author: `mindflux` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.1.7` | Author: `mindflux` | ![Core] ![CAO]|
 Download: | Main Files - Particle Patch for ENB
 
 ![FOMOD]
@@ -831,17 +833,15 @@ Download: | Main Files - Sensible Bribes
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59741) | Version: `1.1` | Author: `Fuzzlesz` | ![Core]
 Download: | Soul-Cairn Objects Secured
 
-## SPID-Protected Innocent Citizens
+## SPID-Protected Citizens
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57736) | Version: `1.5` | Author: `Oaristys` | ![Core] |
-Download: | Main Files - SPID-Protected Innocent Citizens
+Download: | Main Files - SPID-Protected Citizens
 
 ![FOMOD]
 ~~~
 Choose your version:
    * Protected
-Optional:
-   * None
 ~~~
 
 ## Tavern AI Fix
@@ -1113,7 +1113,7 @@ Download: | Main Files - SmoothCam_EasyEase_Preset_1.5
 ## A Clear Map of Skyrim And Other Worlds
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56367) | Version: `4.0` | Author: `DoubleYou` | ![Core]
-Download: | Main Files - A Clear Map of Skyrim and Other Worlds FOMOD - PART 1
+Download: | Main Files - A Clear Map of Skyrim and Other Worlds FOMOD
 
 ![FOMOD]
 ~~~
@@ -1427,12 +1427,12 @@ Download: | Main Files - Northern Marsh Bridges SE
 
 ## Northern Roads
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77530) | Version: `1.2` | Author: `JPSteel2` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77530) | Version: `1.3` | Author: `JPSteel2` | ![Core]
 Download: | Main Files - Northern Roads
 
 ## Northern Roads Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.8.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.11.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
 Download: | Main Files - Northern Roads Patch Collection FOMOD
 
 ![FOMOD]
@@ -1449,8 +1449,6 @@ Version Dependent Patches:
    * Unique Border Gates: None
    * Unique Border Gates - Better DG Entrance: None
    * Water for ENB: None
-Lux Via - bridges patch:
-   * None
 Consistency Patches:
    * None to all
 Third-party Patches:
@@ -1652,16 +1650,6 @@ Download: | Main Files - At Your Own Pace - College of Winterhold
 Pack the mod with CAO.
 ~~~
 
-## AWS - Animated Wedding Scene
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37976) | Version: `2.3.3` | Author: `CinnaMewRoll` | ![Core] ![CAO]|
-Download: | Main Files - Animated Wedding Scene SE - MAIN USSEP
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
 ## Better Courier
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.7.2` | Author: `Korodic` | ![Core] |
@@ -1825,7 +1813,7 @@ Pack the mod with CAO.
 
 ## NPCs Wear Amulets of Mara PLUS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.01` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.02` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - NPCs Wear Amulets of Mara
 
 ![PostInstall]
@@ -2245,7 +2233,7 @@ Additional Patches:
 
 ## Rare Curios - Bolts Expanded
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39903) | Version: `1.4` | Author: `Jelidity` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39903) | Version: `1.4.1` | Author: `Jelidity` | ![Core]
 Download: | Main Files - Rare Curios - Bolts Expanded
 
 ## Royal Armory - New Artifacts

@@ -1326,7 +1326,7 @@ Download: | Main Files - Random Prayer Animation option
 
 ## Read the Room - Immersive and Animated Helmet Management
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77605) | Version: `2.1.1` | Author: `istayzoomin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77605) | Version: `2.2.0` | Author: `istayzoomin` | ![Visuals]
 Download: | Main Files - Read the Room
 
 ## Sleeping Expanded - Animations and NPC Reactions
@@ -1582,16 +1582,6 @@ Save Relationship Dialogue Overhaul.esp in the Creation Kit.
 Pack the mod with CAO.
 ~~~
 
-## Rude Imperial Soldiers Escort Prisoner Fix 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/894) | Version: `1.0` | Author: `elite403` | ![Core] ![CK]|
-Download: | Main Files - ImperialSoldiersEscortFix_v10
-
-![PostInstall]
-~~~
-Save ImperialSoldiersEscortFix.esp in the Creation Kit.
-~~~
-
 ## Serana Dialogue Edit 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16222) | Version: `1.02` | Author: `ThatGuyYeah` | ![Core] |
@@ -1605,7 +1595,7 @@ Download: | Main Files - SeranaDialogEdit v 102
 
 ## Carriage and Ferry Travel Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8379) | Version: `2.0` | Author: `Kinaga` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8379) | Version: `2.0` | Author: `Kinaga` | ![Core] ![CAO] |
 Download: | Main Files - Carriage and Ferry Travel Overhaul
 
 ![PostInstall]
@@ -1689,7 +1679,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Nether's Follower Framework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.7.9` | Author: `Netherworks` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.8.0` | Author: `Netherworks` | ![Core] ![CAO]|
 Download: | Main Files - Nether's Follower Framework - Universal Installer (LE or SSE)
 
 ![FOMOD]
@@ -1704,6 +1694,8 @@ Core Mod Support:
    * RDO Comments
 Spell Perk Item Distributor Files:
    * Friendly Fire
+No Team Magic Damage SSE
+   * None
 ~~~
 
 ![PostInstall]
@@ -1735,11 +1727,6 @@ Orcish Weapons:
    * LeanWolf's Better-Shaped Weapons
 Optional Files:
    * None
-~~~
-
-![PostInstall]
-~~~
-Delete WACCF_BashedPatchLvlListFix.esp.
 ~~~
 
 ## Armor and Clothing Extension 
@@ -1783,7 +1770,6 @@ Addons:
    * Enchanting Overhaul
    * Enchanting Overhaul - Hybrid Loot Patch
    * Magic Tweaks
-   * SkyTEST
    * Traits - Armor
    * Traits - Enemy
 
@@ -1794,7 +1780,6 @@ SKSE Addons:
 SPID:
    * Perk Distribution
    * Potion Distribution
-   * Item Distribution
 ~~~
 
 ## Dragon War - A Dragon Overhaul 
@@ -1935,6 +1920,8 @@ Main Installation:
    * Reliquary of Myth - Artifact Overhaul
    * ROM - Dragon Priest Masks Pack
 Main Patches:
+   * RoM - Fishing Patch
+   * RoM - Saints and Seducers Patch
    * RoM - REB Patch
    * RoM - SR Patch
 ICH Patches:
@@ -2024,7 +2011,6 @@ Delete Interface/statsmenu.swf.
 ## BUVARP RE - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56878) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core] ![CAO] |
-Download: | Main Files - BUVARP SE RE - House Of Horrors Quest Expansion Patch
 Download: | Main Files - BUVARP SE RE - Carriage and Ferry Travel Overhaul Patch
 
 ![PostInstall]
@@ -2281,6 +2267,7 @@ Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 |   --Note: During install select 4K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My patches - JS Unique Utopia - Keening - SE
 |   --Note: During install select 4K in BAIN installer
+| Optional FIles - Ancient Dwemer Metal - My patches - Lore Weapon Expansion
 | Optional Files - Ancient Dwemer Metal - My Patches - Metallurgy
 |   --Note: During install select 2K in BAIN installer
 | Optional Files - Ancient Dwemer Metal - My Patches - Praedy's Staves
@@ -2583,7 +2570,7 @@ Download: | Main Files - Skyrim - A Mountainous Experience Double Sided
 
 ## Solitude Interiors Meshes Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.2` | Author: `WiZkiD` | ![Core] ![Visual]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.2` | Author: `WiZkiD` | ![Core] ![Visuals]
 Download: | Main Files - Solitude Interior Meshes FIXES
 
 ## Stairs of Skyrim - Windhelm Bridge Stairs
@@ -2844,7 +2831,7 @@ Download: | Main Files - Particle Lights for ENB - Dwarven Spiders
 ## Particle Lights - Elytra and Bliss Bug
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64824) | Version: `0.4` | Author: `wSkeever` | ![Core] ![Visuals]
-Download: | Main Files - Elytra and Bliss Bug ENB Light - Non-Scrambled Bugs Version
+Download: | Main Files - Elytra and Bliss Bug ENB Light - Scrambled Bugs Version
 
 ## Particle Lights - Falmer Drips
 
@@ -3078,60 +3065,6 @@ Copy the files from the zip's "ADDONS \ !_Night Eye Fix \ Predator Vision mod"
 
 ---
 
-# Conflict Resolution
-
----
-
-## Skyrim Unification Project - Consistency Patches
-
-[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
-Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
-
-![FOMOD]
-~~~
-Install Type:
-   * All In One
-Select AIO Install Type:
-   * Core (automatic)
-   * Addons - Magic and Enchanting
-~~~
-
-## Skyrim Unification Project - Conflict Resolution
-
-[![mod]](https://www.dropbox.com/s/016dxkubim5kz6m/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.9A` | Author: `rev, ra2` | ![Core] |
-Download: | Skyrim Unification Project - Conflict Resolution.7z
-
-![FOMOD]
-~~~
-Addons:
-   * Quest and Misc Tweaks
-Other Files:
-   * None (or your choice)
-~~~
-
-## Skyrim Unification Project - Replacement Plugins
-
-[![mod]](https://www.dropbox.com/s/rjsf5jgpo94t5al/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
-Download: | Skyrim Unification Project - Repacement Plugins.7z
-
-![FOMOD]
-~~~
-Replacement Plugins:
-   * Beyond Skyrim - Wares of Tamriel
-   * Butterflies Unchained
-   * Crime Overhaul (original mod not required)
-   * Dungeons Revisited
-   * Dwemer Automations Glowmapped
-   * Honed Metal
-   * Improved Closefaced Helmets
-   * Missives
-   * Oblivion Gates
-   * Outlaws Refuges
-   * Sofia - The Funny Fully Voiced Follower
-~~~
-
----
-
 # Utilities
 
 ---
@@ -3154,7 +3087,7 @@ Download: | [Nexus Link](https://www.nexusmods.com/Core/Libs/Common/Widgets/Down
 ## Mfg Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11669) | Version: `1.5.4` | Author: `Andrelo` | ![Core] |
-Download: | Main Files - MfgFix SE
+Download: | Old Files - MfgFix SE
 
 ## PapyrusUtil
 
@@ -3226,7 +3159,7 @@ Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul
 
 ## Read the Room - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.1.0` | Author: `MaskedRPGFan` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.2.0` | Author: `MaskedRPGFan` | ![Core]
 Download: | Main Files - Read the Room - Immersive and Animated Helmet Management - Settings Loader
 
 ## Storm Lightning for SSE and VR - Settings Loader
@@ -3258,6 +3191,49 @@ Download: | Main Files - VioLens - A Killmove Mod SE - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56146) | Version: `1.2` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - XP32 Maximum Skeleton Special Extended - Settings Loader
+
+---
+
+# Conflict Resolution
+
+---
+
+## Skyrim Unification Project - Consistency Patches
+
+[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
+Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
+
+![FOMOD]
+~~~
+Install Type:
+   * All In One
+Select AIO Install Type:
+   * Core (automatic)
+~~~
+
+## Skyrim Unification Project - Conflict Resolution
+
+[![mod]](https://www.dropbox.com/s/016dxkubim5kz6m/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution.7z?dl=0) | Version: `2.0.0.9A` | Author: `rev, ra2` | ![Core] |
+Download: | Skyrim Unification Project - Conflict Resolution.7z
+
+![FOMOD]
+~~~
+Addons:
+   * Quest and Misc Tweaks
+Other Files:
+   * None (or your choice)
+~~~
+
+## Skyrim Unification Project - Replacement Plugins
+
+[![mod]](https://www.dropbox.com/s/rjsf5jgpo94t5al/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
+Download: | Skyrim Unification Project - Repacement Plugins.7z
+
+![FOMOD]
+~~~
+Replacement Plugins:
+   * Select all
+~~~
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square

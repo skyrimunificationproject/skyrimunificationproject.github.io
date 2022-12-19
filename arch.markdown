@@ -59,6 +59,10 @@ Download and merge into previous install: | Optional Files - Cultured Orc Furnit
 
 ---
 
+## Cities of the North - Dawnstar - Performance Fix
+
+Use CAO to perform Full Optimization on the meshes.
+
 ## xEdit
 
 Use the Quick Auto Clean shortcut to clean the following plugins one by one:
