@@ -3,6 +3,9 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+Install these categories between "Late Loaders - ENB, Meshes, and Textures" and "Utilities".
+
+
 # Addon - Adventures - Install Changes
 
 ---
@@ -62,6 +65,46 @@ Falskaar:
    * Textures - 4K-2K
 Wyrmstooth:
    * Textures - 4K-2K
+~~~
+
+## BURP - Book Unity and Revamp Project
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
+Download and merge: | Main Files - BURP - Desatured Textures
+
+![FOMOD]
+~~~
+Unity Patches:
+   * None
+Titles:
+   * Unified (Recommended)
+File Selection:
+   * Black Sacrament Armor
+   * The Brotherhood of Old
+   * Falskaar
+   * The Forgotten City
+   * The Grey Cowl of Nocturnal
+   * Helgen Reborn
+   * Ice Blade of the Monarch
+   * konahrik's Accoutrements
+   * Moon and Star
+   * Moonpath to Elsweyr
+   * New Treasure Hunt
+   * Oblivion Artifact Pack
+   * Teldryn Serious
+   * There Is No Umbra Ch.II
+   * The Tools of Kagrenac
+   * Treasure Hunter
+   * Wyrmstooth
+Leveled Lists:
+   * None
+36 Lessons of DeserterX:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
 ~~~
 
 ## JS Dragon Claws 
@@ -196,7 +239,7 @@ Patches:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `4.2` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `5.3.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download and merge into previous install: | Main Files - Lux
 
 ![FOMOD]
@@ -207,6 +250,8 @@ Lux optional effects:
    * Beams - PARTICLE without effect lighting
    * Mists and fogs - Effect lighting without PARTICLE
    * Webs
+Lux fixed Ice Cave Meshes:
+   * None
 Lux optimized SMIM Meshes:
    * SMIM meshes
 Lux optimized rugs:
@@ -309,7 +354,6 @@ Install Type:
    * All In One
 Select AIO Install Type:
    * Core (automatic)
-   * Addons - Magic and Enchanting
    * Addons - Adventures
 ~~~
 
@@ -352,7 +396,7 @@ Pack the mod with CAO. (note: extract/repack to optimize)
 
 ## Falskaar - Comprehensive Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62819) | Version: `1.2.0` | Author: `Wartortle` |  ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62819) | Version: `1.4.0` | Author: `Wartortle` |  ![CAO]|
 Download: | Main Files - Comprehensive Falskaar Fixes
 
 ![PostInstall]
@@ -1022,7 +1066,7 @@ Delete *.esp.
 
 ## Legacy of the Dragonborn - Ancient Daedric Armor Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58684) | Version: `1.3` | Author: `Xtudo` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58684) | Version: `2.0` | Author: `Xtudo` | 
 Download: | Main Files - Legacy of the Dragonborn - Ancient Daedric Armor replacer SE
 
 ![PostInstall]
@@ -1199,14 +1243,16 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor
 
 ---
 
-# Adventures - Conflict Resolution
+# Conflict Resolution
 
 ---
+
+Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addon - Adventures
 
 [![mod]](https://www.dropbox.com/s/3ccj2zyke42pldy/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0A` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
-Download: | Filename
+Download: | Skyrim Unification Project - Conflict Resolution - Addon - Adventures.7z
 
 ## Skyrim Unification Project - Replacement Plugins - Addon - Adventures
 
@@ -1220,7 +1266,6 @@ Replacement Plugins:
    * Falskaar Wildlife
    * Moon and Star
    * Moonpath
-   * Treasure Hunter
 ~~~
 
 ---
@@ -1253,7 +1298,7 @@ Plugin | Instructions |
 - | -
 AdditionalHearthfireDolls.esp | Apply ESMifier script
 AetheriumSwordsnArmor.esp | Apply ESMifier script
-Artifacts.esp | Apply ESMifier script
+ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Apply ESMifier script
 FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag
 FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag

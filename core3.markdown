@@ -1110,12 +1110,12 @@ Download: | Main Files - Leviathan Animations - Two-Handed High Stance SE
 
 ## Leviathan Animations - Two-Handed Normal Attacks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48550) | Version: `1.2` | Author: `Verolevi` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48550) | Version: `1.3b` | Author: `Verolevi` | ![Visuals]
 Download: | Main Files - Leviathan Animations - Two-Handed Normal Attacks For High Stance
 
 ## Leviathan Animations - Two-Handed Power Attacks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50545) | Version: `1.3` | Author: `Verolevi` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50545) | Version: `1.4c` | Author: `Verolevi` | ![Visuals]
 Download: | Main Files - Leviathan Animations - Two-Handed Power Attacks For High Stance
 
 ## Vanargand Animations - Female Idle Walk and Run 
@@ -1227,7 +1227,7 @@ Download: | Main Files - Axarien's Animations - Inigo (DAR)
 
 ## Axarien's Animations - Lucien (DAR)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76390) | Version: `1.0` | Author: `Axarien` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76390) | Version: `2.0` | Author: `Axarien` | ![Visuals]
 Download: | Main Files - Axarien's Animations - Lucien (DAR)
 
 ## Conditional Tavern Cheering (DAR)
@@ -1326,7 +1326,7 @@ Download: | Main Files - Random Prayer Animation option
 
 ## Read the Room - Immersive and Animated Helmet Management
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77605) | Version: `2.2.0` | Author: `istayzoomin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77605) | Version: `2.2.1` | Author: `istayzoomin` | ![Visuals]
 Download: | Main Files - Read the Room
 
 ## Sleeping Expanded - Animations and NPC Reactions
@@ -1716,7 +1716,7 @@ Download: | Main Files - Simplest Horses - Main File
 
 ## Weapons Armor Clothing and Clutter Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.9.1` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18994) | Version: `2.9.2` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 
 ![FOMOD]
@@ -1736,11 +1736,17 @@ Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `2.0.1/2.0.8` | Author: `kryptopyr` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `2.1.0` | Author: `kryptopyr` | ![Core] ![BSA] ![CAO]|
 Download: | Main Files - Complete Alchemy and Cooking Overhaul
-| Update Files - CACO SKSE 2.0.19 - 2.0.20 DLL Update (Special Edition)
-| Update Files - Temporary Patch for Complete Crafting Overhaul Remastered
 | Optional Files - CACO Cleaned Textures
+
+![FOMOD]
+~~~
+Game Version:
+   * 1.5.97 (Steam SE)
+Options:
+   * None
+~~~
 
 ![PostInstall]
 ~~~
@@ -1751,7 +1757,7 @@ Pack the mod with CAO. (packing cleaned textures into archives properly)
 
 ## Complete Crafting Overhaul Remastered 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.5.1` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
@@ -1786,13 +1792,12 @@ SPID:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
-| Optional Files - Dragon War - Variants
 | Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
 | Misc Files - Dragon War - Deadly Spell Impacts Patch
 
 ## Forceful Tongue - Shouts Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.7` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.8` | Author: `Delta` | ![Core] |
 Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
@@ -2011,7 +2016,7 @@ Delete Interface/statsmenu.swf.
 ## BUVARP RE - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56878) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core] ![CAO] |
-Download: | Main Files - BUVARP SE RE - Carriage and Ferry Travel Overhaul Patch
+Download: | Main Files - BUVARP SE RE - Favor Quests Separated Patch
 
 ![PostInstall]
 ~~~
@@ -2048,7 +2053,7 @@ Download: | Main Files - IED - Weapons Repositioner
 ## Informed Mail Delivery
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66339) | Version: `1.4` | Author: `Glanzer` | ![Core]
-Download: | Main Files - Informed Mail Delivery
+Download: | Main Files - Informed Mail Delivery - Your Own Thoughts
 
 ![FOMOD]
 ~~~
@@ -2068,6 +2073,7 @@ Download: | Main Files - Quick Light SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `3.4` | Author: `kryptopyr and others` | ![Core] |
 Download: | Main Files - kryptopyr's Patch Hub Installer
 | Misc Files - Cloaks of Skyrim__CCOR
+| Misc Files - Saints and Seducers (CC)__TCIY
 
 ![FOMOD]
 ~~~
@@ -2162,7 +2168,6 @@ Download: | Main Files - No Crime Teleport - Voice Consistency Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77161) | Version: `1.0` | Author: `Borgut1337` | ![Core]
 Download: | Main Files - Optimized Scripts for Apocalypse
-| Optional Files - Optimised Scripts for Apocalypse-Ordinator Patch
 
 ## Optimized Scripts for Enhanced Blood Textures
 
@@ -2173,6 +2178,7 @@ Download: | Main Files - Optimized Scripts for Enhanced Blood Textures - SPID ve
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.0` | Author: `Borgut1337` | ![Core]
 Download: | Main Files - Optimized Scripts for Ordinator
+| Optional Files - Optimised Scripts for Apocalypse-Ordinator Patch
 
 ## Predator Vision - Night Eye and Thermal Vision Overhaul
 
@@ -2197,7 +2203,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.10.3` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.10.4` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -2211,9 +2217,9 @@ Configuration Patches:
 Custom Soul Gem Patches:
    * Rare Curios
    * Saints and Seducers
-Soul Gem Graphics/Sounds Mod Pathces
+Soul Gem Graphics/Sounds Mod Patches
    * None
-Select Miscellaneous Patches:
+Other Patches:
    * Reliquary of Myth
 ~~~
 
@@ -2358,7 +2364,7 @@ Creatures - Patches:
    * TESO Imports
    * Unique Barbas
 Other - Beehives:
-   * Animated Clutter
+   * None
 Other - Hagraven:
    * Vanilla
    * Dynamic Things Alternative
@@ -2370,11 +2376,6 @@ Other - Rag:
    * Vanilla
 Other - Effects:
    * Vanilla
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/clutter/potions/*.
 ~~~
 
 ## HD Sleeping Tree Sap Replacer
@@ -2415,6 +2416,7 @@ LOD Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79266) | Version: `1.1` | Author: `Kiddgimmick` | ![Visuals]
 Download: | Main Files - KG's Imperial Tents
+| in BAIN installer pick 00 - KG's Imperial Tents - Warm Snow
 
 ## High Hrothgar Fixed 
 
@@ -2570,7 +2572,7 @@ Download: | Main Files - Skyrim - A Mountainous Experience Double Sided
 
 ## Solitude Interiors Meshes Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.2` | Author: `WiZkiD` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]
 Download: | Main Files - Solitude Interior Meshes FIXES
 
 ## Stairs of Skyrim - Windhelm Bridge Stairs
@@ -2980,14 +2982,13 @@ Download: | Main Files - Hanaisse's Bowl and ENB Light Ingredients Patch
 ![FOMOD]
 ~~~
 Ingredients:
+   * None
+ELIF Patch:
    * Eerie Ectoplasm
    * Dusty Vampire Dust
    * Surreal Spriggan Sap
-   * Freezing Cold Frost Salts
    * Glimmering Glow Dust
    * Volatile Void Salts
-ELIF Patch:
-   * None
 ~~~
 
 ## High Poly Dragonborn Ingredients
@@ -3159,7 +3160,7 @@ Download: | Main Files - Predator Vision - Night Eye and Thermal Vision Overhaul
 
 ## Read the Room - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.2.0` | Author: `MaskedRPGFan` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78689) | Version: `1.3.0` | Author: `MaskedRPGFan` | ![Core]
 Download: | Main Files - Read the Room - Immersive and Animated Helmet Management - Settings Loader
 
 ## Storm Lightning for SSE and VR - Settings Loader

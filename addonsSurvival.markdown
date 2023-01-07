@@ -17,8 +17,8 @@ Download: | Main Files - Slayable Offspring SE
 
 ## Survival Control Panel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41891) | Version: `1.1.1` | Author: `Parapets`
-Download: | Main Files - Survival Control Panel
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41891) | Version: `1.0.3` | Author: `Parapets`
+Download: | Old Files - Survival Control Panel
 
 ## Sunhelm Survival and Needs
 
@@ -86,7 +86,7 @@ Download: | Main Files: More Soaps for DnB with CACO recipes
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.1.3` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.2.0` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]

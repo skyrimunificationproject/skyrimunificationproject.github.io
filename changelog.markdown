@@ -3,6 +3,81 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-01-06
+
+---
+
+![Updated]
+~~~
+Prerequisites - LOOT updated to 0.18.6.
+Prerequisites - Synthesis updated to 0.25.2.
+Prerequisites - xLODGEN updated to beta 97.
+Prerequisites - DynDOLOD updated to Alpha-108.
+
+Core 1 - Base Object Swapper updated to 2.5.1.
+Core 1 - Better Third Person Selection updated to 0.5.8.
+Core 1 - Papyrus Tweaks NG updated to 3.3.
+Core 1 - Skyrim Landscape and Water Fixes updated to 7.4.
+Core 1 - Particle Patch for ENB updated to 1.2.0.  Instructions changed.
+Core 1 - Atlas Map Markers updated to 2.7.
+Core 1 - Immersive Sounds Compendium SRDified updated to 2.2.
+Core 1 - Northern Roads Patch Collection updated to 1.14.1.
+Core 1 - Simple Snow Improvements - Skyrim updated to 1.4.
+Core 1 - Better Courier updated to 1.8.2.
+Core 1 - Keeper Carcette Survives instructions updated. (facegen)
+Core 1 - The Whispering Door Quest Expansion updated to 1.10.
+Core 1 - True Hunter updated to 4.3.
+Core 1 - New Armory Series Ashen Weapons instructions changed. (-HA)
+Core 1 - New Armory Series Dragon Cult Weapons instructions changed. (-HA)
+Core 1 - Rare Curios Bolts Expanded updated to 1.5.0.
+Core 1 - DynDOLOD Resources updated to Alpha-30.
+Core 1 - DynDOLOD Large Ref Scripts updated (+DLL in mega link)
+
+Core 2 - Forgotten Retex Project instructions changed (Main->Old)
+Core 2 - Rally's All The Things instructions changed (-Mead Barrel)
+Core 2 - Happy Little Trees DynDOLOD updated to 2.03.
+Core 2 - BURP instructions changed (FOMOD)
+Core 2 - Skyrim 3D Misc instructions changed (-Butterchurn)
+Core 2 - Skyrim Remastered Soul Gems instructions changed (-ENB)
+Core 2 - Training Dummies Retexture instructions changed (-Rain Barrel)
+Core 2 - Rally's Crates updated to 1.2.
+Core 2 - Embers XD updated to 2.6.9.
+Core 2 - Lux updated to 5.3.1.
+Core 2 - Lux Orbis updated to 3.1.1.
+
+Core 3 - Leviathan Animations Two-Handed Normal Attacks updated to 1.3b.
+Core 3 - Leviathan Animations Two-Handed Power Attacks updated to 1.4c.
+Core 3 - Axarien's Animations Lucien updated to 2.0.
+Core 3 - Read the Room updated to 2.2.1.
+Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.9.2.
+Core 3 - Complete Alchemy and Cooking Overhaul updated to 2.1.0.
+Core 3 - Complete Crafting Overhaul Remastered updated to 2.5.1.
+Core 3 - Forceful Tongue updated to 3.0.8.
+Core 3 - BUVARP RE - Patches files to download changed (-CFTO, +Favor Quests)
+Core 3 - Informed Mail Delivery file to download changed to YOT version
+Core 3 - kryptopyr's Patch Hub Installer files changed (+S and S TCIY)
+Core 3 - Optimized Scripts for Apocalypse files changed (-Apoc-Ord)
+Core 3 - Optimized Scripts for Ordinator files changed (+Apoc-Ord)
+Core 3 - Yet Another Soul Trap Manager updated to 1.10.4.
+Core 3 - Fixed Mesh Lighting instructions changed (-Beehives, -PostInstall)
+Core 3 - KG's Imperial Tents instructions changed (BAIN)
+Core 3 - Solitude Interiors Meshes Fixes updated to 2.3.
+Core 3 - Hanaisse's Ingredients Patch instructions changed (ELIF version)
+Core 3 - Read the Room Settings Loader updated to 1.3.0.
+
+Adventures - Instructions on mod category placements added
+Adventures - Added BURP download-and-merge section.
+Adventures - Falskaar Comprehensive Fixes updated to 1.4.0.
+Adventures - Legacy of the Dragonborn - Ancient Daedric Armor Replacer updated to 2.0.
+Adventures - Conflict Resolution section removed, merged to Core's Conflict Resolution
+Adventures - Corrected ESM instructions for ArtifactsOfBoetiah.esp.
+
+Survival - Survival Control Panel changed to 1.0.3. (last 1.5.97 version)
+Survival - Favor Jobs Overhaul updated to 2.2.0.
+~~~
+
+---
+
 # 2022-12-18
 
 ---
@@ -287,7 +362,6 @@ Core 2 - MOVED - Soul Cairn HD renamed Praedy's Soul Cairn, updated to 2.0
 Core 2 - Stony AF Markarth updated to 1.5.
 Core 2 - Glorious Doors of Skyrim updated to 1.1.
 Core 2 - Riften of Reverie updated to 0.95.
-Core 2 - Metallurgy instructions updated (delete dwarven bar tex)
 Core 2 - Iconic Statues instructions updated (-Auriel)
 Core 2 - Majestic Mountains updated to 4.02.
 Core 2 - Ashbound changed to updated mod (replace in MO2)

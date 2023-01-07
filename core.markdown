@@ -91,7 +91,7 @@ Download: | Main Files - Barter Limit Fix
 
 ## Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `2.5.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60805) | Version: `2.5.1` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Base Object Swapper
 
 ![FOMOD]
@@ -121,7 +121,7 @@ Download: | Main Files - BetterStealing v2
 
 ## Better Third Person Selection - BTPS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.5.7` | Author: `Shrimperator` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64339) | Version: `0.5.8` | Author: `Shrimperator` | ![Core]
 Download: | Main Files - Better Third Person Selection (AE - SE)
 
 ## Bug Fixes
@@ -298,7 +298,7 @@ Download: | Main Files - PAPER
 
 ## Papyrus Tweaks NG
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `3.0.1` | Author: `Nightfallstorm` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `3.3` | Author: `Nightfallstorm` | ![Core]
 Download: | Main Files - Papyrus Tweaks NG 3.0
 
 ## powerofthree's Tweaks
@@ -640,7 +640,7 @@ Download: | Main Files - Optimized USSEP Valdr Quest
 
 ## Skyrim Landscape and Water Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26138) | Version: `7.3` | Author: `WiZkiD - lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26138) | Version: `7.4` | Author: `WiZkiD - lilebonymace` | ![Core] |
 Download: | Main Files - Skyrim Landscape and Water Fixes - FOMOD
 
 ![FOMOD]
@@ -655,25 +655,17 @@ Walkway Wall Fix:
 
 ## Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.1.7` | Author: `mindflux` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.2.0` | Author: `mindflux` | ![Core] 
 Download: | Main Files - Particle Patch for ENB
 
 ![FOMOD]
 ~~~
 Installation Type:
-   * Loose Files
+   * BSA
 ENB Helper:
    * Yes
 Custom Textures
    * Yes
-~~~
-
-![PostInstall]
-~~~
-Delete Particle Patch for ENB SSE.esp.
-Delete textures/effects/cloudtileflat_n.dds.
-
-Pack the mod with CAO. (new plugin will be dummy only)
 ~~~
 
 ## Rudy Fix For Smoke
@@ -1131,7 +1123,7 @@ Patches:
 
 ## Atlas Map Markers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.5` | Author: `Kronixx and kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24104) | Version: `2.7` | Author: `Kronixx and kryptopyr` | ![Core] |
 Download: | Main Files - Atlas Map Markers
 
 ## Dynamic Snow for Map
@@ -1232,7 +1224,7 @@ Download: | Main Files - Audio Overhaul Skyrim - Immersive Sounds Compendium Int
 
 ## Immersive Sounds - Compendium - SRDified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78446) | Version: `2.0` | Author: `Puddles` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78446) | Version: `2.2` | Author: `Puddles` | ![Core]
 Download: | Main Files - ISC-SRDified Main File
 
 ## Acoustic Space Improvement Fixes
@@ -1432,7 +1424,7 @@ Download: | Main Files - Northern Roads
 
 ## Northern Roads Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.11.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.14.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
 Download: | Main Files - Northern Roads Patch Collection FOMOD
 
 ![FOMOD]
@@ -1444,11 +1436,7 @@ Creation Club Patches:
 Miscellaneous Patches:
    * Lux Via ONLY
 Version Dependent Patches:
-   * More To Say: None
-   * Sky Haven Temple: None
-   * Unique Border Gates: None
-   * Unique Border Gates - Better DG Entrance: None
-   * Water for ENB: None
+   * None to all
 Consistency Patches:
    * None to all
 Third-party Patches:
@@ -1502,7 +1490,7 @@ Download: | Main Files - Simple Snow Improvements - Giant Obelisks
 
 ## Simple Snow Improvements - Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.3` | Author: `WeldingManDE` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.4` | Author: `WeldingManDE` | ![Core]
 Download: | Main Files - Simple Snow Improvements - Skyrim
 
 ## Skyrim Sewers
@@ -1652,8 +1640,9 @@ Pack the mod with CAO.
 
 ## Better Courier
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.7.2` | Author: `Korodic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.8.2` | Author: `Korodic` | ![Core] |
 Download: | Main Files - Better Courier
+| Optional Files - Don't Bother Me I'm Fishing
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
 
@@ -1697,6 +1686,8 @@ Download: | Main Files - Even Better Quest Objectives SE v1.9.2
 Mod Version:
    * EBQO with USSEP
 Optional Files:
+   * None
+Grouped Mod Patches:
    * None
 Available Patches:
    * None (uncheck all)
@@ -1801,6 +1792,12 @@ Download: | Main Files - Companions Questline Tweaks
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9476) | Version: `1.1` | Author: `Ruhadre` | ![Core] |
 Download: | Main Files - Keeper Carcette Survives SSE 1.1
 
+![PostInstall]
+~~~
+Rename meshes/actors/character/FaceGenData/FaceGeom/KeeperCarcetteSurvives.esp/00005901.nif to 00000800.nif
+Rename textures/actors/character/FaceGenData/FaceTint/KeeperCarcetteSurvives.esp/00005901.dds to 00000800.dds.
+~~~
+
 ## Nilheim - Misc Quest Expansion
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53792) | Version: `1.12` | Author: `JaySerpa` | ![Core] ![CAO]|
@@ -1864,7 +1861,7 @@ Patches:
 
 ## The Whispering Door - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76606) | Version: `1.0` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76606) | Version: `1.10` | Author: `JaySerpa` | ![Core]
 Download: | Main Files - The Whispering Door - Quest Expansion
 
 ![FOMOD]
@@ -1880,7 +1877,7 @@ Download: | Main Files - Thugs Not Assassins
 
 ## True Hunter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `4.2` | Author: `lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25628) | Version: `4.3` | Author: `lilebonymace` | ![Core] |
 Download: | Main Files - True Hunter
 
 ![FOMOD]
@@ -2203,7 +2200,7 @@ Download: | Main Files - New Armory Series - Ashen Weapons
 ![FOMOD]
 ~~~
 Additions:
-   * Heavy Armory Addition
+   * None
 DAR Compatible Meshes:
    * Yes, I use DAR polearm animations
 WACCF and CCOR patches:
@@ -2222,7 +2219,7 @@ Download: | Main Files - New Armory Series - Dragon Cult Weapons
 DAR Compatible Meshes:
    * Yes, I use DAR polearm animations
 Armory Additions and Patches:
-   * Heavy Armory Addition
+   * None
 WACCF and CCOR patches:
    * WACCF (with CCOR, if installed)
 Sound Patches:
@@ -2233,7 +2230,7 @@ Additional Patches:
 
 ## Rare Curios - Bolts Expanded
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39903) | Version: `1.4.1` | Author: `Jelidity` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39903) | Version: `1.5.0` | Author: `Jelidity` | ![Core]
 Download: | Main Files - Rare Curios - Bolts Expanded
 
 ## Royal Armory - New Artifacts
@@ -2267,7 +2264,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-29` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-30` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
@@ -2282,10 +2279,10 @@ Misc Options:
    * Desync Birds of Prey
 ~~~
 
-## DynDOLOD Resources Large Reference Workaround Scripts
+## DynDOLOD Resources Large Reference Workaround Scripts and DLL NG
 
 [![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: | Author: `Sheson` | ![Visuals]
-Download and install from archive: | [Mega Link](https://mega.nz/file/dEw13TDQ#KhiHgTzgJ03NYZZbgn540yDPPHkqsGAlHqd4bKJRaXs)
+Download and install from archive: | [Mega Link](https://mega.nz/file/FUBThISJ#Uu1NpsjUvz-SupVBYGOLeB6UdR1hheZpy6gIvTeR0e4)
 
 ## DynDOLOD Modders Resource Fixes
 

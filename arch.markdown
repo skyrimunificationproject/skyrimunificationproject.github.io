@@ -31,6 +31,32 @@ Falskaar:
 
 ~~~
 
+## BURP - Book Unity and Revamp Project
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
+Download and merge: | Main Files - BURP - Desatured Textures
+
+![FOMOD]
+~~~
+Unity Patches:
+   * None
+Titles:
+   * Unified (Recommended)
+File Selection:
+   * Capital Windhelm Expansion
+   * Capital Whiterun Expansion
+   
+Leveled Lists:
+   * None
+36 Lessons of DeserterX:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
 ## Windhelm Fake Windows Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals] ![Arch]|
@@ -91,6 +117,7 @@ Half-Moon Mill - COTNed.esp | Apply ESMifier script
 JK's The Bannered Mare.esp | Apply ESMifier script
 JK's The Ragged Flagon.esp | Apply ESMifier script
 JK's Skyrim.esp | Apply ESMifier script
+JK's Whiterun Outskirts.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 MarkarthBookstoreSE.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script

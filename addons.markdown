@@ -31,7 +31,7 @@ A conflict-resolved collection of Ryn's lightweight location overhauls.
 
 ## Project Arch - Addon - Lore-Friendly Towns
 
-Towns by Schlitzor or Th3 Duk3 that recreate locations mentioned in previous TES games, or provide a vanilla-feeling village in a location that notably lacks one.
+Towns by Schlitzor that recreate locations mentioned in previous TES games, or provide a vanilla-feeling village in a location that notably lacks one.
 
 ## ra2 - Addon - Towns
 

@@ -135,11 +135,13 @@ Manually extract the files into your Skyrim Special Edition folder.
 ## SSE CreationKit Fixes Update
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `3.3` | Author: `Nukem and perchik71" | ![Core]
-Download: | Main Files - CK64Fixes Release 3.3
+Download: | Old Files - CK64Fixes Release 3.3
 
 ![PostInstall]
 ~~~
 Manually extract the files into your Skyrim Special Edition folder.
+
+Note: Using 3.3 because there are some undesirable changes in 3.4 currently.
 ~~~
 
 ---
@@ -196,8 +198,8 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1918) | Version: `0.18.3` | Author: `WrinklyNinja, et al` | ![Core] |
-Download: | Main Files - LOOT v0.18.3 - Installer (64-Bit)
+[![mod]](https://www.nexusmods.com/site/mods/439) | Version: `0.18.6` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - LOOT v0.18.6 - Installer (64-Bit)
 
 ![PostInstall]
 ~~~
@@ -274,7 +276,7 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.24.1` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.25.2` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -459,8 +461,8 @@ Close Mod Organizer 2 and run BethINI.exe.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 86` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 94
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 97` | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 97
 
 ![PostInstall]
 ~~~
@@ -478,7 +480,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-106` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-108` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

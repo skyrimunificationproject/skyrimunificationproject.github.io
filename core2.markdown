@@ -159,7 +159,7 @@ Pack the mod with CAO.
 ## Forgotten Retex Project
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `7.2` | Author: `JDAnchor` | ![Core] ![Visuals] |
-Download: | Main Files - Forgotten Retex Project
+Download: | Old Files - Forgotten Retex Project
 | Miscellaneous Files -Realistic HD Woodcutter's Axe Remastered - Patches
 
 ![FOMOD]
@@ -227,7 +227,7 @@ Rally's Manhole of Solitude:
 -Patches:
    * None
 Rally's Mead Barrels:
-   * Gimme that!
+   * None
 Rally's Nightingale Clutters:
    * Nightingale Clutter
 Rally's Nord War Horns:
@@ -1350,8 +1350,9 @@ Delete landscape/trees/tundradriftwood01.nif
 
 ## Happy Little Trees Add-On - DynDOLOD 3
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `2.02` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `2.03` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees 3D LOD - Performance
+| Update Files - Performance - dlc1 pine fix
 
 ## Happy Little Logs
 
@@ -1855,21 +1856,28 @@ Download: | Main Files - BURP - Desatured Textures
 
 ![FOMOD]
 ~~~
+Unity Patches:
+   * None
 Titles:
    * Unified (Recommended)
 File Selection:
+   * Alternate Start: Live Another Life
    * Andromeda
    * Cloaks of Skyrim
    * Complete Alchemy and Cooking Overhaul
    * EasierRider's Dungeon Pack
    * ESO Imports
    * Interesting NPCs
-   * Know Your Enemy
    * Obscure's College of Winterhold
    * Ordinator - Perks of Skyrim
    * Relationship Dialogue Overhaul
+   * Royal Armoury
    * Skyrim Sewers 4
    * Wintersun - Faiths of Skyrim
+Leveled Lists:
+   * None
+36 Lessons of DeserterX:
+   * None
 ~~~
 
 ![PostInstall]
@@ -1887,6 +1895,10 @@ Download: | Main Files - BURP - Spell Tomes
 Unification:
    * BURP
 BURSPST Lite:
+   * None
+Compatibility Patches:
+   * None
+BURP:
    * None
 ~~~
 
@@ -2237,7 +2249,6 @@ Delete meshes/furniture/noble*.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20829) | Version: `1.0.2` | Author: `mathy79` | ![Visuals] |
 Download: | Main Files - Skyrim 3D Misc - Buckets v2
-| Main Files - Skyrim 3D Misc - Butterchurn
 | Main Files - Skyrim 3D Misc - Giant Mortar and Pestle
 | Main Files - Skyrim 3D Misc - Tanning Rack
 | Main Files - Skyrim 3D Misc - Traps
@@ -2259,7 +2270,6 @@ Fate cards drawer:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39397) | Version: `1.30` | Author: `Gravos8890` | ![Core] ![Visuals]|
 Download: | Main Files - Skyrim Remastered - Soul Gems Quality Version
-| Main Files - Skyrim Remastered - Soul Gems ENB Light Patch
 
 ![PostInstall]
 ~~~
@@ -2332,7 +2342,6 @@ Download: | Optional Files - 4K Dirty and Bloody
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13522) | Version: `1.0` | Author: `Haladoon` | ![Visuals] |
 Download: | Main Files - Training Dummies 2k Texture Replacer
-| Optional Files - Rain Barrel Fix and Retexture
 
 ## Unique Skulls HD
 
@@ -2371,9 +2380,16 @@ Download: | Main Files - Rally's Barrels 4K
 
 ## Rally's Crates
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80417) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80417) | Version: `1.2` | Author: `Rallyeator` | ![Visuals]
 Download: | Main Files - Rally's Crates 4K
-| Optional Files - optional ESL flagged plugin
+
+![FOMOD]
+~~~
+Resolution:
+   * Default 4K
+Plugin Type:
+   * ESL
+~~~
 
 ## Remastered Remastered Soul Gems
 
@@ -2415,7 +2431,7 @@ Download: | Main Files - Basic Dining Set Replacer 2k
 
 ## Cathedral Weathers and Seasons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33b` | Author: `JonnyWang13` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24791) | Version: `2.33b` | Author: `DrJacopo` | ![Core] |
 Download: | Main Files - Cathedral - Weathers
 
 ## Cathedral Weathers and Seasons - MCM
@@ -2650,7 +2666,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.8` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.9` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -2697,7 +2713,7 @@ Option:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `5.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `5.3.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
@@ -2748,7 +2764,7 @@ Delete textures/architecture/solitude/.
 
 ## Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `3.0` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `3.1.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux Orbis
 
 ![FOMOD]
