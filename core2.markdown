@@ -2901,7 +2901,7 @@ Download: | Main Files - 2) aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON
 
 ## aMidianBorn Content Addon
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.4` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.4.1` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
 Download: | Main Files - aMidianBorn Content Addon SE
 
 ## aMidianBorn Blade of Woe

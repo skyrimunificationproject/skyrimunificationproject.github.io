@@ -44,14 +44,16 @@ Core 2 - Rally's Crates updated to 1.2.
 Core 2 - Embers XD updated to 2.6.9.
 Core 2 - Lux updated to 5.3.1.
 Core 2 - Lux Orbis updated to 3.1.1.
+Core 2 - Armor and Clothing Extension updated to 2.4.1.
 
 Core 3 - Leviathan Animations Two-Handed Normal Attacks updated to 1.3b.
 Core 3 - Leviathan Animations Two-Handed Power Attacks updated to 1.4c.
 Core 3 - Axarien's Animations Lucien updated to 2.0.
 Core 3 - Read the Room updated to 2.2.1.
 Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.9.2.
+Core 3 - Armor and Clothing Extension updated to 1.5.1.
 Core 3 - Complete Alchemy and Cooking Overhaul updated to 2.1.0.
-Core 3 - Complete Crafting Overhaul Remastered updated to 2.5.1.
+Core 3 - Complete Crafting Overhaul Remastered updated to 2.5.2.
 Core 3 - Forceful Tongue updated to 3.0.8.
 Core 3 - BUVARP RE - Patches files to download changed (-CFTO, +Favor Quests)
 Core 3 - Informed Mail Delivery file to download changed to YOT version

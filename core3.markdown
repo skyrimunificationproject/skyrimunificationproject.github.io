@@ -1731,7 +1731,7 @@ Optional Files:
 
 ## Armor and Clothing Extension 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.5` | Author: `kryptopyr and Gamwich` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19002) | Version: `1.5.1` | Author: `kryptopyr and Gamwich` | ![Core] |
 Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
@@ -1757,7 +1757,7 @@ Pack the mod with CAO. (packing cleaned textures into archives properly)
 
 ## Complete Crafting Overhaul Remastered 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.5.1` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28608) | Version: `2.5.2` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered
 
 ## Skyrim Unification Project - Gameplay Overhaul
