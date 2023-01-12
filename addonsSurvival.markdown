@@ -3,7 +3,9 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
-# Addon - Immersion and Survival (Core)
+Install these categories between "Utilities" and "Conflict Resolution".
+
+# A01. Addon - Immersion and Survival (Core)
 
 ## Savage Offspring SKSE
 
@@ -102,8 +104,8 @@ MineOreScript.pex:
 
 ## Go To Bed
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.4` | Author: `Andrelo`
-Download: | Old Files: Gotobed
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
+Download: | Main Files: Gotobed (1.5.97)
 | Optional Files: Patches
 
 ![FOMOD]
@@ -117,7 +119,7 @@ Step 1: Mods:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38762) | Version: `5` | Author: `TheSecretMaster`
 Download: | Main Files - Suspicious City Guards
 
-# Addon - Immersion and Survival (Late Loaders)
+# A02. Addon - Immersion and Survival (Late Loaders)
 
 ## Campfire - SunHelm - Water-Borne Diseases Patch
 
@@ -165,7 +167,7 @@ Download: | Main Files: Go To Bed - DAR patch SE - PLAYER and NPCs
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62133) | Version: `1.0` | Author: `Isquras`
 Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 
-# Addon - Immersion and Survival (More Immersion)
+# A03. Addon - Immersion and Survival (More Immersion)
 
 ## Backpack Penalty
 
@@ -185,7 +187,7 @@ Delete *_KID.ini.
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.2` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.3` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ## Immersive Spell Learning - DESTified

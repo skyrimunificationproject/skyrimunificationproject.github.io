@@ -3,74 +3,37 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
-Install these categories between "Late Loaders - ENB, Meshes, and Textures" and "Utilities".
+Install these categories between "Utilities" and "Conflict Resolution".
 
 
-# Addon - Adventures - Install Changes
+# B01. Addons - Adventures - Install Changes
 
----
 
-This section updates previously installed parts of the guide for Adventures content.  In all cases the new files are added/merged to the previously installed mod without moving it.
 
-## Farmhouse Chimneys
+## A Clear Map of Skyrim And Other Worlds [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core]
-Download and merge into previous install: | Main Files - Farmhouse Chimneys SE v4.1.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56367) | Version: `3.2.1` | Author: `DoubleYou` | ![Core]
+Download: | Main Files - A Clear Map of Skyrim and Other Worlds FOMOD
 
 ![FOMOD]
 ~~~
-Modded Towns:
-   * Helgen Reborn
-New Lands:
+DynDOLOD Rules:
+   * DynDOLOD 3
+LOD Setup:
+   * With DynDOLOD LOD32
+Other Worlds:
    * Falskaar
    * Wyrmstooth
-New Villages:
+Optional Components:
+   * Remove Clouds
+Patches:
    * None
 ~~~
 
-## Headhunter - Bounties Redone
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.30` | Author: `JaySerpa` | ![Core] |
-Download and merge into previous install: | Main Files - Headhunter - Bounties Redone
-
-![FOMOD]
-~~~
-ALLGUD:
-   * None
-Missives:
-   * Missives General Patch
-   * Missives Solstheim
-   * Missives Wyrmstooth
-~~~
-
-## Missives - Worldspace Additions
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.05` | Author: `AndrealphusVIII` | ![Core]
-Download and merge into previous install: | Main Files - Missives - Falskaar Patch
- | Main Files - Missives - Wyrmstooth patch
- | Main Files - Missives - Gray Cowl Patch
-
-## My Road Signs are Beautiful - Multilingual HD Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] 
-Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
-
-![FOMOD]
-~~~
-Versions:
-   * Dirty Version - 4K-2K
-Weathered Road Signs:
-   * None
-Falskaar:
-   * Textures - 4K-2K
-Wyrmstooth:
-   * Textures - 4K-2K
-~~~
-
-## BURP - Book Unity and Revamp Project
+## BURP - Book Unity and Revamp Project [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
-Download and merge: | Main Files - BURP - Desatured Textures
+Download: | Main Files - BURP - Desatured Textures
 
 ![FOMOD]
 ~~~
@@ -79,7 +42,7 @@ Unity Patches:
 Titles:
    * Unified (Recommended)
 File Selection:
-   * Black Sacrament Armor
+   * Artifacts of Boethiah
    * The Brotherhood of Old
    * Falskaar
    * The Forgotten City
@@ -107,10 +70,49 @@ Leveled Lists:
 Delete *.esp.
 ~~~
 
-## JS Dragon Claws 
+## Dragon War - A Dragon Overhaul - Patches [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core]
+Download: | Misc Files - Dragon War - Wyrmstooth Patch
+
+## Farmhouse Chimneys [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core] ![ESL-C]
+Download: | Main Files - Farmhouse Chimneys SE v4.1.1
+
+![FOMOD]
+~~~
+Modded Towns:
+   * Helgen Reborn
+New Lands:
+   * Falskaar
+   * Wyrmstooth
+New Villages:
+   * None
+~~~
+
+## Forceful Tongue - Shouts Overhaul - Patches [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `1.0.2` | Author: `Delta` | ![Core] 
+Download: | Main Files - Forceful Tongue - Wyrmstooth Patch
+
+## Headhunter - Bounties Redone [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.30` | Author: `JaySerpa` | ![Core] |
+Download: | Main Files - Headhunter - Bounties Redone
+
+![FOMOD]
+~~~
+ALLGUD:
+   * None
+Missives:
+   * Missives Wyrmstooth
+~~~
+
+## JS Dragon Claws [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals] 
-Download and merge into previous install: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
+Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
 
 ![FOMOD]
 ~~~
@@ -123,7 +125,7 @@ Konahrik's Accoutrements:
 Helgen Reborn:
    * Helgen Reborn + LOTD
 Skyrim Sewers:
-   * Skyrim Sewers + LOTD
+   * None
 ~~~
 
 ![PostInstall]
@@ -131,15 +133,67 @@ Skyrim Sewers:
 Delete *.esp.
 ~~~
 
-## Praedy's Staves AIO
+## kryptopyr's Patch Hub [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65481) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals] 
-Download and merge into previous install: | Main Files - Staves AIO 2K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] 
+Download: | Main Files - kryptopyr's Patch Hub Installer
 
 ![FOMOD]
 ~~~
-Allow overwriting of previous install
+Mods:
+   * CACO - Complete Alchemy and Cooking Overhaul
+Mod Detection:
+   * None
+CACO - Creation Club:
+   * None
+CACO - Other: (select only)
+   * Falskaar
+   * Moonpath to Elswyr
+   * The Gray Cowl of Nocturnal
+   * Wyrmstooth
+~~~
 
+## Lucien - Patches [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] 
+Download: | Optional Files - Lucien - Moon and Star Patch
+| Optional Files - Lucien - Moonpath to Elsweyr Patch
+
+## Lux and Lux Orbis
+
+Reinstall Lux and Lux Orbis from the Core - Lighting section and choose the specified Adventures options.
+
+## Missives - Worldspace Additions [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.05` | Author: `AndrealphusVIII` | ![Core]
+Download: | Main Files - Missives - Falskaar Patch
+ | Main Files - Missives - Wyrmstooth patch
+ | Main Files - Missives - Gray Cowl Patch
+
+## My Road Signs are Beautiful - Multilingual HD Retexture [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] 
+Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
+
+![FOMOD]
+~~~
+Versions:
+   * Dirty Version - 4K-2K
+Weathered Road Signs:
+   * None
+Falskaar:
+   * Textures - 4K-2K
+Wyrmstooth:
+   * Textures - 4K-2K
+~~~
+
+## Praedy's Staves AIO [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65481) | Version: `1.3` | Author: `PraedythXVI` | ![Core] ![Visuals] 
+Download: | Main Files - Staves AIO 2K
+
+![FOMOD]
+~~~
 - LotdOrVanilla
    * Lotd
 - DragonPriestStaffBase
@@ -151,7 +205,7 @@ Allow overwriting of previous install
 - StaffOfMagnusOptions
    * BlueCrystal
 - Patches
-   * OliviaStaff
+   * None
 - CC
    * None
 - Extras
@@ -161,22 +215,36 @@ Allow overwriting of previous install
 ![PostInstall]
 ~~~
 Delete Praedy's StavesAIOLotd.esp.
+Delete textures/praedythxvi/Staves/AetherialStaff/.
 ~~~
 
-## Stalhrim Refrozen
+## RS Children Overhaul - Patch Compendium [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13409) | Version: `5` | Author: `MichelleBrujah- Seoulcalibre - Atsuraelu` | ![Core] ![Visuals] ![QAC]
+Download: | Main Files - RSC FOMOD Beta
+
+![FOMOD]
+~~~
+RSChildren Patches:
+   * Falskaar
+   * Forgotten City
+   * Helgen Reborn
+   * Moon and Star
+   * Wyrmstooth
+~~~
+
+## Stalhrim Refrozen [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41348) | Version: `1.6` | Author: `Jelidity` | ![Visuals] |
-Download and merge into previous install: | Main Files - Stalhrim Refrozen
+Download: | Main Files - Stalhrim Refrozen
 | Misc Files - Stalhrim Refrozen - Konahrik's Accoutrements 4k
 | Misc Files - Stalhrim Refrozen - LotD Vahlok Mask 4k
 
 ![FOMOD]
 ~~~
 Addons:
-   * Heavy Armory
    * Konahrik's Accoutrements
    * Legacy of the Dragonborn
-   * Royal Armory
 Ancient Nord Stalhrim:
    * None
 Katana Crafting:
@@ -187,185 +255,15 @@ Lovely Longswords:
    * None
 ~~~
 
-## Skeleton Replacer HD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52845) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
-Download and merge into previous install: | Main Files - Skeleton Replacer HD 2K SE
-| Miscellaneous Files - SkeletonReplacer - PatchCollection
 
-![FOMOD]
-~~~
-PluginType:
-   * ESPFE
-SkeletonEyeGlow:
-   * SkeletonsWithEyeGlow
-SCSkeletons:
-   * SoulCairnSkeletons AE
-Support Options:
-   * BeastSkeletons
-   * M'Rissi (for soft compat.)
+# B02. Addons - Adventures - Legacy of the Dragonborn
 
-Patches:
-   * MajesticMountains
-   * SkeletonEyesENBLight
-   * UniqueSkullsPotema
-   * ToolsOfKagrenac
-~~~
 
-![PostInstall]
-~~~
-Delete PraedysSkeletons.esp.
-~~~
-
-## A Clear Map of Skyrim And Other Worlds
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56367) | Version: `3.2.1` | Author: `DoubleYou` | ![Core]
-Download and merge into previous install: | Main Files - A Clear Map of Skyrim and Other Worlds FOMOD - PART 1
-
-![FOMOD]
-~~~
-DynDOLOD Rules:
-   * DynDOLOD 3
-LOD Setup:
-   * With DynDOLOD LOD32
-Other Worlds:
-   * Falskaar
-   * Wyrmstooth
-Optional Components:
-   * Remove Clouds
-Patches:
-   * None
-~~~
-
-## Lux
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `5.3.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
-Download and merge into previous install: | Main Files - Lux
-
-![FOMOD]
-~~~
-Lux optimized Creation Club meshes:
-   * Creation Club Meshes
-Lux optional effects:
-   * Beams - PARTICLE without effect lighting
-   * Mists and fogs - Effect lighting without PARTICLE
-   * Webs
-Lux fixed Ice Cave Meshes:
-   * None
-Lux optimized SMIM Meshes:
-   * SMIM meshes
-Lux optimized rugs:
-   * RUGNAROK rugs
-Lux optimized pelts:
-   * PELTAPALOOZA pelts
-Lux optimized tables:
-   * SD's Table replacer
-Lux optimized chandeliers:
-   * SD's chandeliers
-Lux optimized Embers meshes:
-   * BYOH fireplace
-Lux optional Giant Campfires:
-   * None
-No Grass In Caves:
-   * None
-Brighter Templates:
-   * None (you can adjust for personal taste)
-Compatibility Patches:
-   * Legacy of the Dragonborn (uncheck all others)
-   * Legacy of the Dragonborn Creation Club Hall of Wonders
-Crossover Patches:
-   * None (uncheck all)
-Non automated patches:
-   * None
-Language packs:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete meshes/dungeons/caves/ice/.
-Delete meshes/dungeons/dwemer/bghalls/.
-Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
-Delete textures/architecture/solitude/.
-~~~
-
-## Lucien 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] 
-Download and merge into previous install: | Optional Files - Lucien - Moon and Star Patch
-| Optional Files - Lucien - Moonpath to Elsweyr Patch
-
-## Dragon War - A Dragon Overhaul 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core]
-Download and merge into previous install: | Misc Files - Dragon War - Wyrmstooth Patch
-
-## Forceful Tongue - Shouts Overhaul 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.6` | Author: `Delta` | ![Core] 
-Download and merge into previous install: | Main Files - Forceful Tongue - Wyrmstooth Patch
-
-## RS Children Overhaul - Patch Compendium
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13409) | Version: `5` | Author: `MichelleBrujah- Seoulcalibre - Atsuraelu` | ![Core] ![Visuals] |
-Download: | Main Files - RSC FOMOD Beta
-
-![FOMOD]
-~~~
-RSChildren Patches:
-   * Falskaar
-   * Forgotten City
-   * Helgen Reborn
-   * Interesting NPCs
-   * Moon and Star
-   * Wyrmstooth
-Misc Files:
-   * Babette with Fangs
-~~~
-
-## kryptopyr's Patch Hub
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] 
-Download and merge into previous install: | Main Files - kryptopyr's Patch Hub Installer
-
-![FOMOD]
-~~~
-Mods:
-   * CACO - Complete Alchemy and Cooking Overhaul
-Mod Detection:
-   * None
-CACO - Wintersun:
-   * Without Custom Race Support
-CACO - Other:
-   * Falskaar
-   * Moonpath to Elswyr
-   * The Gray Cowl of Nocturnal
-   * Wyrmstooth
-~~~
-
-## Skyrim Unification Project - Consistency Patches
-
-[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
-Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
-
-![FOMOD]
-~~~
-Install Type:
-   * All In One
-Select AIO Install Type:
-   * Core (automatic)
-   * Addons - Adventures
-~~~
-
----
-
-# Addon - Adventures - Legacy of the Dragonborn
-
----
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `5.6.4` | Author: `icecreamassassin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `5.6.5` | Author: `icecreamassassin` | 
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn
 
 ## Legacy of the Dragonborn - Safehouse Plus
@@ -378,15 +276,15 @@ Download: | Main Files - Legacy Safehouse Plus
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `2.0.3` | Author: `icecreamassassin` |  
 Download: | Main Files - Relic Hunter- Guildmaster Start
 
----
 
-# Addon - Adventures - Quests
 
----
+# B03. Addons - Adventures - Quests
+
+
 
 ## Falskaar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2057) | Version: `2.2` | Author: `AlexanderJVelicky` |  ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2057) | Version: `2.2` | Author: `AlexanderJVelicky` |  ![BSA] ![CAO] ![QAC] 
 Download: | Main Files - Falskaar V2_2
 
 ![PostInstall]
@@ -411,7 +309,7 @@ Download: | Main Files - Falskaar Wildlife add-on
 
 ## Helgen Reborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Version: `v106.SSE` | Author: `Mike Hancho` | ![BSA] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | Version: `v106.SSE` | Author: `Mike Hancho` | ![BSA] ![CAO] ![ESM]
 Download: | Main Files - Helgen Reborn SSE Version 106 With bsa file
 
 ![PostInstall]
@@ -436,7 +334,7 @@ Download: | Main Files - Main File
 
 ## Konahrik's Accoutrements
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22206) | Version: `5.5.3` | Author: `Edhelsereg` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22206) | Version: `5.5.3` | Author: `Edhelsereg` | ![CAO] ![QAC] ![ESM]
 Download: | Main Files - Konarik's Accoutrements - Dragon Priest Armory
 
 ![PostInstall]
@@ -446,17 +344,17 @@ Pack the mod with CAO.
 
 ## Moon and Star
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4301) | Version: `3.2` | Author: `GanXingba` |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4301) | Version: `3.2` | Author: `GanXingba` | ![ESM]
 Download: | Main Files - Moon and Star
 
 ## Moonpath to Elsweyr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![ESM]
 Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Teldryn Serious - Backstory Quest
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5541) | Version: `7.0` | Author: `Undriel` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5541) | Version: `7.0` | Author: `Undriel` | ![CAO] ![ESM]
 Download: | Main Files - Teldryn Serious Enhanced Edition
 
 ![PostInstall]
@@ -471,33 +369,33 @@ Download: | Main Files - Teldryn Serious Patch
 
 ## The Brotherhood of Old
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15322) | Version: `1.1.2` | Author: `TomTesoro` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15322) | Version: `1.1.2` | Author: `TomTesoro` | ![ESM]
 Download: | Main Files - The Brotherhood of Old
 | Optional Files - The Brotherhood of Old - RS Children Patch
 
 ## The Forgotten City
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1179) | Version: `1.8` | Author: `TheModernStoryteller` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1179) | Version: `1.8` | Author: `TheModernStoryteller` | ![QAC] ![ESM]
 Download: | Main Files - The Forgotten City
 
 ## The Gray Cowl of Nocturnal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4509) | Version: `1.3` | Author: `MannyGT` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4509) | Version: `1.3` | Author: `MannyGT` | ![QAC]
 Download: | Main Files - The Gray Cowl of Nocturnal
 
 ## The Grey Cowl of Nocturnal - Alikr Flora Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM]
 Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
 ## The Tools of Kagrenac
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.59` | Author: `Titansbane and PrivateEye` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.59` | Author: `Titansbane and PrivateEye` | ![ESM]
 Download: | Main Files - The Tools of Kagrenac V1.59 SSE
 
 ## There Is No Umbra - Chapter II
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.32` | Author: `FableForge` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.32` | Author: `FableForge` | ![CAO] ![ESM]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -517,7 +415,7 @@ Pack the mod with CAO.
 
 ## Wyrmstooth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.19.8` | Author: `Jonx0r` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.19.8` | Author: `Jonx0r` | ![ESM]
 Download: | Main Files - Wyrmstooth
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory
@@ -542,15 +440,15 @@ Download: | Main Files - Wyrmstooth World Map Edge Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79207) | Version: `1.01` | Author: `Paleforce`
 Download: | Main Files - Wyrmstooth Custom World Map Weather
 
----
 
-# Addon - Adventures - Treasures and World Expansions
 
----
+# B04. Addons - Adventures - Treasures and World Expansions
+
+
 
 ## Additional Hearthfire Dolls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![CAO] ![ESM]
 Download: | Main Files - Additional Hearthfire Dolls SE 3.0 Separate
 
 ![PostInstall]
@@ -572,17 +470,17 @@ Delete AdditionalHFDollsFixesLOTD.esp.
 
 ## Aetherium Armor and Weapons Compilation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2687) | Version: `1.1.0` | Author: `Darkjesusmn` |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2687) | Version: `1.1.0` | Author: `Darkjesusmn` | ![ESM]
 Download: | Main Files - AetheriumArmornWeaponsSSE with BSA
 
 ## Amulets of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/487) | Version: `4.061` | Author: `UNI00SL` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/487) | Version: `4.061` | Author: `UNI00SL` | ![ESM]
 Download: | Main Files - Amulets of Skyrim SSE
 
 ## Artifacts - The Ice Blade of the Monarch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13972) | Version: `2.6` | Author: `FrankFamily` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13972) | Version: `2.6` | Author: `FrankFamily` | ![ESM]
 Download: | Main Files - Ice Blade of the Monarch 2.6
 
 ![FOMOD]
@@ -593,7 +491,7 @@ Texture Resolution:
 
 ## Artifacts - The Tournament of the Ten Bloods
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15264) | Version: `2.1` | Author: `FrankFamily` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15264) | Version: `2.1` | Author: `FrankFamily` | ![ESM]
 Download: | Main Files - Tournament of the Ten Bloods 2.1
 
 ![FOMOD]
@@ -604,17 +502,17 @@ Texture Resolution:
 
 ## BadGremlins Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15092) | Version: `SE1` | Author: `badgremlin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15092) | Version: `SE1` | Author: `badgremlin` | ![ESM]
 Download: | Optional Files - MERGED ALL 4 BSA VERSION
 
 ## Cheesemod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36506) | Version: `1.01` | Author: `aviform` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36506) | Version: `1.01` | Author: `aviform` | ![QAC] ![ESM]
 Download: | Main Files - Cheesemod for Everyone - Archived
 
 ## Fossil Mining
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14107) | Version: `3.2` | Author: `aviform` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14107) | Version: `3.2` | Author: `aviform` | ![CAO] ![ESM]
 Download: | Main Files - Fossil Mining V3.2
 
 ![PostInstall]
@@ -641,7 +539,7 @@ Pack the mod with CAO.
 
 ## Kthonia's Unique Weapon Pack - Dragonborn Weapons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15050) | Version: `1.2` | Author: `kthonia` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15050) | Version: `1.2` | Author: `kthonia` | ![CAO] ![QAC] ![ESM]
 Download: | Main Files - Kthonia's Dragonborn Weapons SE
 
 ![PostInstall]
@@ -651,12 +549,12 @@ Pack the mod with CAO.
 
 ## New Treasure Hunt
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19469) | Version: `1.83` | Author: `soreass and InstantKor` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19469) | Version: `1.83` | Author: `soreass and InstantKor` | ![ESM]
 Download: | Main Files - New Treasure Hunt
 
 ## Oblivion Artifact Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10644) | Version: `3.0` | Author: `Watcherzero` | ![BSA] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10644) | Version: `3.0` | Author: `Watcherzero` | ![BSA] ![CAO] ![ESM]
 Download: | Main Files - Oblivion Artifact Pack V3
 | Optional Files - Cleaned and Upscaled Textures
 
@@ -677,12 +575,12 @@ Pack the mod with CAO.
 
 ## Skyrim's Unique Treasures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | Version: `4.6` | Author: `clintmich and icecreamassassin and sirjesto` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | Version: `4.6` | Author: `clintmich and icecreamassassin and sirjesto` | ![ESM]
 Download: | Main Files - Skyrim Unique Treasures SE
 
 ## Treasure Hunter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5789) | Version: `1.2.1` | Author: `Arxie` |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5789) | Version: `1.2.1` | Author: `Arxie` | ![ESM]
 Download: | Main Files - Treasure Hunter
 
 ## Volkihar Knight - Vampire Armor
@@ -690,11 +588,11 @@ Download: | Main Files - Treasure Hunter
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4806) | Version: `1.0.0` | Author: `yamanotaka` | 
 Download: | Volkihar Knight SE 1.0.0
 
----
 
-# Addon - Adventures - NPC Retextures
 
----
+# B05. Addons - Adventures - NPC Retextures
+
+
 
 ## Modpocalypse NPCs - Falskaar
 
@@ -741,11 +639,11 @@ Download: | Main Files - Modpocalypse NPCs (v2) Wyrmstooth
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.0` | Author: `mocia` | 
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 
----
 
-# Addon - Adventures - Late Loaders
 
----
+# B06. Addons - Adventures - Late Loaders - Misc
+
+
 
 ## Dynamic Treasure Map Journal
 
@@ -997,11 +895,11 @@ Download: | Main Files - Legacy of the Dragonborn - YCM Dark Brotherhood Patch
 Pack the mod with CAO.
 ~~~
 
----
 
-# Addon - Adventures - Late Loaders - Textures & Meshes
 
----
+# B07. Addons - Adventures - Late Loaders - Textures and Meshes
+
+
 
 ## Aetherium Armor and Weapons Compilation - Enhancements
 
@@ -1241,11 +1139,27 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor
 | Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
 | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
----
 
-# Conflict Resolution
 
----
+# Z01. Conflict Resolution
+
+
+
+Reinstall or update/merge:
+
+## Skyrim Unification Project - Consistency Patches
+
+[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
+Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
+
+![FOMOD]
+~~~
+Install Type:
+   * All In One
+Select AIO Install Type:
+   * Core (automatic)
+   * Addons - Adventures
+~~~
 
 Place these after the existing Core CR mods.
 
@@ -1268,11 +1182,13 @@ Replacement Plugins:
    * Moonpath
 ~~~
 
----
+
+
+
 
 # Adventures - Final Steps
 
----
+
 
 ## xEdit
 
@@ -1324,11 +1240,11 @@ Wyrmstooth.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
 yumcheese.esp | Apply ESMifier script
 
----
+
 
 ## Finishing Steps
 
----
+
 
 Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 
@@ -1344,3 +1260,7 @@ Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
+[esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
+[esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
+[qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

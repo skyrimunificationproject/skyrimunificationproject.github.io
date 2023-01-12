@@ -3,9 +3,93 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-01-11
+
+
+
+![Added]
+~~~
+Core 1 - SKSE Plugins - Console Plus Plus
+Core 1 - Bug Fixes - Standing Ambusher Fix
+Core 1 - Content Clothing Expansions - Cloaks and Capes
+Core 1 - Content Clothing Expansions - Cloaks and Capes Cleaned and Upscaled
+Core 2 - Architecture - KG's Fences
+Core 2 - Caves and Dungeons - CC's HQ Mines Redone
+Core 2(3) - Flora - ElSopa Briar Heart
+~~~
+
+![Removed]
+~~~
+Core 1 - Map - Dynamic Snow for Map (ACMOS covered)
+Core 1 - Farmhouses - SD's Farmhouse Fences (KG)
+Core 2 - ElSopa Small Compilation Pack
+Core 2 - Elder Council Amulet Replacer (combined with Elder Scroll)
+Core 2 - Skyrim 3D Misc - Buckets (see changelog)
+~~~
+
+![Updated]
+~~~
+Prerequisites - DynDOLOD updated to Alpha-110.
+
+Guide categories renamed and refined - mods may have moved slightly when
+categories were divided but anything that moved significantly is mentioned below
+(using old(new) page listings) - update from this list, then align your mod categories
+and containing mods to the new guide pages.
+
+Core 1 - SKSE - Animated Static Reload Fix changed to NG version.
+Core 1 - SKSE - Display Tweaks additional file added (high performance)
+Core 1 - Bugs and Mesh Fixes - Animals Swim moved to this section
+Core 1 - Bugs and Mesh Fixes - Creation Club Asset Patch moved to this section
+Core 1 - Bugs and Mesh Fixes - Tavern AI Fix moved to this section.
+Core 1 - Gameplay Tweaks - Immersive Vampire Clutter moved to this section.
+Core 1 - Gameplay Tweaks - Realistic Dark Brotherhood Kidnapping moved to this section.
+Core 1 - Gameplay Tweaks - True Hunter moved to this section, updated to 5.0.
+Core 1 - Character Creation moved to after Gameplay Tweaks
+Core 1 - Camera divided from Map, moved to after Character Creation
+Core 1 - Modified Vanilla Content - At Your Own Pace updated (+Dark Brotherhood)
+Core 1 - Content Weapons Armor Expansions - Beyond Skyrim Bonemold Weapon aMidian Color Match moved to this section.
+Core 1 - Dynamic LOD - SSE Terrain Tamriel moved to Utilities.
+Core 2 - Architecture - This section divided up significantly.
+Core 2 - Architecture - Nordic Northern Roads moved to Landscape.
+Core 2 - Architecture - Skyrim Remastered High Hrothgar files changed (-lods)
+Core 2 - Architecture - PELTAPALOOZA moved to this section.
+Core 2 - Architecture - Rally's Barrels moved to this section.
+Core 2 - Architecture - Rudy HQ - Hay moved to this section.
+Core 2 - Architecture - Skyland Imperial and Nordic Tents moved to this section.
+Core 2 - Architecture - KG Imperial Tents moved to this section.
+Core 2 - Architecture - Illustrious Whiterun - Wood moved to Late Loaders Meshes and Textures.
+Core 2 - Ancient Structures moved to after Architecture
+Core 2 - Ancient Structures - Detailing the Eldritch moved to this section.
+Core 2 - Caves and Dungeons moved to after Ancient Structures.
+Core 2 - Dwemer Ruins - Ancient Dwemer Metal - Patches moved back (mostly) to this section.
+Core 2(3) - Flora and Food - this section divided.
+Core 2(3) - Food - Praedy's Repository moved to Clutter.
+Core 2(3) - Clutter and Miscellaneous divided into Clutter and Furniture.
+Core 2(3) - Clutter - Elder Scroll HD renamed Praedy's Elder Scroll and Elder Council Amulet, updated to 2.0.
+Core 2(3) - Furniture - Skyrim 3D Furniture - Changed instructions (-meadery)
+Core 2(3) - Furniture - Skyrim 3D Misc - split into individual installs, Buckets removed
+Core 2(3) - Creatures - Skeleton Replacer HD split into individual installs, Lux Patch moved to Late Loaders Meshes.
+Core 2(3) - Lighting moved below Meshes and Textures - Creatures and Wildlife
+Core 2(3) - Weather moved below Lighting.
+Core 3(5) - Late Loaders section divided
+Core 3(5) - Late Loaders - Icy Mesh Remaster updated to 1.80.
+Core 3(5) - Late Loaders ENB - WeldingMan's Smelter - updated instructions (delete gradient)
+Core 3(5+) - Addons moved to between Utilities and Conflict Resolution.
+
+Survival - Go To Bed updated to 2.0.7.
+
+Adventures - Mods altered from Core are now new installs into a new guide section at beginning of this addon list.
+             Exception: instructions within existing mod listing for Lux and Lux Orbis
+Adventures - Legacy of the Dragonborn updated to 5.6.5.
+
+Final - Removed instructions for ImperialSoldiersEscortFix, BUVARP CFTO, WedDialogueFix
+~~~
+
+
+
 # 2023-01-06
 
----
+
 
 ![Updated]
 ~~~
@@ -78,11 +162,11 @@ Survival - Survival Control Panel changed to 1.0.3. (last 1.5.97 version)
 Survival - Favor Jobs Overhaul updated to 2.2.0.
 ~~~
 
----
+
 
 # 2022-12-18
 
----
+
 
 ![Removed]
 ~~~
@@ -117,11 +201,11 @@ Final - Removed ESL instructions for BSMBonemold, CFTO-Immersive Citizens, CoW-A
 Final - Added compact instructions for IcyFixes
 ~~~
 
----
+
 
 # 2022-12-14
 
----
+
 
 ![Added]
 ~~~
@@ -152,11 +236,11 @@ Core 3 - Read the Room Settings Loader updated to 1.1.0.
 Core 3 - SUP Conflict Resolution patches updated.
 ~~~
 
----
+
 
 # 2022-12-11
 
----
+
 
 ![Added]
 ~~~
@@ -472,11 +556,11 @@ Survival - Addon section added.
 
 ~~~
 
----
+
 
 # 2022-08-06
 
----
+
 
 ![Added]
 ~~~
@@ -549,11 +633,11 @@ Final Steps - removed xedit instr. for Obsidian Mountain Fogs.
 Texgen, DynDOLOD, Nemesis
 ~~~
 
----
+
 
 # 2022-07-20
 
----
+
 
 ![Added]
 ~~~
@@ -579,11 +663,11 @@ Adventures - Legacy of the Dragonborn updated to 5.6.4.
 Adventures - Legacy of the Dragonborn Patches updated to 2.9.1.
 ~~~
 
----
+
 
 # 2022-07-18
 
----
+
 
 ![Added]
 ~~~
@@ -689,11 +773,11 @@ Several mods had CAO instructions added:
   Vanilla Plus Writing Purity Patch
 ~~~
 
----
+
 
 # 2022-07-10
 
----
+
 
 ![Added]
 ~~~
@@ -770,11 +854,11 @@ Core 3 - Your Own Thoughts (delete YOT - Your Own Thoughts - Patches.esp)
 Core 3 - SUP Gameplay Overhaul, Consistency Patches, and Conflict Resolution updated.
 ~~~
 
----
+
 
 # 2022-06-14
 
----
+
 
 ![Added]
 ~~~
@@ -837,11 +921,11 @@ Core 3 - Rudy Zangdar ENB updated to 6.0-Alpha1b-Test.
 Core 3 - SUP Gameplay Overhaul, Consistency Patches, Conflict Resolution updated.
 ~~~
 
----
+
 
 # 2022-05-28
 
----
+
 
 ![Added]
 ~~~
@@ -900,11 +984,11 @@ Core 3 - CBPC updated to 1.5.1.
 Core 3 - SUP Gameplay, Consistency Patches and Conflict Resolution updated.
 ~~~
 
----
+
 
 # 2022-05-16
 
----
+
 
 ![Added]
 ~~~
@@ -939,11 +1023,11 @@ Core 3 - SUP Consistency Patches updated without version change.
 Core 3 - SUP Conflict Resolution updated without version change.
 ~~~
 
----
+
 
 # 2022-05-08
 
----
+
 
 ![Added]
 ~~~
@@ -977,11 +1061,11 @@ Core 2 - Major Cities Mesh Overhaul updated to 1.1.
 Core 3 - Immersive Citizens updated to 0.4.0.1.
 ~~~
 
----
+
 
 # 2022-05-01
 
----
+
 
 ![Added]
 ~~~
@@ -1030,11 +1114,11 @@ Core 3 - Immersive Patrols updated to 3.0.
 Core 3 - SUP Conflict Resolution, Gameplay Overhaul updated without version change
 ~~~
 
----
+
 
 # 2022-04-11
 
----
+
 
 ![Added]
 ~~~
@@ -1111,11 +1195,11 @@ Core 3 - Fixed Mesh Lighting updated to 1.7.4.
 Core 3 - Savage Skyrim updated to 4.00.
 ~~~
 
----
+
 
 # 2022-03-25
 
----
+
 
 ![Added]
 ~~~
@@ -1174,11 +1258,11 @@ Core 3 - CBPC updated to 1.5.0.
 Core 3 - Windhelm Fake Windows Fix updated to 2.31.
 ~~~
 
----
+
 
 # 2022-03-07
 
----
+
 
 ![Added]
 ~~~
@@ -1202,11 +1286,11 @@ Core 1 - Atlas Map Markers Small Fixes (fixed in main mod)
 Core 3 - Modpocalypse NPCs Heritage (will return w/ Heritage)
 ~~~
 
----
+
 
 # 2022-03-05
 
----
+
 
 ![Added]
 ~~~
@@ -1319,11 +1403,11 @@ Core 3 - SUP Consistency Patches updated. (REPLACE)
 Core 3 - SUP Confict Resolution updated. (REPLACE)
 ~~~
 
----
+
 
 # 2022-02-11
 
----
+
 
 ![Added]
 ~~~
@@ -1355,11 +1439,11 @@ Core 3 - MoreHUD SE Settings Loader updated to 2.1.1.
 Core 3 - Improved Traps updated to 2.5.
 ~~~
 
----
+
 
 # 2022-01-29
 
----
+
 
 ![Added]
 ~~~
@@ -1386,11 +1470,11 @@ Core 3 - Bodyslide updated to 5.5.1.
 Core 3 - More Informative Console moved to SKSE Plugins
 ~~~
 
----
+
 
 # 2022-01-21
 
----
+
 
 ![Updated]
 ~~~
@@ -1406,11 +1490,11 @@ Core 3 - Sacrilege updated to 2.1.0.
 
 ~~~
 
----
+
 
 # 2022-01-16
 
----
+
 
 ![Removed]
 ~~~
@@ -1433,11 +1517,11 @@ Core 3 - Honed Metal updated to 1.22-RC3.
 Core 3 - Water in Wells - updated FOMOD instructions
 ~~~
 
----
+
 
 # 2022-01-10
 
----
+
 
 ![Added]
 ~~~
@@ -1471,11 +1555,11 @@ Core 1 - NORDIC UI - Miscellaneous Patches
 Core 1 - SkyUI Weapons Pack SE
 ~~~
 
----
+
 
 # 2022-01-04
 
----
+
 
 ![Updated]
 ~~~
@@ -1492,11 +1576,11 @@ Core 3 - Honed Metal Revoiced updated to 1.7.
 Addons - Corrected Northgirl downloads
 ~~~
 
----
+
 
 # 2021-12-29
 
----
+
 
 ![Added]
 ~~~
@@ -1529,11 +1613,11 @@ Final - Added missing ESM instruction for s6 Oblivion Gates.
 		Smooth Weapon, High Poly Head, FNIS (Nemesis dummy), Synthesis.
 ~~~
 
----
+
 
 # 2021-12-22
 
----
+
 
 ![Added]
 ~~~
@@ -1558,11 +1642,11 @@ Core 2 - Better Dynamic Ash - Note: keep the meshes/ from this mod
   until the next main CR update.
 ~~~
 
----
+
 
 # 2021-12-19
 
----
+
 
 ![Updated]
 ~~~
@@ -1574,11 +1658,11 @@ Core 3 - Valravn updated to 1.1.2.
 Core 3 - Odin updated to 1.9.1.
 ~~~
 
----
+
 
 # 2021-12-17
 
----
+
 
 ![Updated]
 ~~~
@@ -1588,11 +1672,11 @@ Core 2 - Water for ENB updated to 1.53.
 Core 3 - YASTM updated to 1.9.0-beta.
 ~~~
 
----
+
 
 # 2021-12-14
 
----
+
 
 ![Added]
 ~~~
@@ -1621,11 +1705,11 @@ Core 2 - Storm Lightning updated to 1.4.13.
 Utilities - FISSES
 ~~~
 
----
+
 
 # 2021-12-13
 
----
+
 
 ![Added]
 ~~~
@@ -1649,11 +1733,11 @@ Core 3 - SUP Conflict Resolution updated to 2.0.0.8A.
 Utilities - Predator Vision Settings Loader updated to 1.0.1.
 ~~~
 
----
+
 
 # 2021-12-12
 
----
+
 
 ![Updated]
 ~~~
@@ -1666,11 +1750,11 @@ Core 3 - Reliquary of Myth updated to 4.3.3.
 Final - Added BUVARP CFTO patch ESL instructions
 ~~~
 
----
+
 
 # 2021-12-10
 
----
+
 
 ![Updated]
 ~~~
@@ -1681,11 +1765,11 @@ Core 3 - YASTM updated to 1.8.1.
 Core 3 - Updated Reliquary of Myth to 4.3.2.
 ~~~
 
----
+
 
 # 2021-12-08
 
----
+
 
 ![Added]
 ~~~
@@ -1701,11 +1785,11 @@ Core 2 - Embers XD updated to 2.4.8.
 Final - Updated 3DNPC instructions. Updated Nemesis instructions.
 ~~~
 
----
+
 
 # 2021-12-06
 
----
+
 
 ![Added]
 ~~~
@@ -1724,11 +1808,11 @@ Core 3 - Skyrim Unification Project Conflict Resolution link updated
            - Updated Lux, OCW esps
 ~~~
 
----
+
 
 # 2021-12-05
 
----
+
 
 ![Updated]
 ~~~
@@ -1739,11 +1823,11 @@ Core 3 - Reliquary of Myth updated to 4.2.3.
 Core 3 - Water in Wells updated to 0.6.
 ~~~
 
----
+
 
 # 2021-12-04
 
----
+
 
 ![Added]
 ~~~
@@ -1771,11 +1855,11 @@ Final - Updated xEdit instructions (Lux Orbis, More Werewolves,
 Final - Updated MCM instructions to account for provided config files.
 ~~~
 
----
+
 
 # 2021-12-03
 
----
+
 
 ![Updated]
 ~~~
@@ -1784,11 +1868,11 @@ Core 3 - Reliquary of Myth updated to 4.2.2.
 Core 3 - Weapons Armor Clothing and Clutter Fixes updated to 2.7.
 ~~~
 
----
+
 
 # 2021-12-02
 
----
+
 
 ![Added]
 ~~~
@@ -1822,11 +1906,11 @@ Core 3 - Reliquary of Myth updated to 4.2.1.
 Core 3 - Forceful Tongue updated to 3.0.5.
 ~~~
 
----
+
 
 # 2021-12-01
 
----
+
 
 ![Added]
 ~~~
@@ -1842,11 +1926,11 @@ Core 3 - Fixed Mesh Lighting updated to 1.6 and updated FOMOD.
 Final - Fixed some xEdit instruction errors.
 ~~~
 
----
+
 
 # 2021-11-30
 
----
+
 
 ![Updated]
 ~~~
@@ -1861,11 +1945,11 @@ Core 2 - Lux instructions updated
 Texgen, DynDOLOD
 ~~~
 
----
+
 
 ## 2021-11-29
 
----
+
 
 ![Added]
 ~~~
@@ -1893,11 +1977,11 @@ Final Steps - Updated Ashbound, RoadSignsOverhaul, NSUTR,
 Final Steps - Moved quick clean xedit steps to own section, added EasyNPC
 ~~~
 
----
+
 
 ## 2021-11-28
 
----
+
 
 ![Updated]
 ~~~
@@ -1910,11 +1994,11 @@ Final Steps - Added ESM instructions for Embers/Water For ENB.
               Added ESM instructions for HappyLittleTrees and AspensAblaze.
 ~~~
 
----
+
 
 ## 2021-11-27
 
----
+
 
 ![Added]
 ~~~
@@ -1931,11 +2015,11 @@ Core 3 - Updated post-install instructions for Mesh Patch For Various Mods
 Final Steps - Updated instructions. (EasyNPC still pending)
 ~~~
 
----
+
 
 ## 2021-11-26
 
----
+
 
 ![Updated]
 ~~~
@@ -1949,11 +2033,11 @@ Core 3 - Modpocalypse Vanilla NPCs changed from v3 to v2
 Core 3 - Added patches link to YOT
 ~~~
 
----
+
 
 ## 2021-11-25
 
----
+
 
 ![Updated]
 ~~~
@@ -1962,11 +2046,11 @@ Core 3 - Smooth Combat non-Combat updated to 4.0
 Core 3 - WACCF updated to 2.6
 ~~~
 
----
+
 
 ## 2021-11-24
 
----
+
 
 ![Added]
 ~~~

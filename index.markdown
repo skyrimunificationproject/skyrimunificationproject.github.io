@@ -8,7 +8,7 @@ title: "Skyrim Unification Project"
 
 # Introduction
 
----
+
 
 Placeholder text.
 
@@ -16,33 +16,10 @@ Note that many compatibility patches have already been included in the Conflict 
 
 The version listed in each mod entry is the last version of the 'main' plugin download that the guide was checked against.  Only the files listed are required.  If the mod maintains both SE and AE versions, this may not be the same as the version listed on Nexus/MO2.
 
-![Core]
-
-Placeholder for core description.
-
----
-
-![Adventures]
-
-The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, the ability to alter the state of locations via Skyrim Realistic Conquering and Lawbringer, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
-
----
-
-![Arch]
-
-Project Arch is an optional add-on to Core and Adventures (both required).  It combines several popular city and town overhauls, notably but not limited to: JK's Skyrim, Expanded Towns and Cities, Blue Palace Terrace, Cities of the North Dawnstar, Cities of the North Falkreath, Rodryk's Dragon Bridge, Capital Windhelm Expansion, and Quaint Raven Rock.  All conflicts between these mods and the ones in Core and Adventures are resolved in a single set of conflict resolution patches, so all mods within this category are required.
-
----
-
-![Addon]
-
-Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.
-
----
 
 # Guide Tags
 
----
+
 
 ![Core]
 
@@ -80,6 +57,30 @@ These mods will be packed or repacked with Cathedral Assets Optimizer to create 
 
 ---
 
+![QAC]
+
+These mods will be run through Quick Auto Clean during Final Steps.
+
+---
+
+![ESM]
+
+These mods will have the ESMifier script run on them during Final Steps.
+
+---
+
+![ESL]
+
+These mods will have a missing ESL flag added during Final Steps.
+
+---
+
+![ESL-C]
+
+These mods will be compacted and then flagged ESL during Final Steps.  Note: This will break any patches that rely on the mod in question unless it is loaded in the same xEdit session.
+
+---
+
 ![FOMOD]
 
 Instructions about what options to pick in a FOMOD when installing.  As a general rule, if an option is not specifically mentioned then it should be 'None' or *unchecked*.
@@ -92,27 +93,44 @@ Instructions on files to move or delete *within the mod* after installing into M
 
 ---
 
-# Prerequisites
+![Adventures]
+
+The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
 
 ---
+
+![Arch]
+
+Project Arch is an optional add-on to Core and Adventures (both required).  It combines several popular city and town overhauls, notably but not limited to: JK's Skyrim, Expanded Towns and Cities, Blue Palace Terrace, Cities of the North Dawnstar, Cities of the North Falkreath, Rodryk's Dragon Bridge, Capital Windhelm Expansion, and Quaint Raven Rock.  All conflicts between these mods and the ones in Core and Adventures are resolved in a single set of conflict resolution patches, so all mods within this category are required.
+
+---
+
+![Addon]
+
+Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.
+
+
+# Prerequisites
+
+
 
 The following modding tools should be installed into a directory that is not the base skyrim folder, nor a UAC-protected location such as Program Files (x86), the root of C:, or /Users/.  
 
----
+
 
 # Best Of Both Worlds Downgrader
 
----
+
 
 Make sure Skyrim is updated to the latest version in Stream.
 
 Download the "Best of Both" optional file from [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) and run it.
 
----
+
 
 # Skyrim Creation Kit
 
----
+
 
 ## Skyrim Creation Kit
 
@@ -144,11 +162,11 @@ Manually extract the files into your Skyrim Special Edition folder.
 Note: Using 3.3 because there are some undesirable changes in 3.4 currently.
 ~~~
 
----
+
 
 # Skyrim Script Extender
 
----
+
 
 ## Skyrim Script Extender
 
@@ -163,11 +181,11 @@ Manually extract skse64_1_5_97.dll, skse64_loader.exe,
 The Scripts folder will be installed later with Mod Organizer 2.
 ~~~
 
----
+
 
 # Tools
 
----
+
 
 ## Cathedral Assets Optimizer
 
@@ -228,11 +246,11 @@ Manually extract the folder into Modding\Skyrim\Tools\EasyNPC
  (or to a folder where you will store your tools).
 ~~~
 
----
+
 
 # xEdit
 
----
+
 
 ## xEdit
 
@@ -268,11 +286,11 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
   (or to a folder where you will store your tools)
 ~~~
 
----
+
 
 # Synthesis
 
----
+
 
 ## Synthesis
 
@@ -285,11 +303,11 @@ Extract the contents into a Modding\Skyrim\Tools\Synthesis\.
   (or to a folder where you will store your tools)
 ~~~
 
----
+
 
 # Mod Organizer 2
 
----
+
 
 ## Mod Organizer 2
 
@@ -349,11 +367,11 @@ Binary: (EasyNPC location)\EasyNPC.exe
 
 You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this same window as instructed to later in the guide.
 
----
+
 
 # BethINI
 
----
+
 
 ## BethINI
 
@@ -453,11 +471,11 @@ Close Mod Organizer 2 and run BethINI.exe.
    uLargeRefLODGridSize=11
 ~~~
 
----
+
 
 # LOD Generation
 
----
+
 
 ## xLODGEN
 
@@ -480,7 +498,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-108` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-110` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
@@ -493,11 +511,7 @@ Add TexGenx64.exe and DynDOLODx64.exe as an executable in Mod Organizer 2.
 For each add the following to the arguments field: -sse.
 ~~~
 
----
-
 # ENB Series Binaries
-
----
 
 ## ENB Series Skyrim
 
@@ -524,3 +538,7 @@ Manually extract d3dcompiler_46e.dll and d3d11.dll into your
 [addon]: https://img.shields.io/badge/Add--On-600060?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
 [optionalLg]: https://img.shields.io/badge/Optional-AAAA00?style=for-the-badge
+[esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
+[esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
+[qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

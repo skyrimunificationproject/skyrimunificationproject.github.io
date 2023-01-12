@@ -51,7 +51,6 @@ Babette has Fangs.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
-BUVARP SE RE - CFTO Patch.esp | Add ESL flag
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
@@ -73,7 +72,6 @@ HoldBorderBanners.esp | Compact formIDs, add ESL flag
 IcyFixes.esm | Compact formIDs, add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
-ImperialSoldiersEscortFix.esp | Add ESL flag
 Inigo.esp | Apply ESMifier script
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Apply ESMifier script
@@ -117,21 +115,21 @@ WedDialogueFix.esp | Add ESL flag
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
----
+
 
 # LOOT
 
----
+
 
 Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution\[MOVE to LOOT]\ folder to (your user)\AppData\Local\LOOT\games\Skyrim Special Edition\.
 
 Sort your mods with the LOOT executable shortcut from MO2.
 
----
+
 
 # EasyNPC
 
----
+
 
 Launch EasyNPC from MO2. Click OK to confirm the load order. 
 
@@ -141,11 +139,11 @@ Click Build at the top of the window. There should not be any warnings under ale
 
 Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than Modpocalypse - Resources, RS Children, and RS Children patches.
 
----
+
 
 # Synthesis
 
----
+
 
 Run Synthesis (download the required dependencies if you do not have them already installed. Synthesis will tell you if do not have them installed)
 
@@ -174,11 +172,11 @@ Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
 
 Flag the generated Synthesis.esp as ESL.
 
----
+
 
 # Bodyslide
 
----
+
 
 Before running Bodyslide, find a preset on Nexus that you like, unless you plan on using one of the default presets from CBBE.
 
@@ -221,11 +219,11 @@ Choose the destination, either as its own mod or in MO2’s Overwrite folder.
 
 Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Outfits`
 
----
+
 
 # Nemesis
 
----
+
 
 Create a new mod in Mod Organizer named `Nemesis - Output`
 
@@ -251,11 +249,11 @@ When the log window says 'Behavior generation complete.', close Nemesis.
 
 Flag the generated FNIS.esp as ESL.
 
----
+
 
 # xLODGEN
 
----
+
 
 Activate SSE-Terrain-Tamriel-Extend.esm and load it as the last ESM.
 
@@ -281,11 +279,11 @@ When xLODGEN finishes generating deactivate SSE-Terrain-Tamriel-Extend.esm.
 
 Move SSE_LODGEN folder to your MO2’s mod folder and activate it as a mod.
 
----
+
 
 # Grass Cache (Optional)
 
----
+
 
 Note: Only do this step if you plan to enable Grass LOD.  The grass cache may take up several GB on your drive.
 
@@ -310,11 +308,11 @@ If you want to increase the speed it generates the cache, you can disable Septen
 
 Once the process completes, move the overwrite/grass/ to a new Grass Cache mod folder and refresh MO2.
 
----
+
 
 # DynDOLOD
 
----
+
 
 IMPORTANT: If you disabled texture mods for Grass Cache, turn them back on!
 
@@ -342,11 +340,11 @@ Click start.
 
 After it completes, choose "Save and Zip and Exit", then install the zip as a mod in MO2.
 
----
+
 
 # MCM Settings
 
----
+
 
 The following MCM menus will be auto-populated from files distributed with Skyrim Unification Project - Conflict Resolution, either by settings loader or direct globals editing.
 
@@ -415,3 +413,7 @@ Settings
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
+[esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
+[qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

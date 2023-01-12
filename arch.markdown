@@ -7,11 +7,13 @@ title: "Skyrim Unification Project"
 
 This module is not ready for download yet. This page is for internal tracking only until the conflict resolution patches are finalized.
 
----
+Install these categories between "Addons - Adventures" and "Conflict Resolution".
+
+
 
 # Project Arch - Install Changes
 
----
+
 
 ## My Road Signs are Beautiful - Multilingual HD Retexture
 
@@ -83,7 +85,7 @@ Download and merge into previous install: | Optional Files - Ashbound - Solsthei
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.4` | Author: `mindflux` | ![Core] ![Visuals]|
 Download and merge into previous install: | Optional Files - Cultured Orc Furniture
 
----
+
 
 ## Cities of the North - Dawnstar - Performance Fix
 
@@ -136,12 +138,6 @@ WindhelmEntranceOverhaul.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
 
 
----
-
-## Placeholder
-
-[![mod]](nexusurl) | Version: `version` | Author: `author` | ![Core] |
-Download: | Filename
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
@@ -155,3 +151,7 @@ Download: | Filename
 [adventures]: https://img.shields.io/badge/Adventures-blueviolet?style=flat-square
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
+[esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
+[esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
+[qac]: https://img.shields.io/badge/QAC-critical?style=flat-square
