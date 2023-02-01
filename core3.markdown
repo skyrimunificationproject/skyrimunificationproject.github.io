@@ -76,6 +76,8 @@ LOD Textures:
 Delete meshes/clutter/mehrunes/shrinemehrunes01.nif.
 Delete textures/clutter/mehrunesstatue01*.
 Delete textures/clutter/statues.
+Delete textures/effects.
+Delete textures/landscape/tundramoss01.dds.
 ~~~
 
 ## Majestic Mountains - Darkside - DynDOLOD
@@ -135,14 +137,18 @@ Delete Skyrim Remastered - Glaciers and Ice.esp.
 ## Skyrim Remastered - Glaciers and Ice - DynDOLOD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41432) | Version: `1.00` | Author: `gravos8890` | ![Core] ![Visuals] |
-Download: | TBD
+Download: | Optional Files - Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD
 
 ## Skyrim Remastered - Glaciers and Ice - 4K Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71452) | Version: `1.0` | Author: `RokHel` | ![Visuals]
 Download: | Main Files - Skyrim Remastered - Glacier and Ice 4K
 
+## Slightly Better Rock Cairns
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81481) | Version: `1.2` | Author: `FrankBlack` | ![Visuals]
+Download: | Main Files - slightly Better Rock Cairns
+| Optional Files - slightly Better Rock Cairns Update 1.3 ALT
 
 # 32. Meshes and Textures - Environment
 
@@ -174,18 +180,10 @@ Patches:
 Delete meshes/dlc01/dungeons/.
 ~~~
 
-## No Snow Under the Roof - WiZkiD Edition 
+## No Snow Under the Roof - Patched Edition 
 
-[![mod]](https://drive.google.com/file/d/1AZ_fljHSpfsM2VxKF0ecHQ55ls48YHfv/view) | Version: `5.1.7` | Author: `WiZKiD` | ![Core] ![ESM]
-Download: | Main Files - No Snow Under the Roof - WiZkiD Edition
-
-![FOMOD]
-~~~
-NOTE: Only select specified options, uncheck anything that is autoselected.
-
-Patches:
-   * None
-~~~
+[![mod]](https://www.dropbox.com/s/k9auuwomz2dqnqa/No%20Snow%20Under%20the%20Roof%20-%20Patched%20Edition.7z?dl=0) | Version: `5.1.7` | Author: `The Community` | ![Core]
+Download: | Main Files - No Snow Under the Roof - Patched Edition
 
 ## Water Effects Brightness and Reflection Fix
 
@@ -204,7 +202,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.71` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.72` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -280,7 +278,7 @@ Download: | Main Files - Happy Little Trees 3D LOD - Performance
 
 ## Happy Little Logs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76142) | Version: `1.3` | AUthor: `Pieter82` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76142) | Version: `1.4` | AUthor: `Pieter82` | ![Visuals]
 Download: | Main Files - Happy Little Logs
 
 ## Aspens Ablaze
@@ -315,16 +313,10 @@ Leaf Color:
    * Autumnal
 ~~~
 
-## Canticle Tree - Bark and Draw Knife Retexture
+## A Canticle Tree
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45548) | Version: `1.0` | Author: `IWantATardis` | ![Core] ![Visuals]
-Download: | Optional Files - Canticle Bark
-| Optional Files - Canticle Tree
-
-## High Poly Canticle Tree
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51433) | Version: `0.1` | Author: `wSkeever` | ![Core] ![Visuals]
-Download: | Main Files - High Poly Canticle Tree
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82182) | Version: `1.1` | Author: `wSkeever - kiddgimmick` | ![Core] ![Visuals]
+Download: | Main Files - A Canticle Tree
 
 ## Fancy Sleeping Tree Replacer
 
@@ -381,7 +373,7 @@ Download: | Main Files - Realistic HD Mushrooms Remastered - Rock Texture Integr
 
 ## A Potato Plant
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79466) | Version: `1.1` | Author: `Kidgimmick` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79466) | Version: `2.1` | Author: `Kidgimmick` | ![Visuals]
 Download: | Main Files - A Potato Plant
 
 ## Beehive Replacer
@@ -394,6 +386,11 @@ Download: | Main Files - beehive replacer (se-ae)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79367) | Version: `1.0` | Author: `Xtudo` | ![Visuals]
 Download: | Main Files - Beehive Replacer - Optimized textures by Xtudo SE - MY VERSION
 
+## Cabbage - A Cabbage Mod
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80720) | Version: `1.0` | Author: `Kreiste and wSkeever` | ![Visuals]
+Download: | Main Files - Cabbage
+
 ## Cathedral - Plants 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26104) | Version: `1.02` | Author: `JonnyWang13` | ![Visuals] |
@@ -403,6 +400,11 @@ Download: | Main Files - Cathedral - Plants
 ~~~
 Delete textures/architecture/whiterun.
 ~~~
+
+## Cathedral - 3D - Black Mountain Flowers - For Interesting NPCs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60058) | Version: `1.0` | Author: `Johnny Wang and AgentW` | ![Visuals]
+Download: | Optional Files - Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - Fixed Mesh Lighting
 
 ## Cathedral - 3D - Clovers
 
@@ -418,6 +420,17 @@ Download: | Main Files - Cathedral - 3D Lavender - Vanilla Size
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `2.0` | Author: `Jonny Wang` | ![Core] ![Visuals]|
 Download: | Main Files - Cathedral - 3D Mountain Flowers
+
+## Cathedral - 3D - Nightshade
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81284) | Version: `2.4` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Nightshade
+
+![FOMOD]
+~~~
+Textures:
+   * Rally Edit - Dark and Desaturated
+~~~
 
 ## Creepy Chaurus Eggs
 
@@ -465,11 +478,6 @@ Download: | Main Files - 2k Frost mirriam and Elves Ears
 [![mod]](https://www.nexusmods.com/skyrim/mods/90697) | Version: `1.1` | Author: `MassiveMaster` | ![Visuals] |
 Download: | Main Files - 2k GleamBlossom and glowing groun plants
 
-## Freezing Cold Frost Salts
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65292) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
-Download: | Main Files - Freezing Cold Frost Salts
-
 ## Glimmering Glow Dust
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67291) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
@@ -505,6 +513,11 @@ Download: | Main Files - High Poly Blackreach Mushrooms - Skyrim Remastered Patc
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40278) | Version: `1.2` | Author: `powerofthree` | ![Visuals] |
 Download: | Main Files - High Poly Gleamblossoms - ENB Light
 
+## High Poly Trama Roots
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82499) | Version: `1.2` | Author: `RemmyKun` | ![Visuals]
+Download: | Main Files - High Poly Trama Roots
+
 ## Icy Wraith Teeth
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64356) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
@@ -519,6 +532,21 @@ Download: | Main Files - Improved Dragonfly
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37360) | Version: `1.3` | Author: `BKCXb` | ![Visuals] |
 Download: | Main Files - Upgraded Dragonflies for CACO
+
+## Kabu's Frost Salts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80562) | Version: `1.0` | Author: `Kabu` | ![Visuals]
+Download: | Main Files - Kabu's Frost Salts 2k
+
+## KG's Elves Ear
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81912) | Version: `1.0` | Author: `Kiddgimmick` | ![Visuals]
+Download: | Main Files - KG's Elves Ear Replacer
+
+## KG's Frost Mirriam
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81901) | Version: `1.0` | Author: `Kiddgimmick` | ![Visuals]
+Download: | Main Files - KG's Frost Mirriam
 
 ## Mari's Flora
 
@@ -594,6 +622,16 @@ Texture Size:
    * 2K
 ~~~
 
+## Slaughterfish Eggs are Fish Eggs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82259) | Version: `1.0` | Author: `FrankBlank` | ![Visuals]
+Download: | Main Files - Slaughterfish Eggs are Fish Eggs
+
+## Spiky Grass Mesh Improvements
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79082) | Version: `1.3` | Author: `Pieter82` | ![Visuals]
+Download: | Main Files - Spiky Grass Mesh Improvements SE V1_3
+
 ## Sufficiently Optimized Snowberries 3D
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42033) | Version: `0.6` | Author: `wSkeever` | ![Visuals] |
@@ -615,10 +653,14 @@ Download: | Main Files - Surreal Spriggan Sap SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64007) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
 Download: | Main Files - Volatile Void Salts SE
 
+## A Fungal Pod
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80282) | Version: `1.0` | Author: `kiddgimmick` | ![Visuals]
+Download: | Main Files - A Fungal Pod
 
 ## Cathedral - 3D Thistle
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67619) | Version: `1.1` | Author: `DrJacopo` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67619) | Version: `2.1` | Author: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Thistle
 
 ## Cathedral - 3D Tundra Cotton
@@ -718,6 +760,12 @@ Download: | Main Files - Leek
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23007) | Version: `1.3.0` | Author: `mathy79` | ![Visuals] |
 Download: | Main Files - Skyrim 3D Cooking
 
+## Sowables of Skyrim - Leeks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80907) | Version: `1.01` | Author: `wSkeever - kirara386` | ![Visuals]
+Download: | Main Files - 2k Leek Texture
+| Main Files - Leek Meshes
+
 ## Unique Stros M'Kai Rum
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43830) | Version: `1.2` | Author: `fadingsignal` | ![Visuals] ![BSA]|
@@ -794,7 +842,7 @@ BURP:
 
 ## BURP Spell Tomes Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.7` | Author: `MidnightVoyager` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.8` | Author: `MidnightVoyager` | ![Core] ![Visuals]
 Download: | Main Files - BURPST New Resources
 
 ![PostInstall]
@@ -1111,6 +1159,11 @@ Paper Tenets:
    * Fine Script
 ~~~
 
+## Eldergleam Sap - High Poly
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80465) | Version: `1.01` | Author: `markuskarttunen1` | ![Visuals]
+Download: | Main Files - Eldergleam Sap
+
 ## ElSopa HD - Medieval Anvil
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48825) | Version: `1.2` | Author: `ElSopa` | ![Visuals] |
@@ -1361,11 +1414,47 @@ Textures for Nordic ruins pottery:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30055) | Version: `1.0` | Author: `SDlutz` | ![Visuals] |
 Download: | Main Files - Basic Dining Set Replacer 2k
 
+## Rally's Display Cases
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81764) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rally's Display Cases
+
+![FOMOD]
+~~~
+Textures:
+   * BOS Rippled Glass - Dark Wood 4K (or your choice as long as it's BOS)
+~~~
+
+## Rally's Handcarts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80828) | Version: `1.0` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rally's Handcarts
+
+![FOMOD]
+~~~
+Textures:
+   * Green 4K (or your choice)
+~~~
+
+## Rally's Market Stalls
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81282) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rallys Market Stalls FOMOD
+
+![FOMOD]
+~~~
+Textures:
+   * Dark Wood 4K (or your choice)
+Trellis:
+   * 3D Trellis
+~~~
+
+## Weldingmans Enchanting Table Variants - Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80493) | Version: `1.4beta3` | Author: `WeldingManDE` | ![Visuals]
+Download: | Main Files - WeldingMans Enchanting Tables Variants (BOS) - Beta
 
 # 38. Meshes and Textures - Effects
-
-
 
 ## Alternate Summoning Visuals 
 
@@ -1528,7 +1617,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.9` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.0` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -1567,6 +1656,10 @@ Option:
    * Elsopa and Embers XD
 ~~~
 
+## Better Bellows - High Poly Blacksmith Bellows
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82648) | Version: `1.2` | Author: `Pieter82` | ![Core] ![Visuals]
+Download: | Main Files - Better Bellows ElSopa Anvil and EmbersXD SE V1_2
 
 # 39. Meshes and Textures - Clothing, Jewelry, and Accessories
 
@@ -1704,21 +1797,6 @@ Left-Hand Meshes:
    * Dual Sheath Meshes
 ~~~
 
-## Greatsword Sheaths and Scabbards Redux
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/325) | Version: `2.7.6` | Author: `rpsgc and MadCat221` | ![Core] ![Visuals]|
-Download: | Main Files - Greatsword Sheaths and Scabbards Redux SE
-
-![FOMOD]
-~~~
-Meshes Type:
-   * Meshes - Thin
-Sheath/SCabbard Type:
-   * Fullsize
-Skyforge Steel:
-   * Skyforge Steel
-~~~
-
 ## Dragon Priest Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41713) | Version: `1.8` | Author: `PraedythXVI` | ![Core] ![Visuals]|
@@ -1755,9 +1833,18 @@ Delete meshes/dlc02/clothes/.
 
 ## Aevrigheim - Miraak's Sword and Staff Replacer 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34224) | Version: `1.0` | Author: `Vilidran` | ![Visuals] |
-Download: | Main Files - Miraak's Staff Replacer
-| Main Files - Miraak's Sword - Variant 2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34224) | Version: `1.5` | Author: `Vilidran` | ![Visuals] |
+Download: | Main Files - Aevrigheim - AIO Installer
+
+![FOMOD]
+~~~
+Installation Type:
+   * Replacers
+Miraak's Sword
+   * Variant 2 - No Eyes  
+Miraak's Staff
+   * Variant 4  
+~~~
 
 ## Amber Refossilized
 
@@ -2047,7 +2134,7 @@ Download: | Main Files - Nightshade Vampire Armor Retexture
 
 ## Bellyaches Animal and Creature Pack Revamp
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70493) | Version: `1.1` | Author: `Kelsenellenelvian and StepModifications` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70493) | Version: `1.2` | Author: `Kelsenellenelvian and StepModifications` | ![Visuals]
 Download: | Main Files - Bellyaches Animal and Creature Pack Revamp v1.1
 
 ![FOMOD]

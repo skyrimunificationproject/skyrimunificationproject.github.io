@@ -45,7 +45,7 @@ Download: | Old Files - ConsoleUtilSSE (1.2.0)
 
 ## ConsolePlusPlus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79975) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79975) | Version: `1.2.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - ConsolePlusPlus
 
 ## Dynamic Animation Replacer 
@@ -127,7 +127,7 @@ Download: | Main Files - Sound Record Distributor
 
 ## Spell Perk Item Distributor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `6.3.0` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36869) | Version: `6.4.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Spell Perk Item Distributor - SSE
 
 ![FOMOD]
@@ -151,6 +151,11 @@ Download: | Main Files - Actor Limit Fix (Special Edition)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69331) | Version: `1.0,1` | Author: `Maxsu and Doodlez` | ![Core] |
 Download: | Main Files - Animated Static Reload Fix - NG
+
+## Animation Queue Fix
+
+![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82395) | Version: `1.0.1` | Author: `Ershin` | ![Core]
+Download: | Main Files - Animation Queue Fix
 
 ## Barter Limit Fix
 
@@ -213,7 +218,7 @@ Download: | Main Files - Encounter Zones Unlocked SE
 
 ## Enemies Respect Encounter Zones
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78847) | Version: `1.1.0` | Author: `Jampi0n` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78847) | Version: `1.2.0` | Author: `Jampi0n` | ![Core]
 Download: | Main Files - Enemies Respect Encounter Zones
 
 ## Enhanced Invisibility
@@ -297,7 +302,7 @@ Patches:
 
 ## NPCs Use Potions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `2.3.4u` | Author: `KoeniglichePM` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `3.0.1` | Author: `KoeniglichePM` | ![Core]
 Download: | Main Files - NPCsUsePotions - Fomod
 
 ![FOMOD]
@@ -314,7 +319,7 @@ Patches:
 
 ## Papyrus Tweaks NG
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `3.3` | Author: `Nightfallstorm` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `4.0` | Author: `Nightfallstorm` | ![Core]
 Download: | Main Files - Papyrus Tweaks NG 3.0
 
 ## powerofthree's Tweaks
@@ -338,6 +343,11 @@ Download: | Main Files - Read Or Take SKSE
 DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
+
+## Reading Is Good
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42026) | Version: `1.1.0` | Author: `Parapets` | ![Core]
+Download: | Old Files - Reading Is Good SE (1.5.97)
 
 ## Recursion Monitor
 
@@ -559,6 +569,11 @@ Download: | Main Files - Dragon Mound Dirt FIX
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22143) | Version: `1.0` | Author: `KnightRangersGuild` | ![Core] |
 Download: | Main Files - Drunk Sinking Head Idle Fix SE
 
+## Farm Hat 01 Clipping Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72213) | Version: `1.1` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Farm Hate 01 Clipping Fix
+
 ## First Person Sneak Strafe-Walk Stutter Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31165) | Version: `1.0` | Author: `UrbanCMC` | ![Core]
@@ -600,6 +615,11 @@ Step1:
    * Smoke particles
 ~~~
 
+## SC Horses - Mane Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68588) | Version: `2.0` | Author: `Bingus` | ![Core]
+Download: | Main Files - SC Horses Mane Fix
+
 ## Sound Hammering Sounds
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5592) | Version: `1.0` | Author: `sialivi` | ![Core] |
@@ -628,7 +648,7 @@ Version:
 
 ## Skyrim Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.2.0` | Author: `mindflux` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.2.3` | Author: `mindflux` | ![Core] 
 Download: | Main Files - Particle Patch for ENB
 
 ![FOMOD]
@@ -657,6 +677,7 @@ Download: | Main Files - Whiterun Mesh Fixes
 
 
 
+
 ## Landscape Fixes For Grass Mods
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/9005) | Version: `5.1` | Author: `code1k` | ![Core] ![ESM]
@@ -664,7 +685,7 @@ Download: | Main Files - Landscape Fixes For Grass Mods
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.1` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.2` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -712,7 +733,7 @@ Download: | Main Files - Butterflies Unchained (ESL Version)
 
 ## CritterSpawn Congestion Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.2` | Author: `Excinerus` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67276) | Version: `1.3` | Author: `Excinerus` | ![Core]
 Download: | Main Files - Critter Spawn Congestion Fix
 
 ## dunPOISoldiersRaidOnStart Script Tweak
@@ -743,6 +764,11 @@ Download: | Main Files - High Gate Ruins Puzzle Reset Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58862) | Version: `1.0` | Author: `ReDragon2013` | ![Core] |
 Download: | Main Files - MageArmorScriptFix
 
+## Magic Student Quest Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80676) | Version: `0.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Magic Student (WIChangeLocation04) Quest Fix
+
 ## Neloth's Experimental Subject Quest Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64016) | Version: `0.1` | Author: `wSkeever` | ![Core]
@@ -752,6 +778,21 @@ Download: | Main Files - Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69346) | Version: `2.0` | Author: `igotnousername` | ![Core]
 Download: | Main Files - Optimized USSEP Valdr Quest
+
+## Robber's Gorge Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81495) | Version: `1.2` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Robber's Gorge Fixes
+
+## Rock Traps Trigger Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81587) | Version: `1.0` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Rock Traps Trigger Fixes
+
+## Roggvir's Execution Scene Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74652) | Version: `2.0` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Roggvir's Execution Scene Fixes
 
 ## Standing Ambusher Fix
 
@@ -827,7 +868,7 @@ Download: | Main Files - Bard Instrumentals Only - Sing Upon Request - USKP Vers
 
 ## Dwemer Gates Don't Reset
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.3.6` | Author: `tarlazo` | ![Core] ![ESL]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.3.7` | Author: `tarlazo` | ![Core] ![ESL]
 Download: | Main Files - Dwemer Gates Don't Reset
 
 ![FOMOD]
@@ -835,7 +876,7 @@ Download: | Main Files - Dwemer Gates Don't Reset
 Version:     
    * Complete
 Plugin Type: 
-   * ESM
+   * ESL
 ~~~
 
 ## Hawk Patch - Base Object Swapper Remake
@@ -857,6 +898,11 @@ Download: | Main Files - Immersive Vampire Clutter - LITE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23609) | Version: `2.2` | Author: `gobbldygook` | ![Core] |
 Download: | Main Files - Missing Encounter Zones FIXED - Vanilla Fixes - v2.2
+
+## No Hand Touches the Beacon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74361) | Version: `1.0` | Author: `AndrealphusVIII` | ![Core]
+Download: | Optional Files - No Hand Touches the Beacon - Beacon Only Warlock Places
 
 ## Random Barrel Roll - Base Object Swapper
 
@@ -888,6 +934,11 @@ Download: | Main Files - SPID-Protected Citizens
 Choose your version:
    * Protected
 ~~~
+
+## The Last Journey
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81010) | Version: `1.1.0` | Author: `tarlazo` | ![Core]
+Download: | Main Files - The Last Journey
 
 ## True Hunter
 
@@ -1361,7 +1412,7 @@ Download: | Main Files - Regional Sounds Expansion (2.0.0)
 
 ## Reverb Interior Sounds Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77947) | Version: `1.4.0` | Author: `Dylan James` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77947) | Version: `1.5.0` | Author: `Dylan James` | ![Core]
 Download: | Main Files - Reverb Interior Sounds Expansion (1.4.0)
 
 ![FOMOD]
@@ -1458,7 +1509,7 @@ Delete Stendarr Rising - NSUTR Patch.esp.
 
 ## Dungeons - Revisited
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51798) | Version: `1.0` | Author: `Cooleoj` | ![Core] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51798) | Version: `1.1.1` | Author: `Cooleoj` | ![Core] ![ESM]
 Download: | Main Files - Dungeons - Revisited
 
 ## EasierRider's Dungeon Pack
@@ -1570,7 +1621,7 @@ Download: | Main Files - Northern Roads
 
 ## Northern Roads Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.14.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.15.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
 Download: | Main Files - Northern Roads Patch Collection FOMOD
 
 ![FOMOD]

@@ -3,9 +3,136 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-01-31
+
+![Added]
+~~~
+Core 1 - 01 - Animation Queue Fix
+Core 1 - 01 - Reading is Good
+Core 1 - 03a - Farm Hat 01 Clipping Fix
+Core 1 - 03a - SC Horses - Mane Fix
+Core 1 - 03b - Robber's Gorge Fixes
+Core 1 - 03b - Rock Traps Trigger Fixes
+Core 1 - 03b - Roggvir's Execution Scene Fixes
+Core 1 - 03b - Magic Student Quest Fix
+Core 1 - 04 - No Hand Touches the Beacon
+Core 1 - 04 - The Last Journey
+Core 2 - 18 - Innocence Lost - Quest Expansion
+Core 2 - 23 - Grass Terrain Remade
+Core 2 - 24 - Higher Poly Whiterun City Wall Spikes
+Core 2 - 24 - Higher Poly Whiterun Guard Tower Spikes
+Core 2 - 26 - FYX - Black-Briar and Riftweald Manors
+Core 2 - 26 - FYX - Windhelm Stable Roof
+Core 2 - 27 - A Blacksmith Sign
+Core 2 - 27 - Skyrim Sewers - Manhole Improvements
+Core 2 - 27 - Small Nordic Tent Replacer
+Core 2 - 27 - Weathered Apiary Texture
+Core 3 - 31 - Slightly Better Rock Cairns
+Core 3 - 33 - A Canticle Tree
+Core 3 - 34 - A Fungal Pod
+Core 3 - 34 - Cabbage - A Cabbage Mod
+Core 3 - 34 - Cathedral - 3D - Black Mountain Flowers - for Interesting NPCs
+Core 3 - 34 - Cathedral - 3D - Nightshade
+Core 3 - 34 - High Poly Trama Roots
+Core 3 - 34 - KG's Elves Ear
+Core 3 - 34 - KG's Frost Mirriam
+Core 3 - 34 - Kabu's Frost Salts
+Core 3 - 34 - Spiky Grass Mesh Improvements
+Core 3 - 34 - Slaughterfish Eggs are Fish Eggs
+Core 3 - 34 - Sowables of Skyrim - Leeks
+Core 3 - 36 - Eldergleam Sap - High Poly
+Core 3 - 37 - Rally's Display Cases
+Core 3 - 37 - Rally's Handcarts
+Core 3 - 37 - Rally's Market Stalls
+Core 3 - 37 - WeldingMans Enchanting Table Variants - Base Object Swapper
+Core 4 - 55 - Leviathan Animations II Female Idle Walk Run
+Core 4 - 55 - Leviathan Animations II Male Idle Walk Run
+Core 4 - 55 - Leviathan Animations II Sprint
+Core 4 - 56 - Axarien's Animations - Teldryn Sero
+Core 5 - 58 - Immersive Rejections for Interesting NPCs
+Core 5 - 63 - Seeking Out Sneaks
+Core 5 - 68 - Poppy's Assorted CBBE Patches
+Core 5 - 69 - Bits and Pieces Rework
+Core 5 - 69 - Bryling's House Rework
+Core 5 - 69 - Erikur's House Rework
+Core 5 - 69 - The Winking Skeever Rework
+Adventures - B01 - Erikur's House Rework [Adventures]
+Adventures - B03 - Helgen Reborn Keepers of Hattu Retexture
+Adventures - B07 - Legacy of the Dragonborn - Armor of the Crusader Retexture
+~~~
+
+![Removed]
+~~~
+Core 2 - 24 - Noble Skyrim
+Core 3 - 33 - Canticle Tree
+Core 3 - 33 - High Poly Canticle Tree
+Core 3 - 34 - Freezing Cold Frost Salts
+Core 3 - 37 - CC's HQ Carts
+Core 3 - 37 - Skyrim 3D Misc - Buckets
+Core 3 - 40 - Greatsword Sheaths and Scabbards Redux
+Core 4 - 55 - Leviathan Animations Female Idle Walk Run
+Core 4 - 55 - Leviathan Animations Male Idle Walk Run
+Core 4 - 55 - Leviathan Animations Sprint
+Adventures - B07 - Artifacts The Breton Paladin
+Adventures - B07 - Legacy of the Dragonborn - FrankFamily's Paladin Replacer
+~~~
+
+![Updated]
+~~~
+Prereqs - LOOT updated to 0.19.1
+Prereqs - DynDOLOD updated to Alpha-111.
+Prereqs - ENB updated.
+Core 1 - 00 - ConsolePlusPlus updated to 1.2.0.
+Core 1 - 00 - Spell Perk Item Distributor updated to 6.4.0.
+Core 1 - 01 - Enemies Respect Encounter Zones updated to 1.2.0.
+Core 1 - 01 - NPCs Use Potions updated to 3.0.1.
+Core 1 - 01 - Papyrus Tweaks NG updated to 4.0.
+Core 1 - 03a- Skyrim Particle Patch for ENB updated to 1.2.3.
+Core 1 - 03b- Navigator updated to 1.4.2.
+Core 1 - 03b- CritterSpawn Congestion Fix updated to 1.3.
+Core 1 - 04 - Dwemer Gates Don't Reset updated to 1.3.7.
+Core 1 - 10 - Reverb Interior Sounds Expansion updated to 1.5.0.
+Core 1 - 14 - Dungeons Revisited updated to 1.1.1.
+Core 1 - 16 - Northern Roads Patch Collection updated to 1.15.1.
+Core 2 - 18 - The Choice Is Yours updated to 2.7.
+Core 2 - 18 - Better Courier - updated instructions (del Fishing patch)
+Core 2 - 18 - College of Winterhold Quest Expansion - Updated to 1.12.
+Core 2 - 18 - Immersive Rejections moved to 58.
+Core 2 - 21 - Cloaks of Skyrim - updated instructions (del Cloaks-Dawnguard esp)
+Core 2 - 24 - Assorted Mesh Fixes updated to 0.78.
+Core 2 - 24 - Forgotten Retex Project updated to 8.3, FOMOD instr updated.
+Core 2 - 24 - FYX Jorrvaskr moved to 26
+Core 2 - 24 - FYX Temple of Mara moved to 26
+Core 2 - 25 - Stony AF Markarth updated to 2.0.
+Core 2 - 26 - Solitude Farmhouses Rework updated to 1.1.
+Core 2 - 26 - Windhelm Fence 3D updated to 0.3.4.1.
+Core 3 - 31 - Majestic Mountains Darkside - updated instructions (del textures/effects, moss)
+Core 3 - 32 - Water for ENB updated to 1.72.
+Core 3 - 33 - Happy Little Logs updated to 1.4.
+Core 3 - 34 - A Potato Plant updated to 2.1.
+Core 3 - 34 - Cathedral - 3D Thistle updated to 2.1.
+Core 3 - 36 - BURP Spell Tomes Patches updated to 1.8.
+Core 3 - 38 - Embers XD updated to 2.7.0.
+Core 3 - 40 - Aevrigheim updated to 1.5.
+Core 3 - 41 - Bellyaches Animal and Creature Pack Revamp updated to 1.2.
+Core 4 - 54 - Some Creature Behavior Bug Fixes updated to 2.0.3.
+Core 5 - 59 - Honed Metal Revoiced updated to 1.8.
+Core 5 - 60 - Nether's Follower Framework updated to 2.8.2.
+Core 5 - 61 - Complete Alchemy and Cooking Overhaul updated to 2.1.1.
+Core 5 - 61 - SUP Gameplay overhaul updated, fomod instr. updated
+Core 5 - 62 - Blade and Blunt updated to 2.1.0.
+Core 5 - 64 - Reliquary of Myth instructions updated (FOMOD: SPID patches)
+Core 5 - 68 - kryptopyr's Patch Hub files updated (-Cloaks, +Fishing/Sacrilege, FOMOD update)
+Core 5 - 69 - Mesh Patches Lux and Lux Orbis instructions updated (glacier meshes: none)
+Core 5 - 69 - Nocturnal Moths updated to 2.3.
+Core 5 - 69 - Icy Mesh Remaster updated to 1.90.
+Core 5 - 71 - Complete Crafting Overhaul Remastered Settings Loader updated to 2.0.
+Core 5 - Z01 - SUP Consistency Patches updated
+Core 5 - Z01 - SUP Conflict Resolution updated, fomod instr. updated
+Core 5 - Z01 - SUP Replacement Plugins updated
+~~~
+
 # 2023-01-11
-
-
 
 ![Added]
 ~~~

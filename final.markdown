@@ -56,7 +56,6 @@ CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
-DwemerGatesNoRelock.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
@@ -312,7 +311,7 @@ Once the process completes, move the overwrite/grass/ to a new Grass Cache mod f
 
 # DynDOLOD
 
-
+Note: Some AMD users experience a very slow run of DynDOLOD or Texgen if Adrenalin is installed.  If your DynDOLOD seems to hang for a very long time between operations (eg more than 1 hour total for the guide content) then try a driver-only install.
 
 IMPORTANT: If you disabled texture mods for Grass Cache, turn them back on!
 

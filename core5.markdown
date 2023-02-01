@@ -71,6 +71,20 @@ Patches:
    * None
 ~~~
 
+## Immersive Rejections
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67930) | Version: `1.0` | Author: `jayserpa` | ![Optional] ![CAO]
+Download: | Main Files - Immersive Rejections
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Immersive Rejections for Interesting NPCs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75879) | Version: `1.0` | Author: `TheCyclist` | ![Optional]
+
 ## Misc Dialogue Edits
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8` | Author: `GOsteW and lilebonymace` | ![Core] |
@@ -171,8 +185,8 @@ Download: | Main Files - Honed Metal SSE
 
 ## Honed Metal Revoiced
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34393) | Version: `1.7` | Author: `Cer12` | ![Optional] |
-Download: | Main Files - Honed Metal Revoiced (for Honed Metal 1.22 AE_SE_VR)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34393) | Version: `1.8` | Author: `Cer12` | ![Optional] |
+Download: | Main Files - Honed Metal Revoiced (for Honed Metal 1.23 AE_SE_VR)
 
 ## Immersive Interactions - Animated Actions - DAR
 
@@ -227,7 +241,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Nether's Follower Framework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.8.0` | Author: `Netherworks` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.8.2` | Author: `Netherworks` | ![Core] ![CAO]|
 Download: | Main Files - Nether's Follower Framework - Universal Installer (LE or SSE)
 
 ![FOMOD]
@@ -284,23 +298,15 @@ Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `2.1.0` | Author: `kryptopyr` | ![Core] ![BSA] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `2.1.1` | Author: `kryptopyr` | ![Core]
 Download: | Main Files - Complete Alchemy and Cooking Overhaul
-| Optional Files - CACO Cleaned Textures
 
 ![FOMOD]
 ~~~
 Game Version:
    * 1.5.97 (Steam SE)
 Options:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Important! Extract the base mod before installing the cleaned textures.
-
-Pack the mod with CAO. (packing cleaned textures into archives properly)
+   * Cleaned Textures
 ~~~
 
 ## Complete Crafting Overhaul Remastered 
@@ -324,8 +330,6 @@ Addons:
    * Enchanting Overhaul
    * Enchanting Overhaul - Hybrid Loot Patch
    * Magic Tweaks
-   * Traits - Armor
-   * Traits - Enemy
 
 SKSE Addons:
    * Experience
@@ -380,7 +384,7 @@ Download: | Main Files - zxlice hitStop - SSE v0.9.3a
 
 ## Blade and Blunt - A Combat Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34549) | Version: `2.0.2` | Author: `SimonMagus616` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34549) | Version: `2.1.0` | Author: `SimonMagus616` | ![Core]
 Download: | Main Files - Blade and Blunt - A Combat Overhaul
 | Optional Files - Blade and Blunt - Sneak Addon
 
@@ -445,7 +449,10 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2345) | Version: `3.1` | Author: `Olivier Doorenbos` | ![Core] |
 Download: | Main Files - Realistic AI Detection 3 SE - Lite
 
+## Seeking Out Sneaks - Improved AI Search Behavior
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80416) | Version: `1.0` | Author: `Aix` | ![Core]
+Download: | Main Files - Seeking Out Sneaks - Initial Release
 
 # 64. Gameplay - Magic, Spells, and Enchantments
 
@@ -473,13 +480,14 @@ Main Installation:
    * ROM - Dragon Priest Masks Pack
 Main Patches:
    * RoM - Fishing Patch
-   * RoM - Saints and Seducers Patch
    * RoM - REB Patch
+   * RoM - Saints and Seducers Patch
    * RoM - SR Patch
 ICH Patches:
    * None
 SPID Patches:
-   * None
+   * ROM - SPID Patches
+   * ROM - SPID DPM Patch
 WMA Patches:
    * None
 ~~~
@@ -761,7 +769,8 @@ Download: | Main Files - Optimized Scripts for Enhanced Blood Textures - SPID ve
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `3.4` | Author: `kryptopyr and others` | ![Core] |
 Download: | Main Files - kryptopyr's Patch Hub Installer
-| Misc Files - Cloaks of Skyrim__CCOR
+| Misc Files - Fishing (CC)__WACCF_CCOR
+| Misc Files - Sacrilege__CACO
 | Misc Files - Saints and Seducers (CC)__TCIY
 
 ![FOMOD]
@@ -777,12 +786,11 @@ Mod Detection:
 WACCF - Patches:
    * Select only RS Children Overhaul
 WACCF - Combination Patches:
-   * Cloaks of Skyrim - WACCF and CCOR
    * Dawnguard Arsenal - None
    * Improved Closefaced Helmets - None
    * Ordinator - WACCF and CCOR
 CCOR - Winter Is Coming SSE - Cloaks:
-   * With Cloaks of Skyrim
+   * None
 CCOR - Other: (Select only)
    * Bandolier - Bags and Pouches Classic
    * Metallurgy - Ingots and Ores HD
@@ -886,13 +894,6 @@ Download: | Optional Files - Triumvirate Cleaned BSA
 Download: | Main Files - CBBE Vanilla Armors - No Rim Lighting
 | Optional Files - CBBE Vanilla Armors - No Rim Lighting - CC Addon
 
-![PostInstall]
-~~~
-Delete meshes/dlc01/armor/circlets.
-Delete meshes/dungeons/mines/ore.
-Delete textures/armor/dwarven.
-~~~
-
 ## Wintersun - Faiths of Skyrim - Cleaned Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55554) | Version: `2.0` | Author: `MrShadowBlood` | ![Visuals] ![ESM]
@@ -903,7 +904,14 @@ Download: | Optional Files - Wintersun 2k BSA
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19176) | Version: `1.1.1` | Author: `Shiva182` | ![Core] ![Visuals] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 
+## Poppy's Assorted CBBE Patches
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78633) | Version: `1.0` | AUthor: `Mopop` | ![Core] ![Visuals]
+Download: | Main Files - Poppy's Assorted CBBE Patches - Amber Refossilized
+| Main Files - Poppy's Assorted CBBE Patches - FranklyHD Dawnguard
+| Main Files - Poppy's Assorted CBBE Patches - FranklyHD Imperial Armor
+| Main Files - Poppy's Assorted CBBE Patches - FranklyHD Nightingale
+| Main Files - Poppy's Assorted CBBE Patches - Stahlrim Refrozen
 
 # 69. Late Loaders - Meshes and Textures
 
@@ -1011,7 +1019,7 @@ Main:
    * Lux
    * Lux Orbis
 Lux - Glacier Meshes:
-   * Icy Mesh Remaster - High Poly
+   * None
 Lux - General:
    * Skyrim Remastered - Caves
 Lux Orbis:
@@ -1036,15 +1044,13 @@ Delete meshes/furniture/clutter/.
 
 ## Nocturnal Moths
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | Version: `2.2` | Author: `jple` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68288) | Version: `2.3` | Author: `jple` | ![Visuals]
 Download: | Main Files - Nocturnal Moths
 
 ![FOMOD]
 ~~~
 Options:
-   * Regular (or Seasons, your choice)
-Patches - Blowing in the Wind:
-   * None
+   * Regular (or Seasonal, your choice)
 Patches - Other:
    * Lux Via
 ~~~
@@ -1240,7 +1246,7 @@ Download: | Main Files - dpillari sleeping tree 2k Enb light
 
 ## Icy Mesh Remaster
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.80` | Author: `RokHel` | ![Visuals] ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.90` | Author: `RokHel` | ![Visuals] ![ESL-C]
 Download: | Main Files - Icy Mesh Remaster
 
 ![FOMOD]
@@ -1328,12 +1334,27 @@ Patches:
    * High Poly Project Patch
 ~~~
 
+## Bits and Pieces Rework
 
+[!{mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81467) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+Download: | Main Files - Bits and Pieces rework
+
+## Bryling's House Rework
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82330) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+Download: | Main Files - Bryling's House Rework
+
+## Erikur's House Rework
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+Download: | Main Files - Erikur's House Rework
+
+## The Winking Skeever Rework
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81617) | Version: `1.0.1` | Author: `Drengin` | ![Visuals]
+Download: | Main Files - The Winking Skeever Rework
 
 # 70. Late Loaders - ENB Meshes
-
-
-
 
 ## ENB Light
 
@@ -1646,6 +1667,7 @@ You can disable or delete Rudy HQ Bthardamz or Chaurus Eggs above as you wish.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39113) | Version: `6.1` | Author: `Rudy102, Zangdar72` | ![Core] ![Visuals]|
 Download: | Main Files - Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files FOMOD 6.0
 | Optional Files - Rudy ENB CW Zangdar's Edit Lux Edition (manual install)
+| [Rudy CW Zangdar Edit 6.1 Discord Edition](https://drive.google.com/file/d/1oalnn_qkaJV2uoZhYgFFUnnualuRqDN5/view)
 
 ![FOMOD]
 ~~~
@@ -1740,7 +1762,7 @@ Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
 
 ## Complete Crafting Overhaul Remastered - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `1.3.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58179) | Version: `2.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Complete Crafting Overhaul Remastered - Settings Loader
 
 ## EVG Conditional Idles - Settings Loader
@@ -1849,6 +1871,7 @@ Download: | Skyrim Unification Project - Conflict Resolution.7z
 ~~~
 Addons:
    * Quest and Misc Tweaks
+   * Armor and Enemy Traits
 Other Files:
    * None (or your choice)
 ~~~

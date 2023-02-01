@@ -49,7 +49,7 @@ Pack the mod with CAO.
 
 ## The Choice is Yours 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.5` | Author: `kryptopyr` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | Version: `2.7` | Author: `kryptopyr` | ![Core] |
 Download: | Main Files - The Choice is Yours
 
 ## A Lovely Letter Alternate Routes
@@ -109,7 +109,6 @@ Download: | Main Files - At Your Own Pace - Misc
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.8.2` | Author: `Korodic` | ![Core] |
 Download: | Main Files - Better Courier
-| Optional Files - Don't Bother Me I'm Fishing
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
 
@@ -133,7 +132,7 @@ Download: | Main Files - Choose Your Own Arch-Mage
 
 ## College of Winterhold - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66666) | Version: `1.11` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66666) | Version: `1.12` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - College of Winterhold - Quest Expansion
 
 ![PostInstall]
@@ -242,16 +241,6 @@ FaceGens:
    * Standard FaceGens
 ~~~
 
-## Immersive Rejections
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67930) | Version: `1.0` | Author: `jayserpa` | ![Optional] ![CAO]
-Download: | Main Files - Immersive Rejections
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
 ## Improved College Entry - Questline Tweaks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22184) | Version: `2.8` | Author: `Parapets - SomethingObscure` | ![Core] ![ESL]
@@ -261,6 +250,17 @@ Download: | Main Files - Improved College Entry
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22300) | Version: `1.1` | Author: `Parapets` | ![Core] ![ESL]
 Download: | Main Files - Companions Questline Tweaks
+
+## Innocence Lost - Quest Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80974) | Version: `1.0.1` | Author: `JaySerpa` | ![Core]
+Download: | Main Files - Innocence Lost - Quest Expansion
+
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
 
 ## Keeper Carcette Survives
 
@@ -558,6 +558,7 @@ Pick Version:
 
 ![PostInstall]
 ~~~
+Delete Cloaks - Dawnguard.esp.
 Delete Cloaks - USSEP Patch.esp.
 Pack the mod with CAO.
 ~~~
@@ -790,7 +791,10 @@ Delete HD Lods SSE.esp.
 Delete HD Lods SSE.bsa.
 ~~~
 
+## Grass Terrain Remade
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19600) | Version: `3.0` | Author: `MrDiddyDonut` | ![Visuals]
+Download: | Main Files - Grass-Terrain-Remade-2k
 
 # 24. Meshes and Textures - General World Improvement
 
@@ -888,7 +892,7 @@ Download: | Main Files - 3D Trellis Improved - Gildergreen Plaza
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.77` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.78` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Wooden Spikes Retexture
@@ -905,6 +909,16 @@ Download: | Main Files - DragonnsReach 3D Trellis
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68666) | Version: `1.0` | Author: `InstantKor` | ![Visuals]
 Download: | Optional Files - Whiterun DragonsReach Door Mesh Fix - Trellis Patch
+
+## Higher Poly Whiterun City Wall Spikes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81977) | Version: `1.1` | Author: `Pieter82` | ![Visuals]
+Download: | Higher Poly Whiterun City Wall Spikes SE V1_1
+
+## Higher Poly Whiterun Guard Tower Spikes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81970) | Version: `1.1` | Author: `Pieter82` | ![Visuals]
+Download: | Higher Poly Whiterun Guard Tower Spikes SE V1_1
 
 ## Ruins Clutter Improved
 
@@ -938,31 +952,46 @@ Options:
 Pack the mod with CAO.
 ~~~
 
-## Noble Skyrim - HD Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21423) | Version: `5.5.0` | Author: `Shutt3r` | ![Core] ![Visuals] ![CAO]|
-Download: | Main Files - A. Noble Skyrim - FULL PACK_2K
-| Update Files - NSM - SMIM Patch
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
 ## Forgotten Retex Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `7.2` | Author: `JDAnchor` | ![Core] ![Visuals] |
-Download: | Old Files - Forgotten Retex Project
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `8.3` | Author: `JDAnchor` | ![Core] ![Visuals] |
+Download: | Main Files - Forgotten Retex Project
 
 ![FOMOD]
 ~~~
-Optional:
-   * Silver Mold - with Silver Frame
+Installation:
+   * Custom Installation
+Artifacts:
+   * Draw Knife with Carvings
+   * Silver Mold without Silver Frame
+   * Aetherial Crown
+   * White Phial
+   * Honningbrew Decanter
+Clutter:
+   * Leather Strips
+   * Clothes Iron
+   * Wooden Sword
+   * Baskets
+   * Burned and Ruined Books
+   * Kettle
+Flora and Alchemy:
+   * Spider Sac
+Effects and Misc:
+   * Dandelion Puffs
+   * Sawdust
+   * Dragon Crash Effects
+Weapons and Tools:
+   * Akiviri Blade
+   * Pickaxe
+   * Ancient Nordic Pickaxe
+   * Woodcutter Axe and Chopping Block
+   * Garden Hoe
+   * Torture Tool
 ~~~
 
-## Forgotten Retex Project - Realistic HD Woodcutter's Axe Remastered
+## Forgotten Retex Project - Realistic HD Woodcutter's Axe Remastered - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `7.2` | Author: `JDAnchor` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7849) | Version: `5.0P` | Author: `JDAnchor` | ![Core] ![Visuals] |
 Download: | Miscellaneous Files -Realistic HD Woodcutter's Axe Remastered - Patches
 
 ## Rally's All The Things
@@ -1083,10 +1112,6 @@ Download: | Main Files - FYX - 3D Whiterun Castle Bridge - 3D Trellis
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68572) | Version: `1.01` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - 3D Whiterun Guard Towers
 
-## FYX - Jorrvaskr
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77355) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
-Download: | Main Files - B) FYX - Jorrvaskr - NO Color Edit
 
 ## FYX - Ravenrock Docks and Fences Round Posts
 
@@ -1102,11 +1127,6 @@ Download: | Main Files - FYX - Riften Canal and Round Posts
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78566) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Rowboat
-
-## FYX - The Temple of Mara
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73063) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
-Download: | Main Files - FYX - The Temple of Mara
 
 ## Shack Roofs Restored
 
@@ -1242,7 +1262,7 @@ Daedric Shrines:
 
 ## Stony AF Markarth and Dwemer Ruins
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68815) | Version: `1.5` | AUthor: `AgentW` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68815) | Version: `2.0` | AUthor: `AgentW` | ![Core] ![Visuals]
 Download: | Main Files - Stony AF Markarth and Dwemer Ruins 4K
 
 ## Skyland Solitude
@@ -1268,28 +1288,29 @@ Delete meshes.
 
 ## Mrf's Solitude
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
-Download: | Main Files - Mrf's Solitude 4K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.3` | Author: `mo ru feng` | ![Visuals] |
+Download: | Old Files - Mrf's Solitude 4K
 
 ![PostInstall]
 ~~~
 Delete meshes.
-Delete textures/architecture/solitude/smanhole*.
-Delete textures/architecture/solitude/sthrone*.
+Delete textures/architecture/solitude/Mrf.
 Delete textures/architecture/solitude/sdirt*.
 Delete textures/architecture/solitude/sdragontile*.
 Delete textures/architecture/solitude/sgrass*.
+Delete textures/architecture/solitude/smanhole*.
 Delete textures/architecture/solitude/smetal*.
 Delete textures/architecture/solitude/smoss*.
 Delete textures/architecture/solitude/sroof*.
 Delete textures/architecture/solitude/sstonefloor01*.
 Delete textures/architecture/solitude/sstuccowall.dds and _n.dds.
+Delete textures/architecture/solitude/sthrone*.
 Delete Mrf Solitude.esp.
 ~~~
 
 ## Mrf's Solitude - Optional Files
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55903) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=234374&game_id=1704) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
 Download: | Main Files - Mrf's solitude Optional files fomod
 
 ![FOMOD]
@@ -1386,7 +1407,7 @@ Download: | Main Files - Skyland Sovngarde
 
 ## Solitude Farmhouses Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74334) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74334) | Version: `1.1` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - SOlitude farmhouses rework
 
 ![PostInstall]
@@ -1405,7 +1426,25 @@ Download: | Optional Files - WiZkiD Parallax Farmhouses 4K no parallax
 Delete meshes/architecture/farmhouse/interior.
 ~~~
 
+## FYX - Black-Briar and Riftweald Manors
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80515) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - A) FYX - Black-Briar and Riftweald Manors
+
+## FYX - Jorrvaskr
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77355) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - B) FYX - Jorrvaskr - NO Color Edit
+
+## FYX - The Temple of Mara
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73063) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - The Temple of Mara
+
+## FYX - Windhelm Stable Roof
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66416) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - Windhelm Stable Roof
 
 # 27. Meshes and Textures - Architecture (Objects)
 
@@ -1510,6 +1549,16 @@ Delete textures/architecture/winterhold/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57002) | Version: `1.6` | Author: `Skyking` | ![Visuals]
 Download: | Main Files - Skyland Imperial and Nordic Tents 4K
 
+## Skyrim Sewers - Manhole Improvements
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81940) | Version: `1.0` | Author: `Modifiednmof` | ![Visuals]
+Download: | Main Files - Meshes Improvements around the manhole inside sewers
+
+## Small Nordic Tent Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81498) | Version: `1.0` | Author: `JPSteel2` | ![Visuals]
+Download: | Main Files - Nordic Tent Replacer
+
 ## KG's Fences
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79126) | Version: `0.3` | Author: `kiddgimmick` | ![Visuals]
@@ -1521,9 +1570,14 @@ Download: | Main Files - KG's Fences
 Download: | Main Files - KG's Imperial Tents
 | in BAIN installer pick 00 - KG's Imperial Tents - Warm Snow
 
+## Weathered Apiary Texture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82359) | Version: `0.1` | Author: `BasPeeters1` | ![Visuals]
+Download: | Main Files - Weathered Apiary Texture - 4K
+
 ## Windhelm Fence 3D
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65346) | Version: `0.3.3` | Author: `wSkeever` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65346) | Version: `0.3.4.1` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Windhelm Fence 3D - Fomod Installer
 
 ![FOMOD]
@@ -1557,7 +1611,10 @@ Delete WiZKiD Signs - Interesting NPC patch.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78889) | Version: `1.1` | Author: `WiZkiD` | ![Core] ![Visuals]
 Download: | Main Files - WiZkiD Specific Signs
 
+## A Blacksmith Sign
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80802) | Version: `1.0` | Author: `Kiddgimmick` | ![Core] ![Visuals]
+Download: | Main Files - A Blacksmith Sign
 
 # 28. Meshes and Textures - Ancient Structures, Statues and Shrines
 

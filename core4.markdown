@@ -1120,7 +1120,7 @@ Download: | Main Files - Slow Sprint Bug Fix
 
 ## Some Creature Behavior Bug Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `2.0.1` | Author: `illuke00` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `2.0.3` | Author: `illuke00` | ![Core]
 Download: | Main Files - Some Creature Behavior Bug Fixes
 
 ## Super Fast Get Up Animation
@@ -1252,19 +1252,19 @@ Download: | Main Files - Goetia Animations - Magic Spell Casting
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75482) | Vewrsion: `1.1` | Author: `Verolevi` | ![Visuals]
 Download: | Main Files - Goetia Animations - Sneak Magic
 
-## Leviathan Animations - DAR - CATA - Female Idle Walk And Run
+## Leviathan Animations II - DAR - CATA - Female Idle Walk And Run
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42204) | Version: `1.5` | Author: `Verolevi` | ![Visuals] |
-Download: | Optional Files - CATA Addon - Leviathan Animations Female Idle Walk Run
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80760) | Version: `2.3` | Author: `Verolevi` | ![Visuals] |
+Download: | Optional Files - CATA Addon - Leviathan Animations II Female Idle Walk Run
 
-## Leviathan Animations - DAR - CATA - Male Idle Walk And Run
+## Leviathan Animations II - DAR - CATA - Male Idle Walk And Run
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42590) | Version: `1.5` | Author: `Verolevi` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81463) | Version: `2.3` | Author: `Verolevi` | ![Visuals] |
 Download: | Optional Files - CATA Addon - Leviathan Animations Male Idle Walk Run
 
-## Leviathan Animations - DAR - CATA - Sprint
+## Leviathan Animations II - DAR - CATA - Sprint
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43059) | Version: `1.0` | Author: `Verolevi` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82603) | Version: `2.4` | Author: `Verolevi` | ![Visuals] |
 Download: | Optional Files - CATA Addon - Leviathan Animations Sprint
 
 ## Leviathan Animations - DAR - Two-Handed High Stance
@@ -1393,6 +1393,11 @@ Download: | Main Files - Axarien's Animations - Inigo (DAR)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76390) | Version: `2.0` | Author: `Axarien` | ![Visuals]
 Download: | Main Files - Axarien's Animations - Lucien (DAR)
+
+## Axarien's Animations - Teldryn Sero - DAR
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80271) | Version: `1.0` | Author: `Axarien` | ![Visuals]
+Download: | Main Files - Axarien's Animations - Teldryn Sero (DAR)
 
 ## Conditional Tavern Cheering - DAR
 
@@ -1571,7 +1576,7 @@ Enderal:
 ![PostInstall]
 ~~~
 Delete /meshes/actors/character/animations/1hm_*.
-Delete /meshes/actors/character/aniamtions/XPMSE/xpe0_bow_*.
+Delete /meshes/actors/character/animations/XPMSE/xpe0_bow_*.
 ~~~
 
 ## XP32 Maximum Skeleton Special Extended - XPMSSE - Fixed Scripts 

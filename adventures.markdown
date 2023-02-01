@@ -75,6 +75,11 @@ Delete *.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core]
 Download: | Misc Files - Dragon War - Wyrmstooth Patch
 
+## Erikur's House Rework [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `1.0` | Author: `Drengin` | ![Core]
+Download: | Optional Files - Erikur's House rework for LotD
+
 ## Farmhouse Chimneys [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core] ![ESL-C]
@@ -331,6 +336,11 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | 
 Download: | Main Files - Main File
+
+## Helgen Reborn - Keepers of Hattu Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82001) | Version: `1.0` | Author: `Xavbio`
+Download: | Main Files - Helgen Reborn Keepers of Hattu Retexture - 2K
 
 ## Konahrik's Accoutrements
 
@@ -972,6 +982,17 @@ Download: | Main Files - Legacy of the Dragonborn - Ancient Daedric Armor replac
 Delete *.esp.
 ~~~
 
+## Legacy of the Dragonborn - Armor fo the Crusader Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82294) | Version: `1.0` | Author: `Xavbio`
+Download: | Main Files - LOTD Armor of the Crusader Retexture SE
+
+![FOMOD]
+~~~
+Light Armor:
+   * Classic
+~~~
+
 ## Legacy of the Dragonborn - Better Wine Labels
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34698) | Version: `1.1` | Author: `AgentW` |
@@ -1033,11 +1054,6 @@ Download: | Main Files - LotD Tweaks - Main - No Lighting
 ~~~
 Pack the mod with CAO.
 ~~~
-
-## Legacy of the Dragonborn - FrankFamily's Paladin Replacer for the Crusader Set
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47746) | Version: `1.1` | Author: `SovnSkyrim` | 
-Download: | Main Files - Legacy of the Dragonborn - FrankFamily's Paladin Replacer for the Crusader
 
 ## Legacy of the Dragonborn - Museum Dome Improved
 

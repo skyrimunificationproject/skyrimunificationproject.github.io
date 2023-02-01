@@ -122,7 +122,7 @@ The following modding tools should be installed into a directory that is not the
 
 
 
-Make sure Skyrim is updated to the latest version in Stream.
+Make sure Skyrim is updated to the latest version in Steam.
 
 Download the "Best of Both" optional file from [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) and run it.
 
@@ -216,8 +216,8 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://www.nexusmods.com/site/mods/439) | Version: `0.18.6` | Author: `WrinklyNinja, et al` | ![Core] |
-Download: | Main Files - LOOT v0.18.6 - Installer (64-Bit)
+[![mod]](https://www.nexusmods.com/site/mods/439) | Version: `0.19.1` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - LOOT v0.19.1 - Installer (64-Bit)
 
 ![PostInstall]
 ~~~
@@ -498,7 +498,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-110` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-111` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
