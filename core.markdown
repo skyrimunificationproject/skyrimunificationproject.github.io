@@ -70,7 +70,7 @@ Download: | Main Files - FormList Manipulator - FLM
 
 ## Infinity UI
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74483) | Version: `1.1.1` | Author: `alexsylex` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74483) | Version: `2.0.1` | Author: `alexsylex` | ![Core]
 Download: | Main Files - Infinity UI
 
 ## Keyword Item Distributor
@@ -87,7 +87,7 @@ DLL:
 ## More Informative Console
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19250) | Version: `1.1.0` | Author: `Linthar` | ![Core] |
-Download: | Main Files - More Informative Console 1.1.0 SSE
+Download: | Main Files - More Informative Console 1.1.0 SE
 
 ## PAPER
 
@@ -96,7 +96,7 @@ Download: | Main Files - PAPER
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.3.0` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `5.5.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - Papyrus Extender SE
 
 ![FOMOD]
@@ -165,6 +165,7 @@ Download: | Main Files - Barter Limit Fix
 ## Behavior Data Injector
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78146) | Version: `0.13` | Author: `Maxsu` | ![Core]
+Download: | Main Files - Behavior Data Injector
 
 ## Better Combat Escape
 
@@ -302,7 +303,7 @@ Patches:
 
 ## NPCs Use Potions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `3.0.1` | Author: `KoeniglichePM` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `3.0.2` | Author: `KoeniglichePM` | ![Core]
 Download: | Main Files - NPCsUsePotions - Fomod
 
 ![FOMOD]
@@ -312,7 +313,7 @@ Game Version:
 Compatibility Addon:
    * None
 Distribution Rules:
-   * None
+   * None (Uncheck all except Base Game)
 Patches:
    * None
 ~~~
@@ -485,10 +486,10 @@ Download: | Main Files - To Your Face SE
 
 ## Unique Map Weather
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59919) | Version: `1.1.0` | Author: `Doodlezoid` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59919) | Version: `1.1.1` | Author: `Doodlezoid` | ![Core]
 Download: | Main Files - Unique Map Weather
 
-## Use or Take SKSE
+## Use or Take
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70868) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Use or Take SKSE
@@ -599,11 +600,6 @@ Download: | Main Files - Hearthfire BOYH Mesh Fixes
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73421) | Version: `1.0` | Author: `Exalderan` | ![Core]
 Download: | Main Files - EVE - No More Swimming In Air - Fixed SwimIdle Floating
 
-## OSHA-Compliant Sovengarde Mesh Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70148) | Version: `2.0` | Author: `markuskarttunen1` | ![Core]
-Download: | Main Files - OSHA-Compliant Sovengarde Mesh Fixes
-
 ## Rudy Fix for Smoke
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78495) | Version: `1.0` | Author: `Rudy102` | ![Core]
@@ -685,7 +681,7 @@ Download: | Main Files - Landscape Fixes For Grass Mods
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.2` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.3` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -796,7 +792,7 @@ Download: | Main Files - Roggvir's Execution Scene Fixes
 
 ## Standing Ambusher Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74492) | Version: `1.0` | Author: `tarlazo` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74492) | Version: `1.1.0` | Author: `tarlazo` | ![Core]
 Download: | Main Files - Standing Ambusher Fix
 
 ## Tavern AI Fix
@@ -822,7 +818,7 @@ TrapSwingingWall Script Fix:
 
 ## Unaggressive Dragon Priests Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69026) | Version: `1.1` | Author: `AndrealphusVIII` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69026) | Version: `1.2` | Author: `AndrealphusVIII` | ![Core]
 Download: | Main Files - Unaggressive Dragon Priests Fix
 
 ## Vanilla Script (micro)Optimizations
@@ -1035,7 +1031,7 @@ Download: | Optional Files - BCC-SkyUI-ESL-v31
 ## SkyUI - Fix Note Icon
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32561) | Version: `1.2.1` | Author: `0xC0000005` | ![Core] |
-Download: | Main Files - FixNotesForSkyUI SKSE64 2.0.17 and 2.0.19
+Download: | Main Files - FixNotesForSkyUI Skyrim SE 1.5.97
 
 ## Sovngarde - A Nordic Font
 
@@ -1055,6 +1051,17 @@ Select an Option:
    * Sovngarde - A Nordic Font
 Install Test Books:
    * None
+~~~
+
+## Extended UI
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/57873) | Version: `1.2.0d` | Author: `MrJack` | ![Core] ![BSA] ![CK]
+Download: | Main Files - Extended UI
+
+![PostInstall]
+~~~
+Ensure the BSA has been extracted or your game will crash on start.
+Resave the esp in Creation Kit.
 ~~~
 
 ## UI Extensions
@@ -1146,7 +1153,7 @@ Other Addons:
 
 ## Compass Navigation Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74484) | Version: `1.2.2` | Author: `alexsylex` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74484) | Version: `2.1` | Author: `alexsylex` | ![Core]
 Download: | Main Files - Compass Navigation Overhaul
 
 ## Dear Diary Dark Mode - SkyUI Menus Replacer
@@ -1454,7 +1461,7 @@ Download: | Main Files - Thundering Shouts
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/25775) | Version: `1.0` | Author: `Acherones` | ![Core] ![QAC]|
 Download: | Main Files - Black-Briar Banners - Woven Edition
 
-## Sepolcri - A complete Burial Sites Overhaul
+## Sepolcri - A Complete Burial Sites Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34105) | Version: `2.0` | Author: `WiZkiD` | ![Core] ![CAO] ![QAC] ![ESM] ![ESL-C]
 Download: | Main Files - Sepolcri - A Complete Burial Sites Overhaul
@@ -1621,7 +1628,7 @@ Download: | Main Files - Northern Roads
 
 ## Northern Roads Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.15.1` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.15.3` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
 Download: | Main Files - Northern Roads Patch Collection FOMOD
 
 ![FOMOD]
@@ -1662,7 +1669,7 @@ Download: | Main Files - Road Signs Overhaul
 
 ## Simple Snow Improvements - Skyrim - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.4` | Author: `WeldingManDE` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.5` | Author: `WeldingManDE` | ![Core]
 Download: | Main Files - Simple Snow Improvements - Skyrim
 
 ## Simple Snow Improvements - Skyrim - Giant Obelisks - Base Object Swapper

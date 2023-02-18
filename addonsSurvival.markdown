@@ -40,8 +40,7 @@ Patches:
 
 ![PostInstall]
 ~~~
-Delete interface/skyui/bottombar.swf.
-Delete interface/skyui/itemcard.swf.
+Delete interface/skyui/.
 ~~~
 
 ## SunHelm Survival and Needs - Water-Borne Diseases
@@ -56,8 +55,6 @@ Download: | Main Files: Campfire 1.12.1SEVR Release
 
 ![PostInstall]
 ~~~
-Delete Scripts/jsonutil.pex.
-Delete Scripts/StorageUtil.pex.
 Delete SKSE/Plugins/PapyrusUtil.dll.
 ~~~
 
@@ -99,6 +96,8 @@ Patches:
    * Complete Alchemy and Crafting Overhaul (CACO)
    * Immersive Interactions - Animated Actions
 MineOreScript.pex:
+   * Complete Crafting Overhaul Remastered (CCOR)
+ResourceFurnitureScript.pex:
    * Complete Crafting Overhaul Remastered (CCOR)
 ~~~
 
@@ -192,7 +191,7 @@ Download: | Main Files - Immersive Aggressive Opponents
 
 ## Immersive Spell Learning - DESTified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `1.4.1` | Author: `Hackfield` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `1.4.5` | Author: `Hackfield` | ![Optional] ![ESL]
 Download: | Main Files - ISL - DESTified Main File
 
 ![FOMOD]
@@ -208,6 +207,16 @@ Choose MCM:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.0` | Author: `AndrealphusVIII` | ![Optional]
 Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
+# Survival - Final Steps
+
+## xEdit
+
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
+
+|--
+Plugin | Instructions |
+- | -
+DEST_ISL.esp | Add ESL flag
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
@@ -222,3 +231,7 @@ Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
+[esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
+[esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
+[qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

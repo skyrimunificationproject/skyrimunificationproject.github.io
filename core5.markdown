@@ -9,7 +9,7 @@ title: "Skyrim Unification Project"
 
 ## Bandit Lines Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63733) | Version: `1.06` | Author: `jayserpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63733) | Version: `1.07` | Author: `jayserpa` | ![Core] ![CAO]
 Download: | Main Files - Bandit Lines Expansion
 
 ![PostInstall]
@@ -30,7 +30,7 @@ Pack the mod with CAO.
 
 ## Civil War Lines Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | Version: `1.05` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77566) | Version: `1.06` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - Civil War Lines Expansion
 
 ![PostInstall]
@@ -51,7 +51,7 @@ Pack the mod with CAO.
 ## Guard Dialogue Overhaul Redux
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20791) | Version: `1.8` | Author: `Eckss,Kelsenellenelvian` | ![Core] |
-Download: | Main Files - Guard Dialogue Overhaul (Form 44
+Download: | Main Files - Guard Dialogue Overhaul (Form 44)
 
 ## Hunters Not Bandits
 
@@ -84,10 +84,11 @@ Pack the mod with CAO.
 ## Immersive Rejections for Interesting NPCs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75879) | Version: `1.0` | Author: `TheCyclist` | ![Optional]
+Download: | Main Files - Immersive Rejections For Interesting NPCs
 
 ## Misc Dialogue Edits
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8` | Author: `GOsteW and lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8.5` | Author: `GOsteW and lilebonymace` | ![Core] |
 Download: | Main Files - Misc Dialogue Edits
 
 ![FOMOD]
@@ -110,7 +111,7 @@ Patches:
 
 ## More to Say
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `9.0.1` | Author: `abramcf` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22622) | Version: `9.0.2` | Author: `abramcf` | ![Core] |
 Download: | Optional Files - More to Say (merged version)
 
 ## NPCs React To Necromancy (And More)
@@ -120,9 +121,8 @@ Download: | Main Files - NPCs React to Necromancy
 
 ## Relationship Dialogue Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] ![BSA] ![CK] ![CAO] |
+[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] ![CK] ![BSA] ![CAO]|
 Download: | Main Files - Relationship Dialogue Overhaul - RDO v2.0
-| Update Files - [Relationship Dialogue Overhaul - Updated Scripts](https://www.dropbox.com/s/85bm0yqwom4fczs/Skyrim%20Unification%20Project%20-%20RDO%20-%20Updated%20Scripts.7z?dl=0)
 
 ![FOMOD]
 ~~~
@@ -130,15 +130,21 @@ Follower Mods:
    * None
 USLEEP:
    * None
+Other Patches:
+   * None
 ~~~
 
 ![PostInstall]
 ~~~
-IMPORTANT! Extract the BSA when installing so scripts merge.
-
 Save Relationship Dialogue Overhaul.esp in the Creation Kit.
-Pack the mod with CAO.
+
+Repack the BSA with CAO (Important, game will not start!)
 ~~~
+
+## Relationship Dialogue Overhaul - Updated Scripts
+
+[![mod]](https://www.nexusmods.com/skyrim/mods/74568) | Version: `2.0` | Author: `cloudedtruth` | ![Core] |
+Download: | [Relationship Dialogue Overhaul - Updated Scripts](https://www.dropbox.com/s/85bm0yqwom4fczs/Skyrim%20Unification%20Project%20-%20RDO%20-%20Updated%20Scripts.7z?dl=0)
 
 ## Serana Dialogue Edit 
 
@@ -241,7 +247,7 @@ Download: | Main Files - Trade and Barter SE
 
 ## Nether's Follower Framework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.8.2` | Author: `Netherworks` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55653) | Version: `2.8.3b` | Author: `Netherworks` | ![Core] ![CAO]|
 Download: | Main Files - Nether's Follower Framework - Universal Installer (LE or SSE)
 
 ![FOMOD]
@@ -286,7 +292,7 @@ Download: | Main Files - Weapons Armor Clothing and Clutter Fixes
 Textures:
    * 2K (default)
 Orcish Weapons:
-   * LeanWolf's Better-Shaped Weapons
+   * LeanWolf's Better-Shaped Weapons with Greatsword Scabbard
 Optional Files:
    * None
 ~~~
@@ -583,12 +589,7 @@ Download: | Main Files - Experience NG
 ![FOMOD]
 ~~~
 Aspect Ratio:
-   * 16:9 (unless using otherwise)
-~~~
-
-![PostInstall]
-~~~
-Delete Interface/statsmenu.swf.
+   * None (covered in Dear Diary)
 ~~~
 
 
@@ -720,6 +721,8 @@ Custom Soul Gem Patches:
 Soul Gem Graphics/Sounds Mod Patches
    * None
 Other Patches:
+   * Lucien - Rare Curios
+   * Lucien - Saints and Seducers
    * Reliquary of Myth
 ~~~
 
@@ -732,6 +735,18 @@ Download: | Old Files - YOT - Your Own Thoughts 4.2
 ~~~
 Alternative Plugin:
    * No
+Gameplay Mods:
+   * None (Uncheck all)
+Location mods:
+   * None (Uncheck all)
+Quest mods:
+   * None (Uncheck all)
+EnaiSiaion Mods:
+   * None (Uncheck all)
+Creation Club:
+   * None (Uncheck all)
+Patches:
+   * None
 ~~~
 
 
@@ -755,10 +770,10 @@ Download: | Main Files - BUVARP SE RE - Favor Quests Separated Patch
 Pack the mod with CAO.
 ~~~
 
-## Complete Alchemy and Cooking Overhaul - Awesome Potions Simplified Patch
+## Complete Alchemy and Cooking Overhaul - Patch For Potion Remodels
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58655) | Version: `1.1` | Author: `Zireal1251` | ![Core]
-Download: | Main Files - CACO - APS Patch
+Download: | Main Files - CACO Patch
 
 ## Enhanced Blood Textures - Optimized Scripts
 
@@ -772,6 +787,7 @@ Download: | Main Files - kryptopyr's Patch Hub Installer
 | Misc Files - Fishing (CC)__WACCF_CCOR
 | Misc Files - Sacrilege__CACO
 | Misc Files - Saints and Seducers (CC)__TCIY
+| Misc Files - Unofficial Skyrim Special Edition Patch__CACO (until FOMOD fixed)
 
 ![FOMOD]
 ~~~
@@ -786,7 +802,10 @@ Mod Detection:
 WACCF - Patches:
    * Select only RS Children Overhaul
 WACCF - Combination Patches:
+   * Bonemold Weapon Pack - None
+   * Cloaks of Skyrim - None
    * Dawnguard Arsenal - None
+   * Fishing - WACCF and CCOR (overwritten by updated single patch, for now)
    * Improved Closefaced Helmets - None
    * Ordinator - WACCF and CCOR
 CCOR - Winter Is Coming SSE - Cloaks:
@@ -800,13 +819,13 @@ CACO - Creation Club: (Deselect Survival)
    * Saints and Seducers
 CACO - Wintersun:
    * Without Custom Race Support
-CACO - Other:
+CACO - Other: (select only)
    * Beyond Skyrim - Wares of Tamriel
    * Growl - Werebeasts of Skyrim
    * Inigo
    * Ordinator - Perks of Skyrim
    * Predator Vision - Night Eye and Thermal Vision Overhaul
-   * Unofficial Skyrim Special Edition Patch
+   * Unofficial Skyrim Special Edition Patch ?? can't currently select
 IT - Patches:
    * Unofficial Material Fix
 TCIY - Creation Club:
@@ -901,7 +920,7 @@ Download: | Optional Files - Wintersun 2k BSA
 
 ## Weapons Armor Clothing and Clutter Fixes - CBBE - Bodyslide
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19176) | Version: `1.1.1` | Author: `Shiva182` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19176) | Version: `1.2` | Author: `Shiva182` | ![Core] ![Visuals] |
 Download: | Main Files - Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 
 ## Poppy's Assorted CBBE Patches
@@ -1031,14 +1050,14 @@ Lux Orbis:
 ## Mesh Patch for Various Mods
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45597) | Version: `1.12a` | Author: `ShatterRock` | ![Core] ![Visuals] |
-Download: | Main Files - Assorted Mesh Fixes - SMIM - Really Blended Roads Patch
-| Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
+Download: | Skyrim Particle Patch for ENB - Assorted Mesh Fixes - Solitude Mesh Fixes Patch
 | SMIM - Quality Addon - Unofficial Material Fix Patch
 | Unofficial Material Fix - Assorted Mesh Fixes Patch
 
 
 ![PostInstall]
 ~~~
+Delete meshes/clutter/.
 Delete meshes/furniture/clutter/.
 ~~~
 
@@ -1065,24 +1084,23 @@ Download: | Main Files - Odin - Summons Redone
 Pack the mod with CAO.
 ~~~
 
-## Praedy's College of Winterhold
+## OSHA-Compliant Sovengarde Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46334) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
-Download: | Main Files - Praedy's College of Winterhold 4K
-| Optional Files - Praedy's College of Winterhold patches and addons 4K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70148) | Version: `2.0` | Author: `markuskarttunen1` | ![Core]
+Download: | Main Files - OSHA-Compliant Sovengarde Mesh Fixes
+
+## Praedy's Castle Volkihar - Simplicity of Snow Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51493) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Misc Files - CastleVolkiharHD - SimplicityOfSnow Patch
+
+## Praedy's College of Winterhold - Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46334) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Optional Files - Praedy's College of Winterhold patches and addons 4K
 
 ![FOMOD]
 ~~~
-Main Textures:
-   * College Textures
-Entrances:
-   * Doors
-   * Gate
-MageStatue:
-   * None
-Banners:
-   * None
-   
 Patches TGC:
    * None (or TGCWinterhold 4K if using Project Arch addon)
 Patches OCW:
@@ -1093,8 +1111,6 @@ Addons:
 AlternativeTextures
    * Stairs and trims
 ~~~
-
-
 
 ## Rudy Candles for SMIM Lanterns
 
@@ -1219,7 +1235,6 @@ Modular:
    * Creatures
 Creatures - Patches:
    * Dynamic Things Alternative
-   * Grahl
    * Savage Skyrim
    * Skeleton Replacer HD
    * TESO Imports
@@ -1246,7 +1261,7 @@ Download: | Main Files - dpillari sleeping tree 2k Enb light
 
 ## Icy Mesh Remaster
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.90` | Author: `RokHel` | ![Visuals] ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.91` | Author: `RokHel` | ![Visuals] ![ESL-C]
 Download: | Main Files - Icy Mesh Remaster
 
 ![FOMOD]
@@ -1279,16 +1294,16 @@ LOD Patches:
    * Skyrim Remastered
 ~~~
 
+## FYX - Riften Canal and Round Posts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75431) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - Riften Canal and Round Posts
+
 ## FYX - Smooth Wells
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Smooth Wells - Water in Wells
 | Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
-
-![PostInstall]
-~~~
-Delete meshes/architecture/whiterun.
-~~~
 
 ## Medieval Spirits 
 
@@ -1331,7 +1346,7 @@ Download: | Main Files - WiZkiD Hagraven Clutter and Bones
 Main Installation:
    * 4K
 Patches:
-   * High Poly Project Patch
+   * None
 ~~~
 
 ## Bits and Pieces Rework
@@ -1389,11 +1404,13 @@ Select 'Install anyway'.
 
 ![PostInstall]
 ~~~
+Delete meshes/actors/atronarchflame/.
 Delete meshes/critters.
 Delete meshes/dlc02/landscape/dlc2firecrater*.
 Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
 Delete meshes/dlc02/landscape/trees/.
 Delete meshes/magic/fireball01handeffects.nif.
+Delete meshes/magic/firestormhandeffects.nif.
 Delete meshes/magic/fxfirecloakhandeffects.nif.
 ~~~
 
@@ -1404,7 +1421,7 @@ Download: | Main Files - ENB lights for Aetherium Shards SE
 
 ## ENB Lights - Alchemy Ingredients
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65509) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65509) | Version: `0.3.1` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Alchemy Ingredients ENB Light
 
 ## ENB Lights - Apocrypha
@@ -1461,7 +1478,7 @@ Download: | Main Files - High Poly Dragonborn Ingredients - ENB Lights
 
 ## ENB Lights - Kabu's Fire Salts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.2` | Author: `Kabu` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.3` | Author: `Kabu` | ![Core] ![Visuals]
 Download: | Main Files - Kabu's Fire Salts 2k
 
 ## ENB Lights - Misc Effects
@@ -1495,7 +1512,7 @@ Download: | Main Files - Sprites or Specters - ENB Light - Scrambled Bugs Versio
 
 ## ENB Lights - WeldingMan's Smelter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74816) | Version: `1.3.1` | Author: `WeldingManDE` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74816) | Version: `1.4` | Author: `WeldingManDE` | ![Core] ![Visuals]
 Download: | Main Files - WeldingMans Smelter
 
 ![PostInstall]
@@ -1604,7 +1621,7 @@ Version:
 ![PostInstall]
 ~~~
 Delete GhostLight.esp.
-Delete meshes/clutter/sarcophagusboltlock/.
+Delete meshes/clutter/.
 ~~~
 
 ## Particle Lights for ENB - Wisps - Witchlight
@@ -1653,6 +1670,7 @@ Installation options:
    * Bthardamz
    * Chaurus Eggs and Sacs
    * Deathbell and Nirnroots
+   * Glowing Mushrooms
 ~~~
 
 ![PostInstall]
@@ -1721,7 +1739,7 @@ Add BodySlide x64.exe as an executable in MO2 and direct its output to a new mod
 ## JContainers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16495) | Version: `4.1.13` | Author: `silvericed` | ![Core] |
-Download: | [Nexus Link](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=165534&game_id=1704)
+Download: | Main Files - JContainers SE
 
 ## Mfg Fix
 

@@ -190,7 +190,7 @@ Resave Finding_Derkeethus.esp in the Creation Kit.
 
 ## Finding Helgi and Laelette
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | Version: `1.1` | Author: `SomethingObscure` | ![Core] ![BSA] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | Version: `1.1` | Author: `SomethingObscure` | ![Core] |
 Download: | Main Files - Finding Helgi and Laelette
 
 ![FOMOD]
@@ -253,13 +253,18 @@ Download: | Main Files - Companions Questline Tweaks
 
 ## Innocence Lost - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80974) | Version: `1.0.1` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80974) | Version: `1.0.1` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - Innocence Lost - Quest Expansion
 
 ![FOMOD]
 ~~~
 Patches:
    * None
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 ## Keeper Carcette Survives
@@ -333,13 +338,18 @@ Patches:
 
 ## The Whispering Door - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76606) | Version: `1.10` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76606) | Version: `1.10` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - The Whispering Door - Quest Expansion
 
 ![FOMOD]
 ~~~
 Patches:
    * None
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 ## Thugs Not Assassins
@@ -642,10 +652,13 @@ Pack the mod with CAO.
 
 ## Faction Crossbows - Cleaned and Upscaled Textures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68463) | Version: `2.0` | Author: `xilamonstrr` | ![Optional] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68463) | Version: `2.0` | Author: `xilamonstrr` | ![Optional] ![Visuals] ![CAO]
 Download: | Main Files - DX Faction Crossbows 4k
 
-
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Heavy Armory - New Weapons
 
@@ -773,23 +786,12 @@ Misc Options:
 ## DynDOLOD Resources Large Reference Workaround Scripts and DLL NG
 
 [![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: | Author: `Sheson` | ![Visuals]
-Download and install from archive: | [Mega Link](https://mega.nz/file/FUBThISJ#Uu1NpsjUvz-SupVBYGOLeB6UdR1hheZpy6gIvTeR0e4)
+Download: | [Nexus API Link](https://www.nexusmods.com/skyrimspecialedition/mods/57264?tab=files&file_id=354914&nmm=1)
 
 ## DynDOLOD Modders Resource Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53526) | Version: `0.1` | Author: `IKE200` | ![Visuals] |
 Download: | Main Files - All In One
-
-## HD LODs Textures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3333) | Version: `9.3` | Author: `Abendaron` | ![Visuals] |
-Download: | Main Files - HD Lods Textures SE 1K V9.3 - DynDOLOD version
-
-![PostInstall]
-~~~
-Delete HD Lods SSE.esp.
-Delete HD Lods SSE.bsa.
-~~~
 
 ## Grass Terrain Remade
 
@@ -939,7 +941,7 @@ Pack the mod with CAO.
 ## Ruins Clutter Improved - Cleaned and Upscaled Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71127) | Version: `1.0` | Author: `xilamonstrr` | ![Optional] ![Visuals] ![CAO]
-Download: | Main Files - Ruins Clutter Improved 2K
+Download: | Main Files - Ruins Clutter Improved 2k4k
 
 ![FOMOD]
 ~~~
@@ -962,7 +964,6 @@ Download: | Main Files - Forgotten Retex Project
 Installation:
    * Custom Installation
 Artifacts:
-   * Draw Knife with Carvings
    * Silver Mold without Silver Frame
    * Aetherial Crown
    * White Phial
@@ -1118,11 +1119,6 @@ Download: | Main Files - FYX - 3D Whiterun Guard Towers
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75794) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - RavenRock Docks and Fences Round Posts
 
-## FYX - Riften Canal and Round Posts
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75431) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
-Download: | Main Files - FYX - Riften Canal and Round Posts
-
 ## FYX - Rowboat
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78566) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
@@ -1165,7 +1161,7 @@ Download: | Main Files - Ancient AF Windhelm 4K
 ## Illustrious Whiterun
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]
-Download: | Optional Files - Illustrious Whiterun 4K
+Download: | Main Files - Illustrious Whiterun 4K
 | Update Files - Illustrious Whiterun 4K Update
 
 ## Illustrious Whiterun - Alt Stonefloor
@@ -1201,6 +1197,24 @@ Ghosu Armory:
 ![PostInstall]
 ~~~
 Delete Praedy's AncientFalmerThrone.esp.
+~~~
+
+## Praedy's College of Winterhold
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46334) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Praedy's College of Winterhold 4K
+
+![FOMOD]
+~~~
+Main Textures:
+   * College Textures
+Entrances:
+   * Doors
+   * Gate
+MageStatue:
+   * None
+Banners:
+   * None
 ~~~
 
 ## Praedy's Soul Cairn
@@ -1310,16 +1324,22 @@ Delete Mrf Solitude.esp.
 
 ## Mrf's Solitude - Optional Files
 
-[![mod]](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=234374&game_id=1704) | Version: `1.5.1` | Author: `mo ru feng` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=249382&game_id=1704) | Version: `1.8.3` | Author: `mo ru feng` | ![Visuals] |
 Download: | Main Files - Mrf's solitude Optional files fomod
 
 ![FOMOD]
 ~~~
 Patch option - Solitude fix:
-   * None
+   * Solitude fix
 Texture option:
    * Mrf's solitude Church windows
    * Mrf Another type of floor
+~~~
+
+![PostInstall]
+~~~
+Delete meshes.
+Delete Mrf Solitude.esp.
 ~~~
 
 ## Riften of Reverie
@@ -1353,10 +1373,6 @@ Download: | Optional Files - Orc Settlements Enhanced 4K
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51493) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
 Download: | Main Files - Praedy's Castle Volkihar - SE 4K
 
-## Praedy's Castle Volkihar - Simplicity of Snow Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51493) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
-Download: | Miscellaneous Files - CastleVolkiharHD - SimplicityOfSnow Patch
 
 ## Praedy's Fort Dawnguard
 
@@ -1417,8 +1433,8 @@ Delete Solitude farmhouses rework.esp.
 
 ## WiZkiD Farmhouses
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39185) | Version: `1.4` | Author: `WiZkiD` | ![Visuals] |
-Download: | Optional Files - WiZkiD Parallax Farmhouses 4K no parallax
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39185) | Version: `1.5.1` | Author: `WiZkiD` | ![Visuals] |
+Download: | Main Files - WiZkiD Parallax Farmhouses
 | Misc Files - WiZkiD Parallax Farmhouses weathered-desaturated wood textures 4K
 
 ![PostInstall]
@@ -1561,7 +1577,7 @@ Download: | Main Files - Nordic Tent Replacer
 
 ## KG's Fences
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79126) | Version: `0.3` | Author: `kiddgimmick` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79126) | Version: `0.04` | Author: `kiddgimmick` | ![Visuals]
 Download: | Main Files - KG's Fences
 
 ## KG's Imperial Tents
@@ -1588,7 +1604,7 @@ Options:
 
 ## WiZkiD - Signs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30481) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30481) | Version: `2.4` | Author: `WiZkiD` | ![Core] ![Visuals]|
 Download: | Main Files - WiZkiD Signs
 
 ![FOMOD]
@@ -1623,7 +1639,7 @@ Download: | Main Files - A Blacksmith Sign
 ## All-Maker Stones HD Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34988) | Version: `1.0` | Author: `TheEye2108` | ![Visuals] |
-Download: | Main Files - All-Maker Stones HD Retexture - Majestic Mountains - Darkside
+Download: | Main Files - All-Maker Stones HD Retexture - Majestic Mountains - Northside
 
 ## Detailing the Eldrich - Higher-Res Apocrypha
 
@@ -1871,6 +1887,7 @@ Download: | Main Files - Skyrim Remastered - Azura and Blackreach Crystals 4K
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38220) | Version: `1.00` | Author: `Gravos8890` | ![Visuals] |
 Download: | Main Files - Skyrim Remastered - Caves 4K Non Parallax
 | Update Files - Skyrim Remastered - Caves New Icicles
+| Update Files - Skyrim Remastered - Caves Updated ESP
 
 ## Metallurgy - Ingots Ore and Veins
 
@@ -1894,7 +1911,7 @@ Patches:
    * None
 ~~~
 
-## CC's HQ Caves Redone
+## CC's HQ Mines Redone
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/18044) | Version: `1.5` | Author: `ClearanceClarance` | ![Core] ![Visuals]
 Download: | Main Files - CC's HQ Mines Redone - AiO - 1.5
@@ -1953,11 +1970,6 @@ Download: | Optional Files - Dwemer Pipework Reworked - optional ENB Lights
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
 Download: | Main Files - JS Attunement Sphere and Lexicons SE - 2k Textures
 
-## JS Attunement Sphere and Lexicons - LOTD Display Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
-Download: | Misc Files - JS Attunement Sphere and Lexicons SE - LOTD Display Patch
-
 ## JS Dwarven Oil
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66770) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
@@ -1996,9 +2008,20 @@ Download: | Main Files - JS Essence Extractor SE - 4k Textures
 ## Ancient Dwemer Metal - Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
-| Main Files - Ancient Dwemer Metal - My patches - Converted Meshes to SE and AE
+Download: | Main Files - Ancient Dwemer Metal - My patches - Converted Meshes to SE and AE |
+| Main Files - Ancient Dwemer Metal - My patches - FINAL SE VERSION
 | Update Files - Ancient Dwemer Metal - My patches - FINAL VERSION Update v6
+
+![PostInstall]
+~~~
+Delete meshes/dlc01.
+Delete meshes/dungeons/mines.
+~~~
+
+## Ancient Dwemer Metal - Patches - Aetherial Crown
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My patches - Aetherial Crown by Saerileth 2K SE
 
 ## Ancient Dwemer Metal - Patches - C.O.I.N.
 
@@ -2017,15 +2040,15 @@ Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Automato
 Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Tech Glowmapped
 |   --Note: During install select 4K in BAIN installer
 
-## Ancient Dwemer Metal - Patches - Dwemer Pipework Reworked
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
-
 ## Ancient Dwemer Metal - Patches - Dwemer Lanterns - ENB
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - ENB Particle Lights - Dwemer Lanterns
+
+## Ancient Dwemer Metal - Patches - Dwemer Pipework Reworked
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 
 ## Ancient Dwemer Metal - Patches - Gemstones Replacer HD
 
@@ -2037,7 +2060,7 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Gemstones Repla
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
-|   --Note: During install right-click 4K and set as Data Directory
+|   --Note: During install right-click 4K / Data and set as Data Directory
 
 ## Ancient Dwemer Metal - Patches - JS Attunement Sphere and Lexicons
 
@@ -2108,18 +2131,13 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Security Overha
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
+|   --Note: During install select 4K in BAIN installer
 
 ## Ancient Dwemer Metal - Patches - Skyrim Sewers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
-![PostInstall]
-~~~
-Delete meshes/dlc01/armor/circlets.
-Delete meshes/dungeons/mines/ore.
-Delete textures/armor/dwarven.
-~~~
 
 ## Ancient Dwemer Metal - Spider Gem Restored
 

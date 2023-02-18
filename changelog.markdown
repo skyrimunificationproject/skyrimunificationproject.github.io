@@ -3,6 +3,167 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-02-17
+
+![Added]
+~~~
+Core 1 - 07 - Extended UI
+Core 2 - 30 - Ancient Dwemer Patches - Aetherial Crown
+Core 3 - 33 - Veydesbrom Regions for ENB Complex Grass
+Adventures - Konahrik's Accoutrements - Fixed ESP
+~~~
+
+![Removed]
+~~~
+Core 2 - 23 - HD LODs Textures
+Core 3 - 31 - Forgotten Herbs
+Core 3 - 36 - Iconic's Bust of the Gray Fox Retexture
+Core 3 - 40 - aMidian Blade of Woe
+Adventures - Better Falskaar and Wyrmstooth Map
+~~~
+
+![Updated]
+~~~
+Prerequisites - Synthesis updated to 0.25.3.
+
+Core 1 - 00 - Infinity UI updated to 2.0.1.
+Core 1 - 00 - powerofthree's Papyrus Extender updated to 5.5.0.
+Core 1 - 01 - NPCs Use Potions updated to 3.0.2.
+Core 1 - 01 - Unique Map Weather updated to 1.1.1.
+Core 1 - 03a- OSHA-Compliant Sovengarde Mesh Fixes moved to 69.
+Core 1 - 03b- Navigator updated to 1.4.3.
+Core 1 - 03b- Standing Ambusher Fix updated to 1.1.0.
+Core 1 - 03b- Unaggressive Dragon Priests Fix updated to 1.2.
+Core 1 - 07 - Compass Navigation Overhaul updated to 2.1.
+Core 1 - 16 - Northern Roads Patch Collection updated to 1.15.3.
+Core 1 - 16 - Simple Snow Improvements - Skyrim updated to 1.5.
+Core 2 - 18 - Finding Helgi - removed BSA extract.
+Core 2 - 18 - Innocence Lost - added CAO
+Core 2 - 18 - Whispering Door Quest Expansion - added CAO
+Core 2 - 22 - Faction Crossbows Upscaled Textures - added CAO
+Core 2 - 23 - DynDOLOD Resources Large Reference Workaround - changed to Nexus API link
+Core 2 - 24 - Ruins Clutter Improved Upscaled - changed download to 2k4k.
+Core 2 - 24 - Forgotten Retex Project - removed Draw Knife from FOMOD
+Core 2 - 24 - FYX Riften Canal and Round Posts moved to 69.
+Core 2 - 25 - Praedy's College of Winterhold moved back from 69 (except patches)
+Core 2 - 25 - Mrf's Solitude Optional Files - updated version, FOMOD, instructions
+Core 2 - 26 - Praedy's Castle Volkihar - Simplicity of Snow patched moved to 69.
+Core 2 - 26 - WiZkiD Farmhouses updated to 1.5.1.
+Core 2 - 27 - KG's Fences updated to 0.04.
+Core 2 - 27 - WiZkiD - Signs updated to 2.4.
+Core 2 - 28 - All-Maker Stones HD Retexture changed to Northside version.
+Core 2 - 29 - Skyrim Remastered Caves - added Update esp file.
+Core 2 - 30 - JS Attunement Sphere LOTD Display Patch moved to Adventures.
+Core 2 - 30 - Ancient Dwemer Metal Patches - Swapped order to install first two files.
+Core 3 - 32 - Simplicity of Snow - removed delete instructions.
+Core 3 - 32 - Water for ENB updated to 1.74.
+Core 3 - 33 - Veydesbrom Regions - updated FOMOD to dense landscape option.
+Core 3 - 33 - Happy Little Trees - corrected delete instruction (tundradriftwood)
+Core 3 - 34 - A Potato Plant updated to 3.1.
+Core 3 - 36 - Skyrim Remastered Soul Gems Remastered - added esp delete instruction.
+Core 3 - 37 - Skyrim 3D Furniture - updated and corrected delete instructions.
+Core 3 - 37 - Rudy HQ - updated FOMOD instr, added esp delete instr.
+Core 3 - 38 - Embers XD updated to 2.7.1.
+Core 3 - 40 - Dragon Priest Retexture - swapped to no plugin option in FOMOD.
+Core 3 - 40 - Frankly HD Stormcloak - Added delete instructions.
+Core 3 - 40 - Sigils of Skyrim Shields - Added delete instructions.
+Core 3 - 40 - Sigils of Skyrim 4K - Added delete instructions.
+Core 3 - 41 - RUSTIC DRAGONS - Updated delete instructions (cubemap).
+Core 3 - 42 - Lux - Updated delete instructions (-icecaves)
+Core 3 - 42 - Lux Via - Changed FOMOD instructions (no blended roads bridges)
+Core 4 - 47 - Modpocalypse NPCs Resources - added CAO
+Core 4 - 47 - Modpocalypse NPCs Vanilla - added CAO
+Core 4 - 47 - Modpocalypse NPCs ASLAL - added CAO
+Core 4 - 47 - Modpocalypse NPCs CFTO - added CAO
+Core 4 - 47 - Modpocalypse NPCs Heritage 2 - added CAO
+Core 4 - 47 - Modpocalypse NPCs Immersive College NPCs - added CAO
+Core 4 - 47 - Modpocalypse NPCs Interesting NPCs - added CAO
+Core 4 - 47 - Modpocalypse NPCs Obscure - added CAO
+Core 4 - 47 - Followers Hirelings and Housecarls - added CAO
+Core 4 - 47 - Fresh Faces - added CAO
+Core 4 - 47 - Meetalsabers Beautiful Orcs - added CAO
+Core 4 - 47 - Pandorable's NPCs Males - added CAO
+Core 4 - 47 - Pandorable's NPCs Males 2 - added CAO
+Core 4 - 47 - The Men of Winter - added CAO
+Core 4 - 47 - Northbourne NPCs of Falkreath Hold - added CAO
+Core 4 - 47 - Northbourne NPCs of Haafingar - added CAO
+Core 4 - 47 - Northbourne NPCs of Hjaalmarch - added CAO
+Core 4 - 47 - Northbourne NPCs of the Rift - added CAO
+Core 4 - 47 - Northbourne NPCs of Whiterun Hold - added CAO
+Core 4 - 47 - Northbourne NPCs of Winterhold - added CAO
+Core 4 - 47 - Improved Bards - added CAO
+Core 4 - 47 - The Ordinary Women - added CAO
+Core 4 - 47 - Pandorable's NPCs - added CAO
+Core 4 - 47 - Pandorable's NPCs - Dawnguard - added CAO
+Core 4 - 47 - Pandorable's NPCs - Dragonborn - added CAO
+Core 4 - 47 - Pandorable's NPCs - Initiates - added CAO
+Core 4 - 47 - Pandorable's NPCs - Sovngarde - added CAO
+Core 4 - 47 - Kalilies NPCs - added CAO
+Core 4 - 47 - Bijin NPCs - added CAO
+Core 4 - 47 - Bijin Warmaidens - added CAO
+Core 4 - 47 - Bijin Wives - added CAO
+Core 4 - 47 - Seranaholic - added CAO
+Core 4 - 47 - Seranaholic - Valerica - added CAO
+Core 4 - 47 - Citizens of Tamriel Visual Overhaul - added CAO
+Core 4 - 47 - Interesting NPCs Visual Overhaul - added CAO
+Core 4 - 47 - Interesting NPCs Cuyima's Retexture - added CAO
+Core 4 - 49 - CBBE updated to 1.7.1.  FOMOD default changed to nevernude.
+Core 4 - 49 - Vitruvia FOMOD default changed to nevernude.
+Core 4 - 56 - Conditional Tavern Cheering updated to 1.0.3.
+Core 4 - 56 - NPC Animation Remix updated to 1.2.1.
+Core 4 - 57 - XP32 FOMOD change to no weapon style.
+Core 4 - 57 - Savage Skyrim - Added delete instruction for sphere centurion.
+Core 5 - 58 - Bandit Lines Expansion updated to 1.07.
+Core 5 - 58 - Civil War Lines Expansion updated to 1.06.
+Core 5 - 58 - Misc Dialogue Edits updated to 1.8.5.
+Core 5 - 58 - More to Say updated to 9.0.2.
+Core 5 - 60 - Nether's Follower Framework updated to 2.8.3b
+Core 5 - 66 - Experience FOMOD updated (changed to no statsmenu.swf)
+Core 5 - 67 - YASTM FOMOD updated (add Lucien patches)
+Core 5 - 68 - kryptopyr's Patch Hub files updated (+USSEP_CACO), updated FOMOD (WACCF)
+Core 5 - 68 - WACCF CBBE updated to 1.2.
+Core 5 - 69 - Mesh Patch for Various Mods files updated, delete instructions updated.
+Core 5 - 69 - Icy Mesh Remaster updated to 1.91.
+Core 5 - 69 - FYX Smooth Wells - removed delete instructions.
+Core 5 - 69 - WiZkiD Hagraven Clutter - changed FOMOD (-High Poly)
+Core 5 - 70 - ENB Light - updated Delete instructions
+Core 5 - 70 - ENB Lights Alchemy Ingredients updated to 0.3.1.
+Core 5 - 70 - ENB Lights Kabu's Fire Salts updated to 1.3.
+Core 5 - 70 - ENB Lights WeldingMan's Smelter updated to 1.4.
+
+Final - Added compact instructions for Aspens Ablaze, BSMBonemold.
+Final - Added ESMify instructions for VanillaPlusWritingPurityPatch.
+Final - Added NeverNude instructions for CBBE.
+Final - Added compatibility mode instructions for Nemesis.  Updated patch list for Nemesis.
+Final - Removed tree rule for DynDOLOD for map display.
+
+Survival - Immersive Spell Learning DESTified updated to 1.4.5.
+Survival - Final - added ESL flag instruction for DEST_ISL.
+
+Adventures - Stalhrim Refrozen - Misc files changed to 2k.
+Adventures - Unique Skulls HD - Added Adventures override version
+Adventures - Ice Blade of the Monarch - Changed to 2k.
+Adventures - Tournament of the Ten Bloods - Changed to 2k.
+Adventures - JaySus - updated FOMOD
+Adventures - Modpocalypse NPCs Falskaar - added CAO
+Adventures - Modpocalypse NPCs Helgen Reborn - added CAO
+Adventures - Modpocalypse NPCs Legacy of the Dragonborn - added CAO
+Adventures - Modpocalypse NPCs Moon and Star - added CAO
+Adventures - Modpocalypse NPCs Moonpath to Elswyr - added CAO
+Adventures - Modpocalypse NPCs The Forgotten City - added CAO
+Adventures - Modpocalypse NPCs The Gray Cowl - added CAO
+Adventures - Modpocalypse NPCs Wyrmstooth - added CAO
+Adventures - Legacy of the Dragonborn Visual Overhaul - added CAO
+Adventures - Ancient Daedric Armor Replaced updated to 2.1.
+Adventures - Legacy of the Dragonborn Dragonmail Cuirass - changed to 2k.
+Adventures - Legacy of the Dragonborn Fixes and Tweaks - Added optional file
+Adventures - Legacy of the Dragonborn Plaques Retexture - Added optional file
+Adventures - TBOO Cleaned Textures - changed to 2k
+Adventures - Wyrmstooth Upscaled Textures - changed to 2x, changed delete instructions
+Adventures - Final - Added QAC instruction for WZOblivionArtifacts.
+Adventures - Final - removed moonpath instructions (replacer)
+~~~
+
 # 2023-01-31
 
 ![Added]

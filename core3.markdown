@@ -53,7 +53,7 @@ Delete textures/dlc02/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49331) | Version: `1.1` | Author: `odinsmods, ra2phoenix` | ![Core] ![Visuals]|
 Download: | Main Files - Glacies 4K
 
-## Majestic Mountains - Darkside
+## Majestic Mountains
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | Version: `4.02` | Author: `T4GTR34UM3R` | ![Core] ![Visuals] ![ESL]
 Download: | Main Files - 2. Majestic Mountains Darkside
@@ -66,9 +66,6 @@ Optionals:
    * None
 Sun Direction:
    * None
-   
-LOD Textures:
-   * Main
 ~~~
 
 ![PostInstall]
@@ -80,10 +77,16 @@ Delete textures/effects.
 Delete textures/landscape/tundramoss01.dds.
 ~~~
 
-## Majestic Mountains - Darkside - DynDOLOD
+## Majestic Mountains - DynDOLOD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11052) | Version: `4.02` | Author: `T4GTR34UM3R` | ![Core] ![Visuals]|
 Download: | Optional Files - DynDoLod V 3.0 Lod pack (all versions)
+
+![FOMOD]
+~~~
+LOD Textures:
+   * Main
+~~~
 
 ## Majestic Mountains - Northside
 
@@ -96,6 +99,8 @@ Mountain Textures:
    * Dark Northside
 Normal Maps:
    * Main Rocky
+Wet Rocks:
+   * None
 ~~~
 
 ## Nordic Northern Roads
@@ -113,7 +118,7 @@ Download: | Main Files - HD Stone Quarry and Clay Deposit SE - 4K v1.1
 Delete HD Stone Quarry and Clay Deposits SE.esp.
 ~~~
 
-## HD Stone Quarry and Clay Deposit - Majestic Mountains - Darkside - Patch
+## HD Stone Quarry and Clay Deposit - Majestic Mountains - Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37985) | Version: `1.1` | Author: `skyrimaguas-TechAngel85` | ![Core] ![Visuals]|
 Download: | Optional Files - HD Stone Quarry - Majestic Mountains Patch
@@ -175,11 +180,6 @@ Patches:
    * None
 ~~~
 
-![PostInstall]
-~~~
-Delete meshes/dlc01/dungeons/.
-~~~
-
 ## No Snow Under the Roof - Patched Edition 
 
 [![mod]](https://www.dropbox.com/s/k9auuwomz2dqnqa/No%20Snow%20Under%20the%20Roof%20-%20Patched%20Edition.7z?dl=0) | Version: `5.1.7` | Author: `The Community` | ![Core]
@@ -202,7 +202,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.72` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.74` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -231,7 +231,7 @@ Patches: (select only)
 ## Veydosebrom Regions 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26293) | Version: `1.2.1` | Author: `Elyem` | ![Core] ![Visuals] ![ESL-C]
-Download: | Main Files - Veydosebrom Regions
+Download: | Main Files - Veydosebrom Regions - A Skyrim Grass Overhaul
 
 ![FOMOD]
 ~~~
@@ -244,11 +244,16 @@ ENB Support:
 Vegetation Quality:
    * High Quality
 Style:
-   * Vanilla Landscape
+   * Dense Landscape
 Grass Density:
    * Default (if you intend to use grass LOD and your card is not the newest,
               you may consider Scattered or Sparse)
 ~~~
+
+## Veydosebrom Regions for ENB Complex Grass
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67304) | Version: `1.02` | Author: `Skurkbro` | ![Core]
+Download: | Main Files - Veydosebrom Regions for ENB Complex Grass
 
 ## Happy Little Trees 
 
@@ -267,7 +272,7 @@ Snowy Pine Textures:
 
 ![PostInstall]
 ~~~
-Delete landscape/trees/tundradriftwood01.nif
+Delete meshes/landscape/trees/tundradriftwood01.nif
 ~~~
 
 ## Happy Little Trees Add-On - DynDOLOD 3
@@ -279,7 +284,7 @@ Download: | Main Files - Happy Little Trees 3D LOD - Performance
 ## Happy Little Logs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76142) | Version: `1.4` | AUthor: `Pieter82` | ![Visuals]
-Download: | Main Files - Happy Little Logs
+Download: | Main Files - Happy Little Logs V1_4 SE
 
 ## Aspens Ablaze
 
@@ -301,7 +306,7 @@ LOD Assets:
 ## Aspens Ablaze - Add-On - DynDOLOD 3
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51135) | Version: `2.36` | Author: `z929669` | ![Core] ![Visuals]|
-Download: | Main Files - Aspens Ablaze 2.35 - Autumnal - DynDOLOD
+Download: | Main Files - Aspens Ablaze - DynDOLOD 3 - FOMOD
 
 ![FOMOD]
 ~~~
@@ -373,8 +378,8 @@ Download: | Main Files - Realistic HD Mushrooms Remastered - Rock Texture Integr
 
 ## A Potato Plant
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79466) | Version: `2.1` | Author: `Kidgimmick` | ![Visuals]
-Download: | Main Files - A Potato Plant
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79466) | Version: `3.1` | Author: `Kidgimmick` | ![Visuals]
+Download: | Main Files - A Potato Plant - High Poly
 
 ## Beehive Replacer
 
@@ -467,11 +472,6 @@ Delete textures/plants/chickennest01*.
 [![mod]](https://www.nexusmods.com/skyrim/mods/74792) | Version: `1.0` | Author: `Achronos` | ![Visuals] |
 Download: | Main Files - Falmer Ear 1K
 | Main Files - Hagraven Claw
-
-## Forgotten Herbs
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/90755) | Version: `1.1` | Author: `MassiveMaster` | ![Visuals] |
-Download: | Main Files - 2k Frost mirriam and Elves Ears
 
 ## Forgotten Plants
 
@@ -837,12 +837,12 @@ BURSPST Lite:
 Compatibility Patches:
    * None
 BURP:
-   * None
+   * None (Deselect all)
 ~~~
 
 ## BURP Spell Tomes Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.8` | Author: `MidnightVoyager` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.8` | Author: `MidnightVoyager` | ![Core] ![Visuals] 
 Download: | Main Files - BURPST New Resources
 
 ![PostInstall]
@@ -865,28 +865,10 @@ Select Color of the Doll's Dress:
    * Red
 ~~~
 
-## Praedy's Elder Scroll and Elder Council Amulet
+## Eldergleam Sap - High Poly
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51082) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
-Download: | Main Files - Praedy Willow's elder scroll and elder council amulet replacers - SE 4K
-
-![FOMOD]
-~~~
-Elder Scroll - Plugin Type:
-   * ESPFE
-Elder Scroll - Options:
-   * ElderScrollChest
-   * LOTDPatch
-Elder Amulet:
-   * cbbe curvy (or slim your choice)
-Optionals:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete PraedysElderScrollSoulCairnFix.esp.
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80465) | Version: `1.01` | Author: `markuskarttunen1` | ![Visuals]
+Download: | Main Files - Eldergleam Sap
 
 ## ElSopa - Keys Redone 
 
@@ -918,11 +900,6 @@ Options:
 ~~~
 Delete Praedy's Gemstones ISCPatched.esp.
 ~~~
-
-## Iconic's Bust Of The Gray Fox Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45595) | Version: `1.0` | Author: `Iconic` | ![Visuals] |
-Download: | Main Files - Gray Fox Bust 2K
 
 ## Iconic's Remastered Ash Piles Of Skyrim 
 
@@ -1011,6 +988,29 @@ Replacer Options:
    * Vanilla Overwrite
 ~~~
 
+## Praedy's Elder Scroll and Elder Council Amulet
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51082) | Version: `2.0` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Praedy Willow's elder scroll and elder council amulet replacers - SE 4K
+
+![FOMOD]
+~~~
+Elder Scroll - Plugin Type:
+   * ESPFE
+Elder Scroll - Options:
+   * ElderScrollChest
+   * LotdPatch
+Elder Amulet:
+   * cbbe curvy (or slim your choice)
+Optionals:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete PraedysElderScrollSoulCairnFix.esp.
+~~~
+
 ## Praedy's Repository
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44644) | Version: `2.0` | Author: `PraedythXVI` | ![Visuals]
@@ -1068,6 +1068,12 @@ Delete Skyrim Remastered - Soul Gems.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73439) | Version: `1.0` | Author: `carpenihil` | ![Visuals]
 Download: | Main Files - Remastered Remastered Soul Gems
 
+![PostInstall]
+~~~
+Delete Skyrim Remastered - Soul Gems.esp.
+~~~
+
+
 ## The Business Ledger
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48561) | Version: `2.0` | Author: `d34dun1t` | ![Visuals] |
@@ -1084,6 +1090,8 @@ MainPluginOptions:
    * ESPFE
 SkullKeyOptions:
    * SkullKeys ENBLight Patch
+LOTD Options:
+   * None
 ~~~
 
 ![PostInstall]
@@ -1124,11 +1132,6 @@ Texture Size:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7974) | Version: `1.2` | Author: `ClearanceClarence` | ![Visuals] |
 Download: | Main Files - CC's HQ Barset - 4K - 1.2
 
-## CC's HQ Carts 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4878) | Version: `1.0` | Author: `ClearanceClarence` | ![Visuals] |
-Download: | Main Files - CC's HQ Carts - 4K - 1.0
-
 ## Dark Brotherhood Sanctuary Decor - The Blackest Door
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57565) | Version: `1.0` | Author: `MoonMods` | ![Visuals] |
@@ -1158,11 +1161,6 @@ Download: | Main Files - Paper Tenets - 2k
 Paper Tenets:
    * Fine Script
 ~~~
-
-## Eldergleam Sap - High Poly
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80465) | Version: `1.01` | Author: `markuskarttunen1` | ![Visuals]
-Download: | Main Files - Eldergleam Sap
 
 ## ElSopa HD - Medieval Anvil
 
@@ -1268,14 +1266,15 @@ Download: | Main Files - Skyrim 3D Furniture
 
 ![PostInstall]
 ~~~
-Delete meshes/architecture.
-Delete meshes/brewerycask*.
-Delete meshes/clutter/common/cratesmall*.
-Delete meshes/clutter/meadery/meadbarrel01.nif.
-Delete meshes/clutter/upperclass*.
-Delete meshes/clutter/weaponrack*.
-Delete meshes/furniture/clutter.
-Delete meshes/furniture/noble*.
+Delete meshes/architecture/.
+Delete meshes/clutter/brewerycask*.
+Delete meshes/clutter/common/commoncrate*.
+Delete meshes/clutter/common/crate*.
+Delete meshes/clutter/meadery/.
+Delete meshes/clutter/upperclass/.
+Delete meshes/clutter/weaponrack/.
+Delete meshes/furniture/clutter/.
+Delete meshes/furniture/noble/.
 ~~~
 
 ## Skyrim 3D Misc - Giant Mortar and Pestle
@@ -1314,9 +1313,9 @@ Download: | Main Files - Snazzy Furniture and Clutter Overhaul SE
 ![FOMOD]
 ~~~
 Install Options:
-   * Mix-n-Match Plugin - USSEP Version
+   * Mix-n-Match Plugin (Recommended)
 Texture Options:
-   * De-saturated Textures
+   * Desaturated Textures (Recommended)
 Model and Texture Options:
    * Vanilla Wood Chairs
    * Rustic Wood
@@ -1377,7 +1376,7 @@ Download: | Main Files - Vanilla Table Replacers 4k 2k
 ## Rally's Crates
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80417) | Version: `1.2` | Author: `Rallyeator` | ![Visuals]
-Download: | Main Files - Rally's Crates 4K
+Download: | Main Files - Rally's Crates
 
 ![FOMOD]
 ~~~
@@ -1407,6 +1406,16 @@ HQ Glazed Pottery for Smoking Torches and Candles Mod:
    * None
 Textures for Nordic ruins pottery:
    * Rudy HQ Brown Textures for Dungeon Pottery 2K
+Additions:
+   * Rudy HQ Apple Tomato Potato
+   * Rudy HQ Beds
+Textures for the Candles:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
 ~~~
 
 ## Basic Dining Set Replacer
@@ -1476,6 +1485,12 @@ Options:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74526) | Version: `1.1` | Author: `XilaMonstrr` | ![Visuals]
 Download: | Main Files - Deadly Spell Impacts 4K
+
+![FOMOD]
+~~~
+Options:
+   * Default
+~~~
 
 ## Enhanced Blood Textures
 
@@ -1617,7 +1632,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.0` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.1` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -1681,7 +1696,7 @@ DLC Addons:
 Amulet Texture Options:
    * Gamwich Amulet Textures - 1024
 Ring Texture Options:
-   * Gamwich Ring Textures - Combined - 2048
+   * Gamwich Ring Textures - Combined - 2k
 Optional Mesh Packs:
    * None
 ~~~
@@ -1731,11 +1746,6 @@ Download: | Main Files - 2) aMidianBorn Book of Silence SE -- CCOR CONTENT ADDON
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `2.4.1` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
 Download: | Main Files - aMidianBorn Content Addon SE
-
-## aMidianBorn Blade of Woe
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/51130) | Version: `1.1` | Author: `CaBaL` | ![Core] ![Visuals]|
-Download: | Main Files - aMidianBorn Blade of Woe
 
 ## aMidianBorn Hide and Studded Hide
 
@@ -1811,12 +1821,7 @@ Options:
    * Staves
    * Miraak Outift
 Plugin:
-   * ESPFE
-~~~
-
-![PostInstall]
-~~~
-Delete AcolyteMasks.esp.
+   * None
 ~~~
 
 ## Improved Closefaced Helmets 
@@ -1950,6 +1955,8 @@ Download: | Main Files - Frankly HD Shrouded Armor _ 1.1
 ~~~
 Texture Resolution:
    * 2K Resolution
+Options:
+   * None
 ~~~
 
 ![PostInstall]
@@ -1965,7 +1972,11 @@ After installing, install it again with the name
 [![mod]](https://www.nexusmods.com/skyrim/mods/42404) | Version: `2.1` | Author: `FrankFamily aka Borx25` | ![Visuals] |
 Download: | Main Files - UltraHD - Stormcloak and City Guards 2K version
 | Update Files - Fix by SpriterSan for 2k version
-| Update Files - Falkreath matched color fix
+
+![PostInstall]
+~~~
+Delete textures/armor/stormcloaks/*symbol.dds.
+~~~
 
 ## Frankly HD - Thieves Guild Armors
 
@@ -1982,7 +1993,11 @@ Texture Resolution:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77065) | Version: `1.10` | Author: `albinowalrus64` | ![Visuals]
 Download: | Main Files - Golden Saint Armory Revamped
-| Optional Files - Golden Saint Armory Revamped - CBBE Patch
+
+## Golden Saint Armory Revamped - CBBE - Bodyslide
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77065) | Version: `1.10` | Author: `albinowalrus64` | ![Visuals]
+Download: | Optional Files - Golden Saint Armory Revamped - CBBE Patch
 
 ## Harkon's Sword Retexture 
 
@@ -2026,7 +2041,7 @@ Extras
 
 ![PostInstall]
 ~~~
-Delete textures/PraedythXVI/ingredients/hagfeather/.
+Delete textures/PraedythXVI/ingredients/.
 ~~~
 
 ## Remiros' Ancient Falmer Armor HD
@@ -2085,11 +2100,21 @@ Delete textures/armor/dbarmor/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54108) | Version: `1.0` | Author: `JDAnchor` | ![Visuals] |
 Download: | Main Files - Sigils of Skyrim - Shields
 
+![PostInstall]
+~~~
+Delete textures/armor/stormcloaks/stormcloakshield*.
+~~~
+
 ## Sigils of Skyrim 4K-2K - Banner and Shield Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74875) | Version: `1.0` | Author: `JDAnchor -- XilaMonstrr` | ![Visuals]
 Download: | Main Files - Banners 4K
-| Shields 4K
+| Shields 2K
+
+![PostInstall]
+~~~
+Delete textures/armor/stormcloaks/stormcloakshield*.
+~~~
 
 ## Stalhrim Refrozen
 
@@ -2287,6 +2312,7 @@ Download: | Main Files - RUSTIC DRAGONS SE
 ![PostInstall]
 ~~~
 Delete textures/actors/alduin/.
+Delete textures/cubemaps/.
 ~~~
 
 ## RUSTIC FROSTBITE SPIDER
@@ -2333,7 +2359,6 @@ Support Options:
 ![PostInstall]
 ~~~
 Delete PraedysSkeletons.esp.
-Delete textures/smim/.
 ~~~
 
 ## Skeleton Replacer HD - Patches
@@ -2345,7 +2370,7 @@ Download: | iscellaneous Files - SkeletonReplacer - PatchCollection
 ~~~
 Patches:
    * MajesticMountains
-   * SkeletonEyesENBLight
+   * SkeletonEyesEnbLight
    * UniqueSkullsPotema
 ~~~
 
@@ -2363,7 +2388,7 @@ Download: | Optional Files - Troll.2k
 
 ## True Wolves Of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrim/mods/59174) | Version: `2.0` | Author: `KrittaKitty and ShimoOkami` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrim/mods/59174) | Version: `2.01` | Author: `KrittaKitty and ShimoOkami` | ![Visuals] |
 Download: | Main Files - True Wolves of Skyrim
 
 ![FOMOD]
@@ -2457,7 +2482,6 @@ Language packs:
 
 ![PostInstall]
 ~~~
-Delete meshes/dungeons/caves/ice/.
 Delete meshes/dungeons/dwemer/bghalls/.
 Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
 Delete textures/architecture/solitude/.
@@ -2503,7 +2527,7 @@ Download: | Main Files - Lux Via (main mod)
 Lux Resource Pack:
    * Lux Resource Pack (ENB Light)
 Lux Via Bridges Blended Roads options
-   * Via Bridges for Blended Roads Redone version
+   * None
 Optional plugins:
    * None
 Compatibility Patches:
@@ -2515,7 +2539,6 @@ Non-automated Patches:
 ![PostInstall]
 ~~~
 Delete Lux Via - plugin.esp.
-Delete Lux Via - Blended Roads Texture sets.esp.
 ~~~
 
 

@@ -114,6 +114,11 @@ Missives:
    * Missives Wyrmstooth
 ~~~
 
+## JS Attunement Sphere and Lexicons - LOTD Display Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
+Download: | Misc Files - JS Attunement Sphere and Lexicons SE - LOTD Display Patch
+
 ## JS Dragon Claws [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals] 
@@ -137,6 +142,8 @@ Skyrim Sewers:
 ~~~
 Delete *.esp.
 ~~~
+
+
 
 ## kryptopyr's Patch Hub [Addons - Adventures]
 
@@ -242,8 +249,8 @@ RSChildren Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41348) | Version: `1.6` | Author: `Jelidity` | ![Visuals] |
 Download: | Main Files - Stalhrim Refrozen
-| Misc Files - Stalhrim Refrozen - Konahrik's Accoutrements 4k
-| Misc Files - Stalhrim Refrozen - LotD Vahlok Mask 4k
+| Misc Files - Stalhrim Refrozen - Konahrik's Accoutrements 2k
+| Misc Files - Stalhrim Refrozen - LotD Vahlok Mask 2k
 
 ![FOMOD]
 ~~~
@@ -260,7 +267,25 @@ Lovely Longswords:
    * None
 ~~~
 
+## Unique Skulls HD [Addons - Adventures]
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52073) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
+Download: | Main Files - Unique Skulls HD - SE 4K
+
+![FOMOD]
+~~~
+MainPluginOptions:
+   * ESPFE
+SkullKeyOptions:
+   * None
+LOTD Options:
+   * New Textures + ESPFE
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
 
 # B02. Addons - Adventures - Legacy of the Dragonborn
 
@@ -351,6 +376,11 @@ Download: | Main Files - Konarik's Accoutrements - Dragon Priest Armory
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Konahrik's Accoutrements - Fixed ESP
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73689) | Version: `1.0.1` | Author: `MaskedRPGFan`
+Download: | Main Files - Konahrik's Accoutrements - Fixed Esp
 
 ## Moon and Star
 
@@ -496,7 +526,9 @@ Download: | Main Files - Ice Blade of the Monarch 2.6
 ![FOMOD]
 ~~~
 Texture Resolution:
-   * 4K
+   * 2K
+Options:
+   * None
 ~~~
 
 ## Artifacts - The Tournament of the Ten Bloods
@@ -507,7 +539,9 @@ Download: | Main Files - Tournament of the Ten Bloods 2.1
 ![FOMOD]
 ~~~
 Texture Resolution:
-   * 4K
+   * 2K
+Options:
+   * None
 ~~~
 
 ## BadGremlins Collection
@@ -540,6 +574,9 @@ Download: | Main Files - JaySuS Swords SE - All in one
 ~~~
 Core Files:
    * JaySus Swords-Craft Only Version
+Optional Meshes:
+   * Dual Sheath meshes
+   * No glow Dovah Luv
 ~~~
 
 ![PostInstall]
@@ -606,50 +643,93 @@ Download: | Volkihar Knight SE 1.0.0
 
 ## Modpocalypse NPCs - Falskaar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56989) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56989) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Falskaar
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Helgen Reborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56796) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56796) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Helgen Reborn
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56635) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56635) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Legacy of the Dragonborn
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Moon and Star
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58196) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58196) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Moon and Star
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Moonpath to Elsweyr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58197) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58197) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Moonpath to Elsweyr
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - The Forgotten City
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56739) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56739) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) The Forgotten City
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - The Gray Cowl of Nocturnal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58194) | Version: `1.0` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58194) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) The Gray Cowl of Nocturnal
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Wyrmstooth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57897) | Version: `1.01` | Author: `ModpocalypseGaming` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57897) | Version: `1.01` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Wyrmstooth
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Legacy of the Dragonborn Visual Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.0` | Author: `mocia` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.0` | Author: `mocia` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 
-
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
@@ -693,7 +773,7 @@ Requirements:
 Patches:
    * Check all
 Creation Club:
-   * Allow autochecked
+   * Allow autochecked except Survival Mode
 Official Patches:
    * Allow autochecked
 Unofficial Patches:
@@ -816,7 +896,6 @@ Legacy Book Covers Skyrim Patches:
 
 ![PostInstall]
 ~~~
-Delete meshes/armor/.
 Delete meshes/dlc02/clutter/.
 ~~~
 
@@ -921,26 +1000,6 @@ Download: | Main Files - mindbody Aetherium Armor texture enhancements SSEv1_0
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57276) | Version: `1.0` | Author: `MoonMods` | ![Visuals]|
 Download: | Main Files - Antique Statue HD - 4k
 
-## Artifacts - The Breton Paladin
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16199) | Version: `3.1` | Author: `FrankFamily` | ![BSA]|
-Download: | Main Files - PaladinArtifactsAndArmor_V3.1
-
-![FOMOD]
-~~~
-Texture Resolution:
-   * 4K Resolution
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
-
-## Better Falskaar and Wyrmstooth Map With Roads
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/51339) | Version: `1.2` | Author: `dastrokes` | 
-Download: | Main Files - Better Falskaar and Wyrmstooth Maps
 
 ## Daedric Armor
 
@@ -952,7 +1011,7 @@ Download: | 1DaedricArmorSE
 Delete /meshes.
 ~~~
 
-## Konahrik's Accoutrements Upscaled Textures
+## Konahrik's Accoutrements - Upscaled Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34417) | Version: `1` | Author: `Kartoffels` | ![CAO]|
 Download: | Main Files - KAUP
@@ -974,15 +1033,15 @@ Delete *.esp.
 
 ## Legacy of the Dragonborn - Ancient Daedric Armor Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58684) | Version: `2.0` | Author: `Xtudo` | 
-Download: | Main Files - Legacy of the Dragonborn - Ancient Daedric Armor replacer SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58684) | Version: `2.1` | Author: `Xtudo` | 
+Download: | Main Files - Legacy of the Dragonborn - Ancient Daedric Armor replacer by Xtudo SE
 
 ![PostInstall]
 ~~~
 Delete *.esp.
 ~~~
 
-## Legacy of the Dragonborn - Armor fo the Crusader Retexture
+## Legacy of the Dragonborn - Armor of the Crusader Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82294) | Version: `1.0` | Author: `Xavbio`
 Download: | Main Files - LOTD Armor of the Crusader Retexture SE
@@ -1021,12 +1080,18 @@ Download: | Main Files - LotD Dome retexture
 ## Legacy of the Dragonborn - Dragonmail Cuirass Enhanced
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43130) | Version: `1.0` | Author: `AgentW` | 
-Download: | Main Files - Dragonmail Cuirass Enhanced - 4K
+Download: | Main Files - Dragonmail Cuirass Enhanced - 2K
 
 ## Legacy of the Dragonborn - Dwemer Compass Replacer
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55663) | Version: `0.3.1` | Author: `wSkeever` | 
 Download: | Main Files - Legacy of the Dragonborn - Dwemer Compass Replacer
+
+![FOMOD]
+~~~
+Resolution:
+   * 4K Ancient Dwemer Metal
+~~~
 
 ## Legacy of the Dragonborn - Fate Cards Remade
 
@@ -1047,6 +1112,7 @@ Download: | Optional Files - Fate Cards new Style Xtudo Version
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `1.0` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - LotD Tweaks - Main - No Lighting
+| Optional Files - Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix
 | Optional Files - LotD Tweaks - Stucco Texture A
 | Optional Files - LotD Tweaks - Wood Textures
 
@@ -1069,6 +1135,7 @@ Download: | Main Files - Museum Gate Remade
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45904) | Version: `1.0` | Author: `mashanen` | 
 Download: | Main Files - LotD Plaques Retexture
+| Optional Files - LotD Plaques Retexture - Creation Club Add On
 
 ## Legacy of the Dragonborn - SMIM Chests
 
@@ -1093,7 +1160,7 @@ Pack the mod with CAO.
 ## The Brotherhood of Old SE - Cleaned Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51049) | Version: `1.1` | Author: `TomTesoro - senatorjarjarbinks` | ![Visuals] ![CAO]|
-Download: | Main Files - Choose one main file. 4k
+Download: | Main Files - Choose one main file. 2k
 
 ![PostInstall]
 ~~~
@@ -1115,12 +1182,12 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39480) | Version: `1.0` | Author: `AnInsaneMoose` | 
 Download: | Main Files - Volkihar Knight CBBE Bodyslide
 
-## Wyrmstooth Animated ENB Light
+## Wyrmstooth - Animated ENB Light
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72668) | Version: `0.1` | Author: `wSkeever` | 
 Download: | Main Files - Wyrmstooth Animated ENB Light
 
-## Wyrmstooth Metallurgy Patch
+## Wyrmstooth - Metallurgy Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54586) | Version: `1.0` | Author: `Selfishmonkey` | 
 Download: | Main Files - Wyrmstooth_Metallurgy_Patch
@@ -1130,31 +1197,52 @@ Download: | Main Files - Wyrmstooth_Metallurgy_Patch
 Delete *.esp.
 ~~~
 
-## Wyrmstooth Upscaled Textures
+## Wyrmstooth - Upscaled Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39992) | Version: `1.0` | Author: `Kartoffels` | ![Visuals]
-Download: | Main Files - Wyrmstooth_4x
+Download: | Main Files - Wyrmstooth_2x
 
 ![PostInstall]
 ~~~
 Delete textures/clutter/signage/.
+Delete textures/cubemaps/.
+Delete textures/effects/wtfxmothdimfrost_g.dds.
+Delete textures/terrain/.
 ~~~
 
-## Wyrmstooth Suleyk Retexture SE
+## Wyrmstooth - Suleyk Retexture SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68073) | Version: `1.0` | Author: `xavbio` | 
 Download: | Main Files - Wyrmstooth Suleyk Retexture SE
 
-## Ancient Dwemer Metal - Patches - Adventures
+## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - Aetherium Armor and Weapons Complilation
-| Optional Files - Ancient Dwemer Metal - My Patches - Kthonia's Unique Weapon Pack
-| Optional Files - Ancient Dwemer Metal - My Patches - LOTD Dwemer Compass Replacer 4K SE
-| Optional Files - Ancient Dwemer Metal - My Patches - Moon and Star
-| Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
-| Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
+| Select 2K in BAIN installer
 
+## Ancient Dwemer Metal - Patches - Kthonia's Unique Weapon Pack
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - Kthonia's Unique Weapon Pack
+| Select 2K in BAIN installer
+
+## Ancient Dwemer Metal - Patches - Moon and Star
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - Moon and Star
+
+
+## Ancient Dwemer Metal - Patches - The Forgotten City
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten City
+| Select 2K in BAIN installer
+
+## Ancient Dwemer Metal - Patches - The Tools of Kagenrac
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
 
 # Z01. Conflict Resolution
@@ -1220,6 +1308,7 @@ konahrik_accoutrements.esp |
 ktWeaponPackSE.esp |
 RSC HR Patch.esp |
 yumcheese.esp |
+WZOblivionArtifacts.esp
 
 Manually edit Falskaar.esp: Delete "Landscape Texture" top group.
 
@@ -1244,15 +1333,14 @@ icebladeofthemonarch.esp | Apply ESMifier script
 konahrik_accoutrements.esp | Apply ESMifier script
 ktWeaponPackSE.esp | Apply ESMifier script
 MoonAndStar_MAS.esp | Apply ESMifier script
-moonpath.esp | Apply ESMifier script
-SkyrimUniqueTreasures.esp | Apply ESMifier script
+SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
 The Brotherhood of Old.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
-treasure_hunt.esp | Apply ESMifier script
 TreasureHunter.esp | Apply ESMifier script
+treasure_hunt.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
-Wyrmstooth.esp | Apply ESMifier script
+Wyrmstooth.esp | Apply ESMifier script (check if still needed)
 WZOblivionArtifacts.esp | Apply ESMifier script
 yumcheese.esp | Apply ESMifier script
 

@@ -294,12 +294,12 @@ Manually extract ESMifier_with_persistent_unique_NPCs.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.25.2` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.25.3` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
 ~~~
-Extract the contents into a Modding\Skyrim\Tools\Synthesis\.
+Extract the contents into Modding\Skyrim\Tools\Synthesis\.
   (or to a folder where you will store your tools)
 ~~~
 
@@ -515,7 +515,7 @@ For each add the following to the arguments field: -sse.
 
 ## ENB Series Skyrim
 
-[![mod]](http://enbdev.com/download_mod_tesskyrimse.htm) | Version: `0.475` | Author: `Boris Vorontsov` | ![Core] |
+[![mod]](http://enbdev.com/download_mod_tesskyrimse.html) | Version: `0.475` | Author: `Boris Vorontsov` | ![Core] |
 Download: | Main Files - v0.475 (or newest)
 
 ![PostInstall]

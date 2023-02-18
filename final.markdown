@@ -46,9 +46,11 @@ Plugin | Instructions |
 3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
+Aspens Ablaze.esp | Compact formIDs, add ESL flag
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
+BSMBonemoldSet.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 CollegeEntry.esp | Add ESL flag
@@ -63,7 +65,6 @@ Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | Compact formIDs, add ESL flag
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
-KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
@@ -72,6 +73,7 @@ IcyFixes.esm | Compact formIDs, add ESL flag
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
+KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
@@ -101,16 +103,16 @@ SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
-Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 TheStumblingSabrecat.esp | Apply ESMifier script
+Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
 UniqueBorderGates-All.esp | Compact formIDs, add ESL flag, apply ESMifier script (do in same session as below)
 UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
+VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
-WedDialogueFix.esp | Add ESL flag
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 
@@ -128,7 +130,7 @@ Sort your mods with the LOOT executable shortcut from MO2.
 
 # EasyNPC
 
-
+For this step, enable all mods in NPC - Retextures, and place the esps somewhere above Conflict Resolution.
 
 Launch EasyNPC from MO2. Click OK to confirm the load order. 
 
@@ -189,14 +191,14 @@ Towards the top right corner, click on the magnifying glass and select 'Choose g
 Check 'CBBE Bodies' and select Ok
 
 
-Under 'Outfit/Body,” select “CBBE Body Special”
+Under 'Outfit/Body' select "CBBE Body Special", or "CBBE NeverNude Physics".
 
 
-Under “Preset,” select the preset you have chosen (if your preset has a nude and outfit specific presets, then select the nude or non-outfit one)
+Under "Preset" select the preset you have chosen (if your preset has a nude and outfit specific presets, then select the nude or non-outfit one)
 
 In the bottom left corner check 'Build Morphs' and then Control+Click 'Batch Build...'
 
-Check only 'CBBE Body Special', 'CBBE Feet', 'CBBE Hands' and 'CBBE Hands Beast'
+Check only 'CBBE Body Special' (or 'CBBE NeverNude Physics'), 'CBBE Feet', 'CBBE Hands' and 'CBBE Hands Beast'
 
 Select Build and choose the destination, either as its own mod or in MO2’s Overwrite folder.
 
@@ -222,7 +224,8 @@ Close out of Bodyslide and create a new mod with the newly created body meshes w
 
 # Nemesis
 
-
+Navigate to mods\Project New Reign - Nemesis\Nemesis_Engine, right-click Nemesis Unlimited Behavior Engine.exe, click Properties.
+Under the Compatibility tab, select Run this program in compatibility mode for -> Windows 7.
 
 Create a new mod in Mod Organizer named `Nemesis - Output`
 
@@ -236,7 +239,7 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Draugr Ragdoll Bug Fix', 'Ice Skating Fixed For Real', 'Matsu Stagger Direction Fix', and 'Only TK Dodge RE'.
+Select 'Ice Skating Fixed For Real', 'Some Creature Behavior Bug Fixes', 'Only TK Dodge RE', and 'zxlice hitstop fixed'.
 
 Click 'Update Engine'
 
@@ -323,7 +326,7 @@ Additionally, if you are generating Grass LOD, check the Grass box. (Direct 186,
 
 Click Start.  When the log file says complete, choose "Zip and Exit", and then install the zip file as a mod in MO2.
 
-Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.  Set Wizard=0.  Set Level32=1.  Set WorkaroundLargeReferencesBugs=1.
+Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.  Set Wizard=0.  Set Level32=1.
 
 Launch DynDOLOD, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
@@ -332,7 +335,6 @@ Launch DynDOLOD, right click in worldspaces and select all, click 'High' button 
 Additionally, if you are generating Grass LOD, check that box.
 
 Scroll down to the bottom of the rules section.
-Doubleclick the rule for "tree" and in the popup, set LOD Level 32 dropdown to Billboard6.
 Doubleclick the rule for "/" and in the popup, set LOD Level 32 dropdown to Level0.
 
 Click start.

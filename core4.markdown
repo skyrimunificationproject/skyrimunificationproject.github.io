@@ -100,15 +100,15 @@ Download: | Main Files - INIGO_V2.4C SE
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] ![ESM]
 Download: | Main Files - Lucien
 
-## Lucien - Creation Club - Saints and Seducers Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] |
-Download: | Optional Files - Lucien - Creation Club - Saints and Seducers Patch
-
 ## Lucien - Creation Club - Rare Curios Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] |
 Download: | Optional Files - Lucien - Creation Club - Rare Curios Patch
+
+## Lucien - Creation Club - Saints and Seducers Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] |
+Download: | Optional Files - Lucien - Creation Club - Saints and Seducers Patch
 
 ## Sofia
 
@@ -182,58 +182,108 @@ Delete High Poly Head Vampire Fix.esp.
 
 ## Modpocalypse NPCs - Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs - Resources
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - All Vanilla NPCs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54422) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54422) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Modpocalypse NPCs - All Vanilla NPCs v2
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Alternate Start Live Another Life
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55800) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55800) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Alternate Start - Live Another Life
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56988) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56988) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Carriage and Ferry Travel Overhaul
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Citizens of Tamriel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54590) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54590) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Citizens of Tamriel
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Heritage Enemies 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58142) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58142) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Modpocalypse NPCs (v2) Heritage Enemies 2
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Immersive College NPCs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56575) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56575) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Immersive College NPCs
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Interesting NPCs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54424) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54424) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Modpocalypse NPCs (v2) 3DNPC
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Obscure's College of Winterhold
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56479) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56479) | Version: `1.0` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Obscure's College of Winterhold
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Followers Hirelings and Housecarls 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19200) | Version: `1.3` | Author: `Mizzog` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19200) | Version: `1.3` | Author: `Mizzog` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - FHH_LEGENDARY_VE_USSEP
 | Miscellaneous Files - FHH MizzEdition Warpaints
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Fresh Faces
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13789) | Version: `1.2` | Author: `Plooshy` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13789) | Version: `1.2` | Author: `Plooshy` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Fresh Faces
 
 ![FOMOD]
@@ -256,15 +306,25 @@ Warpaint for Rayya:
    * No
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Metalsabers Beautiful Orcs of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22025) | Version: `1.0` | Author: `Metalsaber` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22025) | Version: `1.0` | Author: `Metalsaber` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Metalsabers Beautiful Orcs of Skyrim
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Pandorable's NPCs - Males
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
-Download: | Main Files - Pandorable's NPCs - Males SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42043) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
+Download: | Main Files - PAN_NPCs - Males SE
 
 ![FOMOD]
 ~~~
@@ -273,9 +333,14 @@ All other NPCs: Alternative
 USSEP: I have USSEP
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Pandorable's NPCs - Males 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50617) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50617) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - PAN_NPCs - Males 2
 
 ![FOMOD]
@@ -285,14 +350,21 @@ All other NPCs: Alternative or Alternative 1
 USSEP: Yes
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## The Men of Winter 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10902) | Version: `5.3` | Author: `Sette` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10902) | Version: `5.3` | Author: `Sette` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - The Men of Winter SSE
 | Update Files - The Men of Winter - Ulfric Hotfix
 
 ![FOMOD]
 ~~~
+Optional Modules:
+   * None
 Compatibility Patches:
    * Don't Install Patches
 ~~~
@@ -303,47 +375,85 @@ Make a copy of meshes/actors/character/facegendata/facegeom/-
    dragonborn.esm/00017F7D.nif and rename to 0001FB98.nif.
 Make a copy of textures/actors/character/facegendata/facetint/-
    dragonborn.esm/00017F7D.dds and rename to 0001FB98.dds.
+   
+Pack the mod with CAO.
 ~~~
 
 ## Northbourne NPCs of Falkreath Hold 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37528) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37528) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Northbourne NPCs of Falkreath Hold - Full Version
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Northbourne NPCs of Haafingar 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48481) | Version: `1.0` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48481) | Version: `1.0` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Northbourne NPCs of Haafingar
+| Update Files - Patch for Xander's Missing Hair Textures
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Northbourne NPCs of Hjaalmarch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62213) | Version: `1.0` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62213) | Version: `1.0` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Northbourne NPCs of Hjaalmarch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Northbourne NPCs of the Rift
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42349) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42349) | Version: `1.3` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO] |
 Download: | Main Files - Northbourne NPCs of The Rift - Full Version
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Northbourne NPCs of Whiterun Hold
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35404) | Version: `2.1` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35404) | Version: `2.1` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO] |
 Download: | Main Files - Northbourne NPCs of Whiterun Hold - Full Version
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Northbourne NPCs of Winterhold
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43413) | Version: `1.1` | Author: `Southpawe` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43413) | Version: `1.1` | Author: `Southpawe` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Northbourne NPCs of Winterhold Full Version
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Improved Bards 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7956) | Version: `1.3` | Author: `cleverbee` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7956) | Version: `1.3` | Author: `cleverbee` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Improved Bards 1.3 - CBBE Nude
 or | Main Files - Improved Bards 1.3 - CBBE SFW
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## The Ordinary Women
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.1` | Author: `northtexan95` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12376) | Version: `4.1` | Author: `northtexan95` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - The Ordinary Women
 
 ![FOMOD]
@@ -352,9 +462,14 @@ Version:
    * USSEP
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Pandorable's NPCs 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19012) | Version: `1.4` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19012) | Version: `1.4` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - PAN_NPCs
 
 ![FOMOD]
@@ -371,14 +486,24 @@ Voldsea:
    * Yes
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Pandorable's NPCs - Dawnguard 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24135) | Version: `1.3` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/24135) | Version: `1.3` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Pandorable's NPCs - Dawnguard SE - USSEP
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Pandorable's NPCs - Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30680) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30680) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Pandorable's NPCs - Dragonborn SE
 
 ![FOMOD]
@@ -388,15 +513,25 @@ All other NPCs: Alternative or Alternative 1
 USSEP: Yes
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Pandorable's NPCs - Initiates 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30665) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30665) | Version: `1.1` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - PAN_Initiates - vanilla voices
 | Optional Files - PAN_Initiates - warpaint
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Pandorable's NPCS - Sovngarde 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55877) | Version: `1.0` | Author: `Pandorable` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55877) | Version: `1.0` | Author: `Pandorable` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - PAN_NPCs - Sovngarde
 
 ![FOMOD]
@@ -411,20 +546,32 @@ Ysgramor:
    * Yes
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Kalilies NPCs 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30247) | Version: `2.4` | Author: `Kalilies` | ![Core] ![Visuals] |
-Download: | Main Files - Kalilies NPCs
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30247) | Version: `2.4` | Author: `Kalilies` | ![Core] ![Visuals] ![CAO]
+Download: | Main Files - Kalilies NPCs - BSA Version
 
 ![FOMOD]
 ~~~
 Body Texture Options:
    * CBBE
+Warpaint Options:
+   * All Unchecked
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 ## Bijin NPCs 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11287) | Version: `1.2.1` | Author: `rxkx22` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11287) | Version: `1.2.1` | Author: `rxkx22` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Bijin NPCs SE 1.2.1
 
 ![FOMOD]
@@ -443,9 +590,14 @@ Body Type:
    * CBBE Body
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Bijin Warmaidens
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1825) | Version: `3.1.3` | Author: `rxkx22` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/1825) | Version: `3.1.3` | Author: `rxkx22` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Bijin Warmaidens SE v3.1.3
 
 ![FOMOD]
@@ -458,9 +610,14 @@ Body Type:
    * CBBE Body
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Bijin Wives 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11247) | Version: `1.1.2` | Author: `rxkx22` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11247) | Version: `1.1.2` | Author: `rxkx22` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Bijin Wives SE 1.1.2
 
 ![FOMOD]
@@ -471,9 +628,14 @@ Body Type:
    * CBBE Body
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Seranaholic 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13027) | Version: `1.8.5` | Author: `rxkx22 - Ported by bchick3 and elrizzo` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13027) | Version: `1.8.5` | Author: `rxkx22 - Ported by bchick3 and elrizzo` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Seranaholic SSE 1.8
 
 ![FOMOD]
@@ -487,9 +649,14 @@ Makeup Type:
    * Vampire-style
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Seranaholic - Valerica
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13027) | Version: `1.8.5` | Author: `rxkx22 - Ported by bchick3 and elrizzo` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13027) | Version: `1.8.5` | Author: `rxkx22 - Ported by bchick3 and elrizzo` | ![Core] ![Visuals] ![CAO]
 Download: | Optional Files - Valerica SSE
 
 ![FOMOD]
@@ -504,20 +671,40 @@ Face Wrinkles Option:
    * Wrinkles
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Citizens of Tamriel - Visual Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44563) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44563) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Citizens of Tamriel Visual Overhaul
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Interesting NPCs - Visual Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40046) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40046) | Version: `1.0` | Author: `mocia` | ![Core] ![Visuals] ![CAO]|
 Download: | Main Files - Interesting NPCs Visual Overhaul
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Interesting NPCs - Cuyima's Retexture 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27330) | Version: `1.1.1` | Author: `cuyima` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27330) | Version: `1.1.1` | Author: `cuyima` | ![Core] ![Visuals] ![CAO]
 Download: | Main Files - Cuyima Interesting NPCs SE - Custom Hair
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Pandorable's Lucien Replacer
 
@@ -581,15 +768,15 @@ Download: | Main Files - Citizens of Tamriel Complete--RS Children Patch--ESL Fl
 ## Caliente's Beautiful Bodies Enhancer - CBBE 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/198) | Version: `1.7.1` | Author: `Ousnius and Caliente` | ![Core] ![Visuals] |
-Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.7.0
-| Optional Files - AE-CC Outfits
+Download: | Main Files - Caliente's Beautiful Bodies Enhancer - v1.7.1
+| Optional Files - CBBE AE-CC Outfits
 
 ![FOMOD]
 ~~~
 Body Shape:
    * Curvy
 Underwear Options:
-   * None (or your choice for SFW options)
+   * NeverNude (or your choice for NSFW options)
 Outfit Options:
    * Vanilla Outfits
 Face Options:
@@ -613,7 +800,7 @@ Download: | Main Files - Vitruvia - Skin texture overhaul for males
 01 Option:
    * 2) Vitruvia - 2K
 02 Option - Body Meshes:
-   * 2) Nude Cut (or NeverNude if SFW desired)
+   * 2) Never Nude (or your choice if NSFW desired)
 A)Hair and Scars-2K
    * None
 B)Hair and Scars-4K:
@@ -651,7 +838,7 @@ Vampire Head Normal Map:
 Specular Maps:
    * 2K - Default
 Subsurface Maps:
-   * Keep Default
+   * Default
 Makeup:
    * Default (Recommendation)
 Cheek Type:
@@ -1086,6 +1273,8 @@ Bounce - Breast Amplitude:
    * Normal (or your choice)
 Bounce - Butt Amplitude:
    * Normal
+Bounce - Belly Amplitude:
+   * Normal
 Gravity Config:
    * Install Gravity Config
 ~~~
@@ -1142,7 +1331,7 @@ Download: | Main Files - UNDERDOG - Animations 1.9.1
 ![FOMOD]
 ~~~
 Sneak Attacks:
-   * Sneak Attacks Main
+   * None
 Falling Animations:
    * None
 Death Animations:
@@ -1401,7 +1590,7 @@ Download: | Main Files - Axarien's Animations - Teldryn Sero (DAR)
 
 ## Conditional Tavern Cheering - DAR
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Version: `1.0.1` | Author: `CHIMgarden` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63029) | Version: `1.0.3` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - Conditional tavern cheering (DAR)
 
 
@@ -1485,8 +1674,8 @@ Download: | Main Files - idlepray.hkx replacer for females (DAR)
 
 ## NPC Animation Remix - DAR
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.1.0` | Author: `CHIMgarden` | ![Visuals]
-Download: | Main Files - NPC Animation Remix (DAR) - main download
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.2.1` | Author: `CHIMgarden` | ![Visuals]
+Download: | Main Files - NPC Animation Remix (DAR) - main archive
 
 ## Random Prayer Animation - DAR
 
@@ -1546,7 +1735,7 @@ Animation Rig Map:
 Character Creation:
    * Racemenu
 Weapon Style Randomizer for NPCs:
-   * Out of Sync
+   * None
 Belt-Fastened Quivers:
    * None
 Daggers on Back:
@@ -1607,6 +1796,7 @@ Download: | Main Files - Savage Skyrim
 ![PostInstall]
 ~~~
 Delete meshes/actor/atronarchflame/.
+Delete meshes/actor/dwarvenspherecenturion/.
 Delete textures/.
 Delete Savage Skyrim Std.esp.
 ~~~
