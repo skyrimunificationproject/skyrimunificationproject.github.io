@@ -11,32 +11,19 @@ Install these categories between "Addons - Adventures" and "Conflict Resolution"
 
 
 
-# Project Arch - Install Changes
+# C01 - Addons - Project Arch - Install Changes
+
+## Ashbound - Solstheim Revisited [Addons - Project Arch]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | ![Core] |
+Download: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
+| Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
 
 
-
-## My Road Signs are Beautiful - Multilingual HD Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
-Download and merge into previous install: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
-
-![FOMOD]
-~~~
-Versions:
-   * Weathered Version - 4K-2K
-Expanded Towns and Cities:
-   * Textures - 4K-2K
-Wyrmstooth:
-   * Textures - 4K-2K
-Falskaar:
-   * Textures - 4K-2K
-
-~~~
-
-## BURP - Book Unity and Revamp Project
+## BURP - Book Unity and Revamp Project [Addons - Project Arch]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
-Download and merge: | Main Files - BURP - Desatured Textures
+Download: | Main Files - BURP - Desatured Textures
 
 ![FOMOD]
 ~~~
@@ -59,37 +46,309 @@ Leveled Lists:
 Delete *.esp.
 ~~~
 
-## Windhelm Fake Windows Fix
+## FYX - Smooth Wells [Addons - Project Arch]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals] ![Arch]
+Download: | Optional Files - FYX - Smooth Wells - CotN Falkreath
+
+
+
+## My Road Signs are Beautiful [Addons - Project Arch]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
+Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
+
+![FOMOD]
+~~~
+Versions:
+   * Dirty Version - 4K-2K
+Weathered Road Signs:
+   * None
+Expanded Towns and Cities:
+   * Textures - 4K-2K
+
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
+## Windhelm Fake Windows Fix [Addons - Project Arch]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals] ![Arch]|
-Download and merge into previous install: | Optional Files - Capital Windhelm Expansion Patch
+Download: | Optional Files - Capital Windhelm Expansion Patch
 
 ![PostInstall]
 ~~~
 Delete WindhelmFakeWindowsFix.esp.
 ~~~
 
-## FYX - Smooth Wells
+# C02 - Addons - Project Arch - Core
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals] ![Arch]
-Download and merge into previous install: | Optional Files - FYX - Smooth Wells - CotN Falkreath
+## Distinct Interiors
 
-## Ashbound - Solstheim Revisited
+## Distinct Interiors - FPS Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | ![Core] |
-Download and merge into previous install: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
-| Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
+## Expanded Towns and Cities
 
-## Embers XD
+## JK's Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.6.4` | Author: `mindflux` | ![Core] ![Visuals]|
-Download and merge into previous install: | Optional Files - Cultured Orc Furniture
+## Settlements Expanded
 
+## Modpocalypse NPCs - Expanded Towns and Cities
 
+## Modpocalypse NPCs - JK's Skyrim
 
-## Cities of the North - Dawnstar - Performance Fix
+## Modpocalypse NPCs - Settlements Expanded
 
-Use CAO to perform Full Optimization on the meshes.
+# C03 - Addons - Project Arch - Cities of the North
+
+## Cities of the North - Dawnstar
+
+## Cities of the North - Dawnstar Patch Collection
+
+## Cities of the North - Falkreath
+
+## Cities of the North - Falkreath Patch Collection
+
+## Cities of the North - Winterhold
+
+## Optimized Cities of the North Meshes
+
+## The Great City of Winterhold SSE Edition
+
+## The Great City of Winterhold Patch Collection
+
+## The Great City of Winterhold - Simple Snow Improvement - BOS
+
+## Better Occlusion - COTN Falkreath
+
+# C04 - Addons - Project Arch - Markarth and Riften
+
+## Balthazars Books - A Markarth Bookstore Remastered
+
+## Distinct Opulent Thieves Guild
+
+## GG's Thieves Guild Headquarters
+
+## JK's The Ragged Flagon
+
+## Markarth Mossy Lite
+
+## Markarth Outskirts
+
+## Riften DOcks Overhaul
+
+## RYFTEN - Consistency of windows in Riften
+
+## RYFTEN DOWN - A little addition to the Riften canals
+
+# C05 - Addons - Project Arch - Solitude and Dragon Bridge
+
+## Drengin's Blue Palace Terrace
+
+## Rodryk's Dragon Bridge
+
+## Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
+
+## Rodryk's Dragon Bridge Retexture
+
+## Rodryk's Dragon Bridge Retexture - Matching LOD Textures
+
+## Solitude Docks Updated
+
+## Solitude Docks Replacer
+
+# C06 - Addons - Project Arch - Capital Whiterun and Windhelm
+
+## Capital Whiterun Expansion
+
+## Capital Whiterun Expansion - More Accurate Collision
+
+## Capital Whiterun Expansion - 3D Whiterun Trellis Patch
+
+## Capital Windhelm Expansion
+
+## Capital Windhelm Expansion - 3D Windhelm Fence Patch
+
+## RS Children - Capital Windhelm Expansion
+
+## Ryn's Whiterun City Limits
+
+## JK's The Bannered Mare
+
+## JK's The Drunken Huntsman
+
+## JK's Whiterun Outskirts
+
+# C07 - Addons - Project Arch - Dawnguard and Dragonborn
+
+## Better Tel Mithryn
+
+## ClefJ's Fort Dawnguard
+
+## Quaint Raven Rock
+
+# C08 - Addons - Project Arch - Towns and Villages
+
+## Anga's Mill - Cities of the North Addon
+
+## BUVARP - Chillridge Farm - Cities of the North Addon
+
+## Cultured Orc Furniture
+
+## Denizens of Morthal
+
+## Environs - Kolskeggr
+
+## Half-Moon Mill - Cities of the North Addon
+
+## Old Hroldan Ruins SE
+
+## Sky Haven Temple - Gardens
+
+# C10 - Addons - Project Arch - JK Interiors - Cities
+
+## JK's Angeline's Aromatics
+
+## JK's Arcadia's Cauldron
+
+## JK's Arnleif and Sons Trading Company
+
+## JK's Belethor's General Goods
+
+## JK's Bits and Pieces
+
+## JK's Candlehearth Hall
+
+## JK's Elgrims Elixirs
+
+## JK's Haelga's Bunkhouse
+
+## JK's New Gnisis Cornerclub
+
+## JK's Radiant Raiment
+
+## JK's Sadri's Used Wares
+
+## JK's Silver-Blood Inn
+
+## JK's The Bee and Barb
+
+## JK's The Hag's Cure
+
+## JK's The Pawned Prawn
+
+## JK's The Winking Skeever
+
+## JK's Warmaiden's
+
+## JK's White Phial
+
+# C11 - Addons - Project Arch - JK Interiors - Temples and Palaces
+
+## JK's Blue Palace
+
+## JK's Blue Palace Terrace
+
+## JK's Dragonsreach
+
+## JK's Mistveil Keep
+
+## JK's Palace of the Kings
+
+## JK's Temple of the Divines
+
+## JK's Temple of Dibella
+
+## JK's Temple of Kynareth
+
+## JK's Temple of Talos
+
+## JK's Temple of Mara
+
+# C12 - Addons - Project Arch - JK Interiors - Guild HQs
+
+## JK's Castle Dour
+
+## JK's College of Winterhold
+
+## JK's High Hrothgar
+
+## JK's Jorrvaskr
+
+## JK's Sky Haven Temple
+
+## JK's The Bards College
+
+# C13 - Addons - Project Arch - JK Interiors - Towns and Misc
+
+## JK's Riverwood Trader
+
+## JK's Septimus Signus's Outpost
+
+## JK's Sinderion's Field Laboratory
+
+## JK's Sleeping Giant Inn
+
+# C20 - Addons - Project Arch - Lore-Friendly Towns
+
+## Amber Guard
+
+## Dunpar Wall
+
+## Granitehall
+
+## Granite Hill Village
+
+## Greymoor
+
+## Iggath
+
+## Lainalten
+
+## Laintar Dale
+
+## Oakwood
+
+## Reich Corigate
+
+## Stonehills
+
+## Sunthgat
+
+## Vernim Wood
+
+## Modpocalypse NPCs - Amber Guard
+
+## Modpocalypse NPCs - Dunpar Wall
+
+## Modpocalypse NPCs - Granitehall
+
+## Modpocalypse NPCs - Granite Hill Village
+
+## Modpocalypse NPCs - Lainalten
+
+## Modpocalypse NPCs - Oakwood
+
+## Modpocalypse NPCs - Reich Corigate
+
+## Modpocalypse NPCs - Sunthgat
+
+## RS Children - Iggath
+
+## RS Children - Oakwood
+
+## RS Children - Schlitzhor's Villages
+
+# Z01 - Conflict Resolution
+
+## Skyrim Unification Project - Conflict Resolution - Addons - Project Arch
+
+## Skyrim Unification Project - Replacement Plugins - Addons - Project Arch
+
+# Project Arch - Final Steps
 
 ## xEdit
 
