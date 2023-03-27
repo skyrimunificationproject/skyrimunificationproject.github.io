@@ -274,14 +274,14 @@ Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\
  (or where xEdit was installed)
 ~~~
 
-## ESMifier Addon - Set unique NPCs persistent
+## Persistentify Those Plugins
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40260) | Version: `0.1` | Author: `Blackread` | ![Core] |
-Download: | Optional Files - ESMifyer and set unique NPCs Persistent combined
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76750) | Version: `0.10.0` | Author: `FelesNoctis` | ![Core] |
+Download: | Main Files - Persistentify Those Plugins (Functional Beta)
 
 ![PostInstall]
 ~~~
-Manually extract ESMifier_with_persistent_unique_NPCs.pas 
+Manually extract 00_Persistentify_Those_Plugins.pas 
   into Modding\Skyrim\Tools\xEdit\Edit Scripts\.
   (or to a folder where you will store your tools)
 ~~~
@@ -498,7 +498,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-111` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-121` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

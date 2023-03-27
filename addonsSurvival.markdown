@@ -85,7 +85,7 @@ Download: | Main Files: More Soaps for DnB with CACO recipes
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.2.0` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.3.0` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -186,7 +186,7 @@ Delete *_KID.ini.
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.3` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.4` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ## Immersive Spell Learning - DESTified

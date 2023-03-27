@@ -48,6 +48,11 @@ Download: | Optional Files - Blended Roads Redone 4K
 Delete textures/dlc02/.
 ~~~
 
+## ElSopa - Northern Roads Resculpted
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83792) | Version: `1.1` | Author: `ElSopa` | ![Visuals]
+Download: | Main Files - ElSopa - Northern Roads Resculpted 4k-2k
+
 ## Glacies - Snow Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49331) | Version: `1.1` | Author: `odinsmods, ra2phoenix` | ![Core] ![Visuals]|
@@ -108,6 +113,11 @@ Wet Rocks:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79468) | Version: `1.0` | Author: `agentw` | ![Core] ![Visuals]
 Download: | Main Files - Nordic Northern Roads 4K
 
+## Northern Roads - Higher Poly Stockade
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83052) | Version: `1.0` | Author: `Pieter82` | ![Visuals]
+Download: | Main Files - Northern Roads Higher Poly Stockade
+
 ## HD Stone Quarry and Clay Deposit 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37985) | Version: `1.1` | Author: `skyrimaguas-TechAngel85` | ![Core] ![Visuals]|
@@ -146,7 +156,7 @@ Download: | Optional Files - Skyrim Remastered - Glaciers and Ice LODs for DynDO
 
 ## Skyrim Remastered - Glaciers and Ice - 4K Textures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71452) | Version: `1.0` | Author: `RokHel` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71452) | Version: `1.10` | Author: `RokHel` | ![Visuals]
 Download: | Main Files - Skyrim Remastered - Glacier and Ice 4K
 
 ## Slightly Better Rock Cairns
@@ -202,7 +212,7 @@ Skyrim Particle Patch fix:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.74` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `1.76` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -280,6 +290,7 @@ Delete meshes/landscape/trees/tundradriftwood01.nif
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56907) | Version: `2.03` | Author: `z929669 and T4gtr34um3r` | ![Core] ![Visuals]|
 Download: | Main Files - Happy Little Trees 3D LOD - Performance
 | Update Files - Performance - dlc1 pine fix
+| Update Files - Solstheim Broken Pines 3D LOD Fix
 
 ## Happy Little Logs
 
@@ -325,7 +336,7 @@ Download: | Main Files - A Canticle Tree
 
 ## Fancy Sleeping Tree Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.4` | Author: `Jeannetta182` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.5` | Author: `Jeannetta182` | ![Core] ![Visuals]
 Download: | Main Files - Fancy Sleeping Tree Replacer
 
 ![FOMOD]
@@ -333,16 +344,11 @@ Download: | Main Files - Fancy Sleeping Tree Replacer
 Color:
    * Purple
 ENB Light:
-   * ENB Light
+   * ENB Light - Lower intensity
 Tree Version:
-   * Leafless
+   * Leaves
 Original Path Patch:
-   * Add Patch
-~~~
-
-![PostInstall]
-~~~
-Delete Sleeping Tree Path Patch.esp.
+   * No Patch
 ~~~
 
 ## Remove Small Rocks
@@ -406,27 +412,27 @@ Download: | Main Files - Cathedral - Plants
 Delete textures/architecture/whiterun.
 ~~~
 
-## Cathedral - 3D - Black Mountain Flowers - For Interesting NPCs
+## Cathedral - 3D Black Mountain Flowers - For Interesting NPCs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60058) | Version: `1.0` | Author: `Johnny Wang and AgentW` | ![Visuals]
 Download: | Optional Files - Cathedral - 3D Black Mountain Flowers - for Interesting NPCs - Fixed Mesh Lighting
 
-## Cathedral - 3D - Clovers
+## Cathedral - 3D Clovers
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68793) | Version: `1.0` | Author: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Clovers - Hybrid 3D
 
-## Cathedral - 3D - Lavender
+## Cathedral - 3D Lavender
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68310) | Version: `1.3` | Author: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Lavender - Vanilla Size
 
-## Cathedral - 3D - Mountain Flowers 
+## Cathedral - 3D Mountain Flowers 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41312) | Version: `2.0` | Author: `Jonny Wang` | ![Core] ![Visuals]|
 Download: | Main Files - Cathedral - 3D Mountain Flowers
 
-## Cathedral - 3D - Nightshade
+## Cathedral - 3D Nightshade
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81284) | Version: `2.4` | Author: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Nightshade
@@ -436,6 +442,11 @@ Download: | Main Files - Cathedral - 3D Nightshade
 Textures:
    * Rally Edit - Dark and Desaturated
 ~~~
+
+## Cathedral - 3D Sword Ferns
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82978) | Version: `3.0` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Sword Ferns
 
 ## Creepy Chaurus Eggs
 
@@ -525,7 +536,7 @@ Download: | Main Files - Icy Wraith Teeth
 
 ## Improved Dragonfly
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34159) | Version: `1.1` | Author: `aviform` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34159) | Version: `1.0` | Author: `aviform` | ![Visuals] |
 Download: | Main Files - Improved Dragonfly
 
 ## Improved Dragonfly - CACO Patch 
@@ -648,16 +659,6 @@ Berry Brightness:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63153) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
 Download: | Main Files - Surreal Spriggan Sap SE
 
-## Volatile Void Salts
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64007) | Version: `1.0` | Author: `Hanaisse` | ![Visuals]
-Download: | Main Files - Volatile Void Salts SE
-
-## A Fungal Pod
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80282) | Version: `1.0` | Author: `kiddgimmick` | ![Visuals]
-Download: | Main Files - A Fungal Pod
-
 ## Cathedral - 3D Thistle
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67619) | Version: `2.1` | Author: `DrJacopo` | ![Visuals]
@@ -668,7 +669,10 @@ Download: | Main Files - Cathedral - 3D Thistle
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68068) | Version: `2.0` | AUthor: `DrJacopo` | ![Visuals]
 Download: | Main Files - Cathedral - 3D Tundra Cotton
 
+## Cathedral - 3D Dragons Tongue
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85694) | Version: `1.1` | Author: `DrJacopo` | ![Visuals]
+Download: | Main Files - Cathedral - 3D Dragons Tongue - Dark Orange
 
 # 35. Meshes and Textures - Little Things - Food
 
@@ -729,6 +733,11 @@ Chicken Head
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50444) | Version: `2` | Author: `dpillari` | ![Visuals] |
 Download: | Main Files - 2k loose
+
+## Rally's Honey Pots
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83070) | Version: `1.0` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rally's Honey Pot HP
 
 ## Remiros' Dragonborn Alcohol HD
 
@@ -971,6 +980,11 @@ Download: | Main Files - JS Instruments of Skyrim SE - 4k
 Delete JS Instruments of Skyrim SE - Uniques.esp.
 ~~~
 
+## JS Knapsacks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85447) | Version: `1.2` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Knapsacks SE - 2k
+
 ## JS Purses and Septims
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37306) | Version: `1.2` | Author: `johnskyrim` | ![Visuals] |
@@ -986,6 +1000,24 @@ Coin Pile Textures:
    * Dirty - 2K Textures
 Replacer Options:
    * Vanilla Overwrite
+~~~
+
+## JS Torture Tools
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84693) | Version: `1.0` | Author: `johnskyrim` | ![Visuals]
+Download: | Main Files - JS Torture Tools SE - 2k Textures
+
+## Morthal Quest Coffin Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44150) | Version: `1.1` | Author: `IconicDeath` | ![Visuals]
+Download: | Main Files - Morthal Quest Coffin Retexture
+
+![FOMOD]
+~~~
+Texture Options:
+   * Option 1
+Texture Sized:
+   * 2K
 ~~~
 
 ## Praedy's Elder Scroll and Elder Council Amulet
@@ -1126,11 +1158,6 @@ Download: | Main Files - Archery Target Retexture
 Texture Size:
    * 2K (Recommended)
 ~~~
-
-## CC's HQ Barset 
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7974) | Version: `1.2` | Author: `ClearanceClarence` | ![Visuals] |
-Download: | Main Files - CC's HQ Barset - 4K - 1.2
 
 ## Dark Brotherhood Sanctuary Decor - The Blackest Door
 
@@ -1425,13 +1452,15 @@ Download: | Main Files - Basic Dining Set Replacer 2k
 
 ## Rally's Display Cases
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81764) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81764) | Version: `1.2` | Author: `Rallyeator` | ![Visuals]
 Download: | Main Files - Rally's Display Cases
 
 ![FOMOD]
 ~~~
 Textures:
    * BOS Rippled Glass - Dark Wood 4K (or your choice as long as it's BOS)
+Addon:
+   * Security Overhaul SKSE
 ~~~
 
 ## Rally's Handcarts
@@ -1458,9 +1487,24 @@ Trellis:
    * 3D Trellis
 ~~~
 
+## Rally's Weapon Racks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82682) | Version: `1.0` | Author: `Rallyeator` | ![Visuals]
+Download: | Main Files - Rally's Weapon Racks 4K-2K
+
+## Weathered Furniture - Bars and Counters
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84306) | Version: `0.2` | Author: `BasPeeters1` | ![Visuals]
+Download: | Main Files - Weathered Bars and Counters - 3 - Metal Strip and Footrest - 4K
+
+## Weathered Furniture - Common and Upper Class
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85205) | Version: `0.1` | Author: `BasPeeters1` | ![Visuals]
+Download: | Main Files - Weathered Furniture - Common and Upper Class - 4K
+
 ## Weldingmans Enchanting Table Variants - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80493) | Version: `1.4beta3` | Author: `WeldingManDE` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80493) | Version: `1.4beta5` | Author: `WeldingManDE` | ![Visuals]
 Download: | Main Files - WeldingMans Enchanting Tables Variants (BOS) - Beta
 
 # 38. Meshes and Textures - Effects
@@ -1567,6 +1611,11 @@ Download: | Main Files - Refracting Ice Form Debris - 2.0
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38456) | Version: `2.0` | Author: `ramccoid` | ![Visuals] |
 Download: | Main Files - SOUL v2 x2048
 
+## SpiderWIP
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84053) | Version: `0.13` | Author: `T4gr34um3r` | ![Visuals]
+Download: | Main Files - Spiderweb
+
 ## Arctic - Frost Effects Redux
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/29817) | Version: `3.1` | Author: `Retrospect` | ![Core] ![Visuals] |
@@ -1632,7 +1681,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.1` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.2` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -1657,7 +1706,7 @@ Further Customization:
    * Disabled Red Glow
    * Reduced Yellow Glow
 Compatibility Patches:
-   * None
+   * Skyrim 3D Cooking
 ~~~
 
 ## Animated Forge Water 
@@ -2263,6 +2312,11 @@ Download: | Main Files - Ice Wraiths 2K
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6127) | Version: `1.1` | Author: `Kajuan` | ![Visuals] |
 Download: | Optional Files - Mammoth.2k
 
+## Night Mother
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83527) | Version: `1.0` | Author: `Mandragorasprouts` | ![Visuals]
+Download: | Main Files - Night mother
+
 ## Real Elks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41929) | Version: `1.0.1` | Author: `MassiveMaster` | ![Visuals] |
@@ -2437,21 +2491,17 @@ Select One:
 
 ## Lux
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `5.3.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43158) | Version: `6.0.3` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux
 
 ![FOMOD]
 ~~~
-Lux optimized Creation Club meshes:
-   * Creation Club Meshes
 Lux optional effects:
    * Beams - PARTICLE without effect lighting
    * Mists and fogs - Effect lighting without PARTICLE
    * Webs
 Lux fixed Ice Cave Meshes:
    * None
-Lux optimized SMIM Meshes:
-   * SMIM meshes
 Lux optimized rugs:
    * RUGNAROK rugs
 Lux optimized pelts:
@@ -2464,14 +2514,47 @@ Lux optimized Embers meshes:
    * BYOH fireplace
 Lux optional Giant Campfires:
    * None
+Optimized Vanilla Meshes for Lighting:
+   * Allow autoselected (not parallax) 
+Optimized SMIM Meshes for Lighting:
+   * Select all (not parallax)
+Optimized Creation Club Meshes for Lighting: 
+   * CC Content meshes
+Window models - Modded windows assets:
+   * Mrf window models
 No Grass In Caves:
    * None
 Brighter Templates:
    * None (you can adjust for personal taste)
 Compatibility Patches:
-   * None (unless you are going to install Adventures:)
-   * (Adventures) Legacy of the Dragonborn
-   * (Adventures) Legacy of the Dragonborn Creation Club Hall of Wonders
+   Uncheck all unless specified.
+   Select additional options as marked if you are planning on installing 
+   Addons - Adventures or Addons - Project Arch.
+   
+   Legacy of the Dragonborn:
+      * (Adventures) Legacy of the Dragonborn
+      * (Adventures) Legacy of the Dragonborn Creation Club Hall of Wonders  
+   Great Villages and Towns:
+      * (Project Arch) TGCotN (TGC and COTN Winterhold V4)  
+   Schlitzohr:
+      * (Project Arch) Granite Hill Village compatibility patch
+      * (Project Arch) Reich Corrigate compatibility patch
+      * (Project Arch) Dunpar Wall compatibility patch
+      * (Project Arch) Laintar Dale compatibility patch   
+   JK's Interiors:
+      * (Project Arch) JK's College of Winterhold compatibility patch
+      * (Project Arch) JK's Obscure College compatibility patch
+      * (Project Arch) JK's Septimus Thingus compatibility patch 
+   Cities of the North (COTN):
+      * (Project Arch) COTN - Falkreath patch  
+   Expanded Cities and Towns (ETaC):
+      * (Project Arch) ETaC - Complete version compatibility patch  
+   Obscure College of Winterhold:
+      * OCW compatibility patch
+   Wyrmstooth:
+      * (Adventures) Wyrmstooth compatibility patch   
+   Quest mods:
+      * (Adventures) Teldryn Serious compatibility patch
 Crossover Patches:
    * None (uncheck all)
 Non automated patches:
@@ -2482,14 +2565,13 @@ Language packs:
 
 ![PostInstall]
 ~~~
-Delete meshes/dungeons/dwemer/bghalls/.
-Delete meshes/dungeons/dwemer/facades/dwefacadebridgecurve01.nif.
-Delete textures/architecture/solitude/.
+Delete *.esp EXCEPT FOR: Lux.esp, Lux - Master Plugin.esm, (Adventures) Lux - Legacy of the Dragonborn patch.esp,
+   Lux - Legacy of the Dragonborn Hall of Wonders patch.esp.
 ~~~
 
 ## Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `3.1.1` | Author: `GGUNIT` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56095) | Version: `3.2` | Author: `GGUNIT` | ![Core] ![Visuals]|
 Download: | Main Files - Lux Orbis
 
 ![FOMOD]
@@ -2501,8 +2583,24 @@ Lux Orbis Whiterun well mesh:
 Lux Orbis Riften Temple of Mara fixed mesh:
    * Lux Orbis Riften Temple of Mara fixed mesh
 Patch Compendium:
-   * None (uncheck all, unless you are going to install Adventures:)
-   * (Adventures) Legacy of the Dragonborn compatibility patch
+   Uncheck all unless specified.
+   Select additional options as marked if you are planning on installing 
+   Addons - Adventures or Addons - Project Arch:
+   
+   Major Hold Cities:
+      * (Project Arch) COTN Falkreath compatibility patch
+      * (Project Arch) COTN Dawnstar compatibility patch
+      * (Project Arch) Capital Windhelm Expansion compatibility patch
+      * (Project Arch) Capital Whiterun Expansion compatibility patch
+      * Obscure College of Winterhold compatibility patch
+      * (Project Arch) Blue Palace Terrace compatibility patch
+      * (Project Arch) The Great City of Winterhold V4 compatibility patch
+   Schlitzohr:
+      * (Project Arch) Laintar Dale compatibility patch
+   Minor Locations:
+      * (Project Arch) Sky Haven Gardens compatibility patch
+   New Content:
+      * (Adventures) Legacy of the Dragonborn compatibility patch 
 Crossover Patches Compendium:
    * None (uncheck all)
 Additional content and patches:
@@ -2513,14 +2611,13 @@ Manual installation:
 
 ![PostInstall]
 ~~~
-Delete Lux Orbis - Riften Sconce Patch.esp
-(Adventures) Delete Lux Orbis - LotD patch.esp.
+Delete *.esp EXCEPT FOR: Lux Orbis - Master Plugin.esm, Lux Orbis.esp.
 ~~~
 
 ## Lux Via
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.5.1` | Author: `GGUNIT` | ![Core] ![Visuals]
-Download: | Main Files - Lux Via (main mod)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.6` | Author: `GGUNIT` | ![Core] ![Visuals]
+Download: | Main Files - Lux Via
 
 ![FOMOD]
 ~~~

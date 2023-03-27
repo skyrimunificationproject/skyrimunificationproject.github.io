@@ -30,6 +30,7 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 Plugin |
 - | -
 AHZBetterDGEntranceSE.esp |
+Better Courier.esp |
 Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |

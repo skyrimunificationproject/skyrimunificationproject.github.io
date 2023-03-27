@@ -36,7 +36,7 @@ DLL:
 ## Custom Skills Framework
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41780) | Version: `1` | Author: `meh321` | ![Core] |
-Download: | Main Files - Custom Skills Framework v1
+Download: | Old Files - Custom Skills Framework v1
 
 ## ConsoleUtilSSE
 
@@ -219,7 +219,7 @@ Download: | Main Files - Encounter Zones Unlocked SE
 
 ## Enemies Respect Encounter Zones
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78847) | Version: `1.2.0` | Author: `Jampi0n` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78847) | Version: `1.3.0` | Author: `Jampi0n` | ![Core]
 Download: | Main Files - Enemies Respect Encounter Zones
 
 ## Enhanced Invisibility
@@ -273,6 +273,11 @@ DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
+## MCM Recorder
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61719) | Version: `1.0.7` | Author: `mrowrpurr` | ![Core]
+Download: | Main Files - MCM Recorder
+
 ## No Crime Teleport RE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71691) | Version: `1.0` | Author: `dTry` | ![Core]
@@ -303,7 +308,7 @@ Patches:
 
 ## NPCs Use Potions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `3.0.2` | Author: `KoeniglichePM` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67489) | Version: `3.0.3a` | Author: `KoeniglichePM` | ![Core]
 Download: | Main Files - NPCsUsePotions - Fomod
 
 ![FOMOD]
@@ -320,8 +325,8 @@ Patches:
 
 ## Papyrus Tweaks NG
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `4.0` | Author: `Nightfallstorm` | ![Core]
-Download: | Main Files - Papyrus Tweaks NG 3.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77779) | Version: `4.1.0` | Author: `Nightfallstorm` | ![Core]
+Download: | Main Files - Papyrus Tweaks 4.1.0
 
 ## powerofthree's Tweaks
 
@@ -336,7 +341,7 @@ DLL:
 
 ## Read Or Take
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Version: `1.2.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Version: `1.3.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Read Or Take SKSE
 
 ![FOMOD]
@@ -443,6 +448,11 @@ DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
+## Sprint Sneak Movement Speed Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86631) | Version: `1.0.2` | Author: `SlavicPotato` | ![Core]
+Download: | Main Files - Sprint Speed Movement Speed Fix
+
 ## SSE Display Tweaks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34705) | Version: `0.5.12` | Author: `SlavicPotato` | ![Core] |
@@ -463,6 +473,11 @@ Download: | Main Files - (Part 1) SSE Engine Fixes for 1.5.39 - 1.5.97
 ~~~
 Extract contents of Part 2 into Skyrim base directory
 ~~~
+
+## SSE Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10547) | Version: `3.1.5.73` | Author: `meh321` | ![Core]
+Download: | Main Files - (Skyrim Special Edition) SSE Fixes v3 for SSE 1.5.97
 
 ## SSE Gameplay Tweaks
 
@@ -491,7 +506,7 @@ Download: | Main Files - Unique Map Weather
 
 ## Use or Take
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70868) | Version: `1.1.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70868) | Version: `1.2.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Use or Take SKSE
 
 ![FOMOD]
@@ -667,12 +682,12 @@ Download: | Main Files - Unofficial Material Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48120) | Version: `1.2.5` | Author: `NeverLost` | ![Core] |
 Download: | Main Files - Whiterun Mesh Fixes
 
+## Wood Wall Trap Mesh and UV Fix
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78686) | Version: `1.0` | Author: `Pieter82` | ![Core]
+Download: | Main Files - Wood Wall Trap _ Mesh and UV Fix
 
 # 03b. Bugs and Script Fixes
-
-
-
 
 ## Landscape Fixes For Grass Mods
 
@@ -681,7 +696,7 @@ Download: | Main Files - Landscape Fixes For Grass Mods
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.3` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.4.4` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -699,7 +714,7 @@ Download: | Main Files - No Grass In Caves
 
 ## Skyrim Landscape and Water Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26138) | Version: `7.4` | Author: `WiZkiD - lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26138) | Version: `7.6` | Author: `WiZkiD - lilebonymace` | ![Core] |
 Download: | Main Files - Skyrim Landscape and Water Fixes - FOMOD
 
 ![FOMOD]
@@ -755,6 +770,11 @@ Optional:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53643) | Version: `0.2` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - High Gate Ruins Puzzle Reset Fix
 
+## Interesting NPCs Script Optimization
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87245) | Version: `1.2` | Author: `Blackread` | ![Core]
+Download: | Main Files - 3DNPC Script Optimisation
+
 ## Mage Armor Script Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58862) | Version: `1.0` | Author: `ReDragon2013` | ![Core] |
@@ -777,12 +797,12 @@ Download: | Main Files - Optimized USSEP Valdr Quest
 
 ## Robber's Gorge Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81495) | Version: `1.2` | Author: `lilebonymace` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81495) | Version: `1.3` | Author: `lilebonymace` | ![Core]
 Download: | Main Files - Robber's Gorge Fixes
 
 ## Rock Traps Trigger Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81587) | Version: `1.0` | Author: `lilebonymace` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81587) | Version: `1.1` | Author: `lilebonymace` | ![Core]
 Download: | Main Files - Rock Traps Trigger Fixes
 
 ## Roggvir's Execution Scene Fixes
@@ -790,9 +810,14 @@ Download: | Main Files - Rock Traps Trigger Fixes
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74652) | Version: `2.0` | Author: `lilebonymace` | ![Core]
 Download: | Main Files - Roggvir's Execution Scene Fixes
 
+## Soul Cairn Script Tweaks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86367) | Version: `1.0.1` | Author: `ferrari365` | ![Core]
+Download: | Main Files - Soul Cairn Script Tweaks
+
 ## Standing Ambusher Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74492) | Version: `1.1.0` | Author: `tarlazo` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74492) | Version: `1.2.0` | Author: `tarlazo` | ![Core]
 Download: | Main Files - Standing Ambusher Fix
 
 ## Tavern AI Fix
@@ -910,6 +935,16 @@ Download: | Main Files - Random Barrel Roll
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68260) | Version: `1.1` | Author: `Scrab` | ![Core]
 Download: | Main Files - RDBK - Time and Location
 
+## Relaxed Khajiits
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86610) | Version: `1.0.0` | Author: `Tarlazo` | ![Core]
+Download: | Main Files - Relaxed Khajiits
+
+## Safer Spikes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86659) | Version: `2.0` | Author: `lilebonymace` | ![Core]
+Download: | Main Files - Safer Spikes
+
 ## Sensible Bribes - Based on Speechcraft Not Level
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55450) | Version: `1.0` | Author: `jayserpa` | ![Core] |
@@ -1007,11 +1042,10 @@ Select Plugin Type:
    * ESL
 ~~~
 
-## SmoothCam - EasyEase Preset
+## SmoothCam - Vanilla Enhanced 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41395) | Version: `1.5` | Author: `byunjoe` | ![Core]
-Download: | Main Files - SmoothCam_EasyEase_Preset_1.5
-
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82481) | Version: `1.9` | Author: `michaelfoushee` | ![Core]
+Download: | Main Files - SmoothCam Vanilla Enhanced 2
 
 
 # 07. User Interface - UI
@@ -1628,7 +1662,7 @@ Download: | Main Files - Northern Roads
 
 ## Northern Roads Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.15.3` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77386) | Version: `1.15.7` | Author: `JPSteel Czasior AgentW ra2phoenix` | ![Core]
 Download: | Main Files - Northern Roads Patch Collection FOMOD
 
 ![FOMOD]
@@ -1669,13 +1703,18 @@ Download: | Main Files - Road Signs Overhaul
 
 ## Simple Snow Improvements - Skyrim - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.5` | Author: `WeldingManDE` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78702) | Version: `1.9.2` | Author: `WeldingManDE` | ![Core]
 Download: | Main Files - Simple Snow Improvements - Skyrim
 
-## Simple Snow Improvements - Skyrim - Giant Obelisks - Base Object Swapper
+## Simple Snow Improvements - Giant Obelisks - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75251) | Version: `1.2` | Author: `WeldingManDE` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75251) | Version: `1.3` | Author: `WeldingManDE` | ![Core]
 Download: | Main Files - Simple Snow Improvements - Giant Obelisks
+
+## Simple Snow Improvements - Snow Forts - Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85413) | Version: `1.2` | Author: `WeldingManDE` | ![Core]
+Download: | Main Files - Simple Snow Improvements - Snow Forts
 
 ## The Elder Scrolls Online Imports
 

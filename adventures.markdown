@@ -9,27 +9,6 @@ Install these categories between "Utilities" and "Conflict Resolution".
 # B01. Addons - Adventures - Install Changes
 
 
-
-## A Clear Map of Skyrim And Other Worlds [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56367) | Version: `3.2.1` | Author: `DoubleYou` | ![Core]
-Download: | Main Files - A Clear Map of Skyrim and Other Worlds FOMOD
-
-![FOMOD]
-~~~
-DynDOLOD Rules:
-   * DynDOLOD 3
-LOD Setup:
-   * With DynDOLOD LOD32
-Other Worlds:
-   * Falskaar
-   * Wyrmstooth
-Optional Components:
-   * Remove Clouds
-Patches:
-   * None
-~~~
-
 ## BURP - Book Unity and Revamp Project [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
@@ -94,6 +73,11 @@ New Lands:
    * Wyrmstooth
 New Villages:
    * None
+~~~
+
+![PostInstall]
+~~~
+Delete FarmhouseChimneys.esp. (removing overwrite of Core install)
 ~~~
 
 ## Forceful Tongue - Shouts Overhaul - Patches [Addons - Adventures]
@@ -488,7 +472,7 @@ Download: | Main Files - Wyrmstooth Custom World Map Weather
 
 ## Additional Hearthfire Dolls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46930) | Version: `3.0` | Author: `Kelretu` | ![CAO]
 Download: | Main Files - Additional Hearthfire Dolls SE 3.0 Separate
 
 ![PostInstall]
@@ -499,7 +483,7 @@ Pack the mod with CAO.
 
 ## Additional Hearthfire Dolls - Small Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76463) | Version: `1.1` | Author: `cool531`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76463) | Version: `1.1` | Author: `cool531` | ![ESM]
 Download: | Main Files - Additional Hearthfire Dolls - Small Fixes
 | Optional Files - Additional Hearthfire Dolls - Small Fixes LOTD Patch
 
@@ -723,8 +707,9 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn Visual Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.0` | Author: `mocia` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.1` | Author: `mocia` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
+| Optional Files - Legacy of the Dragonborn Visual Overhaul - updated esp
 
 ![PostInstall]
 ~~~
@@ -792,7 +777,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Followers Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `3.0` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `3.0.1` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
@@ -864,7 +849,7 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.5` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.7` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -881,7 +866,7 @@ Overhaul Systems:
    * None
 Additional Patches A-M: (select only)
    * Complete Alchemy and Cooking Overhaul
-   * ESO Imports
+   * Elder Scrolls Online Imports
    * Mystic Condenser
 Additional Patches N-Z: (select only)
    * Reliquary of Myth
@@ -889,14 +874,14 @@ Additional Patches N-Z: (select only)
 Manually Selectable Patches:
    * Cloaks of Skyrim - Retextured
    * Ruins Clutter Improved
-   * SMIM
+   * Static Mesh Improvement Mod
 Legacy Book Covers Skyrim Patches:
    * None
 ~~~
 
 ![PostInstall]
 ~~~
-Delete meshes/dlc02/clutter/.
+Delete meshes/dlc02/.
 ~~~
 
 ## Legacy of the Dragonborn - Patches - Creation Club
@@ -942,7 +927,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.1.10` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.3` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn SSE - The Curators Companion
 
 ![FOMOD]
@@ -1121,6 +1106,11 @@ Download: | Main Files - LotD Tweaks - Main - No Lighting
 Pack the mod with CAO.
 ~~~
 
+## Legacy of the Dragonborn - Gemstones Remade
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86507) | Version: `0.2` | Author: `wSkeever`
+Download: | Main Files - Gemstones Remade
+
 ## Legacy of the Dragonborn - Museum Dome Improved
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45655) | Version: `0.2` | Author: `wSkeever` | 
@@ -1169,7 +1159,7 @@ Pack the mod with CAO.
 
 ## The Gray Cowl of Nocturnal - HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![CAO] ![ESL-C]
 Download: | Main Files - The Grey Cowl of Nocturnal SE - HD Texture pack
 
 ![PostInstall]
@@ -1267,12 +1257,12 @@ Select AIO Install Type:
 
 Place these after the existing Core CR mods.
 
-## Skyrim Unification Project - Conflict Resolution - Addon - Adventures
+## Skyrim Unification Project - Conflict Resolution - Addons - Adventures
 
 [![mod]](https://www.dropbox.com/s/3ccj2zyke42pldy/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0A` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Skyrim Unification Project - Conflict Resolution - Addon - Adventures.7z
 
-## Skyrim Unification Project - Replacement Plugins - Addon - Adventures
+## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
 
 [![mod]](https://www.dropbox.com/s/p31h6w7pi44tx0y/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
 Download: | Skyrim Unification Project - Repacement Plugins - Addon - Adventures.7z

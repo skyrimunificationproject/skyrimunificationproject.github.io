@@ -15,14 +15,14 @@ Install these categories between "Addons - Adventures" and "Conflict Resolution"
 
 ## Ashbound - Solstheim Revisited [Addons - Project Arch]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | 
 Download: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
 | Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
 
 
 ## BURP - Book Unity and Revamp Project [Addons - Project Arch]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | 
 Download: | Main Files - BURP - Desatured Textures
 
 ![FOMOD]
@@ -48,14 +48,14 @@ Delete *.esp.
 
 ## FYX - Smooth Wells [Addons - Project Arch]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals] ![Arch]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` |
 Download: | Optional Files - FYX - Smooth Wells - CotN Falkreath
 
 
 
 ## My Road Signs are Beautiful [Addons - Project Arch]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] ![Adventures]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` |
 Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
 
 ![FOMOD]
@@ -76,7 +76,7 @@ Delete *.esp.
 
 ## Windhelm Fake Windows Fix [Addons - Project Arch]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | ![Core] ![Visuals] ![Arch]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | 
 Download: | Optional Files - Capital Windhelm Expansion Patch
 
 ![PostInstall]
@@ -88,265 +88,747 @@ Delete WindhelmFakeWindowsFix.esp.
 
 ## Distinct Interiors
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6130) | Version: `1.82` | Author: `Sokkvabekk` | 
+Download: | Main Files - All-In-One
+
 ## Distinct Interiors - FPS Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41150) | Version: `2.0` | Author: `TheHessiJames` |
+Download: | Main Files - Distinct Interiors - FPS Fix
+
+![FOMOD]
+~~~
+Custom barrel replacement:
+   * SMIM Barrels
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
 
 ## Expanded Towns and Cities
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13552?tab=files&file_id=263926) | Version: `0.7` | Author: `missjennabee` | ![ESM]
+Download: | Manually download and install from archive
+
+![FOMOD]
+~~~
+ESM Version:
+   * ESM - With SkyUI
+ESP Version:
+   * Complete
+Farmhouse Texture Mods:
+   * WiZkiD Parallax Farmhouses
+Snow Texture Mods:
+   * None
+Static Mesh Improvement Mod:
+   * Lanterns
+   * Sign Chains
+Tree Mesh Replacers:
+   * None
+Creation Club:
+   * None
+Patches:
+   * RS Children Overhaul
+~~~
+
 ## JK's Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6289) | Version: `1.7` | Author: `jkrojmal` | ![ESM]
+Download: | Main Files - JK's Skyrim all in one
 
 ## Settlements Expanded
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.3` | Author: `Urtho` | ![ESM]
+Download: | Main Files - Settlements Expanded SE
+
 ## Modpocalypse NPCs - Expanded Towns and Cities
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59743) | Version: `1.01` | Author: `ModpocalypseGaming` | ![CAO]
+Download: | Main Files - Modpocalypse NPCs (v2) ETaC - Complete
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - JK's Skyrim
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54851) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
+Download: | Main Files - Modpocalypse NPCs (v2) JK's Skyrim
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+
 ## Modpocalypse NPCs - Settlements Expanded
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57070) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
+Download: | Main Files - Modpocalypse NPCs (v2) Settlements Expanded
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 
 # C03 - Addons - Project Arch - Cities of the North
 
 ## Cities of the North - Dawnstar
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28952) | Version: `1.3` | Author: `JPSteel2` | ![ESM]
+Download: | Main Files - Cities of the North - Dawnstar
+
 ## Cities of the North - Dawnstar Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `4.4` | Author: `Janquel` | 
+Download: | Main Files - COTN Dawnstar Patch Collection
+
+![FOMOD]
+~~~
+City Overhauls:
+   * Expanded Towns and Cities - Combined
+   * JKs Skyrim
+No Snow Under the Roof:
+   * NSUTR 
+Miscellaneous Patches:
+   * None
+Immersive Citizens AI Overhaul:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
 
 ## Cities of the North - Falkreath
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56731) | Version: `1.2` | Author: `JPSteel2` |  ![ESM]
+Download: | Main Files - Cities of the North - Falkreath
+
 ## Cities of the North - Falkreath Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.18` | Author: `Janquel` | 
+Download: | Main Files - COTN Falkreath Patch Collection
+
+![FOMOD]
+~~~
+Primary CIties:
+   * JKs Skyrim
+ESO Imports and LOTD:
+   * None
+Helgen Reborn:
+   * None
+Skyrim Underground and Outlaws Refuges:
+   * None
+Clockwork:
+   * None
+Lanterns of Skyrim II:
+   * None
+Landscape and Water Fixes:
+   * None
+Miscellaneous Patches:
+   * None
+Creation Club:
+   * None
+Optional Files: 
+   * None
+Snazzy Furniture and Clutter Overhaul:
+   * None
+Solitude and Temple Frescoes:
+   * None
+Optional Add-Ons:
+   * Janquel's Addons
+~~~
+
+![PostInstall]
+~~~
+Remove COTN Falkreath - JKs Skyrim Patch.esp.
+~~~
 
 ## Cities of the North - Winterhold
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Optimized Cities of the North Meshes
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## The Great City of Winterhold SSE Edition
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## The Great City of Winterhold Patch Collection
+
+[![mod]](temp) | Version: `` | Author: `` | ![BSA] ![ESM]
+Download: | Main Files - 
+
+![FOMOD]
+~~~
+tgcotn, outlaws, unpack bsa, delete outlaws patch
+~~~
 
 ## The Great City of Winterhold - Simple Snow Improvement - BOS
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Better Occlusion - COTN Falkreath
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # C04 - Addons - Project Arch - Markarth and Riften
 
 ## Balthazars Books - A Markarth Bookstore Remastered
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Distinct Opulent Thieves Guild
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## GG's Thieves Guild Headquarters
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## JK's The Ragged Flagon
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Markarth Mossy Lite
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Markarth Outskirts
 
-## Riften DOcks Overhaul
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.5` | Author: `GGUNIT` | ![ESM] ![CAO]|
+Download: | Main Files - Markarth Outskirts
+
+![FOMOD]
+~~~
+Main Files:
+   * Lux Via user version
+Optional plugins:
+   * Custom moss shader
+   * AgentW's optional new wood textures
+   Compatibility Patches:
+      * Deselect all
+Manually installed plugins:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Riften Docks Overhaul
+
+[![mod]](temp) | Version: `` | Author: `` |  ![ESM]
+Download: | Main Files - 
 
 ## RYFTEN - Consistency of windows in Riften
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## RYFTEN DOWN - A little addition to the Riften canals
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 # C05 - Addons - Project Arch - Solitude and Dragon Bridge
 
 ## Drengin's Blue Palace Terrace
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Rodryk's Dragon Bridge
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Rodryk's Dragon Bridge Retexture
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Rodryk's Dragon Bridge Retexture - Matching LOD Textures
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Solitude Docks Updated
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Solitude Docks Replacer
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 # C06 - Addons - Project Arch - Capital Whiterun and Windhelm
 
 ## Capital Whiterun Expansion
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Capital Whiterun Expansion - More Accurate Collision
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Capital Whiterun Expansion - 3D Whiterun Trellis Patch
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Capital Windhelm Expansion
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Capital Windhelm Expansion - 3D Windhelm Fence Patch
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## RS Children - Capital Windhelm Expansion
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Ryn's Whiterun City Limits
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## JK's The Bannered Mare
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## JK's The Drunken Huntsman
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## JK's Whiterun Outskirts
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 # C07 - Addons - Project Arch - Dawnguard and Dragonborn
 
 ## Better Tel Mithryn
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## ClefJ's Fort Dawnguard
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Quaint Raven Rock
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 # C08 - Addons - Project Arch - Towns and Villages
 
 ## Anga's Mill - Cities of the North Addon
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## BUVARP - Chillridge Farm - Cities of the North Addon
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Cultured Orc Furniture
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Denizens of Morthal
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Environs - Kolskeggr
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Half-Moon Mill - Cities of the North Addon
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 ## Old Hroldan Ruins SE
 
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
+
 ## Sky Haven Temple - Gardens
+
+[![mod]](temp) | Version: `` | Author: `` | ![ESM]
+Download: | Main Files - 
 
 # C10 - Addons - Project Arch - JK Interiors - Cities
 
 ## JK's Angeline's Aromatics
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Arcadia's Cauldron
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Arnleif and Sons Trading Company
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Belethor's General Goods
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Bits and Pieces
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Candlehearth Hall
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Elgrims Elixirs
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Haelga's Bunkhouse
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's New Gnisis Cornerclub
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Radiant Raiment
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Sadri's Used Wares
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Silver-Blood Inn
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's The Bee and Barb
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's The Hag's Cure
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's The Pawned Prawn
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's The Winking Skeever
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Warmaiden's
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's White Phial
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # C11 - Addons - Project Arch - JK Interiors - Temples and Palaces
 
 ## JK's Blue Palace
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Blue Palace Terrace
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Dragonsreach
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Mistveil Keep
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Palace of the Kings
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Temple of the Divines
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Temple of Dibella
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Temple of Kynareth
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Temple of Talos
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Temple of Mara
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # C12 - Addons - Project Arch - JK Interiors - Guild HQs
 
 ## JK's Castle Dour
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's College of Winterhold
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's High Hrothgar
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Jorrvaskr
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Sky Haven Temple
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's The Bards College
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # C13 - Addons - Project Arch - JK Interiors - Towns and Misc
 
 ## JK's Riverwood Trader
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Septimus Signus's Outpost
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## JK's Sinderion's Field Laboratory
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## JK's Sleeping Giant Inn
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # C20 - Addons - Project Arch - Lore-Friendly Towns
 
 ## Amber Guard
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Dunpar Wall
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Granitehall
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Granite Hill Village
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Greymoor
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Iggath
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Lainalten
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Laintar Dale
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Oakwood
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Reich Corigate
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Stonehills
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Sunthgat
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Vernim Wood
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Modpocalypse NPCs - Amber Guard
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Modpocalypse NPCs - Dunpar Wall
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Modpocalypse NPCs - Granitehall
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Modpocalypse NPCs - Granite Hill Village
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Modpocalypse NPCs - Lainalten
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Modpocalypse NPCs - Oakwood
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Modpocalypse NPCs - Reich Corigate
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## Modpocalypse NPCs - Sunthgat
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## RS Children - Iggath
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 ## RS Children - Oakwood
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## RS Children - Schlitzhor's Villages
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # Z01 - Conflict Resolution
 
 ## Skyrim Unification Project - Conflict Resolution - Addons - Project Arch
 
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
+
 ## Skyrim Unification Project - Replacement Plugins - Addons - Project Arch
+
+[![mod]](temp) | Version: `` | Author: `` | 
+Download: | Main Files - 
 
 # Project Arch - Final Steps
 
@@ -381,12 +863,14 @@ JK's Skyrim.esp | Apply ESMifier script
 JK's Whiterun Outskirts.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 MarkarthBookstoreSE.esp | Apply ESMifier script
+Markarth Mossy AF.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
 OpulentThievesGuild.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
 RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script
 RYFTEN DOWN.esp | Apply ESMifier script
+RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
 Tel Mithryn.esp | Apply ESMifier script

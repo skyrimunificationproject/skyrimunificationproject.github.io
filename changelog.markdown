@@ -3,6 +3,137 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-03-26
+
+![Added]
+~~~
+Core 1 - 01 - MCM Recorder
+Core 1 - 01 - Sprint Sneak Movement Speed Fix
+Core 1 - 01 - SSE Fixes
+Core 1 - 03a - Wood Wall Trap Mesh and UV Fix
+Core 1 - 03b - Interesting NPCs Script Optimization
+Core 1 - 03b - Soul Cairn Script Tweaks
+Core 1 - 04 - Relaxed Khajiits
+Core 1 - 04 - Safer Spikes
+Core 1 - 06 - SmoothCam - Vanilla Enhanced 2
+Core 1 - 16 - Simple Snow Improvements - Snow Forts - Base Object Swapper
+Core 2 - 26 - FYX - Eastern Empire Company Building
+Core 2 - 26 - FYX - Rampart and Watchtower of Solitude
+Core 2 - 26 - My Walls of Kings are Beautiful
+Core 2 - 26 - Whiterun Fence Walls Fix
+Core 2 - 26 - Whiterun Wall Rubble Fixed
+Core 3 - 31 - ElSopa - Northern Roads Resculpted
+Core 3 - 31 - Northern Roads - Higher Poly Stockade
+Core 3 - 34 - Cathedral - 3D - Dragons Tongue
+Core 3 - 34 - Cathedral - 3D - Sword Ferns
+Core 3 - 35 - Rally's Honey Pots
+Core 3 - 36 - JS Knapsacks
+Core 3 - 36 - JS Torture Tools
+Core 3 - 36 - Morthal Quest Coffin Retexture
+Core 3 - 37 - Rally's Weapon Racks
+Core 3 - 37 - Weathered Furniture - Bars and Counters
+Core 3 - 37 - Weathered Furniture - Common and Upper Class
+Core 3 - 38 - SpiderWIP
+Core 3 - 41 - Night Mother
+Core 4 - 55 - Leviathan Animations II - Greatsword Non Combat Locomotion
+Core 4 - 56 - Dynamic Whirlwind Sprint - DAR
+Core 4 - 56 - Female Player Animations - DAR
+Core 5 - 58 - Vampire Lines Expansion
+Core 5 - 68 - Sets of Skills - Improved UI
+Core 5 - 68 - Sets of Skills - Custom Skill Framework
+Core 5 - 68 - Standardization of Spelling of Sets of Skills
+Core 5 - 69 - Better Pelts and Hides
+Core 5 - 69 - FYX - Smooth Wells - Alternate Texture Patch
+Core 5 - 69 - FYX - Smooth Wells - Invisible Well Fix
+Core 5 - 69 - slightly Better EVIL Rock Cairns
+Core 5 - 69 - Markarth Fixed AF
+Core 5 - 69 - Subdivide and Smooth - Hagraven
+Core 5 - 70 - ENB Lights - Cathedral - 3D - Dragons Tongue
+Core 5 - 70 - ENB Lights - Kabu's Void Salts
+Core 5 - 70 - ENB Lights - Subdivide and Smooth - Hagraven
+Adventures - B07 - Legacy of the Dragonborn - Gemstones Remade
+~~~
+
+![Removed]
+~~~
+Core 1 - 06 - SmoothCam - EasyEase Preset
+Core 3 - 34 - A Fungal Pod (mod hidden for rework)
+Core 3 - 34 - Volatile Void Salts
+Core 3 - 37 - CC's HQ Barset
+Core 4 - 56 - Dynamic Random Spell Idle (conflict with Smooth)
+~~~
+
+![Updated]
+~~~
+Prerequisites - Changed ESMifier script to Persistentify Those Plugins
+Prerequisites - DynDOLOD updated to Alpha-121.
+Core 1 - 01 - Enemies Respect Encounter Zones updated to 1.3.0.
+Core 1 - 01 - NPCs Use Potions updated to 3.0.3a.
+Core 1 - 01 - Papyrus Tweaks NG updated to 4.1.0.
+Core 1 - 01 - Read or Take updated to 1.3.0.
+Core 1 - 01 - Use or Take updated to 1.2.0.
+Core 1 - 03b - Navigator updated to 1.4.4.
+Core 1 - 03b - Skyrim Landscape and Water Fixes updated to 7.6.
+Core 1 - 03b - Robber's Gorge Fixes updated to 1.3.
+Core 1 - 03b - Rock Traps Trigger Fixes updated to 1.1.
+Core 1 - 03b - Standing Ambusher Fix updated to 1.2.0.
+Core 1 - 16 - Northern Roads Patch Collection updated to 1.15.7.
+Core 1 - 16 - Simple Snow Improvements - Skyrim - BOS updated to 1.9.2.
+Core 1 - 16 - Simple Snow Improvements - Giant Obelisks - BOS updated to 1.3.
+Core 2 - 18 - After the Civil War Siege Damage Repairs updated to 2.6.0.
+Core 2 - 18 - Better Courier updated to 2.0.8.
+Core 2 - 18 - NPCs Wear Amulets of Mara PLUS updated to 2.03.
+Core 2 - 19 - Thieves Night on the Town updated to 1.0.8.
+Core 2 - 20 - Coins of Interesting Natures updated to 2.1.1.2.
+Core 2 - 20 - Headhunter updated to 1.43.
+Core 2 - 23 - DynDOLOD Resources updated to Alpha-33.
+Core 2 - 23 - DynDOLOD Large Reference Scripts url updated.
+Core 2 - 24 - FYX - 3D Solitude Sighpost updated to 1.0.5.
+Core 2 - 24 - FYX - Row Boat updated to 1.0.4.
+Core 2 - 26 - FYX - Jorrvaskr updated to 1.0.4.
+Core 2 - 30 - Dwemer Pipework Reworked moved to Core 5 - 69.
+Core 2 - 30 - Dwemer Pipework Reworked ENB moved to Core 5 - 69.
+Core 2 - 30 - Ancient Dwemer Metal Dwemer Pipework Reworked moved to Core 5 - 69.
+Core 3 - 31 - Skyrim Remastered 4K Textures updated to 1.10.
+Core 3 - 32 - Water for ENB updated to 1.76.
+Core 3 - 33 - Happy Little Trees DynDOLOD - added update file.
+Core 3 - 33 - Fancy Sleeping Tree Replacer updated to 1.5.
+Core 3 - 37 - Rally's Display Cases updated to 1.2.
+Core 3 - 37 - Weldingmans Enchanting Table Variants updated to 1.4beta5.
+Core 3 - 38 - Embers XD updated to 2.7.2.
+Core 3 - 42 - Lux updated to 6.0.3, instructions updated.
+Core 3 - 42 - Lux Orbis updated to 3.2, instructions updated.
+Core 3 - 42 - Lux Via updated to 1.6.
+Core 4 - 54 - Nemesis Creature Behavior Compatibility updated to 1.4.
+Core 4 - 54 - Some Creature Behavior Bug Fixes updated to 2.0.4.
+Core 4 - 56 - Immersive Folded Hands updated to 1.3.0.
+Core 4 - 56 - NPC Animation Remix updated to 1.3.0.
+Core 5 - 61 - Dragon War updated to 2.1.9.
+Core 5 - 61 - Forceful Tongue updated to 3.0.9.1.
+Core 5 - 64 - Reliquary of Myth updated to 4.6.6.
+Core 5 - 66 - Sets of Skills updated to 2.0.3.
+Core 5 - 67 - Simple Dual Sheath updated to 1.5.5.
+Core 5 - 67 - YASTM updated to 3.0.0.
+Core 5 - 68 - CACO Patch for Potion Remodels updated to 1.2.
+Core 5 - 68 - Ordinator Optimized Scripts updated to 1.1.0.
+Core 5 - 69 - Cathedral 3D Mountain Flowers BOS updated to 0.1.17.
+Core 5 - 69 - Solitude Interiors Meshes Fixes updated to 2.4.
+Core 5 - 69 - Icy Mesh Remaster updated to 2.02.
+Core 5 - 70 - ENB Lights Hanaisse Ingredients Patch FOMOD instructions updated.
+Core 5 - 71 - Quest Journal Limit Bug Fixer updated to 0.2.1.
+
+Survival - Favor Jobs Overhaul updated to 2.3.0.
+Survival - Immersive Aggressive Opponents updated to 1.4.
+
+Adventures - B05 - Legacy of the Dragonborn Visual Overhaul updated to 1.1, optional files added.
+Adventures - B06 - Legacy of the Dragonborn Followers Patch updated to 3.0.1.
+Adventures - B06 - Legacy of the Dragonborn Patches updated to 2.9.7.
+Adventures - B06 - Legacy of the Dragonborn Curator's Companion updated to 6.2.3.
+
+Final - Better Courier added to Quick Auto Clean list.
+
+~~~
+
 # 2023-02-17
 
 ![Added]

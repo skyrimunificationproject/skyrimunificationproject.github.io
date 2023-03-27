@@ -151,7 +151,11 @@ Download: | [Relationship Dialogue Overhaul - Updated Scripts](https://www.dropb
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/16222) | Version: `1.02` | Author: `ThatGuyYeah` | ![Core] |
 Download: | Main Files - SeranaDialogEdit v 102
 
+## Vampire Lines Expansion
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83484) | Version: `1.01` | Author: `JaySerpa` | ![Core]
+Download: | Main Files - Vampire Lines Expansion
+| Optional Files - Orc Addon for Vampire Lines Expansion
 
 # 59. Immersion
 
@@ -339,7 +343,6 @@ Addons:
 
 SKSE Addons:
    * Experience
-   * Uncapper
  
 SPID:
    * Perk Distribution
@@ -348,18 +351,18 @@ SPID:
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.9` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 
 ## Dragon War - A Dragon Overhaul - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1` | Author: `Delta` | ![Core] |
 Download: | Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
 | Misc Files - Dragon War - Deadly Spell Impacts Patch
 
 ## Forceful Tongue - Shouts Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.8` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `3.0.9.1` | Author: `Delta` | ![Core] |
 Download: | Main Files - Forceful Tongue - Shouts Overhaul
 
 ## Odin - Skyrim Magic Overhaul
@@ -476,7 +479,7 @@ Download: | Optional Files - Apocalypse - Ordinator Compatibility Patch
 
 ## Reliquary of Myth - Artifact Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.6.3` | Author: `TitansBane` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31612) | Version: `4.6.7` | Author: `TitansBane` | ![Core] |
 Download: | Main Files - Reliquary of Myth - Artifact Overhaul
 
 ![FOMOD]
@@ -548,7 +551,7 @@ Download: | Main Files - Wintersun 3.2.0
 ## Dragonborn - Shouts Perk Tree 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41950) | Version: `3.1.0` | Author: `Delta` | ![Core] |
-Download: | Main Files - Dragonborn - Shouts Perk Tree
+Download: | Old Files - Dragonborn - Shouts Perk Tree
 
 ## Ordinator - Perks of Skyrim
 
@@ -572,7 +575,7 @@ Download: | Main Files - Reading Improves Speech
 
 ## Sets of Skills - A Skyrim Class Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `2.0.2` | Author: `Robin959` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55535) | Version: `2.0.3` | Author: `Robin959` | ![Core] |
 Download: | Main Files - Sets of Skill - A Skyrim Class Mod
 
 ![FOMOD]
@@ -682,7 +685,7 @@ Download: | Main Files - Quick Light SE
 
 ## Simple Dual Sheath
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50049) | Version: `1.5.4` | Author: `SlavicPotato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50049) | Version: `1.5.5` | Author: `SlavicPotato` | ![Core] |
 Download: | Main Files - Simple Dual Sheath for 1.5.39 - 1.6.353
 | Optional Files - XPMSSE Left Hand Sheath Rotation Fix
 
@@ -704,7 +707,7 @@ Download: | Main Files - Weapons Repositioner SE
 
 ## YASTM - Yet Another Soul Trap Manager
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `1.10.4` | Author: `Seally25` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56144) | Version: `3.0.0` | Author: `Seally25` | ![Core] |
 Download: | Main Files - YASTM (FOMOD)
 
 ![FOMOD]
@@ -772,7 +775,7 @@ Pack the mod with CAO.
 
 ## Complete Alchemy and Cooking Overhaul - Patch For Potion Remodels
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58655) | Version: `1.1` | Author: `Zireal1251` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58655) | Version: `1.2` | Author: `Zireal1251` | ![Core]
 Download: | Main Files - CACO Patch
 
 ## Enhanced Blood Textures - Optimized Scripts
@@ -845,7 +848,7 @@ Download: | Main Files - No Crime Teleport - Voice Consistency Fix
 
 ## Ordinator Perks of Skyrim - Optimized Scripts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.0` | Author: `Borgut1337` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.1.0` | Author: `Borgut1337` | ![Core]
 Download: | Main Files - Optimized Scripts for Ordinator
 | Optional Files - Optimised Scripts for Apocalypse-Ordinator Patch
 
@@ -925,12 +928,47 @@ Download: | Main Files - Weapons Armor Clothing and Clutter Fixes - CBBE Patch
 
 ## Poppy's Assorted CBBE Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78633) | Version: `1.0` | AUthor: `Mopop` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78633) | Version: `1.0` | Author: `Mopop` | ![Core] ![Visuals]
 Download: | Main Files - Poppy's Assorted CBBE Patches - Amber Refossilized
 | Main Files - Poppy's Assorted CBBE Patches - FranklyHD Dawnguard
 | Main Files - Poppy's Assorted CBBE Patches - FranklyHD Imperial Armor
 | Main Files - Poppy's Assorted CBBE Patches - FranklyHD Nightingale
 | Main Files - Poppy's Assorted CBBE Patches - Stahlrim Refrozen
+
+## Sets of Skills - Improved UI
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82987) | Version: `3.0.0` | Author: `Wartortle` | ![Core]
+Download: | Main Files - Sets of Skills - Improved UI
+
+![FOMOD]
+~~~
+Sets of Skills:
+   * Sets of Skills only
+~~~
+
+## Sets of Skills - Custom Skill Framework
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79585) | Version: `1.0` | Author: `Hajo` | ![Core]
+Download: | Main Files - SoS-CSF
+
+![FOMOD]
+~~~
+Optional Packs:
+   * None
+~~~
+
+## Standarization of Spelling of Sets of Skills
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82985) | Version: `1.0.4` | Author: `Wartortle` | ![Core]
+Download: | Main Files - Standardization of Spelling of Sets of Skills
+
+![FOMOD]
+~~~
+Sets of Skills:
+   * Sets of Skills
+Custom Skills Framework:
+   * Custom Skills Framework
+~~~
 
 # 69. Late Loaders - Meshes and Textures
 
@@ -959,7 +997,7 @@ Download: | Main Files - Bright Falling Leaves Fix
 
 ## Cathedral 3D Mountain Flowers - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.15` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.17` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
@@ -980,6 +1018,21 @@ Expansion Packs for Others' Mods:
 ~~~
 Delete DtRS - Apoc+Arsenal Patch.esp.
 ~~~
+
+## Dwemer Pipework Reworked
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Version: `4.0` | Author: `Caleb2` | ![Core] ![Visuals] |
+Download: | Main Files - Dwemer Pipework Reworked 4
+
+## Dwemer Pipework Reworked - ENB Lights
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Version: `4.0` | Author: `Caleb2` | ![Core] ![Visuals] |
+Download: | Optional Files - Dwemer Pipework Reworked - optional ENB Lights
+
+## Ancient Dwemer Metal - Patches - Dwemer Pipework Reworked
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
+Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 
 ## Flowers and Plants Meshes Fix - Patches
 
@@ -1138,9 +1191,14 @@ LuxPatches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43866) | Version: `1.6` | Author: `NeverLose, DuskyB` | ![Core] ![Visuals] |
 Download: | Main Files - Skyrim - A Mountainous Experience Double Sided
 
+## Slightly Better EVIL Rock Cairns
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84994) | Version: `1.0` | Author: `FrankBlank` | ![Visuals]
+Download: | Main Files - slightly Better EVIL Rock Cairns 2k
+
 ## Solitude Interiors Meshes Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.3` | Author: `WiZkiD` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78761) | Version: `2.4` | Author: `WiZkiD` | ![Core] ![Visuals]
 Download: | Main Files - Solitude Interior Meshes FIXES
 
 ## Stairs of Skyrim - Windhelm Bridge Stairs
@@ -1261,7 +1319,7 @@ Download: | Main Files - dpillari sleeping tree 2k Enb light
 
 ## Icy Mesh Remaster
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `1.91` | Author: `RokHel` | ![Visuals] ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `2.02` | Author: `RokHel` | ![Visuals] ![ESL-C]
 Download: | Main Files - Icy Mesh Remaster
 
 ![FOMOD]
@@ -1278,17 +1336,17 @@ Optional Partitioned Meshes:
    * High Poly Consistency (or none if you have performance issues)
 Optional Partitioned Snow: 
    * None
-IcyFixes Main:
+IcyFixesFull:
    * Enable
+IcyFixesLite:
+   * None
 IcyFixes Required Meshes:
    * Partitioned High Poly Backlight (or High Poly Backlight)
 Patches Tamriel:
    * Just Ice: None
-   * Skyrim Remastered - Glaciers and Ice: Skyrim Remastered 4K
    * RIS - Real Ice and Snow: None
 Patches Forgotten Valley:
    * Just Ice: None
-   * Skyrim Remastered - Glaciers and Ice: Skyrim Remastered 4K
    * RIS - Real Ice and Snow: None
 LOD Patches:
    * Skyrim Remastered
@@ -1304,6 +1362,46 @@ Download: | Main Files - FYX - Riften Canal and Round Posts
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Smooth Wells - Water in Wells
 | Optional Files - FYX - Smooth Wells - Water in Wells - Imperial Well
+
+## FYX - Smooth Wells - Alternate Texture Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67277) | Version: `1.2.2` | Author: `Blackread` | ![Visuals]
+Download: | Main Files - FYX - Smooth Wells - Alternate Textures Patch
+
+## FYX - Smooth Wells - Invisible Well Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77749) | Version: `1.1` | Author: `Blackread` | ![Visuals]
+Download: | Main Files - FYX Smooth Wells - Invisible Well Fix
+
+## Markarth Fixed AF
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82728) | Version: `1.4` | Author: `GGUNIT` | ![Visuals]
+Download: | Main Files - Markarth Fixed AF
+
+![FOMOD]
+~~~
+Main mod versions:
+   * Markarth Fixed AF Majestic Mountains (no parallax)
+Markarth Main Entrance:
+   * Markarth Main Entrance Variant
+Keep Main Entrance:
+   * Keep Main Entrance Variant
+Market Bridge:
+   * Market Bridge Variant
+Market Silver Blood Inn:
+   * Market Silver Blood Inn Variant
+Cidhna Mine Entrance:
+   * Cidhna Mine Entrance Variant
+Markath Outskirts:
+   * Markarth Outskirts fixed meshes (soft compat for Arch)
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/architecture/markarth/mrkmarketstall01.nif.
+Delete meshes/dungeons/dwemer/door/dwemerlargedoor*.
+Delete textures/smim/.
+~~~
 
 ## Medieval Spirits 
 
@@ -1351,7 +1449,7 @@ Patches:
 
 ## Bits and Pieces Rework
 
-[!{mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81467) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81467) | Version: `1.0` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - Bits and Pieces rework
 
 ## Bryling's House Rework
@@ -1368,6 +1466,17 @@ Download: | Main Files - Erikur's House Rework
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81617) | Version: `1.0.1` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - The Winking Skeever Rework
+
+## Better Pelts and Hides
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87277) | Version: `1.0` | Author: `FrankBlank` | ![Visuals]
+Downloads: | Main Files - Better Pelts and Hides
+
+## Subdivide and Smooth - Hagraven
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77912) | Version: `1.1` | Author: `markuskarttunen1` | ![Visuals]
+Download: | Main Files - Subdivide and Smooth with complementary mesh fixes - Hagraven
+| Optional Files - WiZkiD Hagraven Clutter and Bones patch
 
 # 70. Late Loaders - ENB Meshes
 
@@ -1434,6 +1543,11 @@ Download: | Main Files - Apocrypha ENB Light
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58607) | Version: `1.2` | Author: `Revoith - Nicoroshi - greenleaf1mile` | ![Core] ![Visuals]
 Download: | Main Files - Awesome Potions Simplified ENB Lights
 
+## ENB Lights - Cathedral - 3D Dragons Tongue
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85786) | Version: `1.3` | Author: `WeldingManDE` | ![Core] ![Visuals]
+Download: | Main Files - Cathedral - 3D Dragons Tongue - Glow Map and ENB Light - Performance
+
 ## ENB Lights - Dark Elf Lantern - Animated Glow
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63176) | Version: `0.2` | Author: `wSkeever` | ![Core] ![Visuals]
@@ -1468,7 +1582,6 @@ ELIF Patch:
    * Dusty Vampire Dust
    * Surreal Spriggan Sap
    * Glimmering Glow Dust
-   * Volatile Void Salts
 ~~~
 
 ## ENB Lights - High Poly Dragonborn Ingredients
@@ -1480,6 +1593,11 @@ Download: | Main Files - High Poly Dragonborn Ingredients - ENB Lights
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.3` | Author: `Kabu` | ![Core] ![Visuals]
 Download: | Main Files - Kabu's Fire Salts 2k
+
+## ENB Lights - Kabu's Void Salts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85513) | Version: `1.0` | Author: `Kabu` | ![Core] ![Visuals]
+Download: | Main Files - Kabu's Void Salts - Fancy Version - 2k1k
 
 ## ENB Lights - Misc Effects
 
@@ -1509,6 +1627,11 @@ Download: | Main Files - Spiders of Solstheim - ENB Light - Scrambled Bugs Versi
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64948) | Version: `0.3` | Author: `wSkeever` | ![Core] ![Visuals]
 Download: | Main Files - Sprites or Specters - ENB Light - Scrambled Bugs Version
+
+## ENB Light - Subdivide and Smooth - Hagraven
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77912) | Version: `1.1` | Author: `markuskarttunen1` | ![Visuals]
+Download: | Optional Files - Alchemy Ingredients ENB Light patch
 
 ## ENB Lights - WeldingMan's Smelter
 
@@ -1753,7 +1876,7 @@ Download: | Main Files - PapyrusUtil SE - Scripting Utility Functions - 3.9
 
 ## Quest Journal Limit Bug Fixer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56130) | Version: `0.2` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56130) | Version: `0.2.1` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Quest Journal Limit Bug Fixer
 
 ![PostInstall]

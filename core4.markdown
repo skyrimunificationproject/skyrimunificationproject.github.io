@@ -1217,7 +1217,7 @@ Download: | Main Files - Nemesis PCEA Main
 
 ## Project New Reign - Nemesis - Creature Behavior Compatibility
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45966) | Version: `1.32` | Author: `NickaNak` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45966) | Version: `1.4` | Author: `NickaNak` | ![Core] |
 Download: | Main Files - Nemesis Creature Behaivour Compatiblity
 
 ![FOMOD]
@@ -1309,7 +1309,7 @@ Download: | Main Files - Slow Sprint Bug Fix
 
 ## Some Creature Behavior Bug Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `2.0.3` | Author: `illuke00` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68469) | Version: `2.0.4` | Author: `illuke00` | ![Core]
 Download: | Main Files - Some Creature Behavior Bug Fixes
 
 ## Super Fast Get Up Animation
@@ -1455,6 +1455,11 @@ Download: | Optional Files - CATA Addon - Leviathan Animations Male Idle Walk Ru
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82603) | Version: `2.4` | Author: `Verolevi` | ![Visuals] |
 Download: | Optional Files - CATA Addon - Leviathan Animations Sprint
+
+## Leviathan Animations II - DAR - Greatsword Non Combat Locomotion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84201) | Version: `1.0` | Author: `Verolevi` | ![Visuals]
+Download: | Leviathan Animations II - Greatsword Non Combat Locomotion
 
 ## Leviathan Animations - DAR - Two-Handed High Stance
 
@@ -1636,16 +1641,21 @@ Download: | Main Files - Don't sheat bound weapons
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62191) | Version: `1.4` | Author: `samuelga24` | ![Visuals]
 Download: | Main Files - Drunk animations CACO ESPFE
 
-## Dynamic Random Spell Idle - DAR
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77025) | Version: `1.3` | Author: `skypia` | ![Visuals]
-Download: | Main Files - Dynamic Random Spell Idle - Player NPC All
-
 ## Dynamic Swimming - DAR
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34853) | Version: `1.0` | Author: `Rikushai` | ![Visuals]
 Download: | Main Files - DAR - Dynamic Swimming
 | Optional Files - DAR - Dynamic Swimming - Argonian Mastery
+
+## Dynamic Whirlwind Sprint - DAR
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83037) | Version: `2.0` | Author: `skypia` | ![Visuals]
+Download: | Main Files - Dynamic Whirlwind Sprint
+
+## Female Player Animations - DAR
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85073) | Version: `1.0` | Author: `CHIMgarden` | ![Visuals]
+Download: | Main Files - Female Player Animations (DAR)
 
 ## Gesture Animation Remix - DAR
 
@@ -1654,7 +1664,7 @@ Download: | Main Files - Gesture Animation Remix (DAR) - main archive
 
 ## Immersive Folded Hands - DAR
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62849) | Version: `1.2.0` | Author: `CHIMgarden` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62849) | Version: `1.3.0` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - Immersive folded hands (DAR mod)
 
 ## Lively Cart Driver Animation Replacer - DAR
@@ -1674,7 +1684,7 @@ Download: | Main Files - idlepray.hkx replacer for females (DAR)
 
 ## NPC Animation Remix - DAR
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.2.1` | Author: `CHIMgarden` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63471) | Version: `1.3.0` | Author: `CHIMgarden` | ![Visuals]
 Download: | Main Files - NPC Animation Remix (DAR) - main archive
 
 ## Random Prayer Animation - DAR

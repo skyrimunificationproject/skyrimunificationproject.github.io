@@ -59,7 +59,7 @@ Download: | Main Files - A Lovely Letter Alternate Routes
 
 ## After the Civil War - Siege Damage Repairs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20668) | Version: `2.5.2` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20668) | Version: `2.6.0` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - AtCW - Siege Damage Repairs
 
 ![FOMOD]
@@ -87,8 +87,8 @@ Download: | Main Files - Another Redbelly Mine Mod
 
 ## At Your Own Pace - College of Winterhold
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.2.1MG` | Author: `agd25` | ![Core] ![CAO]|
-Download: | Main Files - At Your Own Pace - College of Winterhold
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | Version: `1.2.0MG` | Author: `agd25` | ![Core] ![CAO]|
+Download: | Old Files - At Your Own Pace - College of Winterhold
 
 ![PostInstall]
 ~~~
@@ -107,7 +107,7 @@ Download: | Main Files - At Your Own Pace - Misc
 
 ## Better Courier
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `1.8.2` | Author: `Korodic` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40709) | Version: `2.0.8` | Author: `Korodic` | ![Core] | ![QAC]
 Download: | Main Files - Better Courier
 
 ## BUVARP RE - Barely Used Vanilla Actors Recycle Project Revamped
@@ -292,7 +292,7 @@ Pack the mod with CAO.
 
 ## NPCs Wear Amulets of Mara PLUS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.02` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66125) | Version: `2.03` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - NPCs Wear Amulets of Mara
 
 ![PostInstall]
@@ -378,6 +378,12 @@ Download: | Main Files - No Broken Whiterun Watchtower - ESL
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73903) | Version: `2.7` | Author: `AndrealphusVIII` | ![Core]
 Download: | Main Files - Favor Quests Separated
+| Optional Files - Favor Quests Separated - The Choice Is Yours Patch
+
+## Favor Quests Separated - The Choice Is Yours Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73903) | Version: `2.7` | Author: `AndrealphusVIII` | ![Core]
+Download: | Optional Files - Favor Quests Separated - The Choice Is Yours Patch
 
 ## Quests Are In Skyrim
 
@@ -411,7 +417,7 @@ Download: | Main Files - Thieves Guild Requirements SE
 
 ## Thieves' Night On the Town
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42069) | Version: `1.0.6` | Author: `Megapatato` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42069) | Version: `1.0.8` | Author: `Megapatato` | ![Core] |
 Download: | Main Files - Thieves Night On The Town
 
 ## Timing is Everything
@@ -449,7 +455,7 @@ Pack the mod with CAO.
 
 ## Coins of Interesting Natures (C.O.I.N.)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `2.1.0.2` | Author: `Tate Taylor and VictorF` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51439) | Version: `2.1.1.2` | Author: `Tate Taylor and VictorF` | ![Core] |
 Download: | Main Files - C.O.I.N.
 
 ![FOMOD]
@@ -460,11 +466,6 @@ Patches:
    * Anniversary Edition: Saints and Seducers
 ~~~
 
-![PostInstall]
-~~~
-Delete C.O.I.N. - LOTD Patch.esp. (if updating w/ Adventures installed)
-~~~
-
 ## Extended Encounters
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | Version: `1.6.4` | Author: `Jonx0r` | ![Core] |
@@ -472,7 +473,7 @@ Download: | Main Files - Extended Encounters
 
 ## Headhunter - Bounties Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.41` | Author: `JaySerpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.43` | Author: `JaySerpa` | ![Core] |
 Download: | Main Files - Headhunter - Bounties Redone
 
 ![FOMOD]
@@ -768,7 +769,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-30` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-33` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
@@ -785,8 +786,8 @@ Misc Options:
 
 ## DynDOLOD Resources Large Reference Workaround Scripts and DLL NG
 
-[![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: | Author: `Sheson` | ![Visuals]
-Download: | [Nexus API Link](https://www.nexusmods.com/skyrimspecialedition/mods/57264?tab=files&file_id=354914&nmm=1)
+[![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: `Alpha-121+` | Author: `Sheson` | ![Visuals]
+Download: | [Nexus API Link](https://www.nexusmods.com/skyrimspecialedition/mods/57264?tab=files&file_id=372278&nmm=1)
 
 ## DynDOLOD Modders Resource Fixes
 
@@ -1100,7 +1101,7 @@ Download: | Main Files - A) FYX - 3D Coal in the Shovel
 
 ## FYX - 3D Solitude Sighpost
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68048) | Version: `1.0.5` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - 3D Solitude SighPost - DockRopes
 
 ## FYX - 3D Whiterun Castle Bridge
@@ -1121,7 +1122,7 @@ Download: | Main Files - FYX - RavenRock Docks and Fences Round Posts
 
 ## FYX - Rowboat
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78566) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78566) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Rowboat
 
 ## Shack Roofs Restored
@@ -1330,7 +1331,7 @@ Download: | Main Files - Mrf's solitude Optional files fomod
 ![FOMOD]
 ~~~
 Patch option - Solitude fix:
-   * Solitude fix
+   * Solitude no parallax fix
 Texture option:
    * Mrf's solitude Church windows
    * Mrf Another type of floor
@@ -1338,7 +1339,7 @@ Texture option:
 
 ![PostInstall]
 ~~~
-Delete meshes.
+Delete /meshes.
 Delete Mrf Solitude.esp.
 ~~~
 
@@ -1437,6 +1438,16 @@ Delete Solitude farmhouses rework.esp.
 Download: | Main Files - WiZkiD Parallax Farmhouses
 | Misc Files - WiZkiD Parallax Farmhouses weathered-desaturated wood textures 4K
 
+![FOMOD]
+~~~
+Main:
+   * No Parallax
+Textures resolution:
+   * 4k
+BDS 2.11 Patches:
+   * None
+~~~
+
 ![PostInstall]
 ~~~
 Delete meshes/architecture/farmhouse/interior.
@@ -1447,10 +1458,20 @@ Delete meshes/architecture/farmhouse/interior.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80515) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - A) FYX - Black-Briar and Riftweald Manors
 
+## FYX - Eastern Empire Company Building
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86526) | Version: `1.0.2.1` | Author: `Yuril` | ![Core]
+Download: | Main Files - FYX - (B) Eastern Empire Company Building - SMIM
+
 ## FYX - Jorrvaskr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77355) | Version: `1.0.3` | Author: `Yuril` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77355) | Version: `1.0.4` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - B) FYX - Jorrvaskr - NO Color Edit
+
+## FYX - Rampart and Watchtower of Solitude
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86964) | Version: `1.0.1` | Author: `Yuril` | ![Visuals]
+Download: | Main Files - FYX - (B) The first Rampart and Watchtower of Solitude - Rampart access
 
 ## FYX - The Temple of Mara
 
@@ -1461,6 +1482,22 @@ Download: | Main Files - FYX - The Temple of Mara
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66416) | Version: `1.0.2` | Author: `Yuril` | ![Visuals]
 Download: | Main Files - FYX - Windhelm Stable Roof
+
+## My Walls of Kings are Beautiful
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84318) | Version: `1.0` | Author: `Nymphamie` | ![Visuals]
+Download: | Main Files - 01 My Walls of Kings are Beautiful - English
+
+## Whiterun Fence Walls Mesh Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84726) | Version: `1.2` | Author: `Heim84` | ![Visuals]
+Download: | Main Files - Whiterun Fence Walls Mesh Fix
+
+## Whiterun Wall Rubble Fixed
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86637) | Version: `1` | Author: `carpenihil` | ![Visuals]
+Download: | Main Files - Whiterun Wall Rubble Fixed
+
 
 # 27. Meshes and Textures - Architecture (Objects)
 
@@ -1955,16 +1992,6 @@ Download: | Main Files - Dwemer Automatons Glowmapped 3
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47802) | Version: `2.2` | Author: `Caleb2 ` | ![Visuals] |
 Download: | Main Files - Dwemer Tech Glowmapped 2.2
 
-## Dwemer Pipework Reworked
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Version: `4.0` | Author: `Caleb2` | ![Core] ![Visuals] |
-Download: | Main Files - Dwemer Pipework Reworked 4
-
-## Dwemer Pipework Reworked - ENB Lights
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46507) | Version: `4.0` | Author: `Caleb2` | ![Core] ![Visuals] |
-Download: | Optional Files - Dwemer Pipework Reworked - optional ENB Lights
-
 ## JS Attunement Sphere and Lexicons
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
@@ -2044,11 +2071,6 @@ Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Tech Glo
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - ENB Particle Lights - Dwemer Lanterns
-
-## Ancient Dwemer Metal - Patches - Dwemer Pipework Reworked
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Optional Files - Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 4K
 
 ## Ancient Dwemer Metal - Patches - Gemstones Replacer HD
 
