@@ -138,6 +138,11 @@ Patches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6289) | Version: `1.7` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Skyrim all in one
 
+## Ryn's Farms
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72305) | Version: `1.2` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Farms
+
 ## Settlements Expanded
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.3` | Author: `Urtho` | ![ESM]
@@ -252,65 +257,122 @@ Remove COTN Falkreath - JKs Skyrim Patch.esp.
 
 ## Cities of the North - Winterhold
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40088) | Version: `1.1` | Author: `JPSteel2` | ![ESM]
+Download: | Main Files - Cities of the North - Winterhold
 
 ## Optimized Cities of the North Meshes
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
-
-## The Great City of Winterhold SSE Edition
-
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
-
-## The Great City of Winterhold Patch Collection
-
-[![mod]](temp) | Version: `` | Author: `` | ![BSA] ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85242) | Version: `1.4.1` | Author: `solandmun` | 
+Download: | Main Files - CotN Optimized Meshes
 
 ![FOMOD]
 ~~~
-tgcotn, outlaws, unpack bsa, delete outlaws patch
+Dawnstar:
+   * CotN Dawnstar
+Morthal:
+   * None
+Winterhold:
+   * CotN Winterhold
+CotN Dawnstar - Patches:
+   * Partitioned Interiors
+   * Patch Collection
+   * Simplicity of Snow
+CotN Winterhold - Patches:
+   * Partitioned Interiors
+~~~
+
+## The Great City of Winterhold SSE Edition
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17127) | Version: `4.0.3` | Author: `Archinatic` | ![ESM]
+Download: | Main Files - The Great City of Winterhold 4.0.3
+
+## The Great City of Winterhold Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `1.7.3` | Author: `Czasior` | ![BSA] ![ESM]
+Download: | Main Files - The Great City of Winterhold Patch Collection
+
+![FOMOD]
+~~~
+City Patches:
+   * Cities of the North - Winterhold
+College of Winterhold:
+   * None
+Convenient Carriages:
+   * None
+Creation Club:
+   * None
+Midden Expanded:
+   * None
+Miscellaneous Patches:
+   * SELECT ONLY Outlaws Refuges
+More Tavern Idle Markers:
+   * None
+TGCotN Add-on
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete TGC Winterhold - Outlaws Refuges patch.esp. (ensure BSA is extracted)
 ~~~
 
 ## The Great City of Winterhold - Simple Snow Improvement - BOS
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74699) | Version: `1.5` | Author: `WeldingManDE` | 
+Download: | Main Files - Simple Snow Improvements - The Great City of Winterhold
 
 ## Better Occlusion - COTN Falkreath
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81967) | Version: `0.0.3` | Author: `Wartortle` | 
+Download: | Main Files - Better Occlusion - COTN Falkreath
 
 # C04 - Addons - Project Arch - Markarth and Riften
 
+## ALT - Markarth's Forge
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/88936) | Version: `1.0` | Author: `Yuril`
+Download: | Main Files - ALT - Markarth's Forge
+
 ## Balthazars Books - A Markarth Bookstore Remastered
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53663) | Version: `3.0` | Author: `agentw` 
+Download: | Main Files - Balthazars Books - A Markarth Bookstore Remastered
+| Optional Files - Balthazars Books - High Poly Head
+
+![PostInstall]
+~~~
+Delete MarkarthBookstore - HPH.esp.
+~~~
 
 ## Distinct Opulent Thieves Guild
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63717) | Version: `1.1` | Author: `Czasior` | ![ESM]
+Download: | Main Files - Distinct Opulent Thieves Guild
+
+![FOMOD]
+~~~
+Patches:
+   * None
+Patches - Embers XD:
+   * None
+Patches - Lux:
+   * None
+~~~
 
 ## GG's Thieves Guild Headquarters
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64018) | Version: `1.3` | Author: `GGUNIT` | ![ESM]
+Download: | Main Files - GG's Thieves Guild Headquarters
 
 ## JK's The Ragged Flagon
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50765) | Version: `1.0.0` | Author: `jkrojmal` | ![ESM]
+Download: | Main Files - JK's The Ragged Flagon
 
 ## Markarth Mossy Lite
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84706) | Version: `1.0` | Author: `GGUNIT` | ![ESM]
+Download: | Main Files - Markarth Mossy Lite
 
 ## Markarth Outskirts
 
@@ -337,166 +399,223 @@ Pack the mod with CAO.
 
 ## Riften Docks Overhaul
 
-[![mod]](temp) | Version: `` | Author: `` |  ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.2` | Author: `agentw` |  ![ESM]
+Download: | Main Files - Riften Docks Overhaul
 
 ## RYFTEN - Consistency of windows in Riften
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61536) | Version: `1.2.1` | Author: `Yuril` | ![ESM]
+Download: | Main Files - RYFTEN - Consistency of windows in Riften
 
 ## RYFTEN DOWN - A little addition to the Riften canals
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60670) | Version: `1.1.3` | Author: `Yuril` | ![ESM]
+Download: | Main Files - RYFTEN DOWN - 1B Performence
 
 # C05 - Addons - Project Arch - Solitude and Dragon Bridge
 
 ## Drengin's Blue Palace Terrace
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `1.1` | Author: `Drengin` | ![ESM]
+Download: | Main Files - BluePalaceTerrace SE
 
 ## Rodryk's Dragon Bridge
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42510) | Version: `1.04` | Author: `AlistairRodryk` | ![ESM]
+Download: | Main Files - Rodryk's Dragon Bridge (Non-Parallax)
 
 ## Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52963) | Version: `3.0` | Author: `InstantKor` | 
+Download: | Main Files - Rodryk's Meshes Partitioned and Non-Parallax
+
+## Rodryk's DB Mesh and Collision Optimization
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87384) | Version: `1.3` | Author: `Lanif79`
+Download: | Main Files - Rodryk's DB Mesh Optimization - No Window Iron
+| Optional Files - Rodryk's DB Mesh Optimization - JK's Penitus
 
 ## Rodryk's Dragon Bridge Retexture
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53433) | Version: `1.1` | Author: `AgentW` | 
+Download: | Main Files - Rodryk's Dragon Bridge Retexture 4K
 
 ## Rodryk's Dragon Bridge Retexture - Matching LOD Textures
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69990) | Version: `1.0` | Author: `Blackread` | 
+Download: | Main Files - LOD textures for Rodryk's Dragon Bridge Retexture
 
 ## Solitude Docks Updated
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `2.1` | Author: `Featherstone` | ![CAO]
+Download: | Main Files - Solitude Docks
 
-## Solitude Docks Replacer
-
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 # C06 - Addons - Project Arch - Capital Whiterun and Windhelm
 
 ## Capital Whiterun Expansion
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37982) | Version: `1.3` | Author: `Surjamte` | ![ESM]
+Download: | Main Files - A. Whiterun Expansion 1.5 Normal Version
+| Optional FIles - RS Children Overhaul PATCH
+
+![PostInstall]
+~~~
+Delete RSC-SurWR-Patch.esp.
+~~~
 
 ## Capital Whiterun Expansion - More Accurate Collision
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66063) | Version: `1.0` | Author: `Korodic` | 
+Download: | Main Files - Capital Whiterun Expansion - More Accurate Collision
 
 ## Capital Whiterun Expansion - 3D Whiterun Trellis Patch
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66348) | Version: `1.0` | Author: `Korodic` | 
+Download: | Main Files - Capital Whiterun - 3D Whiterun Trellis Patch - Metal Trellis
 
 ## Capital Windhelm Expansion
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42990) | Version: `1.0` | Author: `Surjamte` | ![ESM]
+Download: | Main Files - Capital Windhelm Expansion - Normal
+| Optional Files - HPNPC patch
+
+![PostInstall]
+~~~
+Delete Capital Windhelm HPNPC & KS Hair Patch JS.esp.
+~~~
 
 ## Capital Windhelm Expansion - 3D Windhelm Fence Patch
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65492) | Version: `1.1` | Author: `twizz0r` | 
+Download: | Main Files - Windhelm Fence 3D-Capital Windhelm Expansion Mesh Patch
 
 ## RS Children - Capital Windhelm Expansion
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80813) | Version: `1.0` | Author: `monkeynangie` | 
+Download: | Main Files - RS Children - Capital Winhelm Expansion Patch
 
 ## Ryn's Whiterun City Limits
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65661) | Version: `2.5` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Whiterun City Limits
 
 ## JK's The Bannered Mare
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33845) | Version: `1.1.0` | Author: `Jkrojmal` | ![ESM]
+Download: | Main Files - JK's The Bannered Mare
 
 ## JK's The Drunken Huntsman
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33783) | Version: `1.0.0` | Author: `Jkrojmal` | ![ESM]
+Download: | Main Files - JK's The Drunken Huntsman
 
 ## JK's Whiterun Outskirts
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78351) | Version: `1.4.0` | Author: `Jkrojmal` | ![ESM] ![Optional]
+Download: | Main Files - JK's Whiterun Outskirts
+
+![PostInstall]
+~~~
+This is the only OPTIONAL mod in Project Arch.  If you do not have a high end machine,
+you can leave this mod disabled, and do not enable the corresponding Whiterun outskirts
+conflict resolution patch installed later.
+Technical notes: Drawcall count may exceed 15k. Current-gen CPU recommended to use this.
+~~~
+
+## JK's Windhelm Outskirts
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86975) | Version: `1.1.0` | Author: `Jkrojmal` | ![ESM]
+Download: | Main Files - JK's Windhelm Outskirts
+
+## JK's Windhelm Outskirts Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87964) | Version: `1.1` | Author: `Czasior` | 
+Download: | Main Files - JK's Windhelm Outskirts Patch Collection
+
+![FOMOD]
+~~~
+Patches:
+   * Northern Roads (select only)
+Consistency Patches - Northern Roads:
+   * None
+Consistency Patches - Ryn's Farms + BUVARP:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
 
 # C07 - Addons - Project Arch - Dawnguard and Dragonborn
 
 ## Better Tel Mithryn
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/643) | Version: `1.0` | Author: `YsCordelan` | ![ESM]
+Download: | Main Files - Better Tel Mithryn
 
 ## ClefJ's Fort Dawnguard
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33044) | Version: `1.5` | Author: `ClefJ` | ![ESM]
+Download: | Main Files - ClefJ's Fort Dawnguard
 
 ## Quaint Raven Rock
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20851) | Version: `1.7.1` | Author: `Undriel` | ![ESM]
+Download: | Main Files - Quaint Raven Rock
 
 # C08 - Addons - Project Arch - Towns and Villages
 
 ## Anga's Mill - Cities of the North Addon
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64398) | Version: `1.0.4` | Author: `TateTaylorOH` | ![ESM]
+Download: | Main Files - Anga's Mill - Cities of the North Addon
 
 ## BUVARP - Chillridge Farm - Cities of the North Addon
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64454) | Version: `1.0` | Author: `MissileMann` | ![ESM]
+Download: | Main Files - BUVARP - Chillridge COTN Addon
 
 ## Cultured Orc Furniture
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65073) | Version: `1.3` | Author: `MaarMalur` | 
+Download: | Main Files - Cultured Orc Furniture
 
 ## Denizens of Morthal
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33965) | Version: `1.2` | Author: `Lollia` | ![ESM]
+Download: | Main Files - Denizens of Morthal
+| Optional Files - Denizens of Morthal RS Children Patch
+
+![PostInstall]
+~~~
+Delete Denizens of Morthal - RS Children Patch.esp.
+~~~
 
 ## Environs - Kolskeggr
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `1.03` | Author: `Siberpunk` | 
+Download: | Main Files - Environs - Kolskeggr
 
 ## Half-Moon Mill - Cities of the North Addon
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64360) | Version: `1.4` | Author: `Missilemann` | ![ESM]
+Download: | Main Files - Half-Moon Mill - COTN Addon
 
 ## Old Hroldan Ruins SE
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10134) | Version: `3.6` | Author: `sa547` | ![ESM]
+Download: | Main Files - Old Hroldan Ruins -- SE Enhanced
 
 ## Sky Haven Temple - Gardens
 
-[![mod]](temp) | Version: `` | Author: `` | ![ESM]
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8537) | Version: `1.0` | Author: `Albro` | ![ESM]
+Download: | Main Files - Sky Haven Temple - Gardens
 
 # C10 - Addons - Project Arch - JK Interiors - Cities
 
@@ -839,7 +958,7 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
-Placeholder.esp |
+RodryksDragonBridge.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -859,10 +978,10 @@ GG's Thieves Guild Headquarters.esp | Apply ESMifier script
 Half-Moon Mill - COTNed.esp | Apply ESMifier script
 JK's The Bannered Mare.esp | Apply ESMifier script
 JK's The Ragged Flagon.esp | Apply ESMifier script
-JK's Skyrim.esp | Apply ESMifier script
 JK's Whiterun Outskirts.esp | Apply ESMifier script
+JK's Windhelm Outskirts.esp | Apply ESMifier script
+JKs Skyrim.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
-MarkarthBookstoreSE.esp | Apply ESMifier script
 Markarth Mossy AF.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
 OpulentThievesGuild.esp | Apply ESMifier script
@@ -870,14 +989,14 @@ Riften Docks Overhaul.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
 RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script
 RYFTEN DOWN.esp | Apply ESMifier script
+RynsFarms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
 Tel Mithryn.esp | Apply ESMifier script
-The Great City of Winterhold v4.esp | Apply ESMifier script
 TGCotN Winterhold.esp | Apply ESMifier script
+The Great City of Winterhold v4.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
-WindhelmEntranceOverhaul.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
 
 
