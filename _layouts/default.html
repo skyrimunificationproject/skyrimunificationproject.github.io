@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/jquery.navgoco.js"></script>
 	<style>
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Overpass+Mono&family=Roboto+Mono&display=swap');
 </style>
@@ -29,11 +32,7 @@
 		<div>
 		<ul>
 		<li><a href="./index.html" target="_self">Introduction</a></li>
-		<li><a href="./core.html" target="_self">Core Pg 1</a></li>
-		<li><a href="./core2.html" target="_self">Core Pg 2</a></li>
-		<li><a href="./core3.html" target="_self">Core Pg 3</a></li>
-		<li><a href="./core4.html" target="_self">Core Pg 4</a></li>
-		<li><a href="./core5.html" target="_self">Core Pg 5</a></li>
+		<li><a href="./core.html" target="_self">Core</a></li>
 		<li><a href="./adventures.html" target="_self">Adventures</a></li>
 		<li><a href="./arch.html" target="_self">Project Arch</a></li>
 		<li><a href="./addons.html" target="_self">Addons</a></li>
@@ -45,7 +44,7 @@
 
     <div id="wrapper">
 	<nav>
-        <ul id="sidelist"></ul>
+		{% include sidebar.html %}
       </nav>
       <section>
         {{ content }}

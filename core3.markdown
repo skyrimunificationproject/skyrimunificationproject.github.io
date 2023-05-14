@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Skyrim Unification Project"
+category: "Core"
 ---
 
 
@@ -154,10 +155,10 @@ Delete Skyrim Remastered - Glaciers and Ice.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41432) | Version: `1.00` | Author: `gravos8890` | ![Core] ![Visuals] |
 Download: | Optional Files - Skyrim Remastered - Glaciers and Ice LODs for DynDOLOD
 
-## Skyrim Remastered - Glaciers and Ice - 4K Textures
+## Skyrim Remastered - Glaciers and Ice - IMR Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71452) | Version: `1.10` | Author: `RokHel` | ![Visuals]
-Download: | Main Files - Skyrim Remastered - Glacier and Ice 4K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71452) | Version: `2.01` | Author: `RokHel` | ![Visuals]
+Download: | Main Files - Skyrim Remastered - Unreal Ice
 
 ## Slightly Better Rock Cairns
 
@@ -181,7 +182,7 @@ Download: | Main Files - Shaders of Solstheim - Ash and Moss
 
 ## Simplicity of Snow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.10` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56235) | Version: `0.11` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Simplicity of Snow
 
 ![FOMOD]
@@ -294,7 +295,7 @@ Download: | Main Files - Happy Little Trees 3D LOD - Performance
 
 ## Happy Little Logs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76142) | Version: `1.4` | AUthor: `Pieter82` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76142) | Version: `1.6` | AUthor: `Pieter82` | ![Visuals]
 Download: | Main Files - Happy Little Logs V1_4 SE
 
 ## Aspens Ablaze
@@ -336,7 +337,7 @@ Download: | Main Files - A Canticle Tree
 
 ## Fancy Sleeping Tree Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.5` | Author: `Jeannetta182` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64255) | Version: `1.6` | Author: `Jeannetta182` | ![Core] ![Visuals]
 Download: | Main Files - Fancy Sleeping Tree Replacer
 
 ![FOMOD]
@@ -771,7 +772,7 @@ Download: | Main Files - Skyrim 3D Cooking
 
 ## Sowables of Skyrim - Leeks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80907) | Version: `1.01` | Author: `wSkeever - kirara386` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80907) | Version: `1.02` | Author: `wSkeever - kirara386` | ![Visuals]
 Download: | Main Files - 2k Leek Texture
 | Main Files - Leek Meshes
 
@@ -851,7 +852,7 @@ BURP:
 
 ## BURP Spell Tomes Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `1.8` | Author: `MidnightVoyager` | ![Core] ![Visuals] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65696) | Version: `2.0` | Author: `MidnightVoyager` | ![Core] ![Visuals] 
 Download: | Main Files - BURPST New Resources
 
 ![PostInstall]
@@ -1334,7 +1335,7 @@ Fate cards drawer:
 
 ## Snazzy Furniture and Clutter Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `2.1.2` | Author: `Gutmaw` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2414) | Version: `2.2` | Author: `Gutmaw` | ![Core] ![Visuals]|
 Download: | Main Files - Snazzy Furniture and Clutter Overhaul SE
 
 ![FOMOD]
@@ -1494,7 +1495,7 @@ Download: | Main Files - Rally's Weapon Racks 4K-2K
 
 ## Weathered Furniture - Bars and Counters
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84306) | Version: `0.2` | Author: `BasPeeters1` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84306) | Version: `1.0` | Author: `BasPeeters1` | ![Visuals]
 Download: | Main Files - Weathered Bars and Counters - 3 - Metal Strip and Footrest - 4K
 
 ## Weathered Furniture - Common and Upper Class
@@ -1638,6 +1639,7 @@ Plugin Option:
 ![PostInstall]
 ~~~
 Delete textures/effects/gradients/*.dds except for gradbluebright2.dds.
+Delete textures/impactdecals/*.
 ~~~
 
 ## Inferno - Fire Effects Redux
@@ -1681,7 +1683,7 @@ Delete textures/effects/gradients.
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.2` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `2.7.3` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -1711,7 +1713,7 @@ Compatibility Patches:
 
 ## Animated Forge Water 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52322) | Version: `0.6` | Author: `wSkeever` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52322) | Version: `0.7.2` | Author: `wSkeever` | ![Core] ![Visuals]|
 Download: | Main Files - Animated Forge Water
 
 ![FOMOD]
@@ -1722,8 +1724,8 @@ Option:
 
 ## Better Bellows - High Poly Blacksmith Bellows
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82648) | Version: `1.2` | Author: `Pieter82` | ![Core] ![Visuals]
-Download: | Main Files - Better Bellows ElSopa Anvil and EmbersXD SE V1_2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82648) | Version: `1.3` | Author: `Pieter82` | ![Core] ![Visuals]
+Download: | Main Files - Better Bellows ElSopa Anvil and EmbersXD SE V1_3
 
 # 39. Meshes and Textures - Clothing, Jewelry, and Accessories
 
@@ -2616,7 +2618,7 @@ Delete *.esp EXCEPT FOR: Lux Orbis - Master Plugin.esm, Lux Orbis.esp.
 
 ## Lux Via
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.6` | Author: `GGUNIT` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63588) | Version: `1.7` | Author: `GGUNIT` | ![Core] ![Visuals]
 Download: | Main Files - Lux Via
 
 ![FOMOD]

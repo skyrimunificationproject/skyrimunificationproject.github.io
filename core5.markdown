@@ -73,7 +73,7 @@ Patches:
 
 ## Immersive Rejections
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67930) | Version: `1.0` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67930) | Version: `1.1` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Immersive Rejections
 
 ![PostInstall]
@@ -88,7 +88,7 @@ Download: | Main Files - Immersive Rejections For Interesting NPCs
 
 ## Misc Dialogue Edits
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8.5` | Author: `GOsteW and lilebonymace` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28904) | Version: `1.8.6` | Author: `GOsteW and lilebonymace` | ![Core] |
 Download: | Main Files - Misc Dialogue Edits
 
 ![FOMOD]
@@ -351,14 +351,15 @@ SPID:
 
 ## Dragon War - A Dragon Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.9` | Author: `Delta` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `3.0.2` | Author: `Delta` | ![Core] |
 Download: | Main Files - Dragon War - A Dragon Overhaul
 
-## Dragon War - A Dragon Overhaul - Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1` | Author: `Delta` | ![Core] |
-Download: | Misc Files - Dragon War - Audio Overhaul for Skyrim Patch
-| Misc Files - Dragon War - Deadly Spell Impacts Patch
+![FOMOD]
+~~~
+Patches:
+   * Audio Overhaul for Skyrim
+   * Deadly Spell Impacts
+~~~
 
 ## Forceful Tongue - Shouts Overhaul 
 
@@ -399,7 +400,7 @@ Download: | Main Files - Blade and Blunt - A Combat Overhaul
 
 ## TK Dodge RE - Only Dodge
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56956) | Version: `0.61` | Author: `maxsu2017` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56956) | Version: `0.62fix` | Author: `maxsu2017` | ![Core]
 Download: | Main Files - TK Dodge RE- Only Dodge version
 
 ![FOMOD]
@@ -848,7 +849,7 @@ Download: | Main Files - No Crime Teleport - Voice Consistency Fix
 
 ## Ordinator Perks of Skyrim - Optimized Scripts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.1.0` | Author: `Borgut1337` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77433) | Version: `1.2.0` | Author: `Borgut1337` | ![Core]
 Download: | Main Files - Optimized Scripts for Ordinator
 | Optional Files - Optimised Scripts for Apocalypse-Ordinator Patch
 
@@ -972,7 +973,23 @@ Custom Skills Framework:
 
 # 69. Late Loaders - Meshes and Textures
 
+## 3D Manhole
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87154) | Version: `1.3` | Author: `Lokbrom` | ![Core]
+Download: | Main Files - 3D Manhole Fomod
+
+![FOMOD]
+~~~
+Installation options:
+   * 3D Manhole + Skyrim Sewers Patch
+Install alternative texture:
+   * More rusty texture for Skyrim Sewers options
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
 
 ## Animated Coffins
 
@@ -997,7 +1014,7 @@ Download: | Main Files - Bright Falling Leaves Fix
 
 ## Cathedral 3D Mountain Flowers - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.17` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60756) | Version: `0.1.20` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Cathedral 3D Mountain Flowers - Base Object Swapper
 
 ## Daedra-tastic Rune Spells
@@ -1061,8 +1078,8 @@ Download: | Optional Files - High Hrothgar Fixed - Lux Orbis Patch
 
 ## Illustrious Whiterun - Wood Addition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]
-Download: | Optional Files - Illustrious Whiterun - Wood Addition 2K
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `2.0` | Author: `winedave` | ![Core] ![Visuals]
+Download: | Optional Files - Illustrious Whiterun 4-2K Wood Addition
 
 ## Large Portcullis Collision Mesh Fix
 
@@ -1082,7 +1099,7 @@ Download: | Main Files - Markarth - A Reflective Experience
 
 ## Mesh Patches - Lux and Lux Orbis
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67266) | Version: `1.5.1` | Author: `Blackread` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67266) | Version: `1.5.2` | Author: `Blackread` | ![Visuals]
 Download: | Main Files - Mesh patches for Lux and Lux Orbis
 
 ![FOMOD]
@@ -1091,11 +1108,10 @@ Main:
    * Lux
    * Lux Orbis
 Lux - Glacier Meshes:
-   * None
+   * Icy Mesh Remaster - High Poly
 Lux - General:
    * Skyrim Remastered - Caves
 Lux Orbis:
-   * Riften Temple Sconce Fix
    * Skyrim Objects SMIMed - Warmaiden's Holes
    * Whiterun Objects SMIMed
 ~~~
@@ -1319,7 +1335,7 @@ Download: | Main Files - dpillari sleeping tree 2k Enb light
 
 ## Icy Mesh Remaster
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `2.02` | Author: `RokHel` | ![Visuals] ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `2.13` | Author: `RokHel` | ![Visuals] ![ESL-C] 
 Download: | Main Files - Icy Mesh Remaster
 
 ![FOMOD]
@@ -1327,13 +1343,11 @@ Download: | Main Files - Icy Mesh Remaster
 Mesh Quality:
    * High Poly Consistency
 LOD:
-   * High Poly
+   * IMR Extended LOD IcyFixesFull
 Caves:
-   * None
+   * Cave meshes
 Optionals:
    * No 2D texture on objects
-Optional Partitioned Meshes:
-   * High Poly Consistency (or none if you have performance issues)
 Optional Partitioned Snow: 
    * None
 IcyFixesFull:
@@ -1341,14 +1355,19 @@ IcyFixesFull:
 IcyFixesLite:
    * None
 IcyFixes Required Meshes:
-   * Partitioned High Poly Backlight (or High Poly Backlight)
-Patches Tamriel:
-   * Just Ice: None
-   * RIS - Real Ice and Snow: None
-Patches Forgotten Valley:
-   * Just Ice: None
-   * RIS - Real Ice and Snow: None
+   * High Poly Backlight
 LOD Patches:
+   * Skyrim Remastered Unreal Ice
+~~~
+
+## Icy Mesh Remaster - ENB Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73381) | Version: `2.10` | Author: `RokHel` | ![Visuals] ![ESL-C]
+Download: | Main Files - Icy Mesh Remaster - ENB Addon
+
+![FOMOD]
+~~~
+ENB Addon:
    * Skyrim Remastered
 ~~~
 
@@ -1449,22 +1468,22 @@ Patches:
 
 ## Bits and Pieces Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81467) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81467) | Version: `2.0` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - Bits and Pieces rework
 
 ## Bryling's House Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82330) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82330) | Version: `2.0` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - Bryling's House Rework
 
 ## Erikur's House Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `1.0` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `2.0` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - Erikur's House Rework
 
 ## The Winking Skeever Rework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81617) | Version: `1.0.1` | Author: `Drengin` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81617) | Version: `2.0` | Author: `Drengin` | ![Visuals]
 Download: | Main Files - The Winking Skeever Rework
 
 ## Better Pelts and Hides
@@ -1570,7 +1589,7 @@ Download: | Main Files - Elytra and Bliss Bug ENB Light - Scrambled Bugs Version
 
 ## ENB Lights - Hanaisse's Ingredients Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63530) | Version: `2.01` | Author: `Hanaisse - mathy79 - Skurkbro` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63530) | Version: `3.0` | Author: `Hanaisse - mathy79 - Skurkbro` | ![Core] ![Visuals]
 Download: | Main Files - Hanaisse's Bowl and ENB Light Ingredients Patch
 
 ![FOMOD]
@@ -1581,7 +1600,7 @@ ELIF Patch:
    * Eerie Ectoplasm
    * Dusty Vampire Dust
    * Surreal Spriggan Sap
-   * Glimmering Glow Dust
+   * Glimmering Glow Dust (Blue)
 ~~~
 
 ## ENB Lights - High Poly Dragonborn Ingredients
@@ -1591,13 +1610,14 @@ Download: | Main Files - High Poly Dragonborn Ingredients - ENB Lights
 
 ## ENB Lights - Kabu's Fire Salts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.3` | Author: `Kabu` | ![Core] ![Visuals]
-Download: | Main Files - Kabu's Fire Salts 2k
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79455) | Version: `1.4` | Author: `Kabu` | ![Core] ![Visuals]
+Download: | Main Files - Kabu's Fire Salts 2k - Embellished - Orange Glow
 
 ## ENB Lights - Kabu's Void Salts
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85513) | Version: `1.0` | Author: `Kabu` | ![Core] ![Visuals]
 Download: | Main Files - Kabu's Void Salts - Fancy Version - 2k1k
+| Optional Files - Kabu's Void Salts - CACO Patch
 
 ## ENB Lights - Misc Effects
 
@@ -1898,7 +1918,7 @@ Download: | Main Files - Cathedral Weathers MCM - Settings Loader
 
 ## Complete Alchemy and Cooking Overhaul - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58878) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58878) | Version: `2.0` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Complete Alchemy and Cooking Overhaul - Settings Loader
 
 ## Complete Crafting Overhaul Remastered - Settings Loader
@@ -1949,12 +1969,12 @@ Download: | Main Files - Storm Lightning for SSE and VR - Settings Loader
 
 ## Thieves Guild Requirements - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58233) | Version: `2.1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58233) | Version: `3.0.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Thieves Guild Requirements SE - Settings Loader
 
 ## Timing is Everything - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57754) | Version: `1.0` | Author: 'MaskedRPGFan' | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57754) | Version: `1.0.1` | Author: 'MaskedRPGFan' | ![Core] |
 Download: | Main Files - Timing is Everything SE - Settings Loader
 
 ## Trade and Barter - Settings Loader

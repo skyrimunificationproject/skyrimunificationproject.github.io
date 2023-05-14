@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Skyrim Unification Project"
+category: "Final"
 ---
 
 
@@ -96,6 +97,7 @@ RealRainSE.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
+s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
@@ -151,7 +153,7 @@ Run Synthesis (download the required dependencies if you do not have them alread
 
 
 Select 'Git Repository' from the top left toolbar (middle button).
-Scroll down to `ExperienceMutagenPatcher` and click the + button.
+Scroll down to `Experience Patcher` and click the + button.
 The patcher will be added to the list, will say 'Compiling' on the right side which should turn to 'Ready'.
 
 If the patcher shows a red dot for an error, make sure a Project is selected, and it is set to last successful run.

@@ -1,9 +1,8 @@
 ---
 layout: default
 title: "Skyrim Unification Project"
+category: "Core"
 ---
-
-
 
 # 17. Content - Guilds and Factions
 
@@ -77,8 +76,8 @@ Download: | Main Files - Alternate Start - Live Another Life
 
 ## Alternate Start - Live Another Life - Voiced
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66541) | Version: `1.6.2` | Author: `CinnaMewRoll` | ![Core]
-Download: | Main Files - Alternate Start Voice Clips
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66541) | Version: `2.3` | Author: `CinnaMewRoll` | ![Core]
+Download: | Main Files - ASLAL Voice Pack
 
 ## Another Redbelly Mine Mod
 
@@ -122,7 +121,7 @@ Pack the mod with CAO.
 
 ## Caught Red Handed - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Version: `1.02` | Author: `JaySerpa` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Version: `1.04` | Author: `JaySerpa` | ![Core]
 Download: | Main Files - Caught Red Handed - Quest Expansion
 
 ## Choose Your Own Arch-Mage
@@ -302,7 +301,7 @@ Pack the mod with CAO.
 
 ## Paarthurnax - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.11` | Author: `JaySerpa` | ![Core] ![CAO]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | Version: `1.12` | Author: `JaySerpa` | ![Core] ![CAO]|
 Download: | Main Files - Paarthurnax Quest Expansion
 
 ![PostInstall]
@@ -769,7 +768,7 @@ Download: | Main Files - Royal Armory - Reforged - Main Replacer 1.2
 
 ## DynDOLOD Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-33` | Author: `Sheson` | ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52897) | Version: `Alpha-36` | Author: `Sheson` | ![Visuals] |
 Download: | Main Files - DynDOLOD Resources SE 3.00
 
 ![FOMOD]
@@ -786,8 +785,8 @@ Misc Options:
 
 ## DynDOLOD Resources Large Reference Workaround Scripts and DLL NG
 
-[![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: `Alpha-121+` | Author: `Sheson` | ![Visuals]
-Download: | [Nexus API Link](https://www.nexusmods.com/skyrimspecialedition/mods/57264?tab=files&file_id=372278&nmm=1)
+[![mod]](https://dyndolod.info/Help/Large-Reference-Bugs-Workarounds) | Version: `Alpha-123+` | Author: `Sheson` | ![Visuals]
+Download: | [Nexus API Link](https://www.nexusmods.com/skyrimspecialedition/mods/57264?tab=files&file_id=382388&nmm=1)
 
 ## DynDOLOD Modders Resource Fixes
 
@@ -837,7 +836,7 @@ Download: | Optional Files - .SMIM 4K AiO BSAs
 
 ## Static Mesh Improvement Mod - SMIM - Improvement Mod
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.6.0` | Author: `Novelyst` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55543) | Version: `1.7.1` | Author: `Novelyst` | ![Core] |
 Download: | Main Files - Static Mesh Improvement Mod Improvement Mod
 
 ![FOMOD]
@@ -895,7 +894,7 @@ Download: | Main Files - 3D Trellis Improved - Gildergreen Plaza
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.78` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.79` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Wooden Spikes Retexture
@@ -915,12 +914,12 @@ Download: | Optional Files - Whiterun DragonsReach Door Mesh Fix - Trellis Patch
 
 ## Higher Poly Whiterun City Wall Spikes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81977) | Version: `1.1` | Author: `Pieter82` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81977) | Version: `1.2` | Author: `Pieter82` | ![Visuals]
 Download: | Higher Poly Whiterun City Wall Spikes SE V1_1
 
 ## Higher Poly Whiterun Guard Tower Spikes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81970) | Version: `1.1` | Author: `Pieter82` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81970) | Version: `1.3` | Author: `Pieter82` | ![Visuals]
 Download: | Higher Poly Whiterun Guard Tower Spikes SE V1_1
 
 ## Ruins Clutter Improved
@@ -1161,13 +1160,12 @@ Download: | Main Files - Ancient AF Windhelm 4K
 
 ## Illustrious Whiterun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `2.0` | Author: `winedave` | ![Core] ![Visuals]
 Download: | Main Files - Illustrious Whiterun 4K
-| Update Files - Illustrious Whiterun 4K Update
 
 ## Illustrious Whiterun - Alt Stonefloor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `1.4` | Author: `winedave` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28950) | Version: `2.0` | Author: `winedave` | ![Core] ![Visuals]
 Download: | Optional Files - Illustrious Whiterun - Alt Stonefloor 4K
 
 ## Praedy's Chantry of Auriel AIO
@@ -1601,11 +1599,6 @@ Delete textures/architecture/winterhold/.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57002) | Version: `1.6` | Author: `Skyking` | ![Visuals]
 Download: | Main Files - Skyland Imperial and Nordic Tents 4K
-
-## Skyrim Sewers - Manhole Improvements
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81940) | Version: `1.0` | Author: `Modifiednmof` | ![Visuals]
-Download: | Main Files - Meshes Improvements around the manhole inside sewers
 
 ## Small Nordic Tent Replacer
 
@@ -2154,11 +2147,6 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - Security Overha
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - Security Overhaul SKSE - Regional Locks
 |   --Note: During install select 4K in BAIN installer
-
-## Ancient Dwemer Metal - Patches - Skyrim Sewers
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `FINAL` | Author: `Xtudo` | ![Core] ![Visuals] |
-Download: | Optional Files - Ancient Dwemer Metal - My patches - Skyrim Sewers SE
 
 
 ## Ancient Dwemer Metal - Spider Gem Restored

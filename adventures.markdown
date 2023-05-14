@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Skyrim Unification Project"
+category: "Adventures"
 ---
 
 Install these categories between "Utilities" and "Conflict Resolution".
@@ -51,12 +52,24 @@ Delete *.esp.
 
 ## Dragon War - A Dragon Overhaul - Patches [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `2.1.8` | Author: `Delta` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `3.0` | Author: `Delta` | ![Core]
 Download: | Misc Files - Dragon War - Wyrmstooth Patch
+
+![FOMOD]
+~~~
+Patches:
+   * Wyrmstooth
+   * LOTD
+~~~
+
+![PostInstall]
+~~~
+Delete all except: DragonWar - Wyrmstooth Patch.esp, DragonWarLotD.esp
+~~~
 
 ## Erikur's House Rework [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `1.0` | Author: `Drengin` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `2.0` | Author: `Drengin` | ![Core]
 Download: | Optional Files - Erikur's House rework for LotD
 
 ## Farmhouse Chimneys [Addons - Adventures]
@@ -417,9 +430,9 @@ Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.59` | Author: `Titansbane and PrivateEye` | ![ESM]
 Download: | Main Files - The Tools of Kagrenac V1.59 SSE
 
-## There Is No Umbra - Chapter II
+## There Is No Umbra - Chapter III
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47302) | Version: `1.32` | Author: `FableForge` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.08` | Author: `FableForge` | ![CAO] ![ESM]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -427,7 +440,7 @@ Download: | Main Files - FloatingSwordFollower.zip
 Patches for Book Covers:
    * None
 Other Patches:
-   * None
+   * IED
 Replacer:
    * ENB Light
 ~~~
@@ -623,7 +636,15 @@ Download: | Volkihar Knight SE 1.0.0
 
 # B05. Addons - Adventures - NPC Retextures
 
+## Modpocalypse NPCs - Resources
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
+Download: | Main Files - Modpocalypse NPCs - Resources
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Modpocalypse NPCs - Falskaar
 
@@ -639,16 +660,6 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56796) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) Helgen Reborn
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Modpocalypse NPCs - Legacy of the Dragonborn
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56635) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Legacy of the Dragonborn
 
 ![PostInstall]
 ~~~
@@ -695,14 +706,16 @@ Download: | Main Files - Modpocalypse NPCs (v2) The Gray Cowl of Nocturnal
 Pack the mod with CAO.
 ~~~
 
-## Modpocalypse NPCs - Wyrmstooth
+## NVICO Modular High-Poly NPC Overhaul - Patches [Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57897) | Version: `1.01` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Wyrmstooth
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48821) | Version: `2.01` | Author: `barret12` | ![Core] ![Visuals]
+Download: | Optional Files - NVICO - Visual Compatibility Patches
 
-![PostInstall]
+![FOMOD]
 ~~~
-Pack the mod with CAO.
+Visual Patches:
+   * Legacy of the Dragonborn
+   * Wyrmstooth
 ~~~
 
 ## Legacy of the Dragonborn Visual Overhaul
@@ -818,7 +831,7 @@ Download: | Main Files - LOTD Mementos
 
 ## Legacy of the Dragonborn - Museum Exterior Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.6` | Author: `wSkeever` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.7` | Author: `wSkeever` | ![CAO]
 Download: | Main Files - Legacy of The Dragonborn - Museum Exterior Fixes
 
 ![FOMOD]

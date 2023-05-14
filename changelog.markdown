@@ -3,6 +3,127 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-05-13
+
+![Added]
+~~~
+Core - SKSE - Sound Fix for Large Sector Drives
+Core - Late Loaders - Meshes - 3D Manhole
+Core - Late Loaders - Meshes - Icy Mesh Remaster - ENB Addon
+Addons - Survival - Go To Bed - Patches
+Arch - Solitude and Dragon Bridge - Blue Palace Frescoes Simplified
+Arch - Towns and Cities - Environs - Master Plugin
+~~~
+
+![Removed]
+~~~
+Core - Skyrim Sewers - Manhole Improvements
+Core - Ancient Dwemer Metal - Patches - Skyrim Sewers
+Core - Modpocalypse NPCs - All Vanilla NPCs
+Core - Modpocalypse NPCs - Alternate Start Live Another Life
+Core - Modpocalypse NPCs - Carriage and Ferry Travel Overhaul
+Core - Modpocalypse NPCs - Citizens of Tamriel
+Core - Modpocalypse NPCs - Heritage Enemies 2
+Core - Modpocalypse NPCs - Immersive College NPCs
+Core - Modpocalypse NPCs - 3DNPC
+Core - Modpocalypse NPCs - Obscure's College of Winterhold
+Core - Followers Hirelings and Housecarls
+Core - Fresh Faces
+Core - Metalsabers Beautiful Orcs of Skyrim
+Core - The Men of Winter
+Core - Improved Bards
+Core - The Ordinary Women
+Core - Dragon War - Patches
+Adventures - Modpocalypse NPCs - Legacy of the Dragonborn
+Adventures - Modpocalypse NPCs - Wyrmstooth
+~~~
+
+![Updated]
+~~~
+Prerequisites - Synthesis updated to 0.25.4
+Prerequisites - DynDOLOD updated to Alpha-126
+Core - ENB Light Inventory Fix changed to 1.2.0 "legacy".
+Core - Formlist Manipulator updated to 1.6.0.
+Core - Keyword Item Distributor updated to 3.0.2.
+Core - PAPER updated to 2.2.3.
+Core - Spell Perk Item Distributor updated to 6.6.1.
+Core - NPCs Use Potions updated to 3.1.3.
+Core - Sprint Sneak Movement Speed Fix updated to 1.1.1.
+Core - Stones of Solitude Majestic Mountain Rocks updated to 1.1.1.
+Core - Navigator - Navmesh Fixes updated to 1.4.5.
+Core - Skyrim Landscape and Water Fixes updated to 7.7.
+Core - Interesting NPCs Script Optimization updated to 1.3.1.
+Core - Immersive Display Overhaul updated to 1.3.
+Core - COMAP changed to API link. (new version 1.6 only)
+Core - Audio Overhaul for Skyrim updated to 4.1.3.
+Core - Acoustic Space Improvement Fixes updated to 1.2.1.
+Core - Barefoot Footsteps Extended updated to 1.2.
+Core - Dark Anchors Ruins and Dolmens updated to 5.1.
+Core - Northern Roads Patch Collection updated to 1.18.
+Core - Oblivion Gates updated to 5.0. (replacer removed)
+Core - Alternate Start - Live Another Life - Voiced updated to 2.3.
+Core - Caught Red Handed - Quest Expansion updated to 1.04.
+Core - Paarthurnax - Quest Expansion updated to 1.12.
+Core - DynDOLOD Resources updated to Alpha-36.
+Core - DynDOLOD Resources Large Reference Scripts updated to Alpha 123.
+Core - Static Mesh Improvement Mod Improvement Mod updated to 1.7.1.
+Core - Assorted Mesh Fixes updated to 0.79.
+Core - Higher Poly Whiterun City Wall Spikes updated to 1.2.
+Core - Higher Poly Whiterun Guard Tower Spikes updated to 1.3.
+Core - Illustrious Whiterun updated to 2.0.
+Core - Illustrious Whiterun - Alt Stonefloor updated to 2.0.
+Core - Skyrim Remastered - Glaciers and Ice - IMR Edition updated to 2.01.
+Core - Simplicity of Snow updated to 0.11.
+Core - Happy Little Logs updated to 1.6.
+Core - Fancy Sleeping Tree Replacer updated to 1.6.
+Core - Sowables of Skyrim - Leeks updated to 1.02.
+Core - BURP Spell Times Patches updated to 2.0.
+Core - Snazzy Furniture and Clutter Overhaul updated to 2.2.
+Core - Weathered Furniture - Bars and Counters updated to 1.0.
+Core - Arctic - Frost Effects Redux - updated delete instructions (impactdecals)
+Core - Embers XD updated to 2.7.3.
+Core - Animated Forge Water updated to 0.7.2.
+Core - Better Bellows updated to 1.3.
+Core - Lux Via updated to 1.7.
+Core - Interesting NPCs - Update - updated to 4.54.
+Core - Modpocalypse NPCs - Resources - Moved to Adventures - NPC Retextures
+Core - Leviathan Animations - DAR - Two-Handed Normal Attacks updated to 1.2.
+Core - Drunk Animations - DAR updated to 1.5.2.
+Core - Immersive Folded Hands - DAR updated to 1.4.0.
+Core - NPC Animation Remix - DAR updated to 1.4.0.
+Core - Immersive Rejections updated to 1.1.
+Core - Misc Dialogue Edits updated to 1.8.6.
+Core - Dragon War updated to 3.0.2.
+Core - TK Dodge updated to 0.62fix.
+Core - Ordinator Optimized Scripts updated to 1.2.0.
+Core - Cathedral 3D Mountain Flowers BOS updated to 0.1.20
+Core - Illustrious Whiterun - Wood Addition updated to 2.0.
+Core - Mesh Patches - Lux and Lux Orbis updated to 1.5.2.
+Core - Icy Mesh Remaster updated to 2.13.
+Core - Bits and Pieces Rework updated to 2.0.
+Core - Bryling's House Rework updated to 2.0.
+Core - Erikur's House Rework updated to 2.0.
+Core - The Winking Skeever Rework updated to 2.0.
+Core - ENB Lights - Hanaisse's Ingredients Patch updated to 3.0.
+Core - ENB Lights - Kabu's Fire Salts updated to 1.4.
+Core - ENB Lights - Kabu's Void Salts - added download (CACO patch)
+Core - Complete Alchemy and Cooking Overhaul - Settings Loader updated to 2.0.
+Core - Thieves Guild Requirements - Settings Loader updated to 3.0.1.
+Core - Timing is Everything - Settings Loader updated to 1.0.1.
+Final - Added ESMify instructions for Oblivion Gates.
+Addons - Survival - Favor Jobs Overhaul updated to 2.4.0.
+Addons - Survival - Dirt and Blood updated to 2.0.0.
+Adventures - Dragon War - Patches - updated instructions.
+Adventures - Erikur's House Rework updated to 2.0.
+Adventures - There Is No Umbra changed to Chapter III, version 1.08.
+Adventures - Legacy of the Dragonborn - Museum Exterior Fixes updated to 0.7.
+Arch - Optimized Cities of the North Meshes updated to 1.4.2.
+Arch - ALT - Markarth's Forge updated to 1.0.2.
+Arch - Solitude Docks Updated updated to 3.0. (replacer removed)
+Arch - Environs - Kolskeggr updated to 2.00.
+Arch - Final Steps - Added ESMifier instructions for Blue Palace Frescoes, Distinct Interiors
+~~~
+
 # 2023-03-26
 
 ![Added]

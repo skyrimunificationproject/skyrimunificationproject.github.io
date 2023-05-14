@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Skyrim Unification Project"
+category: "Arch"
 ---
 
 # WIP NOTICE
@@ -11,7 +12,7 @@ Install these categories between "Addons - Adventures" and "Conflict Resolution"
 
 
 
-# C01 - Addons - Project Arch - Install Changes
+# C01. Addons - Project Arch - Install Changes
 
 ## Ashbound - Solstheim Revisited [Addons - Project Arch]
 
@@ -84,7 +85,7 @@ Download: | Optional Files - Capital Windhelm Expansion Patch
 Delete WindhelmFakeWindowsFix.esp.
 ~~~
 
-# C02 - Addons - Project Arch - Core
+# C02. Addons - Project Arch - Core
 
 ## Distinct Interiors
 
@@ -180,7 +181,7 @@ Pack the mod with CAO.
 ~~~
 
 
-# C03 - Addons - Project Arch - Cities of the North
+# C03. Addons - Project Arch - Cities of the North
 
 ## Cities of the North - Dawnstar
 
@@ -262,7 +263,7 @@ Download: | Main Files - Cities of the North - Winterhold
 
 ## Optimized Cities of the North Meshes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85242) | Version: `1.4.1` | Author: `solandmun` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85242) | Version: `1.4.2` | Author: `solandmun` | 
 Download: | Main Files - CotN Optimized Meshes
 
 ![FOMOD]
@@ -326,11 +327,11 @@ Download: | Main Files - Simple Snow Improvements - The Great City of Winterhold
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81967) | Version: `0.0.3` | Author: `Wartortle` | 
 Download: | Main Files - Better Occlusion - COTN Falkreath
 
-# C04 - Addons - Project Arch - Markarth and Riften
+# C04. Addons - Project Arch - Markarth and Riften
 
 ## ALT - Markarth's Forge
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/88936) | Version: `1.0` | Author: `Yuril`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/88936) | Version: `1.0.2` | Author: `Yuril`
 Download: | Main Files - ALT - Markarth's Forge
 
 ## Balthazars Books - A Markarth Bookstore Remastered
@@ -412,12 +413,30 @@ Download: | Main Files - RYFTEN - Consistency of windows in Riften
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60670) | Version: `1.1.3` | Author: `Yuril` | ![ESM]
 Download: | Main Files - RYFTEN DOWN - 1B Performence
 
-# C05 - Addons - Project Arch - Solitude and Dragon Bridge
+# C05. Addons - Project Arch - Solitude and Dragon Bridge
 
 ## Drengin's Blue Palace Terrace
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `1.1` | Author: `Drengin` | ![ESM]
 Download: | Main Files - BluePalaceTerrace SE
+
+## Blue Palace Frescoes Simplified
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70344) | Version: `1.3` | Author: `Czasior` | ![ESM]
+Download: | Main Files - Blue Palace Frescoes Simplified
+
+![FOMOD]
+~~~
+Textures version:
+   * Extravagant Interiors
+Patches:
+   * Extravagant JK's Blue Palace Terrace
+~~~
+
+![PostInstall]
+~~~
+Delete Blue Palace Frescoes - Extravagant JKs Blue Palace Terrace patch.esp.
+~~~
 
 ## Rodryk's Dragon Bridge
 
@@ -447,7 +466,7 @@ Download: | Main Files - LOD textures for Rodryk's Dragon Bridge Retexture
 
 ## Solitude Docks Updated
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `2.1` | Author: `Featherstone` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `3.0` | Author: `Featherstone` | ![CAO]
 Download: | Main Files - Solitude Docks
 
 ![PostInstall]
@@ -455,13 +474,13 @@ Download: | Main Files - Solitude Docks
 Pack the mod with CAO.
 ~~~
 
-# C06 - Addons - Project Arch - Capital Whiterun and Windhelm
+# C06. Addons - Project Arch - Capital Whiterun and Windhelm
 
 ## Capital Whiterun Expansion
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37982) | Version: `1.3` | Author: `Surjamte` | ![ESM]
 Download: | Main Files - A. Whiterun Expansion 1.5 Normal Version
-| Optional FIles - RS Children Overhaul PATCH
+| Optional Files - RS Children Overhaul PATCH
 
 ![PostInstall]
 ~~~
@@ -552,7 +571,7 @@ Consistency Patches - Ryn's Farms + BUVARP:
 Delete *.esp.
 ~~~
 
-# C07 - Addons - Project Arch - Dawnguard and Dragonborn
+# C07. Addons - Project Arch - Dawnguard and Dragonborn
 
 ## Better Tel Mithryn
 
@@ -597,9 +616,14 @@ Download: | Main Files - Denizens of Morthal
 Delete Denizens of Morthal - RS Children Patch.esp.
 ~~~
 
+## Environs - Master Plugin
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91160) | Version: `1.0` | Author: `Siberpunk`
+Download: | Main Files - Environs - Master Plugin
+
 ## Environs - Kolskeggr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `1.03` | Author: `Siberpunk` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `2.00` | Author: `Siberpunk` | 
 Download: | Main Files - Environs - Kolskeggr
 
 ## Half-Moon Mill - Cities of the North Addon
@@ -617,7 +641,7 @@ Download: | Main Files - Old Hroldan Ruins -- SE Enhanced
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8537) | Version: `1.0` | Author: `Albro` | ![ESM]
 Download: | Main Files - Sky Haven Temple - Gardens
 
-# C10 - Addons - Project Arch - JK Interiors - Cities
+# C10. Addons - Project Arch - JK Interiors - Cities
 
 ## JK's Angeline's Aromatics
 
@@ -709,7 +733,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# C11 - Addons - Project Arch - JK Interiors - Temples and Palaces
+# C11. Addons - Project Arch - JK Interiors - Temples and Palaces
 
 ## JK's Blue Palace
 
@@ -761,7 +785,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# C12 - Addons - Project Arch - JK Interiors - Guild HQs
+# C12. Addons - Project Arch - JK Interiors - Guild HQs
 
 ## JK's Castle Dour
 
@@ -793,7 +817,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# C13 - Addons - Project Arch - JK Interiors - Towns and Misc
+# C13. Addons - Project Arch - JK Interiors - Towns and Misc
 
 ## JK's Riverwood Trader
 
@@ -815,7 +839,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# C20 - Addons - Project Arch - Lore-Friendly Towns
+# C20. Addons - Project Arch - Lore-Friendly Towns
 
 ## Amber Guard
 
@@ -937,7 +961,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# Z01 - Conflict Resolution
+# Z01. Conflict Resolution
 
 ## Skyrim Unification Project - Conflict Resolution - Addons - Project Arch
 
@@ -949,7 +973,7 @@ Download: | Main Files -
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-# Project Arch - Final Steps
+# Addons - Project Arch - Final Steps
 
 ## xEdit
 
@@ -965,6 +989,7 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+Blue Palace Frescoes.esp | Apply ESMifier script
 BluePalaceTerrace.esp | Apply ESMifier script
 BUVARP SE RE - Chillridge Farm COTNed.esp | Apply ESMifier script
 COTN - Dawnstar.esp | Apply ESMifier script
@@ -972,6 +997,7 @@ COTN - Falkreath.esp | Apply ESMifier script
 COTN - Winterhold.esp | Apply ESMifier script
 COTN Addon - Anga's mill.esp | Apply ESMifier script
 Denizens of Morthal__Lollia.esp | Apply ESMifer script
+Distinct Interiors.esp | Apply ESMifier script
 ETaC - Complete.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 GG's Thieves Guild Headquarters.esp | Apply ESMifier script
@@ -989,7 +1015,7 @@ Riften Docks Overhaul.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
 RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script
 RYFTEN DOWN.esp | Apply ESMifier script
-RynsFarms.esp | Apply ESMifier script
+Ryn's Farms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
