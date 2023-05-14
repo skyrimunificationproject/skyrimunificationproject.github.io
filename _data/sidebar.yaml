@@ -21,9 +21,9 @@ core:
       - page: 06. Camera
         url: 06-camera
       - page: 07. User Interface - UI
-        url: 07-user-interface-ui
+        url: 07-user-interface---ui
       - page: 08. User Interface - HUD
-        url: 08-user-interface-hud
+        url: 08-user-interface---hud
       - page: 09. User Interface - Map
         url: 09-user-interface---map
   - title: Audio, Music, and Sounds
@@ -47,9 +47,9 @@ core:
   - title: Content Expansion
     subfolderitems:
       - page: 17. Content - Guilds and Factions
-        url: 17-content-guilds-and-factions
-      - page: 18. Content - Modified Vanilla Expansion
-        url: 18-content---modified-vanilla-expansion
+        url: 17-content---guilds-and-factions
+      - page: 18. Content - Modified Vanilla Content
+        url: 18-content---modified-vanilla-content
       - page: 19. Content - Quest and Radiant Systems
         url: 19-content---quest-and-radiant-systems
       - page: 20. Content - New Content
@@ -127,7 +127,7 @@ core:
       - page: 49. Beauty and Appearance - Body and Skin
         url: 49-beauty-and-appearance---body-and-skin
       - page: 50. Beauty and Appearance - Hair, Brows, Beards
-        url: 50-beauty-and-appearance-hairs-brows-beards
+        url: 50-beauty-and-appearance---hair-brows-beards
       - page: 51. Beauty and Appearance - Eyes
         url: 51-beauty-and-appearance---eyes
       - page: 52. Beauty and Appearance - Scars, Warpaints and Makeup
@@ -142,7 +142,7 @@ core:
         url: 55-animation---conditional-combat
       - page: 56. Animation - Conditional Idles and Misc
         url: 56-animation---conditional-idles-and-misc
-      - page: 57 - Skeleton
+      - page: 57. Skeleton
         url: 57-skeleton
   - title: Immersion and Followers
     subfolderitems:
@@ -263,7 +263,7 @@ adventures:
   - title: Z01. Conflict Resolution
     url: z01-conflict-resolution
   - title: Adventures - Final Steps
-    url: adventures-final-steps
+    url: adventures---final-steps
 arch:
   - title: C01. Addons - Project Arch - Install Changes
     url: c01-addons---project-arch---install-changes
@@ -290,7 +290,7 @@ arch:
   - title: C13. Addons - Project Arch - JK Interiors - Towns and Misc
     url: c13-addons---project-arch---jk-interiors---towns-and-misc
   - title: C20. Addons - Project Arch - Lore-Friendly Towns
-    url: c20-addons---project-arch---lore---friendly-towns
+    url: c20-addons---project-arch---lore-friendly-towns
   - title: Z01. Conflict Resolution
     url: z01-conflict-resolution
   - title: Addons - Project Arch - Final Steps

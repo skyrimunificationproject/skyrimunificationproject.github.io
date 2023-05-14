@@ -8,14 +8,22 @@
 				  name: 'navgoco',
 				  expires: false,
 				  path: '/'
-			  }
+			  },
+			onClickAfter: function(e, submenu) {
+				if(submenu == false)
+				{
+					var position = $($(this).attr("href")).offset().top - 150;
+    $("html, body").animate({scrollTop: position}, 400);
+	}
+		}
 		});
-	});
+  
+});
 </script>
 <ul id="sidelist" class="nav">
 {% if page.category == "Core" %}
 {% for item in site.data.sidebar.core %}
-<li class="tag-h1"><a href="#">{{item.title}}</a>
+<li class="tag-h1"><a href="#" target="_self">{{item.title}}</a>
 <ul class="nav2">
 {% for entry in item.subfolderitems %}
 <li class="tag-h2"><a href="#{{entry.url}}" target="_self">{{entry.page}}</a></li>
@@ -50,7 +58,7 @@
 {% endif %}
 {% if page.category == "Addons" %}
 {% for item in site.data.sidebar.addons %}
-<li class="tag-h1"><a href="#">{{item.title}}</a>
+<li class="tag-h1"><a href="#" target="_self">{{item.title}}</a>
 <ul class="nav2">
 {% for entry in item.subfolderitems %}
 <li class="tag-h2"><a href="#{{entry.url}}" target="_self">{{entry.page}}</a></li>

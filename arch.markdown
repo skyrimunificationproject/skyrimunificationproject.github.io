@@ -588,7 +588,7 @@ Download: | Main Files - ClefJ's Fort Dawnguard
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20851) | Version: `1.7.1` | Author: `Undriel` | ![ESM]
 Download: | Main Files - Quaint Raven Rock
 
-# C08 - Addons - Project Arch - Towns and Villages
+# C08. Addons - Project Arch - Towns and Villages
 
 ## Anga's Mill - Cities of the North Addon
 
