@@ -10,46 +10,6 @@ Install these categories between "Utilities" and "Conflict Resolution".
 # B01. Addons - Adventures - Install Changes
 
 
-## BURP - Book Unity and Revamp Project [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | ![Core] ![Visuals]|
-Download: | Main Files - BURP - Desatured Textures
-
-![FOMOD]
-~~~
-Unity Patches:
-   * None
-Titles:
-   * Unified (Recommended)
-File Selection:
-   * Artifacts of Boethiah
-   * The Brotherhood of Old
-   * Falskaar
-   * The Forgotten City
-   * The Grey Cowl of Nocturnal
-   * Helgen Reborn
-   * Ice Blade of the Monarch
-   * konahrik's Accoutrements
-   * Moon and Star
-   * Moonpath to Elsweyr
-   * New Treasure Hunt
-   * Oblivion Artifact Pack
-   * Teldryn Serious
-   * There Is No Umbra Ch.II
-   * The Tools of Kagrenac
-   * Treasure Hunter
-   * Wyrmstooth
-Leveled Lists:
-   * None
-36 Lessons of DeserterX:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
-
 ## Dragon War - A Dragon Overhaul - Patches [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `3.0` | Author: `Delta` | ![Core]
@@ -111,36 +71,6 @@ Missives:
    * Missives Wyrmstooth
 ~~~
 
-## JS Attunement Sphere and Lexicons - LOTD Display Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69073) | Version: `1.01` | Author: `johnskyrim` | ![Visuals]
-Download: | Misc Files - JS Attunement Sphere and Lexicons SE - LOTD Display Patch
-
-## JS Dragon Claws [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57038) | Version: `1.2` | Author: `johnskyrim` | ![Core] ![Visuals] 
-Download: | Main Files - JS Dragon Claws AE Anniversary Edition - 4k
-
-![FOMOD]
-~~~
-Legacy of the Dragonborn:
-   * LOTD + Display Compatibility
-Wyrmstooth:
-   * Wyrmstooth + LOTD
-Konahrik's Accoutrements:
-   * Konahrik's Accoutrements + LOTD
-Helgen Reborn:
-   * Helgen Reborn + LOTD
-Skyrim Sewers:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
-
-
 
 ## kryptopyr's Patch Hub [Addons - Adventures]
 
@@ -179,22 +109,6 @@ Download: | Main Files - Missives - Falskaar Patch
  | Main Files - Missives - Wyrmstooth patch
  | Main Files - Missives - Gray Cowl Patch
 
-## My Road Signs are Beautiful - Multilingual HD Retexture [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` | ![Core] ![Visuals] 
-Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
-
-![FOMOD]
-~~~
-Versions:
-   * Dirty Version - 4K-2K
-Weathered Road Signs:
-   * None
-Falskaar:
-   * Textures - 4K-2K
-Wyrmstooth:
-   * Textures - 4K-2K
-~~~
 
 ## Praedy's Staves AIO [Addons - Adventures]
 
@@ -242,47 +156,6 @@ RSChildren Patches:
    * Wyrmstooth
 ~~~
 
-## Stalhrim Refrozen [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41348) | Version: `1.6` | Author: `Jelidity` | ![Visuals] |
-Download: | Main Files - Stalhrim Refrozen
-| Misc Files - Stalhrim Refrozen - Konahrik's Accoutrements 2k
-| Misc Files - Stalhrim Refrozen - LotD Vahlok Mask 2k
-
-![FOMOD]
-~~~
-Addons:
-   * Konahrik's Accoutrements
-   * Legacy of the Dragonborn
-Ancient Nord Stalhrim:
-   * None
-Katana Crafting:
-   * None
-Leanwolf's Better Shaped Weapons:
-   * With Sheaths
-Lovely Longswords:
-   * None
-~~~
-
-## Unique Skulls HD [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52073) | Version: `1.1` | Author: `PraedythXVI` | ![Core] ![Visuals]|
-Download: | Main Files - Unique Skulls HD - SE 4K
-
-![FOMOD]
-~~~
-MainPluginOptions:
-   * ESPFE
-SkullKeyOptions:
-   * None
-LOTD Options:
-   * New Textures + ESPFE
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
 
 # B02. Addons - Adventures - Legacy of the Dragonborn
 
@@ -359,10 +232,6 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66349) | Version: `1.0` | Author: `PatricianVidya` | 
 Download: | Main Files - Main File
 
-## Helgen Reborn - Keepers of Hattu Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82001) | Version: `1.0` | Author: `Xavbio`
-Download: | Main Files - Helgen Reborn Keepers of Hattu Retexture - 2K
 
 ## Konahrik's Accoutrements
 
@@ -427,12 +296,12 @@ Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
 ## The Tools of Kagrenac
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.59` | Author: `Titansbane and PrivateEye` | ![ESM]
-Download: | Main Files - The Tools of Kagrenac V1.59 SSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.60` | Author: `Titansbane and PrivateEye` | ![ESM]
+Download: | Main Files - The Tools of Kagrenac V1.60 SSE
 
 ## There Is No Umbra - Chapter III
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.08` | Author: `FableForge` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.10` | Author: `FableForge` | ![CAO] ![ESM]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -457,10 +326,15 @@ Download: | Main Files - Wyrmstooth
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.0` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Wyrmstooth - CC's Enhanced Ore Veins Patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory - TCC Patch
 
@@ -1002,11 +876,21 @@ Download: | Main Files - Antique Statue HD - 4k
 ## Daedric Armor
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58661) | Version: `1` | Author: `4thUnknown` | 
-Download: | 1DaedricArmorSE
+Download: | Main Files - 1DaedricArmorSE
 
 ![PostInstall]
 ~~~
 Delete /meshes.
+~~~
+
+## Falmer Overhaul - My Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86724) | Version: `1.3` | Author: `Xtudo` 
+Download: | Main Files - Falmer Overhaul - My patches SE by Xtudo - LOTD patch
+
+![PostInstall]
+~~~
+Delete /textures/dbm resources/.
 ~~~
 
 ## Konahrik's Accoutrements - Upscaled Textures

@@ -3,6 +3,216 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-05-29
+
+![Added]
+~~~
+Core - SKSE - AnimObject Swapper
+Core - SKSE - Dynamic Animation Casting NG
+Core - SKSE - Faster HDT-SMP
+Core - SKSE - Payload Interpreter
+Core - Bugs and Script Fixes - DLC2dunFrostmoonTriggerScript Optimization
+Core - Bugs and Script Fixes - DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+Core - Bugs and Script Fixes - DLC2dunSeekerInvisScript Fix
+Core - Bugs and Script Fixes - DLC2MiraakScript Fix
+Core - Bugs and Script Fixes - DLC2PillarBuilderActorScript Tweak
+Core - Bugs and Script Fixes - DLC2TribalWerebearScript Fix
+Core - Bugs and Script Fixes - Dragonactorscript Infinite Loop Fix
+Core - Bugs and Script Fixes - dunFolgunthurBossBattle Script Fix
+Core - Bugs and Script Fixes - Ill Met By Moonlight - Hung Quest - Pathing Bug Fix
+Core - Bugs and Script Fixes - Motionless Rocks Killing People Fix
+Core - Bugs and Script Fixes - MQ104PlayerScript Fix
+Core - Bugs and Script Fixes - Shroud Hearth Barrow Script Fix
+Core - Bugs and Script Fixes - The Taste of Death Improved Shutdown
+Core - Bugs and Script Fixes - World Encounter Hostility Fix
+Core - Gameplay and QOL Tweaks - Neutral Whiterun Guards
+Core - Gameplay and QOL Tweaks - Staves on Self Fix
+Core - Gameplay and QOL Tweaks - Thalmor Don't Report To Stormcloaks
+Core - Gameplay and QOL Tweaks - Truly Neutral Prisoners
+Core - UI - Constructible Object Custom Keyword System
+Core - UI - Constructible Object Custom Keyword System NG
+Core - UI - Constructible Object Custom Keyword System - Cooking Categories Improvement
+Core - UI - Constructible Object Custom Keyword System - Seperate Weapon and Armor
+Core - Meshes and Textures - Architecture (Buildings) - Better Blending Helgen Mud
+Core - Meshes and Textures - Architecture (Buildings) - Improved Theater
+Core - Meshes and Textures - Trees and Grasses - Happy Little Trees - DLC Trees (BOS)
+Core - Meshes and Textures - Little Things (Flora) - Kabu's Really Gourd Plant Replacer
+Core - Meshes and Textures - Little Things (Flora) - Pumpkin Plant Overhaul
+Core - Meshes and Textures - Little Things (Flora) - Sowables of Skyrim - Potatoes
+Core - Meshes and Textures - Little Things (Flora) - Cathedral - 3D Snow Berries
+Core - Meshes and Textures - Little Things (Flora) - Cathedral - 3D Snow Berries - Inventory - Wreath - Hearthfires
+Core - Meshes and Textures - Little Things (Clutter) - Better Effigy of King Olaf
+Core - Meshes and Textures - Little Things (Clutter) - ElSopa - Potions Redone
+Core - Meshes and Textures - Little Things (Clutter) - Elsopa - Potions Redone - Patches
+Core - Meshes and Textures - Little Things (Clutter) - Elsopa - Potions Redone - My Patches - Vanilla - LOTD
+Core - Meshes and Textures - Little Things (Clutter) - Elsopa - Potions Redone - My Patches - Falmer Blood Elixir
+Core - Meshes and Textures - Little Things (Clutter) - Elsopa - Potions Redone - My Patches - ELIF Inventory Size Patch
+Core - Meshes and Textures - Little Things (Clutter) - Elsopa - Potions Redone - My Patches - CACO Patch
+Core - Meshes and Textures - Little Things (Furniture) - Skyland Chests
+Core - Meshes and Textures - Armor and Weapons - Ancient Nord Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Blades Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Carved Nordic Armors and Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Dawnguard Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Daedric Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Dragon Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Ebony Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Elven Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Falmer Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Glass Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Leather Armors Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Imperial Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Iron Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Nightingale Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Orcish Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Silver Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Steel Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Wolf Armors and Weapons Retexture SE
+Core - Meshes and Textures - Creatures and Wildlife - Falmer Overhaul - New Models and Textures
+Core - Meshes and Textures - Creatures and Wildlife - Iconic's Vampire Lord Retexture
+Core - Weather Systems - Moons and Stars
+Core - Weather Systems - NAT.ENB III - Natural and Atmospheric Tamriel ENB
+Core - Animation - Foundation - Collision Reset
+Core - Animation - Foundation - High Heels Condition Spell
+Core - Animation - Foundation - Improved Table Transition
+Core - Animation - Conditional Idles - EVG Conditional Idles - Extended
+Core - Animation - Conditional Idles - Conditional Expressions - Extended
+Core - Animation - Conditional Idles - Customizable Faster Woodcutting Animation - DAR
+Core - Animation - Conditional Idles - Dynamic Female Hand Warming - DAR
+Core - Animation - Conditional Idles - Dynamic Female Ledge Sitting - DAR
+Core - Animation - Conditional Idles - Dynamic Female Wall Leaning - DAR
+Core - Animation - Conditional Idles - Male Player Animations - DAR
+Core - Immersion - Dialogue and Relationships - Married NPCs Wear Wedding Bands
+Core - Late Loaders Meshes - TMD Jars of Skyrim
+Core - Late Loaders Meshes - TMD Jars of Skyrim - Patches - Improved Dragonfly
+Core - Late Loaders Meshes - TMD Jars of Skyrim - Patches - Inigo
+Core - Late Loaders Meshes - GG's High Hrothgar Fixed Stairs
+Core - Late Loaders Meshes - Rally's Bees and More
+Core - Late Loaders Meshes - Rally's Torchbugs
+Core - Late Loaders Meshes - Rally's Torchbugs - Bliss Bug AE
+Core - Late Loaders Meshes - Rally's Torchbugs - Bugs in Jars
+Core - Late Loaders ENB - Particle Lights for ENB - Shellbug
+Core - Late Loaders ENB Preset - Rudy ENB - NAT - Required Files
+Core - Late Loaders ENB Preset - ENB - Rudy NAT
+
+Adventures - Late Loaders Meshes - Falmer Overhaul - My Patches
+~~~
+
+![Removed]
+~~~
+Core - TrapSwingingWall Script Fix (now in USSEP)
+Core - Weathered Apiary Texture
+Core - A Potato Plant
+Core - HD Bees and Honeycombs
+Core - Sufficiently Optimized Snowberries 3D
+Core - Morrowind Style Skooma Bottle
+Core - Awesome Potions Simplified
+Core - Skyrim 3D Furniture
+Core - aMidianBorn Hide and Studded Hide
+Core - aMidianBorn Iron and Banded Armor
+Core - aMidianBorn Scaled ARmor
+Core - Ebony Weapons 2017 Retexture
+Core - Elven Weapons for Silence
+Core - Frankly HD - Dawnguard Armor and Weapons
+Core - Frankly HD - Dawnguard Armor and Weapons - CBBE
+Core - Frankly HD - Dragonbone and Dragonscale - Armor and Weapons
+Core - Frankly HD - Imperial Armor and Weapons
+Core - Frankly HD - Nightingale Armor and Weapons
+Core - Frankly HD - Nightingale Armor and Weapons - CBBE
+Core - Remiros' Hrothmund's Axe HD
+Core - FALMER
+Core - Vampire Lord Retexture
+Core - Cathedral Weathers and Seasons
+Core - Cathedral Weathers and Seasons - MCM
+Core - Obsidian Mountain Fogs
+Core - Real Rain
+Core - Creation Club Outfits - CBBE SSE - Bodyslide (now all covered by base CBBE)
+Core - ENB Lights - Awesome Potions Simplified
+Core - Particle Lights for ENB - Bugs in a Jar
+Core - Particle Lights for ENB - Mr. Dragonfly
+Core - Rudy HQ - More Lights for ENB - Torchbugs and Moths
+Core - Rudy ENB - Cathedral Weathers
+Adventures - BURP
+Adventures - JS Attunement Sphere
+Adventures - JS Dragon Claws
+Adventures - My Road Signs Are Beautiful
+Adventures - Stalhrim Refrozen
+Adventures - Unique Skulls HD
+Adventures - Helgen Reborn - Keepers of Hattu Retexture
+~~~
+
+![Updated]
+~~~
+MO2 - Seperators/numbering adjusted
+Prereqs - DynDOLOD updated to Alpha-128.
+
+Core - ConsoleUtilSSE changed to ConsoleUtilSSE NG
+Core - FormList Manipulator updated to 1.7.0.
+Core - MCM Recorder moved to SKSE (Framework).
+Core - Scaleform Translation Plus Plus changed to Scaleform Translation Plus Plus NG.
+Core - I'm Walkin Here changed to I'm Walkin Here NG
+Core - NPCs Use Potions updated to 3.1.4
+Core - Scrambled Bugs - added optional files
+Core - Stay At The System Page changed to Stay At The System Page NG
+Core - Whose Quest Is It Anyway changed to Whose Quest Is It Anyway NG
+Core - Yes I'm Sure changed to Yes I'm Sure NG
+Core - USSEP updated to 4.2.9a.
+Core - Northern Roads updated to 1.3.1.
+
+Core - Following mods moved from Modified Vanilla Content to Modified Vanilla Content - Quest Expansions:
+       A Lovely Letter Alternate Routes
+	   Caught Red Handed - Quest Expansion
+	   College of Winterhold - Quest Expansion
+	   College of Winterhold - Quest Expansion - At Your Own Pace Patch
+	   College of Winterhold - Quest Expansion - RS Children Overhaul Patch
+	   House of Horrors - Quest Expansion
+	   Innocence Lost - Quest Expansion
+	   Nilheim - Misc Quest Expansion
+	   Paarthunax - Quest Expansion
+	   Save the Icerunner - Lights Out Alternate Routes
+	   The Only Cure - Quest Expansion
+	   The Whispering Door - Quest Expansion
+	   
+Core - Headhunter Bounties Redone updated to 1.50.
+Core - Animated Clutter - delete instructions updated.
+Core - Praedy's Chantry of Auriel AIO updated to 2.1.
+Core - My Road Signs Are Beautiful - added Adv/Arch choices
+Core - Iconic Statues updated to 1.2.3.
+Core - JS Attunement Sphere and LExicons - added LOTD display patch
+
+Core - Meshes and Textures - Environment moved below Meshes and Textures - Creatures as "Environment".
+
+Core - Book Unity and Revamp Project - added Adv/Arch choices
+Core - JS Dragon Claws - added Adv choices
+Core - Praedy's Elder Scroll updated to 2.1.
+Core - Unique Skulls HD - added Adv choices
+Core - Weathered Furniture - Comon and Upper Class - updated delete instructions.
+Core - Quality Cubemaps moved to Environment.
+Core - Embers XD updated to 2.7.4.
+Core - Stahlrim Refrozen - added Adv choices/optional files.
+Core - Lux updated to 6.1.
+Core - Interesting NPCs - Interesting Follower Requirements updated to 2.01.
+Core - CBBE updated to 1.8.
+Core - Gesture Animation Remix updated to 2.0.0.
+Core - More Dialogue Options updated to 1.5.
+Core - Skyrim Unification Project - Gameplay Overhaul updated. (install latest gdrive)
+Core - Dragon War updated to 3.0.4.
+Core - Blade and Blunt updated to 3.0.2, optional file removed (integrated)
+Core - Reliquary of Myth updated to 4.7.0.
+Core - Windhelm Fake Windows Fix - added Arch optional
+Core - Icy Mesh Remaster updated to 2.18, FOMOD instructions changed.
+Core - Water in Wells - added Arch optional file
+Core - ENB Lights - Elytra and Bliss Bug - updated delete instructions
+
+Adventures - The Tools of Kagrenac updated to 1.60.
+Adventures - There Is No Umbra - Chapter III updated to 1.10.
+Adventures - Wyrmstooth - Brimstone and Wyrmstone Armory - added compact instructions
+
+Conflict Resolution - SUP Consistency Patches, Conflict Resolution, Conflict Resolution (Adventures) updated.
+Conflict Resolution - SUP Replacement Plugins updated.
+
+Final - Added ESM instructions for SFCO
+~~~
+
 # 2023-05-13
 
 ![Added]
@@ -27,12 +237,7 @@ Core - Modpocalypse NPCs - Heritage Enemies 2
 Core - Modpocalypse NPCs - Immersive College NPCs
 Core - Modpocalypse NPCs - 3DNPC
 Core - Modpocalypse NPCs - Obscure's College of Winterhold
-Core - Followers Hirelings and Housecarls
-Core - Fresh Faces
 Core - Metalsabers Beautiful Orcs of Skyrim
-Core - The Men of Winter
-Core - Improved Bards
-Core - The Ordinary Women
 Core - Dragon War - Patches
 Adventures - Modpocalypse NPCs - Legacy of the Dragonborn
 Adventures - Modpocalypse NPCs - Wyrmstooth

@@ -21,70 +21,6 @@ Download: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn
 | Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
 
 
-## BURP - Book Unity and Revamp Project [Addons - Project Arch]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50109) | Version: `1.1` | Author: `LegacyCloud` | 
-Download: | Main Files - BURP - Desatured Textures
-
-![FOMOD]
-~~~
-Unity Patches:
-   * None
-Titles:
-   * Unified (Recommended)
-File Selection:
-   * Capital Windhelm Expansion
-   * Capital Whiterun Expansion
-   
-Leveled Lists:
-   * None
-36 Lessons of DeserterX:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
-
-## FYX - Smooth Wells [Addons - Project Arch]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66715) | Version: `1.0.5` | Author: `Yuril` |
-Download: | Optional Files - FYX - Smooth Wells - CotN Falkreath
-
-
-
-## My Road Signs are Beautiful [Addons - Project Arch]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46564) | Version: `1.5EN` | Author: `Nymphamie` |
-Download: | Main Files - 01 My Road Signs are Beautiful - English Version - SE
-
-![FOMOD]
-~~~
-Versions:
-   * Dirty Version - 4K-2K
-Weathered Road Signs:
-   * None
-Expanded Towns and Cities:
-   * Textures - 4K-2K
-
-~~~
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
-
-## Windhelm Fake Windows Fix [Addons - Project Arch]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54923) | Version: `2.31` | Author: `AgentW` | 
-Download: | Optional Files - Capital Windhelm Expansion Patch
-
-![PostInstall]
-~~~
-Delete WindhelmFakeWindowsFix.esp.
-~~~
-
 # C02. Addons - Project Arch - Core
 
 ## Distinct Interiors
@@ -400,7 +336,7 @@ Pack the mod with CAO.
 
 ## Riften Docks Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.2` | Author: `agentw` |  ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.4` | Author: `agentw` |  ![ESM]
 Download: | Main Files - Riften Docks Overhaul
 
 ## RYFTEN - Consistency of windows in Riften
@@ -412,6 +348,11 @@ Download: | Main Files - RYFTEN - Consistency of windows in Riften
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60670) | Version: `1.1.3` | Author: `Yuril` | ![ESM]
 Download: | Main Files - RYFTEN DOWN - 1B Performence
+
+## Snazzy Interiors - Riften Snow-Shod Manor
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91788) | Version: `1.0` | Author: `gutmaw` 
+Download: | Main Files - Snazzy Interiors - Riften Snow-Shod Manor
 
 # C05. Addons - Project Arch - Solitude and Dragon Bridge
 
@@ -571,6 +512,16 @@ Consistency Patches - Ryn's Farms + BUVARP:
 Delete *.esp.
 ~~~
 
+## Snazzy Interiors - Whiterun House Battle-Born
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91121) | Version: `1.01` | Author: `gutmaw`
+Download: | Main Files - Snazzy Interiors - Whiterun House Battle-Born
+
+## Snazzy Interiors - Whiterun House Gray-Mane
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91505) | Version: `1.0` | Author: `gutmaw`
+Download: | Main Files - Snazzy Interiors - Whiterun House Gray-Mane
+
 # C07. Addons - Project Arch - Dawnguard and Dragonborn
 
 ## Better Tel Mithryn
@@ -618,12 +569,12 @@ Delete Denizens of Morthal - RS Children Patch.esp.
 
 ## Environs - Master Plugin
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91160) | Version: `1.0` | Author: `Siberpunk`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91160) | Version: `2.0` | Author: `Siberpunk`
 Download: | Main Files - Environs - Master Plugin
 
 ## Environs - Kolskeggr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `2.00` | Author: `Siberpunk` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.00` | Author: `Siberpunk` | 
 Download: | Main Files - Environs - Kolskeggr
 
 ## Half-Moon Mill - Cities of the North Addon
@@ -1019,6 +970,7 @@ Ryn's Farms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
+SurWR.esp | Apply ESMifier script
 Tel Mithryn.esp | Apply ESMifier script
 TGCotN Winterhold.esp | Apply ESMifier script
 The Great City of Winterhold v4.esp | Apply ESMifier script

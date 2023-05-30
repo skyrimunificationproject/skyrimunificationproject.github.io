@@ -368,7 +368,12 @@ Binary: (EasyNPC location)\EasyNPC.exe
 
 You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this same window as instructed to later in the guide.
 
+## MO2 Root Builder Plugin
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31720) | Version: `4.4.2` | Author: `Kezyma` | ![Core]
+Download: | Main Files: Root Builder 4.4.2
+
+Install to the MO2\plugins folder and restart MO2.  Click the wrench icon, go to Root Builder at bottom and then Root Builder.  Select mode: USVFS.
 
 # BethINI
 
@@ -499,7 +504,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-126` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-128` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

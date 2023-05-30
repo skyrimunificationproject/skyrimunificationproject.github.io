@@ -8,178 +8,184 @@ core:
         url: 01-skse-plugins
       - page: 02. Unofficial Patches
         url: 02-unofficial-patches
-      - page: 03a. Bugs and Mesh Fixes
-        url: 03a-bugs-and-mesh-fixes
-      - page: 03b. Bugs and Script Fixes
-        url: 03b-bugs-and-script-fixes
-      - page: 04. Gameplay and Quality of Life Tweaks
-        url: 04-gameplay-and-quality-of-life-tweaks
-      - page: 05. Character Creation
-        url: 05-character-creation
+      - page: 03. Bugs and Mesh Fixes
+        url: 03-bugs-and-mesh-fixes
+      - page: 04. Bugs and Script Fixes
+        url: 04-bugs-and-script-fixes
+      - page: 05. Gameplay and Quality of Life Tweaks
+        url: 05-gameplay-and-quality-of-life-tweaks
+      - page: 06. Character Creation
+        url: 06-character-creation
   - title: Camera and User Interface
     subfolderitems:
-      - page: 06. Camera
-        url: 06-camera
-      - page: 07. User Interface - UI
-        url: 07-user-interface---ui
-      - page: 08. User Interface - HUD
-        url: 08-user-interface---hud
-      - page: 09. User Interface - Map
-        url: 09-user-interface---map
+      - page: 07. Camera
+        url: 07-camera
+      - page: 08. User Interface - UI
+        url: 08-user-interface---ui
+      - page: 09. User Interface - HUD
+        url: 09-user-interface---hud
+      - page: 10. User Interface - Map
+        url: 10-user-interface---map
   - title: Audio, Music, and Sounds
     subfolderitems:
-      - page: 10. Audio, Music, and Sounds - Framework
-        url: 10-audio-music-and-sounds---framework
-      - page: 11. Audio, Music, and Sounds - Other Sounds
-        url: 11-audio-music-and-sounds---other-sounds
+      - page: 11. Audio, Music, and Sounds - Framework
+        url: 11-audio-music-and-sounds---framework
+      - page: 12. Audio, Music, and Sounds - Other Sounds
+        url: 12-audio-music-and-sounds---other-sounds
   - title: World Edits
     subfolderitems:
-      - page: 12. World Edits - Cities
-        url: 12-world-edits---cities
-      - page: 13. World Edits - Towns and Settlements
-        url: 13-world-edits---towns-and-settlements
-      - page: 14. World Edits - Dungeons
-        url: 14-world-edits---dungeons
-      - page: 15. World Edits - Small Wilderness Edits
-        url: 15-world-edits---small-wilderness-edits
-      - page: 16. World Edits - Large Wilderness Edits
-        url: 16-world-edits---large-wilderness-edits
+      - page: 13. World Edits - Cities
+        url: 13-world-edits---cities
+      - page: 14. World Edits - Towns and Settlements
+        url: 14-world-edits---towns-and-settlements
+      - page: 15. World Edits - Dungeons
+        url: 15-world-edits---dungeons
+      - page: 16. World Edits - Small Wilderness Edits
+        url: 16-world-edits---small-wilderness-edits
+      - page: 17. World Edits - Large Wilderness Edits
+        url: 17-world-edits---large-wilderness-edits
   - title: Content Expansion
     subfolderitems:
-      - page: 17. Content - Guilds and Factions
-        url: 17-content---guilds-and-factions
-      - page: 18. Content - Modified Vanilla Content
-        url: 18-content---modified-vanilla-content
-      - page: 19. Content - Quest and Radiant Systems
-        url: 19-content---quest-and-radiant-systems
-      - page: 20. Content - New Content
-        url: 20-content---new-content
-      - page: 21. Content - Clothing and Jewelry Expansions
-        url: 21-content---clothing-and-jewelry-expansions
-      - page: 22. Content - Armor and Weapon Expansions
-        url: 22-content---armor-and-weapon-expansions
+      - page: 18. Content - Guilds and Factions
+        url: 18-content---guilds-and-factions
+      - page: 19. Content - Modified Vanilla Content
+        url: 19-content---modified-vanilla-content
+      - page: 20. Content - Modified Vanilla Content - Quest Expansions
+        url: 20-content---modified-vanilla-content---quest-expansions
+      - page: 21. Content - Quest and Radiant Systems
+        url: 21-content---quest-and-radiant-systems
+      - page: 22. Content - New Content
+        url: 22-content---new-content
+      - page: 23. Content - Clothing and Jewelry Expansions
+        url: 23-content---clothing-and-jewelry-expansions
+      - page: 24. Content - Armor and Weapon Expansions
+        url: 24-content---armor-and-weapon-expansions
   - title: Meshes and Textures - LODs and Overhauls
     subfolderitems:
-      - page: 23. Meshes and Textures - LOD Generation
-        url: 23-meshes-and-textures---lod-generation
-      - page: 24. Meshes and Textures - General World Improvement
-        url: 24-meshes-and-textures---general-world-improvement
+      - page: 25. Meshes and Textures - LOD Generation
+        url: 25-meshes-and-textures---lod-generation
+      - page: 26. Meshes and Textures - General World Improvement
+        url: 26-meshes-and-textures---general-world-improvement
   - title: Meshes and Textures - Architecture and Landscape
     subfolderitems:
-      - page: 25. Meshes and Textures - Architecture (Foundations)
-        url: 25-meshes-and-textures---architecture-foundations
-      - page: 26. Meshes and Textures - Architecture (Buildings)
-        url: 26-meshes-and-textures---architecture-buildings
-      - page: 27. Meshes and Textures - Architecture (Objects)
-        url: 27-meshes-and-textures---architecture-objects
-      - page: 28. Meshes and Textures - Ancient Structures, Statues and Shrines
-        url: 28-meshes-and-textures---ancient-structures-statues-and-shrines
-      - page: 29. Meshes and Textures - Caves and Dungeons
-        url: 29-meshes-and-textures---caves-and-dungeons
-      - page: 30. Meshes and Textures - Dwemer Ruins
-        url: 30-meshes-and-textures---dwemer-ruins
-      - page: 31. Meshes and Textures - Landscape
-        url: 31-meshes-and-textures---landscape
-      - page: 32. Meshes and Textures - Environment
-        url: 32-meshes-and-textures---environment
-      - page: 33. Meshes and Textures - Trees and Grasses
-        url: 33-meshes-and-textures---trees-and-grasses
+      - page: 27. Meshes and Textures - Architecture (Foundations)
+        url: 27-meshes-and-textures---architecture-foundations
+      - page: 28. Meshes and Textures - Architecture (Buildings)
+        url: 28-meshes-and-textures---architecture-buildings
+      - page: 29. Meshes and Textures - Architecture (Objects)
+        url: 29-meshes-and-textures---architecture-objects
+      - page: 30. Meshes and Textures - Ancient Structures, Statues and Shrines
+        url: 30-meshes-and-textures---ancient-structures-statues-and-shrines
+      - page: 31. Meshes and Textures - Caves and Dungeons
+        url: 31-meshes-and-textures---caves-and-dungeons
+      - page: 32. Meshes and Textures - Dwemer Ruins
+        url: 32-meshes-and-textures---dwemer-ruins
+      - page: 33. Meshes and Textures - Landscape
+        url: 33-meshes-and-textures---landscape
+      - page: 34. Meshes and Textures - Trees and Grasses
+        url: 34-meshes-and-textures---trees-and-grasses
   - title: Meshes and Textures - Little Things
     subfolderitems:
-      - page: 34. Meshes and Textures - Little Things - Flora
-        url: 34-meshes-and-textures---little-things---flora
-      - page: 35. Meshes and Textures - Little Things - Food
-        url: 35-meshes-and-textures---little-things---food
-      - page: 36. Meshes and Textures - Little Things - Clutter
-        url: 36-meshes-and-textures---little-things---clutter
-      - page: 37. Meshes and Textures - Little Things - Furniture
-        url: 37-meshes-and-textures---little-things---furniture
+      - page: 35. Meshes and Textures - Little Things - Flora
+        url: 35-meshes-and-textures---little-things---flora
+      - page: 36. Meshes and Textures - Little Things - Food
+        url: 36-meshes-and-textures---little-things---food
+      - page: 37. Meshes and Textures - Little Things - Clutter
+        url: 37-meshes-and-textures---little-things---clutter
+      - page: 38. Meshes and Textures - Little Things - Furniture
+        url: 38-meshes-and-textures---little-things---furniture
   - title: Meshes and Textures - Effects, Equipment, and Creatures
     subfolderitems:
-      - page: 38. Meshes and Textures - Effects
-        url: 38-meshes-and-textures---effects
-      - page: 39. Meshes and Textures - Clothing, Jewelry, and Accessories
-        url: 39-meshes-and-textures---clothing-jewelry-and-accessories
-      - page: 40. Meshes and Textures - Armor and Weapons
-        url: 40-meshes-and-textures---armor-and-weapons
-      - page: 41. Meshes and Textures - Creatures and Wildlife
-        url: 41-meshes-and-textures---creatures-and-wildlife
-  - title: Lighting and Weather
+      - page: 39. Meshes and Textures - Effects
+        url: 39-meshes-and-textures---effects
+      - page: 40. Meshes and Textures - Clothing, Jewelry, and Accessories
+        url: 40-meshes-and-textures---clothing-jewelry-and-accessories
+      - page: 41. Meshes and Textures - Armor and Weapons
+        url: 41-meshes-and-textures---armor-and-weapons
+      - page: 42. Meshes and Textures - Creatures and Wildlife
+        url: 42-meshes-and-textures---creatures-and-wildlife
+  - title: Environment, Lighting and Weather
     subfolderitems:
-      - page: 42. Lighting
-        url: 42-lighting
-      - page: 43. Weather Systems
-        url: 43-weather-systems
+      - page: 43. Meshes and Textures - Environment
+        url: 43-meshes-and-textures---environment
+      - page: 44. Lighting
+        url: 44-lighting
+      - page: 45. Weather Systems - General
+        url: 45-weather-systems---general
   - title: New NPCs
     subfolderitems:
-      - page: 44. New NPCs - NPC and Enemy Encounters
-        url: 44-new-npcs---npc-and-enemy-encounters
-      - page: 45. New NPCs - Followers and NPCs
-        url: 45-new-npcs---followers-and-npcs
+      - page: 46. New NPCs - NPC and Enemy Encounters
+        url: 46-new-npcs---npc-and-enemy-encounters
+      - page: 47. New NPCs - Followers and NPCs
+        url: 47-new-npcs---followers-and-npcs
   - title: Beauty and Appearance
     subfolderitems:
-      - page: 46. Beauty and Appearance - NPC - NPC Resources
-        url: 46-beauty-and-appearance---npc---npc-resources
-      - page: 47. Beauty and Appearance - NPC - NPC Overhauls
-        url: 47-beauty-and-appearance---npc---npc-overhauls
-      - page: 48. Beauty and Appearance - NPC - Children Overhauls
-        url: 48-beauty-and-appearance---npc---children-overhauls
-      - page: 49. Beauty and Appearance - Body and Skin
-        url: 49-beauty-and-appearance---body-and-skin
-      - page: 50. Beauty and Appearance - Hair, Brows, Beards
-        url: 50-beauty-and-appearance---hair-brows-beards
-      - page: 51. Beauty and Appearance - Eyes
-        url: 51-beauty-and-appearance---eyes
-      - page: 52. Beauty and Appearance - Scars, Warpaints and Makeup
-        url: 52-beauty-and-appearance---scars-warpaints-and-makeup
+      - page: 48. Beauty and Appearance - NPC - NPC Resources
+        url: 48-beauty-and-appearance---npc---npc-resources
+      - page: 49. Beauty and Appearance - NPC - NPC Overhauls
+        url: 49-beauty-and-appearance---npc---npc-overhauls
+      - page: 50. Beauty and Appearance - NPC - Children Overhauls
+        url: 50-beauty-and-appearance---npc---children-overhauls
+      - page: 51. Beauty and Appearance - Body and Skin
+        url: 51-beauty-and-appearance---body-and-skin
+      - page: 52. Beauty and Appearance - Hair, Brows, Beards
+        url: 52-beauty-and-appearance---hair-brows-beards
+      - page: 53. Beauty and Appearance - Eyes
+        url: 53-beauty-and-appearance---eyes
+      - page: 54. Beauty and Appearance - Scars, Warpaints and Makeup
+        url: 54-beauty-and-appearance---scars-warpaints-and-makeup
   - title: Animation and Skeleton
     subfolderitems:
-      - page: 53. Animation - Framework
-        url: 53-animation---framework
-      - page: 54. Animation - Foundation
-        url: 54-animation---foundation
-      - page: 55. Animation - Conditional Combat
-        url: 55-animation---conditional-combat
-      - page: 56. Animation - Conditional Idles and Misc
-        url: 56-animation---conditional-idles-and-misc
-      - page: 57. Skeleton
-        url: 57-skeleton
+      - page: 55. Animation - Framework
+        url: 55-animation---framework
+      - page: 56. Animation - Foundation
+        url: 56-animation---foundation
+      - page: 57. Animation - Conditional Combat
+        url: 57-animation---conditional-combat
+      - page: 58. Animation - Conditional Idles and Misc
+        url: 58-animation---conditional-idles-and-misc
+      - page: 59. Skeleton
+        url: 59-skeleton
   - title: Immersion and Followers
     subfolderitems:
-      - page: 58. Immersion - Dialogue and Relationships
-        url: 58-immersion---dialogue-and-relationships
-      - page: 59. Immersion
-        url: 59-immersion
-      - page: 60. Follower Framework
-        url: 60-follower-framework
+      - page: 60. Immersion - Dialogue and Relationships
+        url: 60-immersion---dialogue-and-relationships
+      - page: 61. Immersion - General
+        url: 61-immersion---general
+      - page: 62. Follower Framework
+        url: 62-follower-framework
   - title: Gameplay
     subfolderitems:
-      - page: 61. Gameplay - Framework
-        url: 61-gameplay---framework
-      - page: 62. Gameplay - Combat
-        url: 62-gameplay---combat
-      - page: 63. Gameplay - Stealth and Traps
-        url: 63-gameplay---stealth-and-traps
-      - page: 64. Gameplay - Magic, Spells, and Enchantments
-        url: 64-gameplay---magic-spells-and-enchantments
-      - page: 65. Gameplay - Blessings, Racial Skills, and Powers
-        url: 65-gameplay---blessings-racial-skills-and-powers
-      - page: 66. Gameplay - Perks, Leveling and Classes
-        url: 66-gameplay---perks-leveling-and-classes
-  - title: Late Loaders
+      - page: 63. Gameplay - Framework
+        url: 63-gameplay---framework
+      - page: 64. Gameplay - Combat
+        url: 64-gameplay---combat
+      - page: 65. Gameplay - Stealth and Traps
+        url: 65-gameplay---stealth-and-traps
+      - page: 66. Gameplay - Magic, Spells, and Enchantments
+        url: 66-gameplay---magic-spells-and-enchantments
+      - page: 67. Gameplay - Blessings, Racial Skills, and Powers
+        url: 67-gameplay---blessings-racial-skills-and-powers
+      - page: 68. Gameplay - Perks, Leveling and Classes
+        url: 68-gameplay---perks-leveling-and-classes
+  - title: Late Loaders and ENB
     subfolderitems:
-      - page: 67. Late Loaders - Misc
-        url: 67-late-loaders---misc
-      - page: 68. Late Loaders - Patches
-        url: 68-late-loaders---patches
-      - page: 69. Late Loaders - Meshes and Textures
-        url: 69-late-loaders---meshes-and-textures
-      - page: 70. Late Loaders - ENB Meshes
-        url: 70-late-loaders---enb-meshes
+      - page: 69. Late Loaders - Misc
+        url: 69-late-loaders---misc
+      - page: 70. Late Loaders - Patches
+        url: 70-late-loaders---patches
+      - page: 71. Late Loaders - Meshes and Textures
+        url: 71-late-loaders---meshes-and-textures
+      - page: 72. Late Loaders - ENB Meshes
+        url: 72-late-loaders---enb-meshes
+      - page: 73a. Late Loaders - Weather and ENB - Cathedral - Choose One
+        url: 73a-late-loaders---weather-and-enb---cathedral---choose-one
+      - page: 73b. Late Loaders - Weather and ENB - NAT - Choose One
+        url: 73b-late-loaders---weather-and-enb---nat---choose-one
   - title: Utilities and Conflict Resolution
     subfolderitems:
-      - page: 71. Utilities
-        url: 71-utilities
+      - page: 74. Utilities
+        url: 74-utilities
       - page: Z01. Conflict Resolution
         url: z01-conflict-resolution
       - page: Z02. Output - Generated Patches

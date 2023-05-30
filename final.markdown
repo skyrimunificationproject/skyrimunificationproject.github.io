@@ -104,6 +104,7 @@ SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
+Snazzy Furniture and Clutter Overhaul.esp | Apply ESMifier script
 SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
 TheStumblingSabrecat.esp | Apply ESMifier script
