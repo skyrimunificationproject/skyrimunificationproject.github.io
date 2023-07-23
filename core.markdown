@@ -34,10 +34,12 @@ DLL:
    * SSE v1.5.97 ("Special Edition")
 ~~~
 
-## Custom Skills Framework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41780) | Version: `2.0.2` | Author: `meh321` | ![Core] |
-Download: | Optional Files - Custom Skills Framework for 1.5
+
+## Console Commands Extender
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28210) | Version: `1.8.0` | Author: `Ryan` | ![Core]
+Download: | Main Files - Console Commands Extender
 
 ## ConsoleUtilSSE NG
 
@@ -49,10 +51,10 @@ Download: | Main Files - ConsoleUtilSSE NG
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79975) | Version: `1.3.0` | Author: `powerofthree` | ![Core]
 Download: | Main Files - ConsolePlusPlus
 
-## Dynamic Animation Replacer 
+## Custom Skills Framework
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33746) | Version: `1.1.0` | Author: `Felisky` | ![Core] |
-Download: | Old Files - DynamicAnimationReplacer v1.1.0 for SkyrimSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41780) | Version: `2.0.2` | Author: `meh321` | ![Core] |
+Download: | Optional Files - Custom Skills Framework for 1.5
 
 ## ENB Helper
 
@@ -1010,6 +1012,12 @@ Download: | Main Files - The Taste of Death Improved Shutdown
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61978) | Version: `1.0.1` | Author: `tarlazo` | ![Core]
 Download: | Main Files - TrapSwingingWall Script Fix
 
+![FOMOD]
+~~~
+TrapSwingingWall Script Fix:
+   * Improved Traps
+~~~
+
 ## Unaggressive Dragon Priests Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69026) | Version: `1.2` | Author: `AndrealphusVIII` | ![Core]
@@ -1186,8 +1194,14 @@ Download: | Main Files - Truly Neutral Prisoners
 
 ## Universal Unwanted Effects Clearer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93977) | Version: `0.2` | Author: `wSkeever` | ![Core]
-Download: | Main Files - Unirversal Unwanted Effects Clearer
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93977) | Version: `0.3.1` | Author: `wSkeever` | ![Core]
+Download: | Main Files - Universal Unwanted Effects Clearer
+
+![FOMOD]
+~~~
+Add Spells?
+   * Only use USSEP book
+~~~
 
 ## Use Telekinesis on Traps
 
