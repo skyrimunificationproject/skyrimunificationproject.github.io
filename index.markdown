@@ -190,7 +190,7 @@ The Scripts folder will be installed later with Mod Organizer 2.
 
 ## Cathedral Assets Optimizer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.14` | Author: `G_k` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | Version: `5.3.15` | Author: `G_k` | ![Core] |
 Download: | Main Files - Cathedral Assets Optimizer 64
 Download: | [CAO Profile](https://www.dropbox.com/s/rchbrsb2952sit4/Skyrim%20Unification%20Project%20-%20BSA.7z?dl=0)
 

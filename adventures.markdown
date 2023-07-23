@@ -12,8 +12,8 @@ Install these categories between "Utilities" and "Conflict Resolution".
 
 ## Dragon War - A Dragon Overhaul - Patches [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `3.0` | Author: `Delta` | ![Core]
-Download: | Misc Files - Dragon War - Wyrmstooth Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51310) | Version: `3.0.5` | Author: `Delta` | ![Core]
+Download: | Main Files - Dragon War - A Dragon Overhaul
 
 ![FOMOD]
 ~~~
@@ -253,6 +253,11 @@ Download: | Main Files - Konahrik's Accoutrements - Fixed Esp
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4301) | Version: `3.2` | Author: `GanXingba` | ![ESM]
 Download: | Main Files - Moon and Star
 
+## Moon and Star - Moss Creek Camp
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/90145) | Version: `1.0.3` | Author: `tarlazo`
+Download: | Main Files - Moon and Star - Moss Creek Camp
+
 ## Moonpath to Elsweyr
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![ESM]
@@ -301,7 +306,7 @@ Download: | Main Files - The Tools of Kagrenac V1.60 SSE
 
 ## There Is No Umbra - Chapter III
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.10` | Author: `FableForge` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.11` | Author: `FableForge` | ![CAO] ![ESM]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -381,7 +386,7 @@ Delete AdditionalHFDollsFixesLOTD.esp.
 
 ## Aetherium Armor and Weapons Compilation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2687) | Version: `1.1.0` | Author: `Darkjesusmn` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2687) | Version: `1.1.1` | Author: `Darkjesusmn` | ![ESM]
 Download: | Main Files - AetheriumArmornWeaponsSSE with BSA
 
 ## Amulets of Skyrim
@@ -580,7 +585,7 @@ Download: | Main Files - Modpocalypse NPCs (v2) The Gray Cowl of Nocturnal
 Pack the mod with CAO.
 ~~~
 
-## NVICO Modular High-Poly NPC Overhaul - Patches [Adventures]
+## NVICO Modular High-Poly NPC Overhaul - Patches [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48821) | Version: `2.01` | Author: `barret12` | ![Core] ![Visuals]
 Download: | Optional Files - NVICO - Visual Compatibility Patches
@@ -594,7 +599,7 @@ Visual Patches:
 
 ## Legacy of the Dragonborn Visual Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.1` | Author: `mocia` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.2` | Author: `mocia` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 | Optional Files - Legacy of the Dragonborn Visual Overhaul - updated esp
 
@@ -705,18 +710,13 @@ Download: | Main Files - LOTD Mementos
 
 ## Legacy of the Dragonborn - Museum Exterior Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.7` | Author: `wSkeever` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.7` | Author: `wSkeever` 
 Download: | Main Files - Legacy of The Dragonborn - Museum Exterior Fixes
 
 ![FOMOD]
 ~~~
 Options:
    * None
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
 ~~~
 
 ## Legacy of the Dragonborn - Mystic Condenser
@@ -791,10 +791,16 @@ Synergy Patches:
    * None (unselect any)
 ~~~
 
+![PostInstall]
+~~~
+Delete textures/dbm_cc/armor/seasons.
+Delete textures/dbm_cc/weapons/razaksadjuster_*.
+~~~
+
 ## Legacy of the Dragonborn - Perk Menus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `0.6` | Author: `wSkeever` | ![CAO]
-Download: | Main Files - Legacy of the Dragonborn Perk Menus
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `2.0` | Author: `wSkeever` | ![CAO]
+Download: | Main Files - Legacy of the Dragonborn Perk Menu
 
 ![PostInstall]
 ~~~
@@ -992,16 +998,11 @@ Download: | Optional Files - Fate Cards new Style Xtudo Version
 
 ## Legacy of the Dragonborn - Fixes and Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `1.0` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `1.0` | Author: `gutmaw` 
 Download: | Main Files - LotD Tweaks - Main - No Lighting
 | Optional Files - Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix
 | Optional Files - LotD Tweaks - Stucco Texture A
 | Optional Files - LotD Tweaks - Wood Textures
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Legacy of the Dragonborn - Gemstones Remade
 
@@ -1063,6 +1064,11 @@ Download: | Main Files - The Grey Cowl of Nocturnal SE - HD Texture pack
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## The Gray Cowl of Nocturnal SE - Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91897) | Version: `1.0` | Author: `PraedythXVI`
+Download: | Main Files - The Gray Cowl of Nocturnal SE - Retexture 2K
 
 ## Volkihar Knight - CBBE Bodyslide
 

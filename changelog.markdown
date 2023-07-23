@@ -3,6 +3,219 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-07-22
+
+![Added]
+~~~
+Core - SKSE - Open Animation Replacer
+Core - SKSE - Dual Casting Fix
+Core - SKSE - Dynamic Animation Casting NG Plus
+Core - SKSE - Dynamic Collision Adjustment
+Core - SKSE - Photo Mode
+Core - SKSE - Scattered Object Solution
+Core - Bug and Script Fixes - Disable Havok Script Tweak Resource
+Core - Bug and Script Fixes - DLC2AudioRepeaterActivator01Script Tweak
+Core - Bug and Script Fixes - Green Water Cubemap Fix
+Core - Bug and Script Fixes - MagicAttachAshPileOnDeath Fix
+Core - Bug and Script Fixes - MQ105SprintTriggerScript Fix
+Core - Bug and Script Fixes - NPC Stuck In Bleedout Fix
+Core - Bug and Script Fixes - TrapSwingingWall Script Fix
+Core - Bug and Script Fixes - Zero Bounty Hostility Fix
+Core - Gameplay and QOL Tweaks - Simplicity of Seeding
+Core - Gameplay and QOL Tweaks - Simplicity of Seeding - CACO Patch
+Core - Gameplay and QOL Tweaks - Universal Unwanted Effects Clearer
+Core - UI HUD - Dynamic Activation Key
+Core - UI HUD - SkyUI 3D Item Offset Fix
+Core - UI HUD - Dear Diary Dark Mode Compass Navigation Overhaul Updated Patch
+Core - LOD - LOD Model Library for DynDOLOD
+Core - General World Improvement - Skyrim Objects SMIMed - Farm Mills
+Core - General World Improvement - Whiterun Objects SMIMed - Dragonsreach Stairs
+Core - Meshes and Textures - Architecture - Better Imperial Forts
+Core - Meshes and Textures - Landscape - Snöblind
+Core - Meshes and Textures - Landscape - FYX Solitude Arch
+Core - Meshes and Textures - Trees and Grass - Cathedral 3D Pine Shrubs
+Core - Meshes and Textures - Little Things (Flora) - Cathedral 3D Thicket and Dead Shrub
+Core - Meshes and Textures - Little Things (Flora) - High Poly Pearls
+Core - Meshes and Textures - Little Things (Flora) - High Poly Swamp Fungal Pods
+Core - Meshes and Textures - Little Things (Clutter) - Xtudo's Potion of Blood
+Core - Meshes and Textures - Little Things (Clutter) - Xtudo's Sleeping Tree Sap
+Core - Meshes and Textures - Little Things (Clutter) - Xtudo's The White Phial
+Core - Meshes and Textures - Little Things (Clutter) - Xtudo's Vaermina's Torpor
+Core - Meshes and Textures - Armor and Weapons - Ancient Falmer Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Bonemold Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Chitin Armors Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Dark Brotherhood Armors Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Dwemer Armors and Weapons Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Stalhrim Armors and Weapons Retexture SE
+Core - Weather - No more Blurry Constellation Stars
+Core - NPC Overhauls - RS Children Overhaul BUVARP SE RE Patch
+Core - Animation - Foundation - Assorted Animation Fixes
+Core - Animation - Foundation - Dynamic Sprint
+Core - Animation - Combat - Dynamic Bow Animation
+Core - Animation - Combat - Leviathan Animations II Greatsword Normal Attacks
+Core - Animation - Combat - Leviathan Animations II Greatsword Power and Sprint Attacks
+Core - Animation - Conditional - Random Male Wall leaning Animations
+Core - Animation - Conditional - Self-Targeting Staff Animation Fix
+Core - Immersion - Dialogue and Relationships - Brawl Lines Expansion and Fixes
+Core - Immersion - Dialogue and Relationships - NPCs React To Invisibility
+Core - Gameplay - TK Dodge SE (readded)
+Core - Late Loaders Meshes - Improved Solitude Windmill
+Core - Late Loaders Meshes - Icy Cave Remaster
+Adventures - New Lands and Quests - Moon and Star Moss Creek Camp
+Adventures - Late Loaders Textures - The Gray Cowl of Nocturnal SE Retexture
+Arch - Core - High Poly NPC Overhaul JK's Skyrim
+Arch - Markarth and Riften - JK's Riften Outskirts
+Arch - Markarth and Riften - Markarth City of Stone
+Arch - Markarth and Riften - Snazzy Interiors Markarth Guard Tower
+Arch - Markarth and Riften - Snazzy Interiors Markarth Nepos' House
+Arch - Markarth and Riften - Snazzy Interiors Markarth Treasury House
+Arch - Markarth and Riften - Snazzy Interiors Riften Black-Briar Manor
+Arch - Solitude and Dragon Bridge - Solitude Docks Updated RS Children Patch
+Arch - Solitude and Dragon Bridge - Snazzy Interiors Solitude Bryling's House
+Arch - Capital Whiterun and Windhelm - GG's Capital JK's Whiterun (BETA)
+Arch - Capital Whiterun and Windhelm - Snazzy Interiors Windhelm Blacksmith
+Arch - Capital Whiterun and Windhelm - Windhelm House of Clan Cruel-Sea
+Arch - Capital Whiterun and Windhelm - Windhelm House of Clan Shattershield
+Arch - Capital Whiterun and Windhelm - High Poly NPC Overhaul Capital Whiterun Expansion
+~~~
+
+![Removed]
+~~~
+Core - Staves On Self Fix
+Core - Grass Terrain Remade
+Core - Better Wooden Spikes Retexture
+Core - Glacies
+Core - Pearls
+Core - Renthal Nettle
+Core - Frankly HD Shrouded Armor
+Core - Remiros' Ancient Falmer Armor HD
+Core - Remiros' Auri-El HD Redone
+Core - Remiros' Chitin Armor HD
+Core - Shield of Stamina
+Core - Complete Alchemy and Cooking Overhaul Patch for Potion Remodels
+Core - Flowers and Plants Meshes Fix
+Core - HD Sleeping Tree Sap Replacer
+Core - Cathedral Weathers MCM
+Arch - Modpocalypse NPCs JK's Skyrim
+Arch - Rodryk's Dragon Bridge Retexture Matching LOD Textures
+~~~
+
+![Updated]
+~~~
+Prereq - CAO updated to 5.3.15.
+Core - Base Object Swapper updated to 2.6.0.
+Core - Custom Skills Framework updated to 2.0.2.
+Core - ConsolePlusPlus updated to 1.3.0.
+Core - PAPER updated to 2.2.4.
+Core - Skyrim Skill Uncapper changed to new modpage, reinstall
+Core - Enemies Respect Encounter Zones updated to 1.4.0.
+Core - NPCs Use Potions updated to 3.1.6.
+Core - Stones of Solitude updated to 1.2.1.
+Core - Skyrim Particle Patch for ENB updated to 1.2.4.
+Core - Navigator updated to 1.4.6.
+Core - Dragonactorscript Infinite Loop Fix updated to 1.3.2.
+Core - World Encounter Hostility Fix updated to 0.4.
+Core - Relaxed Khajiits updated to 2.0.
+Core - Constructible Object Custom Keyword System Cooking Categories Improvement updated to 2.0.1.
+Core - Compass Navigation Overhaul link changed to archived file 2.1.0
+Core - Stendarr Rising updated to 1.6.0.
+Core - Northern Roads Patch Collection updated to 1.19.
+Core - Alternate Start Live Another Life updated to 4.2.0.
+Core - College of Winterhold Quest Expansion updated to 1.13.
+Core - House of Horrors Quest Expansion updated to 1.11.
+Core - The Only Cure Quest Expansion updated to 1.02.
+Core - C.O.I.N updated to 2.1.2.
+Core - Extended Encounters updated to 1.6.5.
+Core - DynDOLOD Resources updated to Alpha-37.
+Core - Assorted Mesh Fixes updated to 0.86.
+Core - Stony AF Markarth updated to 2.2.
+Core - My Road Signs Are Beautiful updated to 1.6.1EN.
+Core - Happy Little Logs updated to 1.7.
+Core - Aspens Ablaze DynDOLOD updated to 2.36.1.
+Core - Cathedral 3D Sword Ferns updated to 4.0.
+Core - Elsopa Potions Redone - updated FOMOD instructions to ENB Smaller
+Core - Skyrim Objects SMIMed Noble Furniture updated to 0.5.
+Core - Embers XD updated to 2.8.0.
+Core - Daedric Armors and Weapons Retexture updated to 1.2.
+Core - Dragon Armors and Weapons Retexture updated to 1.3.
+Core - Ebony Armors and Weapons Retexture updated to 1.21.
+Core - Elven Armors and Weapons Retexture updated to 1.01.
+Core - Imperial Armors and Weapons Retexture updated to 1.2.
+Core - Iron Armors and Weapons Retexture updated to 1.1.
+Core - Orcish Armors and Weapons Retexture updated to 1.1
+Core - Steel Armors and Weapons Retexture updated to 1.1.
+Core - Simplicity of Snow updated to 0.12.1.
+Core - Water for ENB updated to 1.79.
+Core - Lux updated to 6.3.
+Core - Lux Orbis updated to 3.3.
+Core - NAT.ENB III updated to 3.1.1.C-F.
+Core - Interesting NPCs - Interesting Follower Requirements updated to 2.02.
+Core - CBBE updated to 1.8.1.
+Core - Conditional Armor Type Animations updated to 1.3c.
+Core - Runway Walk Animation updated to 1.3c.
+Core - Goeta Animations CATA Female Idle Walk and Run updated to 1.2c.
+Core - Goeta Animations CATA Male Idle Walk and Run updated to 1.3c.
+Core - Goeta Animations CATA Sprint updated to 1.0c.
+Core - Leviathan Animations II CATA Female Idle Walk and Run updated to 2.3c.
+Core - Leviathan Animations II CATA Male Idle Walk and Run updated to 2.3c.
+Core - Leviathan Animations II CATA Sprint updated to 2.4c.
+Core - Vanargand Animations CATA Female Idle Walk and Run updated to 1.3.1c.
+Core - Vanargand Animations CATA Male Idle Walk and Run updated to 1.3.1c.
+Core - Vanargand Animations CATA Sprint updated to 1.3c.
+Core - Conditional Expressions Extended updated to 1.4.5.
+Core - Conditional Tavern Cheering updated to 1.1.0.
+Core - Customizable Faster Mining Animation updated to 2.0.0.
+Core - Customizable Faster Woodcutting Animation updated to 2.0.0.
+Core - Dynamic Female Hand Warming updated to 1.6.
+Core - Dynamic Female Ledge Sitting updated to 1.3.
+Core - Dynamic Female Wall Leaning updated to 1.3.
+Core - Immersive Folded Hands updated to 1.4.1.
+Core - NPC Animation Remix updated to 1.5.0.
+Core - Smooth Random Idle Animation updated to 1.7.
+Core - Bandit Lines Expansion updated to 1.08.
+Core - Civil War Lines Expansion updated to 1.07.
+Core - Hunters Not Bandits updated to 4.1.
+Core - Immersive Rejections updated to 1.11.
+Core - Misc Dialogue Edits updated to 1.9.2.
+Core - Immersive Interactions Animated Actions updated to 1.71.
+Core - WACCF updated to 2.9.4.
+Core - Dragon War updated to 3.0.5.
+Core - Blade and Blunt updated to 3.0.6.
+Core - TK Dodge RE updated to 0.55-rc3.
+Core - Custom Skills Menu updated to 1.1.7.
+Core - Poppy's Assorted CBBE Patches - removed FranklyHD
+Core - Dwemer Pipework Reworked - moved to v4 Old Files
+Core - Mesh Patches Lux and Lux Orbis - position updated within section, updated to 1.7.
+Core - Mesh Patch for Various Mods - updated delete instructions.
+Core - Fixed Mesh Lighting updated to 1.9.0.
+Core - Icy Mesh Remaster updated to 2.20.
+Core - GG's High Hrothgar Fixed Stairs updated to 1.2.
+Core - xLODGen Resource SSE Terrain Tamriel updated to 2.0.
+
+Adventures - Dragon War instructions changed.
+Adventures - There Is No Umbra updated to 1.11.
+Adventures - Aetherium Armor and Weapons updated to 1.1.1.
+Adventures - Legacy of the Dragonborn Visual Overhaul updated to 1.2.
+Adventures - Legacy of the Dragonborn Creation Club Patches instructions updated.
+Adventures - Legacy of the Dragonborn Perk Menus updated to 2.0.
+
+Addons - Favor Jobs Overhaul updated to 2.7.1.
+Addons - Immersive Aggressive Opponents updated to 1.5f.
+Addons - Speechcraft Randomization updated to 1.1.
+
+Arch - Optimized Cities of the North Meshes updated to 1.5.
+Arch - Snazzy Interiors Riften Snow-Shod Manor ESM instruction added.
+Arch - Rodryk's Dragon Bridge Retexture updated to 2.0.
+Arch - JK's Windhelm Outskirts updated to 1.1.1.
+Arch - JK's Wundhelm Outskirts Patch Collection updated to 1.2.
+Arch - Snazzy Interiors Whiterun House Battle-Born - added ESM instruction
+Arch - Snazzy Interiors Whiterun House Gray-Mane - added ESM instruction
+Arch - Denizens of Morthal updated to 1.3.
+Arch - Environs Kolskeggr - added ESM instruction
+
+Final - Updated Nemesis instructions.
+~~~
+
 # 2023-05-29
 
 ![Added]

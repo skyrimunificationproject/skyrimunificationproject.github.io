@@ -178,10 +178,8 @@ core:
         url: 71-late-loaders---meshes-and-textures
       - page: 72. Late Loaders - ENB Meshes
         url: 72-late-loaders---enb-meshes
-      - page: 73a. Late Loaders - Weather and ENB - Cathedral - Choose One
-        url: 73a-late-loaders---weather-and-enb---cathedral---choose-one
-      - page: 73b. Late Loaders - Weather and ENB - NAT - Choose One
-        url: 73b-late-loaders---weather-and-enb---nat---choose-one
+      - page: 73. Late Loaders - ENB Preset
+        url: 73-late-loaders--enb-preset
   - title: Utilities and Conflict Resolution
     subfolderitems:
       - page: 74. Utilities

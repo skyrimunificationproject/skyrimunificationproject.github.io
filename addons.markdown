@@ -86,7 +86,7 @@ Download: | Main Files: More Soaps for DnB with CACO recipes
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.4.0` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.1` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -191,7 +191,7 @@ Delete *_KID.ini.
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.4` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.5f` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ## Immersive Spell Learning - DESTified
@@ -209,7 +209,7 @@ Choose MCM:
 
 ## Speechcraft Randomization
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.0` | Author: `AndrealphusVIII` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.1` | Author: `AndrealphusVIII` | ![Optional]
 Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 # Addons - Immersion and Survival - Final Steps
