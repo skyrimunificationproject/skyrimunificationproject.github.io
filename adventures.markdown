@@ -34,8 +34,8 @@ Download: | Optional Files - Erikur's House rework for LotD
 
 ## Farmhouse Chimneys [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.1.1` | Author: `Scarla` | ![Core] ![ESL-C]
-Download: | Main Files - Farmhouse Chimneys SE v4.1.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.2.0` | Author: `Scarla` | ![Core] ![ESL-C]
+Download: | Main Files - Farmhouse Chimneys SE v4.2.1
 
 ![FOMOD]
 ~~~
@@ -43,7 +43,6 @@ Modded Towns:
    * Helgen Reborn
 New Lands:
    * Falskaar
-   * Wyrmstooth
 New Villages:
    * None
 ~~~
@@ -257,6 +256,12 @@ Download: | Main Files - Moon and Star
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/90145) | Version: `1.0.3` | Author: `tarlazo`
 Download: | Main Files - Moon and Star - Moss Creek Camp
+
+![FOMOD]
+~~~
+Options:
+   * Extended with TCIY and Wintersun
+~~~
 
 ## Moonpath to Elsweyr
 
@@ -1216,7 +1221,6 @@ ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Apply ESMifier script
 FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag
 FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
-FarmhouseChimneysWyrmstooth | Compact formIDs, add ESL flag
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
 Fossilsyum.esp | Apply ESMifier script

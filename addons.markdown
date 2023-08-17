@@ -76,7 +76,7 @@ Download: | Main Files - Contraband Confiscation v1
 
 ## Dirt and Blood - Dynamic Visual Effects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.24` | Author: `jayserpa`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.30` | Author: `jayserpa`
 Download: | Main Files: Dirt and Blood
 
 ## Dirt and Blood - Dynamic Visual Effects - More Soaps
@@ -86,7 +86,7 @@ Download: | Main Files: More Soaps for DnB with CACO recipes
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.1` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.2` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]

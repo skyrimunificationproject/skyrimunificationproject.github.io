@@ -3,6 +3,112 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-08-16
+
+![Added]
+~~~
+Core - Bugs and Script Fixes - Scripts Carefully Reworked Optimized and Tactically Enhanced
+Core - World Edits - Large Wilderness Edits - Simple Snow Improvements - Solstheim Ruins - Base Object Swapper
+Core - Trees and Grasses - Cathedral - 3D Happy Little Pine Shrubs
+Core - Meshes and Textures - Little Things - Furniture - Snazzy SMIM Common and Upper Chests Replacer
+Core - Meshes and Textures - Little Things - Furniture - Snazzy Strongbox Replacer
+Core - Meshes and Textures - Armor and Weapons - Guards and Stormcloaks Armors Retexture SE
+Core - Meshes and Textures - Armor and Weapons - Vampire Armors and Weapons Retexture SE
+Arch - Core - Distinct Interiors - ElSopa Potions Redone
+Arch - Core - Distinct Interiors - Skeleton Replacer HD Patch
+Arch - Solitude and Dragon Bridge - Fortified Ramp to the Castle Dour
+Arch - Solitude and Dragon Bridge - Snazzy Interiors - Solitude Erikur's House
+Arch - Capital Whiterun and Windhelm - Rob's Bug Fixes - Capital Whiterun Expansion
+~~~
+
+![Removed]
+~~~
+Core - DLC2AudioRepeaterActivator01Script Tweak
+Core - DLC2dunFrostmoonTriggerScript Optimization
+Core - DLC2dunNchardakDoorSeal Script Infinite Loop Fix
+Core - DLC2dunSeekerInvisScript Fix
+Core - DLC2MiraakScript Fix
+Core - DLC2PillarBuilderActorScript Tweak
+Core - DLC2TribalWerebearScript Fix
+Core - dunFolgunthurBossBattle Script Fix
+Core - MQ105SprintTriggerScript Fix
+Core - Shroud Hearth Barrow Script Fix
+Core - aMidianBorn Stormcloak Officer Armor
+Core - Dwarven Black Bow of Fate
+Core - Frankly HD - Stormcloak and City Guards
+Core - Sigils of Skyrim - Shields
+Core - Stormcloak Armor Revival
+Core - TDN Vampire Armor Retexture
+Core - XPMSSE - Fixed Scripts
+Core - XPMSSE - Papyrus Stack Fix
+Core - XPMSSE - Uncloaked
+Core - Vanilla Armors and Clothing - CBBE SSE - No Rim Lighting
+Core - XP32 Maximum Skeleton Special Extended - Settings Loader
+~~~
+
+![Updated]
+~~~
+Prereqs - Synthesis updated to 0.26.
+Prereqs - DynDOLOD updated to Alpha-134.
+Core - Formlist Manipulator updated to 1.7.1.
+Core - Keyword Item Distributor updated to 3.0.3.
+Core - powerofthree's Papyrus Extender updated to 5.6.1.
+Core - Enemies Respect Encounter Zones updated to 1.4.1.
+Core - Immersive Equipment Displays updated to 1.7.1.
+Core - NPCs Use Potions updated to 3.1.7.
+Core - Security Overhaul SKSE updated to 0.1.8.
+Core - Navigator updated to 1.4.7.
+Core - Scribes of Skyrim updated to 0.9.5.
+Core - Farmhouse Chimneys updated to 4.2.0.
+Core - College of Winterhold Quest Expansion updated to 1.14.
+Core - Headhunter updated tro 1.51.
+Core - DynDOLOD Resources updated to Alpha-38.
+Core - DynDOLOD DLL updated to Alpha-9, new link
+Core - Assorted Mesh Fixes updated to 0.90.
+Core - HD Stone Quarry updated to 2.0MMP.
+Core - Sigils of Skyrim 4K upscale moved to Furniture with Sigils of Skyrim-Banners.
+Core - Embers XD updated to 2.8.5.
+Core - Animated Forge Water updated to 0.7.3.
+Core - Simplicity of Snow updated to 0.14.
+Core - Water for ENB updated to 1.80.
+Core - Rudy Fix for Smoke moved to Weather Systems.
+Core - CBBE updated to 2.0.1, AE-CC Outfits and No Rim Lighting optionals added as new mod entries
+Core - Assorted Animation Fixes updated to 1.02.
+Core - CBPC updated to 1.5.8.
+Core - Flute Animation Fix updated to 1.1.
+Core - Female Player Animations updated to 1.0.1.
+Core - Male Player Animations updated to 1.0.1.
+Core - XPMSSE install instructions updated.
+Core - Immersive Interactions updated to 1.72.
+Core - Blade and Blunt updated to 3.1.1.
+Core - Experience updated to 3.2.0.
+Core - Dynamic Things Alternative updated to 0.2.2.
+Core - Unique Markarth Doors updated to 0.4.
+Core - Fixed Mesh Lighting install instructions updated.
+Core - ENB Transparency Fix - Word Wall updated to 0.3.
+Core - Bodyslide and Outfit Studio updated to 5.6.2.
+Adventures - Farmhouse Chimneys additional install updated to 4.2.0. (-Wyrmstooth)
+Adventures - Final Steps updated (-FarmhouseChimneysWyrmstooth)
+Arch - Great City of Winterhold Simple Snow Improvement updated to 1.6.
+Arch - Riften Docks Overhaul updated to 2.5.6.
+Arch - Snazzy Interiors - Markarth Nepos' House updated to 1.1.
+Arch - Snazzy Interiors - Markarth Treasury House updated to 1.1.
+Arch - Snazzy Interiors - Riften Black-Briar Manor updated to 1.4.
+Arch - Snazzy Interiors - Riften Snow-Show Manor updated to 1.2.
+Arch - Rodryk's DB Mesh and Collision Optimization updated to 1.4.
+Arch - Snazzy Interiors - Solitude Bryling's House updated to 1.1.
+Arch - JK's Whiterun Outskirts updated to 1.5.0.
+Arch - Ryn's Whiterun City Limits updated to 2.6.
+Arch - Snazzy Interiors - Whiterun House Battle-Born updated to 1.2.
+Arch - Snazzy Interiors - Whiterun House Gray-Mane updated to 1.1.
+Arch - Snazzy Interiors - Windhelm House of Clan Cruel-Sea updated to 1.2.
+Arch - Snazzy Interiors - Windhelm House of Clan Shattershield updated to 1.1.
+Arch - Environs - Kolskeggr updated to 3.01.
+Arch - Final - Added ESM instructions for Fortified Ramp, Snazzy Interiors
+Addons - Dirt and Blood updated to 2.30.
+Addons - Favor Jobs Overhaul updated to 2.7.2.
+~~~
+
 # 2023-07-22
 
 ![Added]
