@@ -400,10 +400,10 @@ Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
 ~~~
-Note: This is the default/recommended configuration.  There is unfortunately not room for all followers,
-so Xelzaz is not included.  You can choose another configuration of followers, but the
-conflict resolution patch will expect the unique meshes some items receive from these patches,
-and you will need to edit/fix the CR accordingly.
+Note: This is the default/recommended configuration.  There is unfortunately not room
+ for all followers, so Xelzaz is not included.  You can choose another configuration
+ of followers, but the conflict resolution patch will expect the unique meshes some
+ items receive from these patches, and you will need to edit/fix the CR accordingly.
 
 Multiple Rooms:
    * Khajiit Will Follow - Rooms B
