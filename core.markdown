@@ -8359,7 +8359,7 @@ Misc Files:
 
 ## RS Children Overhaul - BUVARP SE RE Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74088_ | Version: `1.1` | Author: `monkeyangie` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74088) | Version: `1.1` | Author: `monkeyangie` | ![Core] ![Visuals]
 Download: | Main Files - BUVARP - RS Children Patch
 
 ## RS Children Overhaul - Citizens of Tamriel Patch 
@@ -8645,11 +8645,6 @@ Download: | Miscellaneous Files - Cuyima Interesting NPCs - Salt and Wind
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44335) | Version: `1.2` | Author: `Kalilies, jasperthegnome, Shiva182, mashanen` | ![Visuals] |
 Download: | Main Files - Kalilies NPCs - Salt and Wind
-
-## KS Hairdos - Salt and Wind - Metalsabers Beautiful Orcs
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44975) | Version: `1.1` | Author: `Kalilies, jasperthegnome, mashanen` | ![Visuals] |
-Download: | Miscellaneous Files - Metalsabers Beautiful Orcs - Salt and Wind
 
 ## KS Hairdos - Salt and Wind - Pandorable's NPCs
 

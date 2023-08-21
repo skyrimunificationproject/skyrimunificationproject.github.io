@@ -110,8 +110,8 @@ core:
         url: 43-meshes-and-textures---environment
       - page: 44. Lighting
         url: 44-lighting
-      - page: 45. Weather Systems - General
-        url: 45-weather-systems---general
+      - page: 45. Weather Systems
+        url: 45-weather-systems
   - title: New NPCs
     subfolderitems:
       - page: 46. New NPCs - NPC and Enemy Encounters
