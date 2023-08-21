@@ -249,6 +249,10 @@ addons:
       url: a03-addons---immersion-and-survival-more-immersion
     - page: Addons - Immersion and Survival - Final Steps
       url: addons---immersion-and-survival---final-steps
+    - page: D01. Addons - Followers
+      url: d01-addons---followers
+    - page: Addons - Followers - Final Steps
+      url: addons---followers---final-steps
 adventures:
   - title: B01. Addons - Adventures - Install Changes
     url: b01-addons---adventures---install-changes

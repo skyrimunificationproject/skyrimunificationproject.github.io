@@ -223,7 +223,7 @@ Plugin | Instructions |
 - | -
 DEST_ISL.esp | Add ESL flag
 
-# D01 - Addons - Followers
+# D01. Addons - Followers
 
 ## Serana Dialogue Add-On
 
