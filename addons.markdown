@@ -10,12 +10,12 @@ Install these categories between "Utilities" and "Conflict Resolution".  Each ad
 
 ## Savage Offspring SKSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49377) | Version: `2.1.0` | Author: `powerofthree` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49377) | Version: `2.1.0` | Author: `powerofthree` | ![Optional]
 Download: | Main Files - Savage Offspring SE
 
 ## Slayable Offspring SKSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46826) | Version: `2.1.0` | Author: `powerofthree`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46826) | Version: `2.1.0` | Author: `powerofthree`| ![Optional]
 Download: | Main Files - Slayable Offspring SE
 
 ## Survival Control Panel
@@ -222,6 +222,228 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 DEST_ISL.esp | Add ESL flag
+
+# D01 - Addons - Followers
+
+## Serana Dialogue Add-On
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.0.2.3.` | Author: `Martimius`
+Download: | Main Files - Serana Dialogue Add-On SE
+
+## Serana Dialogue Add-On - Patch Hub
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.5` | Author: `Martimius`
+Download: | Main Files - SDA Patch Hub
+
+![FOMOD]
+~~~
+Animation Framework Patches:
+   * None
+Awareness Patches - Gameplay Mods:
+   * Campfire (If using Addon - Immersion and Survival)
+   * Wintersun (CACO Version)
+Awareness Patches - Crimson Blood Armor:
+   * None
+Awareness Patches - Lustmord Armor:
+   * None
+Awareness Patches - Follower Mods:
+   * None
+Awareness Patches - Quest Mods:
+   * House of Horrors Quest Expansion
+Compatibility Patches:
+   * Nether's Follower Framework
+   * Remiel
+Feature Preference Patches:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Delete SDA NFF Patch.esp.
+Delete SDA Wintersun Patch.esp.
+~~~
+
+
+## Khajiit Will Follow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.1` | Author: `robbobert` | ![QAC] ![ESM]
+Download: | Main Files - Khajiit Will Follow
+
+## Khajiit Will Follow - Forgotten City Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![QAC] ![ESM]
+Download: | Main Files - Patch - The Forgotten City
+
+## Khajiit Will Follow - eeekie's Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79072) | Version: `1.1` | Author: `eeekie` | ![CAO]
+Download: | Main Files - eeekie's KWF Replacer 4k
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Remiel
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.0` | Author: `Maplespice` | ![QAC] ![ESM]
+Download: | Main Files - Remiel-Dwemer Specialist
+
+![FOMOD]
+~~~
+Main File:
+   * Custom Voiced
+Banter Patch - Thogra:
+   * None
+Commentary Patches - Legacy of the Dragonborn:
+   * ESPFE
+Commentary Patches - Beyond Reach:
+   * None
+Commentary Patches - The Timelost Dwemer:
+   * None
+Misc Patches:
+   * None
+~~~
+
+## Remiel - BiR's Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85734) | Version: `1.2.0` | Author: `belladonnaisrunning` | ![CAO]
+Download: | Main Files - BiR Remiel Replacer
+
+![FOMOD]
+~~~
+Head:
+   * High Poly Head
+Skin:
+   * Custom Skin - CBBE Family
+Extras:
+   * Eyes - 2k
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Song of the Green
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `1.4` | Author: `Waribiki` | ![CAO] ![QAC] ![ESM]
+Download: | Main Files - Song Of The Green 1.4
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Song of the Green - 3DNPC Banter Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `0.2` | Author: `Waribiki` 
+Download: | Optional Files - 3DNPCs banter patch
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Song of the Green - Inigo Banter Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `0.1` | Author: `Waribiki` 
+Download: | Optional Files - Inigo Banter patch - sfts fix
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Song of the Green - Dismount AI Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57976) | Version: `1.1.0` | Author: `Wartortle`
+Download: | Main Files - Auri Dismount AI Fix
+
+## Song of the Green - Fancy Pod
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82661) | Version: `1.2` | Author: `GGUNIT`
+Download: | Main Files - Song of the Green Auri fancy pod
+
+## Song of the Green - Majestic Auri
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72361) | Version: `2.0` | Author: `urbon` | ![CAO]
+Download: | Main Files - Majestic Auri - A visual replacer
+
+![FOMOD]
+~~~
+Hairstyle:
+   * Classic Hair
+Human eyes:
+   * Elve eyes
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Xelzaz
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
+Download: | Main Files - Xelzaz Follower Core 1.9.0
+
+## Xelzaz - Wyrmstooth Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO]
+Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch
+
+## Legacy of the Dragonborn - Followers Patch [Followers Addon]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `3.0.1` | Author: `gutmaw` | ![CAO]
+Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
+
+![FOMOD]
+~~~
+Note: This is the default/recommended configuration.  There is unfortunately not room for all followers,
+so Xelzaz is not included.  You can choose another configuration of followers, but the
+conflict resolution patch will expect the unique meshes some items receive from these patches,
+and you will need to edit/fix the CR accordingly.
+
+Multiple Rooms:
+   * Khajiit Will Follow - Rooms B
+Room A-1:
+   * Remiel
+Room A-2:
+   * Inigo
+Room A-3:
+   * Auri
+Room A-4:
+   * Lucien
+Optionals:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+# Addons - Followers - Final Steps
+
+## xEdit
+
+Use the Quick Auto Clean shortcut to clean the following plugins one by one:
+
+|--
+Plugin |
+- | -
+018Auri.esp |
+HLIORemi.esp |
+KhajiitWillFollow.esp |
+
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
+
+|--
+Plugin | Instructions |
+- | -
+018Auri.esp | Apply ESMifier script
+HLIORemi.esp | Apply ESMifier script
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

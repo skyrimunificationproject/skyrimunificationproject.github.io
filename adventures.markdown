@@ -268,6 +268,11 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![ESM]
 Download: | Main Files - Moonpath to Elsweyr SSE
 
+## Moonpath to Elsweyr - Music - Weather and Other Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.3` | Author: `ToosTruus`
+Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
+
 ## Teldryn Serious - Backstory Quest
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5541) | Version: `7.0` | Author: `Undriel` | ![CAO] ![ESM]
@@ -584,6 +589,16 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58194) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
 Download: | Main Files - Modpocalypse NPCs (v2) The Gray Cowl of Nocturnal
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Simply Original and Unadulterated People from Wyrmstooth
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95781) | Version: `1.0` | Author: `Owlessa` | ![CAO]
+Download: | Main Files - S.O.U.P. from Wyrmstooth 1K
 
 ![PostInstall]
 ~~~
@@ -1230,6 +1245,7 @@ icebladeofthemonarch.esp | Apply ESMifier script
 konahrik_accoutrements.esp | Apply ESMifier script
 ktWeaponPackSE.esp | Apply ESMifier script
 MoonAndStar_MAS.esp | Apply ESMifier script
+moonpath.esp | Apply ESMifier script
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
 The Brotherhood of Old.esp | Apply ESMifier script

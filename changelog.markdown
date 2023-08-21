@@ -3,6 +3,80 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 2023-08-21
+
+![Added]
+~~~
+Core - SKSE Plugins (Framework) - dMenu
+Core - SKSE Plugins (Framework) - Open Animation Replacer - IED Conditions
+Core - Bugs and Mesh Fixes - Load Screen Shading Fix
+Core - Bugs and Script Fixes - Stuck on Screen Load Door Prompt Fix
+Core - UI - Dynamic Activation Key - MCM
+Core - UI - Dynamic Activation Key - Addons Collection
+Core - UI - Select One Skip - Hold Key To Skip Quantity Menu
+Core - HUD - Dear Diary Dark Mode - RaceMenu Patch - Dynamic Interface Patcher
+Core - HUD - Wheeler - Quick Action Wheel of Skyrim
+Core - HUD - Wheeler - THana Khan Dear Diary Dark Mode Preset
+Core - World Edits - Dungeons - Outlaws Refuges - Base Object Swapper
+Core - World Edits - Large Wilderness Edits - Slightly Better Nordic Henges - Base Object Swapper
+Core - Content - Modified Vanilla Content - Quest Expansions - The Heart Of Dibella Quest Expansion
+Core - Meshes and Textures - General World Improvement - FYX - Water Mesh Optimization
+Core - Meshes and Textures - Trees and Grasses - Happy Little Trees No Dead Twig Branches
+Core - Meshes and Textures - Armor and Weapons - Thieves Guild Armors Retexture SE
+Core - Beauty and Appearance - NPC - NPC Overhauls - Simply Original and Unadulterated People from BUVARP
+Core - Animation - Framework - Sonders Keyword Distribution Resources
+Core - Animation - Foundation - First Person Animation Teleport Bug Fix
+Core - Animation - Foundation - Weapon Styles - Draw-Sheathe Animations for IED
+Core - Animation - Conditional Idles and Misc - Dynamic Female Rail Leaning
+Core - Animation - Conditional Idles and Misc - Dynamic Female Weather Idles
+Core - Animation - Conditional Idles and Misc - Subtle Feminine Carriage Sitting Animation
+Core - Immersion - General - Immersive Death Cycle
+Core - Utilities - Dynamic Interface Patcher
+Adventures - New Lands and Quests - Moonpath To Elsweyr - Music - Weather and Other Fixes
+Adventures - NPC Retextures - Simply Original and Unadulterated People from Wyrmstooth
+Addons - Followers - Serana Dialogue Add-On
+Addons - Followers - Serana Dialogue Add-On - Patch Hub
+Addons - Followers - Khajiit Will Follow
+Addons - Followers - Khajiit Will Follow - Forgotten City Patch
+Addons - Followers - Khajiit Will Follow - eeekie's Replacer
+Addons - Followers - Remiel
+Addons - Followers - Remiel - BiR's Replacer
+Addons - Followers - Song of the Green
+Addons - Followers - Song of the Green - 3DNPC Banter Patch
+Addons - Followers - Song of the Green - Inigo Banter Patch
+Addons - Followers - Song of the Green - Dismount AI Fix
+Addons - Followers - Song of the Green - Fancy Pod
+Addons - Followers - Song of the Green - Majestic Auri
+Addons - Followers - Xelzaz
+Addons - Followers - Xelzaz - Wyrmstooth Patch
+Addons - Followers - Legacy of the Dragonborn - Followers Patch [Followers Addon]
+Addons - Followers - Final Steps
+~~~
+
+![Removed]
+~~~
+Core - Frankly HD Thieves Guild Armors
+~~~
+
+![Updated]
+~~~
+Core - MCM Recorder moved to Utilities. (SkyUI script overwrite)
+Core - Immersive Equipment Displays updated to 1.7.2.
+Core - NPC Stuck In Bleedout Fix updated to 0.1.3.
+Core - DynDOLOD Resources DLL updated to Alpha-11.
+Core - Embers XD updated to 2.8.6.
+Core - Simplicity of Snow updated to 0.15.
+Core - XPMSSE updated to 5.04.
+Core - kryptopyr's Patch Hub - Added CACO-Survival to FOMOD.
+Core - Cathedral 3D Mountain Flowers Base Object Swapper updated to 0.1.22.
+Core - Icy Mesh Remaster updated to 2.21.
+Core - ENB Lights Misc Effects updated to 1.6.
+Final - Added Dynamic Interface Patcher instructions (already done for WJ)
+Final - Updated Nemesis instructions (rerun for manual guide)
+Final - Restored MCM settings as purely informational, MCM Recorder should now autorun
+Adventures - Final - Added ESM instructions for moonpath.esp.
+~~~
+
 # 2023-08-16
 
 ![Added]

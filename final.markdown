@@ -130,7 +130,16 @@ Copy the userlist.yaml from the Skyrim Unification Project - Conflict Resolution
 
 Sort your mods with the LOOT executable shortcut from MO2.
 
+# Dynamic Interface Patcher
 
+Add mods/Dynamic Interface Patcher/DIP/DIP.exe as an executable in MO2 and run it.
+
+It should automatically detect the game virtual data folder and the path to the DDDM RaceMenu patch in the data folder.  If not, select them.
+
+Click Patch. When the popup appears, click Close DIP.
+
+You now have interface/racemenu/bottombar.swf, buttonart.swf, and interface/racesex_menu.swf in Overwrite. 
+You can leave them there or put them in a new mod.
 
 # EasyNPC
 
@@ -243,7 +252,8 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Payload Interpreter', 'Ice Skating Fixed For Real', 'Some Creature Behavior Bug Fixes', 'Only TK Dodge RE', and 'zxlice hitstop fixed'.
+Select 'Payload Interpreter', 'Ice Skating Fixed For Real', 'Some Creature Behavior Bug Fixes', 
+'TK Dodge RE/Ultimate Combat', 'Animation Teleport Bug Fix', and 'zxlice hitstop fixed'.
 
 Click 'Update Engine'
 
@@ -252,9 +262,6 @@ After the 'Update Engine' finishes, click 'Launch Nemesis Behavior Engine'
 Note: If an error occurs after launching 'Launch Nemesis Behavior Engine' about missing hkx files, simply 'Update Engine' and 'Launch Nemesis Behavior Engine' again without closing Nemesis.
 
 When the log window says 'Behavior generation complete.', close Nemesis.
-
-Flag the generated FNIS.esp as ESL.
-
 
 
 # xLODGEN
@@ -352,29 +359,112 @@ After it completes, choose "Save and Zip and Exit", then install the zip as a mo
 
 
 The following MCM menus will be auto-populated from files distributed with Skyrim Unification Project - Conflict Resolution, either by settings loader or direct globals editing.
+The specified configuration is listed here for your information.
 
-```
-A Matter of Time
-Cathedral Weather
-Complete Alchemy
-Complete Crafting
-EVG Conditional Idles
-Follower Framework
-moreHUD
-RDO
-SkyUI
-Sofia
-Storm Lightning
-Thieves Guild Req
-Timing Is Everything
-Trade and Barter
-VioLens
-XPMSE
-```
+## A Matter of Time
+
+~~~
+General:
+   * Symbol 1
+      + Show Moon Phases: Enabled
+      + Show Seasons: Enabled
+Display:
+   * Symbol 1
+      + Scale: 60%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -50
+      + Vertical Offset: 0
+   * In-Game Clock
+      + Scale: 70%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -45
+      + Vertical Offset 48
+   * In-Game Date
+      + Scale: 70%
+      + Horizontal Anchor: RIGHT
+      + Horizontal Offset: -45
+      + Vertical Offset: 57
+~~~
+
+## Complete Alchemy
+
+~~~
+Alchemy
+   * Potion Duration
+      + Restore Health: 5 Secs
+      + Restore Magicka: 5 Secs
+      + Restore Stamina: 5 Secs
+   * Potion Duration
+      + Damage Health: 5 Secs
+      + Damage Magicka: 5 Secs
+      + Damage Stamina: 5 Secs
+Cooking
+   * Cooking Skill
+      + XP Notifications: Enabled
+Harvest
+   * Ingredients
+      + Pre-Perk Ingredients Chance: 25%
+      + Post-Perk Ingredients Chance: 50%
+   * Food Containers
+      + Frequency: Uncommon
+      + Quantity: Reduced
+Basic Needs
+   * Sleep Options
+      + Rested Bonus for Werewolves: Enabled
+~~~
+
+## Complete Crafting
+
+~~~
+Recipe Display
+   * Crafting Menu Filters
+      + Extended Jewelry Types: Enabled
+      + Breakdown Recipes: Enabled
+      + Inventory Conditions: Enabled
+   * Additional Display Options
+      + Craft Daedric Items Only at Night: Enabled
+Crafting Options
+   * Additional Items
+      + Artifact Replicas: Enabled
+      + Matching Set Circlets: Enabled
+Learning & XP
+   * Smithing Experience
+      + Tanning Rack: .5
+      + Smelter: .5
+      + Mining: 15
+   * Learn to Craft
+      + Learning Points Require to Craft: 250
+Mining & Materials
+   * Mining
+      + Mining Presets: Faster Mining
+      + Mining Makes Noise: Enabled
+~~~
+
+## Follower Framework
+
+~~~
+Activity
+   * Sandboxing
+      + Only Sandbox in Town: Enabled
+   * Catch Up (Teleport)
+      + Allow Teleport: Disabled
+Gameplay
+   * Regard System
+      + Allow Regard: Off
+Interaction
+   * Gold Expenditure
+      + Initial Weekly Follower Cost: 200.0 Gold
+   * Optional Companions
+      + Saadia: Enabled
+      + Ysolda: Enabled
+      + Winterhold Mages: Enabled
+      + Thieves Guild Members: Enabled
+System
+   * Notifications
+      + Startup Tasks Notification: Disabled
+~~~
 
 ## Lock Overhaul
-
--Cannot be modified by globals
 
 ~~~
 General
@@ -393,9 +483,30 @@ Unlock with Magic
       + Frost effect Required Skill malus -0 SKILL
 ~~~
 
-## Simply Knock
+## moreHUD
 
--Cannot be modified by globals
+~~~
+Enemy's Level
+   * General
+      + Show Enemy Level: Disabled
+	  + Show Soul Level: Disabled
+   * Enemy Meters
+      + Show Magicka Meter: Disabled
+	  + Show Stamina Meter: Disabled
+   * Enemy Stastistics
+      + Show Health Numbers: Disabled
+~~~
+
+## RDO
+
+~~~
+Other Options
+   * Toggle NPCs
+      + Allow RDO Added Followers: Disabled
+      + Allow Terek: Disabled
+~~~
+
+## Simply Knock
 
 ~~~
 Settings
@@ -405,7 +516,137 @@ Settings
       + Failure Timeout: 12 HOURS
 ~~~
 
+## Sky UI
 
+~~~
+General
+   * Item List
+      + Font Size: Small
+      + Category Icon Theme: Celtic
+   * Active Effects HUD
+      + Minimum Time Left: 0 S
+Controls
+   * Favorite Groups
+      + Group 5: F5
+      + Group 6: F6
+      + Group 7: F7
+      + Group 8: F8
+Advanced
+   * SWF Version Checking
+      + Map Menu: Disabled
+      + Favorites Menu: Disabled
+      + Inventory Menu: Disabled
+      + Barter Menu: Disabled
+      + Container Menu: Disabled
+      + Crafting Menu: Disabled
+~~~
+
+## Sofia
+
+~~~
+Sofia Settings
+   * Sofia Config
+      + Comments Frequency: 4.0 Hours
+~~~
+
+## Storm Lightning
+
+~~~
+Presets
+   * Load Preset
+      + Realistic: Enabled
+Settings
+   * Fork Lightning
+      + Minimum Fork Distance: 1
+~~~
+
+## Thieves Guild Req.
+
+~~~
+Requirements to Begin 3rd Quest
+   * Radiant Jobs Completed: 20
+   * Randomize: Enabled
+Requirements to Begin 4th Quest
+   * Radiant Jobs Completed: 30
+   * Randomize: Enabled
+City Influence Quests
+   * Markarth: 10
+   * Solitude: 10
+   * Whiterun: 10
+   * Windhelm: 10
+   * Randomize: Enabled
+~~~
+
+## Timing is Everything
+
+~~~
+Extra Options
+   * Presets
+      + Load Preset: Enabled
+DLC Quests
+   * Dawnguard
+      + Enable Vampire Attacks: Enabled
+      + Vampire Attacks: 22
+      + Vampire Attack Chance: 50
+      + Dawnguard Recruitment: 24
+      + Min Days Between Attacks: 3
+   * Hearthfire
+      + Minimum Level: 15
+   * Dragonborn
+      + Timing Unknown
+      + Minimum Level: 40
+Other Quests
+   * Daedric
+      + The Cursed Tribe: 27
+      + The Break of Dawn: 34
+      + The Break of Dawn: No Vampires: Enabled
+      + The Only Cure: 31
+      + A Night to Remember: 22
+      + Discerning the Transmundane: 45
+      + The Whispering Door: 37
+      + Pieces of the Past: 35
+      + Boethiah’s Calling: 36
+   * Misc Quests
+      + Kill the Giant: 15
+      + Kill the Vampire: 27
+    * Extra Options
+      + World Encounters
+         - Werewolf Encounters: Enabled
+         - Thalmor Squad: Quest Requirement: Enabled
+         - Hired Thugs: Stolen Item Value: 125
+      + Dragon Attacks
+         - Dragon Attacks Chance: 75
+~~~
+
+## Trade & Barter
+
+~~~
+Barter Rates
+   * Settings
+      + Modify Barter Settings: Enabled
+   * Presets
+      + Barter Presets: Medium
+Player Variables
+   * Misc Factors
+      + Weapon Drawn: -10% Prices
+~~~
+
+## Violens
+
+~~~
+Melee & Ranged
+   * Melee
+      + Camera View: 3RD PERSON LAST
+      + Last Enemy Restriction: Disabled
+      + Player Killmove Immunity: Enabled
+   * Ranged
+      + Camera View: PROJECTILES
+      + Last Enemy Restriction: Disabled
+Stealth & Triggers
+   * Triggers
+      + Left Attacks: Enabled
+      + Alt Werewolf Attacks: Enabled
+~~~
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square
