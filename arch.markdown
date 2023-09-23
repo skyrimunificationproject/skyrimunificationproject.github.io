@@ -389,6 +389,11 @@ Download: | Main Files - Snazzy Interiors - Riften Black-Briar Manor
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91788) | Version: `1.2` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Riften Snow-Shod Manor
 
+## Snazzy Exteriors - Riften Snow-Shod Manor
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99967) | Version: `1.1` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Exteriors - Riften Snow-Shod Manor
+
 # C05. Addons - Project Arch - Solitude and Dragon Bridge
 
 ## Drengin's Blue Palace Terrace
@@ -462,8 +467,13 @@ Download: | Main Files - Snazzy Interiors - Solitude Bryling's House
 
 ## Snazzy Interiors - Solitude Erikur's House
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96339) | Version: `1.1` | Author: `gutmaw` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96339) | Version: `1.3` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Solitude Erikur's House
+
+## Snazzy Exteriors - Solitude Bryling's Garden
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100290) | Version: `1.0` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Exteriors - Solitude Bryling's House Garden
 
 # C06. Addons - Project Arch - Capital Whiterun and Windhelm
 
@@ -509,9 +519,19 @@ Delete Capital Windhelm HPNPC & KS Hair Patch JS.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65492) | Version: `1.1` | Author: `twizz0r` | 
 Download: | Main Files - Windhelm Fence 3D-Capital Windhelm Expansion Mesh Patch
 
+## Capital Windhelm Expansion - Collision Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99599) | Version: `1.1` | Author: `gutmaw`
+Download: | Main Files - Capital Windhelm Expansion - Colission Fixes
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
 ## GG's Capital JK's Whiterun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `1.03` | Author: `GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.0` | Author: `GGUNIT`
 Download: | Main Files - GG's Capital JK Whiterun
 
 ![PostInstall]
@@ -1061,6 +1081,8 @@ Ryn's Farms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
+Snazzy Exteriors - Riften Snow-Shod Manor.esp | Apply ESMifier script
+Snazzy Exteriors - Solitude Bryling's House Gardens.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Guard Tower.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Nepos' House.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Treasury House.esp | Apply ESMifier script

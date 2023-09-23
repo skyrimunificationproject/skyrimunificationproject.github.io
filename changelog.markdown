@@ -3,6 +3,169 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0 RC1 - 2023-09-23
+
+![Added]
+~~~
+Core - SKSE Plugins (Framework) - Mu Skeleton Editor
+Core - SKSE Plugins (Framework) - Rogue's Gallery
+Core - SKSE Plugins - Female Equipment Scale Fix
+Core - SKSE Plugins - Items Stolen Bug Fix
+Core - SKSE Plugins - Locked Empty Container Activate Text Fix
+Core - SKSE Plugins - LOD Unloading Bug Fix
+Core - SKSE Plugins - Naked Dead NPC Fix
+Core - SKSE Plugins - No Furniture Camera
+Core - SKSE Plugins - Paired Animation Improvement
+Core - User Interface - UI - Show Follower Carry Weight
+Core - User Interface - UI - Show NPC Disposition Relationship Rank
+Core - User Interface - HUD - Dear Diary Dark Mode - More Notifications
+Core - World Edits - Large Wilderness Edits - Diverse Firewood Base Object Swapper
+Core - Meshes and Textures - General World Improvement - Improved Jail Bars
+Core - Meshes and Textures - Architecture (Buildings) - Icy Windhelm
+Core - Meshes and Textures - Architecture (Buildings) - FYX Hrothgar Steps Collisions
+Core - Meshes and Textures - Landscape - Snowy Surfaces Sound Collision and Aesthetics
+Core - Meshes and Textures - Trees and Grasses - Improved Vanilla Reach Trees
+Core - Meshes and Textures - Little Things - Flora - Cathedral 3D Mountain Flowers for Hearthfire
+Core - Meshes and Textures - Little Things - Food - High Poly Salmon Roe
+Core - Meshes and Textures - Little Things - Food - Slightly Better Honey Nut Treat
+Core - Meshes and Textures - Little Things - Food - Sowables of Skyrim - Scrumptious Cabbages
+Core - Meshes and Textures - Little Things - Clutter - ElSopa Potions Redone Less Emissive and Fixed Inventory Size
+Core - Meshes and Textures - Little Things - Clutter - High Poly Project
+Core - Meshes and Textures - Little Things - Clutter - High Poly Project - My Fixes - Chopping Blocks and Firewood
+Core - Meshes and Textures - Armor and Weapons - Forsworn Armors and Weapons Retexture SE
+Core - Beauty and Appearance - Hair Brow Beards - KS Hairdos Salt and Wind Foamimi's Retexture Hub
+Core - Animation - Conditional Combat - Weapon Switch Animation Fix
+Core - Animation - Conditional Combat - Leviathan Animations II Greatsword Sneak Locomotion and Attacks
+Core - Animation - Conditional Idles and Misc - Improved Idle Laydown Animations OAR
+Core - Animation - Conditional Idles and Misc - Organic Player Animation OAR
+Core - Late Loaders - Meshes and Textures - Ancient Dwemer Metal - Patches - 3D Manhole
+Core - Late Loaders - Meshes and Textures - Shingles Alpha Patch
+Core - Late Loaders - Meshes and Textures - Medieval Spirits Empty Hearthfire Wine Bottles Patch
+Core - Utilities - Immersive Interactions Legacy Settings Loader
+Addons - Survival - Dirt And Blood Expanded
+Addons - Survival - Footprints
+Addons - Survival - Footprints - Sand Patch
+Addons - Survival - Footprints - SPID
+Addons - Survival - Footprints - SPID - Ultimate Fix
+Addons - Survival - Immersive Carcass Carrying
+Addons - Survival - Immersive Hunting Animation
+Addons - Survival - Simple Hunting Overhaul
+Addons - Survival - Campfire - Igniting Animation
+Addons - Survival - Campfire - Hotkey Modded Menu Fix
+Addons - Survival - Dirt and Blood Expanded - Animation Patch
+Addons - Survival - SunHelm CACO Patch
+Addons - Survival - Go To Bed Settings Loader
+Addons - Survival - Survival Control Panel Settings Loader
+Addons - Survival - SunHelm Settings Loader
+~~~
+
+![Removed]
+~~~
+Core - Better Honey Nut Treats
+Core - Ancient aMidianBorn Dwarven Armory
+Core - RUSTIC ARMOR and WEAPONS
+Core - Large Portcullis Collision Mesh Fix
+Core - Mesh Patch for Various Mods
+Core - Rally's Torchbugs - Bliss Bug AE
+Core - Rally's Torchbugs - Bugs in Jars
+Addons - Survival - Suspicious City Guards
+~~~
+
+![Updated]
+~~~
+Prerequisites - DynDOLOD updated to Alpha-148.
+Core - Base Object Swapper updated to 2.6.1.
+Core - dMenu updated to 1.2.1.
+Core - Keyword Item Distributor updated to 3.0.4.
+Core - Open Animation Replacer updated to 2.0.2.
+Core - Open Animation Replacer - IED Conditions updated to 1.0.2.
+Core - Skyrim Skill Uncapper updated to 2.2.2.
+Core - Spell Perk Item Distributor downgraded to 6.4.0.
+Core - Better Third Person Selection updated to 0.5.9.
+Core - Immersive Equipment Displays updated to 1.7.3.
+Core - Photo Mode updated to 1.2.0.
+Core - Skyrim Particle Patch for ENB to 1.2.6.
+Core - Navigator updated to 1.5.2.
+Core - Skyrim Landscape and Water Fixes updated to 8.0.
+Core - CritterSpawn Congestion Fix updated to 1.4.
+Core - Interesting NPCs Script Optimization updated to 2.0.
+Core - Scripts Carefully Reworked Optimized and Tactically Enhanced updated to 1.0.1.
+Core - Zero Bounty Hostility Fix updated to 0.3.
+Core - Dynamic Activation Key updated to 1.02.
+Core - Wheeler updated to 1.2.
+Core - Farmhouse Chimneys updated to 4.2.1.
+Core - Northern Roads Patch Collection updated to 1.20.1.
+Core - Simple Snow Improvements - Skyrim - Base Object Swapper updated to 2.0.
+Core - BUVARP RE updated to 1.3.
+Core - House of Horrors Quest Expansion updated to 1.12.
+Core - C.O.I.N. updated to 2.1.2.1.
+Core - New Armory Series Ash Spawn Weapons updated to 1.2.
+Core - DynDOLOD Resources updated to Alpha-45.
+Core - DynDOLOD Resources Scripts and DLL NG updated to Alpha-12.
+Core - LOD Model Library for DynDOLOD updated to 1.3.2.
+Core - Rally's All The Things updated to 1.6, download and instructions changed.
+Core - Gemstones Replacers HD - added FalmerEyeGemstone download
+Core - Sigils of Skyrim Banners - updated instructions.
+Core - Sigils of Skyrim Banners Upscale - updated instructions.
+Core - Embers XD updated to 2.8.9.
+Core - Animated Forge Water updated to 0.8.
+Core - Water for ENB upddated to 1.83.
+Core - True Directional Movement updated to 2.2.4.
+Core - CBPC updated to 1.5.9.
+Core - Collision Reset updated to 1.3.
+Core - Dynamic Sprint updated to 1.4a.
+Core - Varangand Animations OAR CATA Female Idle Walk Run changed to Varangand II
+Core - Varangand Animations OAR CATA Male Idle Walk RUn changed to Varangand II
+Core - Immersive Folded Hands updated to 1.5.0.
+Core - NPC Animation Remix updated to 1.6.0.
+Core - Savage Skyrim instructions updated.
+Core - Immersive Death Cycle updated to 1.02.
+Core - Trade and Barter updated to 2.1.
+Core - Nether's Follower Framework updated to 2.8.5.
+Core - Dragon War updated to 3.1.3.
+Core - Reliquary of Myth updated to 4.7.2.
+Core - Better Windhelm Ground Meshes optional file added for Icy Windhelm
+Core - Fixed Mesh Lighting instructions updated
+Core - Rally's Torchbugs renamed to Rally's Sparkling Torchbugs, updated to 1.3.
+Core - Bodyslide and Outfit Studio updated to 5.6.3.
+Core - A Matter Of Time Settings Loader swapped to MCM Helper version.
+Adventures - Moonpath to Elsweyr Fixes updated to 1.5.
+Adventures - Legacy of the Dragonborn - Patches updated to 2.9.9.
+Addons - Survival - Favor Jobs Overhaul updated to 2.7.3.
+Addons - Survival - Immersive Spell Learning DESTified updated to 2.0.
+Addons - Followers - Serana Dialogue Add-On Patch Hub updated to 2.6.
+Final - Added ESMify instructions for FarmhouseChimneys.esp, Icy Windhelm.esp.
+~~~
+
+![Bugfixes]
+~~~
+- (Base): Set ScriptEquipEventFix to true in EquipEnchantmentFix.ini
+- (Base): SkinHandFemaleAfflicted using the MaleHands texture path. Changed Actors\Character\Male\MaleHandsAfflicted.dds to Actors\Character\Female\FemaleHandsAfflicted.dds (97A39).
+- (Base): Folded esp for dedicated textures for Armor of the Old Gods.
+- (Base): Folded edits for snowy wood chopping blocks for HPP.
+- (Base): Folded edits for Xtudo White Phial mesh path.
+- (Base): Folded esp for dedicated texture for Rally's Torygg's War Horn
+- (Base): Resolved conflicts with NAT rainy weather
+- (Addon - Followers): Forwarded changes from SDA Wintersun Patch.esp into Skyrim Unification Project - Addon - Followers. Added Magic Effect conditions to WSN_Divine_Dibella_Boon1_Perk (xx100517BE) and quest property to WSN_TrackerQuest_Quest (xx5901).
+- (Addon - Followers): Forwarded changes from SDA NFF Patch.esp into Skyrim Unification Project - Addon - Followers. Added conditions to text and adjusted text for various dialog topics, added script properties to nwsFollowerTavernScene (xxFAC6F).
+- (Addon - Followers): Forwarded changes from SDA RDO Patch.esp into Skyrim Unification Project - Addon - Followers. Added Global Value condition and adjusted game flags to aa_RDODLC1SeranaNonHate (xx29050).
+- (Addon - Followers): Forwarded changes from NPCs_Wear__Amulets_Of_Mara - SDA Patch.esp into Skyrim Unification Project - Addon - Followers. Added PlayerRef conditions regarding SDA_MarriageFaction to various dailog topics in RelationshipMarriageIntroDialogueCourtingIntroTopic (74DDB).
+- (Addon - Followers): Khajiit Will Follow display quest objectives to find the followers. Added conditions to prevent the quest objectives displaying where to find the followers (xx042D8D,xx855543).
+- (Addon - Followers): Auri's Pod map marker is visible at the start of the game. Removed visible flag (xx313987).
+- (Addon - Followers): Script conflict between USSEP, Winterun, and Auri (QF_DA04_0002D512). Combined script properties from all three scripts (2D512).
+- (Addon - Followers): Auri will not recognize the player as a vampire for a specific lines of dialogue. Fixed dialogue conditions to allow Auri recognize the player when they are a vampie (xx0CC7C1,xx0CC7C2,xx0C0190,xx280985). 
+- (Addon - Followers): Auri refuses to use non-ranged weapons. Auri while still prefering ranged weapons, can now also use melee weapons (xx337129).
+- (Addon - Adventures): Changed landscape textures from MaterialDirt to MaterialMud to allow Footprints to appear in sand for the Gray Cowl.
+- (Addon - Survival): Edited _camp_vendorstock.pex to remove its ability to distribute items to vendors via script. Script is now essenitally empty.
+- (Addon - Survival): Forwarded changes from CampfireTextEdit.esp and YOT into Skyrim Unification Project - Addon - Survival. Various text is in first-person and other changes were made to be consistent with SUP and vanilla.
+- (Addon - Survival): Forwarded changes from SunHelmOCWPatch.esp into Skyrim Unification Project - Addon - Survival. Added Get In Faction conditions to dialog topics (xx54DFD8, xx5530DC).
+- (Addon - Survival): Forwarded changes from Sunhelm Magical Heat Sources.esp into Skyrim Unification Project - Addon - Survival. Added SummonAtronachFlame and FireBarrierHazard as heat sources for Sunhelm (xx785118, xx78511A).
+- (Addon - Survival): Changed _SHRefillInnsTopicdialog text from "Can you refill my waterskins and bottles? (10 gold)" to "Can you refill my waterskins and bottles? (10 Septims)" (xx54DFD8).
+- (Addon - Survival): Changed landscape textures from MaterialDirt to MaterialSand to allow Footprints to appear in the Soul Cairn.
+- (Addon - Survival): Removed meal dialog from Sunhelm (xx5530DB).
+- (Addon - Adventures): Folded Blackread's Wyrmstooth patches for crates and FYX East Empire navmesh.
+~~~
+
 # 2023-08-21
 
 ![Added]
@@ -3232,3 +3395,4 @@ Core 3 - Skyrim Unification Project Gameplay Overhaul - added link
 [regenerate]: https://img.shields.io/badge/Regenerate-important?style=for-the-badge
 [updated]: https://img.shields.io/badge/Updated-informational?style=for-the-badge
 [removed]: https://img.shields.io/badge/Removed-critical?style=for-the-badge
+[bugfixes]: https://img.shields.io/badge/Bugfixes%20and%20Changes-blue?style=for-the-badge

@@ -65,6 +65,7 @@ ENB Light.esp | Compact formIDs, add ESL flag
 ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | Compact formIDs, add ESL flag
+FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
@@ -72,6 +73,7 @@ HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 IcyFixes.esm | Compact formIDs, add ESL flag
+Icy Windhelm.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script

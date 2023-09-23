@@ -8,15 +8,7 @@ Install these categories between "Utilities" and "Conflict Resolution".  Each ad
 
 # A01. Addons - Immersion and Survival (Core)
 
-## Savage Offspring SKSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49377) | Version: `2.1.0` | Author: `powerofthree` | ![Optional]
-Download: | Main Files - Savage Offspring SE
-
-## Slayable Offspring SKSE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46826) | Version: `2.1.0` | Author: `powerofthree`| ![Optional]
-Download: | Main Files - Slayable Offspring SE
 
 ## Survival Control Panel
 
@@ -26,7 +18,7 @@ Download: | Old Files - Survival Control Panel
 ## Sunhelm Survival and Needs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39414) | Version: `3.1.4` | Author: `colinswrath`
-Download: | Main Files: SunHelm Survival
+Download: | Main Files - SunHelm Survival
 
 ![FOMOD]
 ~~~
@@ -36,7 +28,7 @@ Extra Options:
 Platform:
    * SkyrimSE
 Patches:
-   * Wyrmstooth Region Patch (if using Adventures)
+   * Wyrmstooth Region Patch
 ~~~
 
 ![PostInstall]
@@ -62,12 +54,39 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 ## Campfire - Complete Camping System - Collectable Deadwood and Branches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65703) | Version: `1.0` | Author: `WiZkiD`
-Download: | Main Files: Campfire Collectable Deadwood and Branches BOS
+Download: | Main Files - Campfire Collectable Deadwood and Branches BOS
 
-## Campfire - Complete Camping System - Cuyi's Backpacks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49532) | Version: `1.1` | Author: `cuyima`
-Download: | Main Files: Cuyi's Campfire Backpacks
+
+
+# A02. Addons - Immersion and Survival (Immersion)
+
+## Savage Offspring SKSE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49377) | Version: `2.1.0` | Author: `powerofthree` | ![Optional]
+Download: | Main Files - Savage Offspring SE
+
+## Slayable Offspring SKSE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46826) | Version: `2.1.0` | Author: `powerofthree`| ![Optional]
+Download: | Main Files - Slayable Offspring SE
+
+## Backpack Penalty
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57206) | Version: `2.01` | Author: `suisuisuiso` | ![Optional]
+Download: | Main Files - Backpack Penalty
+
+![FOMOD]
+~~~
+Option:
+   * Legacy of the Dragonborn (if using Adventures)
+~~~
+
+![PostInstall]
+~~~
+Delete *_KID.ini.
+~~~
+
 
 ## Contraband Confiscation
 
@@ -76,17 +95,50 @@ Download: | Main Files - Contraband Confiscation v1
 
 ## Dirt and Blood - Dynamic Visual Effects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.30` | Author: `jayserpa`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.30` | Author: `jayserpa` | ![CAO]
 Download: | Main Files: Dirt and Blood
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Dirt and Blood - Dynamic Visual Effects - More Soaps
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52367) | Version: `2.0` | Author: `InstantKor`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52367) | Version: `2.0` | Author: `InstantKor` | ![CAO]
 Download: | Main Files: More Soaps for DnB with CACO recipes
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Dirt and Blood - Dynamic Visual Effects - Expanded
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87960) | Version: `1.5.0` | Author: `jagerguy` | ![CAO]
+Download: | Main Files - Dirt and Blood Expanded (DNBE)
+| Optional FIles - PRieST47's Cloth Texture
+
+![FOMOD]
+~~~
+Survival Mods:
+   * SunHelm
+Recipe Patch:
+   * CACO Only
+Inn Soap:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.2` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.4` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -102,6 +154,65 @@ ResourceFurnitureScript.pex:
    * Complete Crafting Overhaul Remastered (CCOR)
 ~~~
 
+## Footprints
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | Version: `1.6.1` | Author: `hexabit`
+Download: | Main Files - Footprints 1.6.1
+| Optional Files - Footprints - ENB
+
+## Footprints - Heels Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72854) | Version: `1.0.7` | Author: `SiweX92`
+Download: | Main Files - footprints-heelsAddon_SPID_v1.07
+
+![FOMOD]
+~~~
+Choose textures type:
+   * alternative
+Size of prints:
+   * feminine+kids patch
+~~~
+
+## Footprints - Sand Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50484) | Version: `0.9` | Author: `modal1` | ![CAO]
+Download: | Main Files - Footprints Sand Patch FOMOD 0.9
+
+![FOMOD]
+~~~
+Select One:
+   * ESP-FE ESL Flagged
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Footprints - SPID
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54924) | Version: `3.4` | Author: `reza9892` 
+Download: | Main Files - SPID for Footprints
+
+
+## Footprints - SPID - Ultimate Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96086) | Version: `1.03` | Author: `SiweX92` | ![CAO]
+Download: | Main Files - SPIDforFootprintUltimateFix_v1.03
+
+![FOMOD]
+~~~
+Choose Version:
+   * Child Addon
+Fixes inis:
+   * SPID and KID
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Go To Bed
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
@@ -114,21 +225,90 @@ Download: | Optional Files: Patches
 
 ![FOMOD]
 ~~~
-Step 1: Mods:
+Base Game:
+   * Skyrim
+DLC:
+   * Hearthfire
+   * Dragonborn
+Mods:
    * Campfire
+Misc:
+   * Tent Collistion Disabler
 ~~~
 
-## Suspicious City Guards
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38762) | Version: `5` | Author: `TheSecretMaster`
-Download: | Main Files - Suspicious City Guards
+## Immersive Aggressive Opponents
 
-# A02. Addons - Immersion and Survival (Late Loaders)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.6` | Author: `lilebonymace` | ![Optional]
+Download: | Main Files - Immersive Aggressive Opponents
 
-## Campfire - SunHelm - Water-Borne Diseases Patch
+![FOMOD]
+~~~
+Options:
+   * Exclude Stormcloak Gauntlets and Boots
+~~~
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69235) | Version: `1.0` | Author: `Tohuw`
-Download: | Main Files - SunHelm Dirty Water - Campfire Patch
+## Immersive Carcass Carrying
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99867) | Version: `1.0` | Author: `Elsawirr` 
+Download: | Main Files - ICC - Simple Hunting Overhaul
+
+## Immersive Hunting Animation
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `1.0` | Author: `Elsawirr`
+Download: | Main Files - Immersive Hunting Animations
+
+![FOMOD]
+~~~
+Optional Files:
+   * MCM Helper
+   * Simple Hunting Overhaul
+~~~
+
+## Immersive Spell Learning - DESTified
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `2.0.0` | Author: `Hackfield` | ![Optional] ![ESL]
+Download: | Optional Files - ISL - DESTified 2.0 RC3
+
+![FOMOD]
+~~~
+Game:
+   * Skyrim Special Edition
+Choose MCM:
+   * MCM Helper Support
+~~~
+
+## Simple Hunting Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.05` | Author: `jayserpa` | ![CAO]
+Download: | Main Files - Simple Hunting Overhaul
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Speechcraft Randomization
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.1` | Author: `AndrealphusVIII` | ![Optional]
+Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
+
+# A03. Addons - Immersion and Survival (Late Loaders)
+
+## Campfire - Complete Camping System - Cuyi's Backpacks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49532) | Version: `1.1` | Author: `cuyima`
+Download: | Main Files: Cuyi's Campfire Backpacks
+
+## Campfire - Complete Camping System - Igniting Animation
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.01` | Author: `Elsawirr`
+Download: | Main Files - Igniting animation for Campfire
+
+## Campfire - Complete Camping System - Hotkey Modded Menu Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73343) | Version: `1.0` | Author: `dendritiic`
+Download: | Main Files - Campfire - hotkey fix
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
 
@@ -144,6 +324,12 @@ Blood Brightness:
 Install optional plugin?:
    * No
 ~~~
+
+## Dirt and Blood - Dynamic Visual Effects - Expanded - Animation Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89852) | Version: `1.2.1n` | Author: `jagerguy` 
+Download: | Main Files - DnBE animation patch
+
 
 ## Dirt and Blood - Dynamic Visual Effects - Widget Addon
 
@@ -165,52 +351,35 @@ Download: | Main Files: Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt 
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43714) | Version: `1.3` | Author: `Xtudo`
 Download: | Main Files: Go To Bed - DAR patch SE - PLAYER and NPCs
+| Optional Files - Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
+
+## SunHelm Survival and Needs - CACO Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `1.2` | Author: `kryptopyr`
+Download: | Main Files - SunHelm __ CACO
 
 ## SunHelm Survival and Needs - CCARA DAR - Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62133) | Version: `1.0` | Author: `Isquras`
 Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 
-# A03. Addons - Immersion and Survival (More Immersion)
+## Go To Bed - Settings Loader
 
-## Backpack Penalty
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56286) | Version: `2.2.0` | Author: `MaskedRPGFan`
+Download: | Main Files - Go to bed - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57206) | Version: `2.01` | Author: `suisuisuiso` | ![Optional]
-Download: | Main Files - Backpack Penalty
+## Survival Control Panel - Settings Loader
 
-![FOMOD]
-~~~
-Option:
-   * Legacy of the Dragonborn (if using Adventures)
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78593) | Version: `1.0.0` | Author: `MaskedRPGFan`
+Download: | Main Files - Survival Control Panel - Settings Loader
 
-![PostInstall]
-~~~
-Delete *_KID.ini.
-~~~
+## SunHelm Survival and Needs - Settings Loader
 
-## Immersive Aggressive Opponents
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78535)
+Download: | Main Files - SunHelm Survival and needs Alternate Start Mods - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.5f` | Author: `lilebonymace` | ![Optional]
-Download: | Main Files - Immersive Aggressive Opponents
 
-## Immersive Spell Learning - DESTified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `1.4.5` | Author: `Hackfield` | ![Optional] ![ESL]
-Download: | Main Files - ISL - DESTified Main File
-
-![FOMOD]
-~~~
-Game:
-   * Skyrim Special Edition
-Choose MCM:
-   * MCM Helper Support
-~~~
-
-## Speechcraft Randomization
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.1` | Author: `AndrealphusVIII` | ![Optional]
-Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 # Addons - Immersion and Survival - Final Steps
 
@@ -232,7 +401,7 @@ Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.5` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.6` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]

@@ -270,7 +270,7 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.3` | Author: `ToosTruus`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.5` | Author: `ToosTruus`
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
 
 ## Teldryn Serious - Backstory Quest
@@ -756,7 +756,7 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.7` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.9` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -1089,6 +1089,14 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91897) | Version: `1.0` | Author: `PraedythXVI`
 Download: | Main Files - The Gray Cowl of Nocturnal SE - Retexture 2K
+
+![FOMOD]
+~~~
+Towers:
+   * New Towers
+Decals: 
+   * Damaged walls
+~~~
 
 ## Volkihar Knight - CBBE Bodyslide
 
