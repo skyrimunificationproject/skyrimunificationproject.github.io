@@ -270,8 +270,16 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.5` | Author: `ToosTruus`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.7` | Author: `ToosTruus` | ![CAO]
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
+| Optional Files - Patch for 3D Docks and Boardwalks
+
+![PostInstall]
+~~~
+Delete textures/smim/.
+
+Pack the mod with CAO.
+~~~
 
 ## Teldryn Serious - Backstory Quest
 
@@ -311,7 +319,7 @@ Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
 ## The Tools of Kagrenac
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.60` | Author: `Titansbane and PrivateEye` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.60a` | Author: `Titansbane and PrivateEye` | ![ESM]
 Download: | Main Files - The Tools of Kagrenac V1.60 SSE
 
 ## There Is No Umbra - Chapter III
@@ -653,10 +661,6 @@ Marked Treasure:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33596) | Version: `1.11` | Author: `Rantanplan and Czasior` | 
 Download: | Main Files - Fossil Mining Map Markers
 
-## Legacy of the Dragonborn - Cathedral 3D Mountain Flowers Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47192) | Version: `0.2` | Author: `wSkeever`
-Download: | Main Files - Legacy of The Dragonborn - Cathedral 3D Mountain Flowers Patch
 
 ## Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
 
@@ -756,7 +760,7 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `2.9.9` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -826,6 +830,11 @@ Download: | Main Files - Legacy of the Dragonborn Perk Menu
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Legacy of the Dragonborn - Player Home Displays
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63706) | Version: `1.01` | Author: `gutmaw`
+Download: | Main Files - Legacy of the Dragonborn - Vanilla Player Homes Displays
 
 ## Legacy of the Dragonborn - The Brotherhood of Old Patch
 
@@ -917,16 +926,6 @@ Download: | Main Files - Falmer Overhaul - My patches SE by Xtudo - LOTD patch
 ![PostInstall]
 ~~~
 Delete /textures/dbm resources/.
-~~~
-
-## Konahrik's Accoutrements - Upscaled Textures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34417) | Version: `1` | Author: `Kartoffels` | ![CAO]|
-Download: | Main Files - KAUP
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
 ~~~
 
 ## Legacy of the Dragonborn - Amulet of Kings Replacer
@@ -1130,11 +1129,6 @@ Delete textures/cubemaps/.
 Delete textures/effects/wtfxmothdimfrost_g.dds.
 Delete textures/terrain/.
 ~~~
-
-## Wyrmstooth - Suleyk Retexture SE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68073) | Version: `1.0` | Author: `xavbio` | 
-Download: | Main Files - Wyrmstooth Suleyk Retexture SE
 
 ## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 

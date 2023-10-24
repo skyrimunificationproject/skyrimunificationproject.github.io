@@ -17,7 +17,7 @@ Placeholder
 
 ## Applying ESMifier script
 
-Placeholder: ESMifier_with_persistent_unique_NPCs
+Placeholder: Persistify Those Plugins
 
 ## Autoclean with xEdit
 
@@ -119,6 +119,7 @@ UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, appl
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
+Windhelm Bridge Revived.esp | Apply ESMifier script
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 

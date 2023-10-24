@@ -323,7 +323,7 @@ Download: | Main Files - Markarth Mossy Lite
 
 ## Markarth Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.5` | Author: `GGUNIT` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.6.1` | Author: `GGUNIT` | ![ESM]
 Download: | Main Files - Markarth Outskirts
 
 ![FOMOD]
@@ -337,6 +337,11 @@ Optional plugins:
       * Deselect all
 Manually installed plugins:
    * None
+~~~
+
+![PostInstall]
+~~~
+Delete Markarth Outskirts - Custom moss shader.esp.
 ~~~
 
 ## Markarth - City of Stone
@@ -469,6 +474,11 @@ Download: | Main Files - Snazzy Interiors - Solitude Bryling's House
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96339) | Version: `1.3` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Solitude Erikur's House
+
+## Snazzy Interiors - Solitude Vittoria Vici's House
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100475) | Version: `1.1` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Interiors - Vittoria Vici's House
 
 ## Snazzy Exteriors - Solitude Bryling's Garden
 
@@ -1090,6 +1100,7 @@ Snazzy Interiors - Riften Black-Briar Manor.esp | Apply ESMifier script
 Snazzy Interiors - Riften Snow-Shod Manor.esp | Apply ESMifier script
 Snazzy Interiors - Solitude Bryling's House.esp | Apply ESMifier script
 Snazzy Interiors - Solitude Erikur's House.esp | Apply ESMifier script
+Snazzy Interiors - Solitude Vittoria Vici's House.esp | Apply ESMifier script
 Snazzy Interiors - Whiterun House Battleborn.esp | Apply ESMifier script
 Snazzy Interiors - Whiterun House Gray-Mane.esp | Apply ESMifier script
 Snazzy Interiors - Windhelm Blacksmith.esp | Apply ESMifier script

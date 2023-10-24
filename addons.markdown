@@ -138,7 +138,7 @@ Pack the mod with CAO.
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.4` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.5` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -213,6 +213,16 @@ Fixes inis:
 Pack the mod with CAO.
 ~~~
 
+## Footprints - Bright Snow Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61760) | Version: `1.1` | Author: `TemplarSwift`
+Download: | Main Files - Footprints Bright SNow fix - Disabled particles
+
+## Give Me Shelter
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36411) | Version: `1.0` | Author: `Monops`
+Download: | Main Files - Give Me Shelter - Sacrilege
+
 ## Go To Bed
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
@@ -233,7 +243,7 @@ DLC:
 Mods:
    * Campfire
 Misc:
-   * Tent Collistion Disabler
+   * None
 ~~~
 
 
@@ -255,7 +265,7 @@ Download: | Main Files - ICC - Simple Hunting Overhaul
 
 ## Immersive Hunting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `1.0` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `1.2` | Author: `Elsawirr`
 Download: | Main Files - Immersive Hunting Animations
 
 ![FOMOD]
@@ -267,7 +277,7 @@ Optional Files:
 
 ## Immersive Spell Learning - DESTified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `2.0.0` | Author: `Hackfield` | ![Optional] ![ESL]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `2.0.0` | Author: `Hackfield` | ![Optional] 
 Download: | Optional Files - ISL - DESTified 2.0 RC3
 
 ![FOMOD]
@@ -302,7 +312,7 @@ Download: | Main Files: Cuyi's Campfire Backpacks
 
 ## Campfire - Complete Camping System - Igniting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.01` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.03` | Author: `Elsawirr`
 Download: | Main Files - Igniting animation for Campfire
 
 ## Campfire - Complete Camping System - Hotkey Modded Menu Fix
@@ -342,10 +352,15 @@ Needs Mods Integration:
    * None of the above
 ~~~
 
+## Dirt and Blood - Dynamic Visual Effects - Widget Addon - SunHelm Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79048) | Version: `1.2` | Author: `MariusF`
+Download: | Main Files: Widget Addon patch for SunHelm
+
 ## Dirt and Blood - Dynamic Visual Effects - Widget Addon - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64721) | Version: `2.0.0` | Author: `MaskedRPGFan`
-Download: | Main Files: Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood - Settings Loader
+Download: | Optional Files - Widget Addon patch for SunHelm - Settings Loader
 
 ## Go To Bed - DAR patch
 
@@ -504,20 +519,32 @@ Download: | Main Files - Song Of The Green 1.4
 Pack the mod with CAO.
 ~~~
 
-## Song of the Green - 3DNPC Banter Patch
+## Song of the Green - 3DNPC Banter Patch ESLified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `0.2` | Author: `Waribiki` 
-Download: | Optional Files - 3DNPCs banter patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/101337) | Version: `1` | Author: `Freyr95` 
+Download: | Main Files - Auri 3DNPCs banter patch ESLified
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
 
-## Song of the Green - Inigo Banter Patch
+## Song of the Green - Inigo Banter Patch ESLified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `0.1` | Author: `Waribiki` 
-Download: | Optional Files - Inigo Banter patch - sfts fix
+[![mod]](hhttps://www.nexusmods.com/skyrimspecialedition/mods/101336) | Version: `1` | Author: `Freyr95` 
+Download: | Main Files - Auri Follower Inigo Banter Patch ESLified
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Song of the Green - Enhanced Voice Remastered
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63787) | Version: `2.0.1` | Author: `TheVoidKnight`
+Download: | Main Files - Auri - Remastered Audio
+| Misc Files - 3DNPCs Banter Patch ESLified
+| Misc Files - Inigo Banter Patch ESLified
 
 ![PostInstall]
 ~~~
@@ -554,7 +581,7 @@ Pack the mod with CAO.
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.10.1` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
 Download: | Main Files - Xelzaz Follower Core 1.9.0
 
 ## Xelzaz - Wyrmstooth Patch
@@ -611,6 +638,7 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+BPUFXelzazFollower.esp | Apply ESMifier script
 018Auri.esp | Apply ESMifier script
 HLIORemi.esp | Apply ESMifier script
 

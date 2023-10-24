@@ -138,6 +138,13 @@ Download the "Best of Both" optional file from [Unofficial Skyrim Special Editio
 Install the Creation Kit from Steam. (https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
+## Skyrim Creation Kit Downgrader
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67096) | Version: `` | Author: `Halgari` | ![Core] ![Optional]
+Download: | Main Files - Patcher.exe
+
+Use this to downgrade your Creation Kit if you plan to edit Landscape records at any point.
+
 
 ## SSE CreationKit Fixes
 
@@ -206,8 +213,8 @@ Add CAO to Windows Defender exclusions.
 
 ## FallrimTools - Script Cleaner
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5031) | Version: `6.0.310` | Author: `Mark Fairchild` | ![Core] |
-Download: | Main Files - FallrimTools 4.3.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5031) | Version: `6.0.643` | Author: `Mark Fairchild` | ![Core] |
+Download: | Main Files - Resaver 6.0.643
 
 ![PostInstall]
 ~~~
@@ -368,12 +375,6 @@ Binary: (EasyNPC location)\EasyNPC.exe
 
 You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this same window as instructed to later in the guide.
 
-## MO2 Root Builder Plugin
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31720) | Version: `4.4.2` | Author: `Kezyma` | ![Core]
-Download: | Main Files: Root Builder 4.4.2
-
-Install to the MO2\plugins folder and restart MO2.  Click the wrench icon, go to Root Builder at bottom and then Root Builder.  Select mode: USVFS.
 
 # BethINI
 
@@ -485,8 +486,8 @@ Close Mod Organizer 2 and run BethINI.exe.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 97` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 97
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 101` | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 101
 
 ![PostInstall]
 ~~~
@@ -504,7 +505,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-148` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-155` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

@@ -3,6 +3,136 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0.RC2 - 2023-10-23
+
+![Added]
+~~~
+Prerequisites - Creation Kit Downgrader
+Core - User Interface - UI - Press E To Heal Followers
+Core - User Interface - HUD - Dear Diary Dark Mode - Constructibe Object Custom Keyword System
+Core - Content-Modified Vanilla Content-Quest Expansions - Blood and Silver - Cidhna Mine Expanded
+Core - Meshes and Textures - Architecture (Buildings) - Skyland Windows
+Core - Meshes and Textures - Landscape - Improved Solitude Arch
+Core - Meshes and Textures - Trees and Grasses - Higher Poly Vanilla Eldergleam Roots
+Core - Meshes and Textures - Little Things - Flora - Kabu's Cathedral 3D Nightshade Retexture
+Core - Meshes and Textures - Little Things - Clutter - Sacks Remodeled
+Core - Meshes and Textures - Effects - Embers XD - Fire Them Sparks
+Core - Meshes and Textures - Effects - FYX - SParks of Fire React To The Wind
+Core - Meshes and Textures - Clothing, Jewelry, and Accessories - JS Unique Utopia - Rings
+Core - Meshes and Textures - Armor and Weapons - Dragon Priests Retexture SE
+Core - Meshes and Textures - Creatures and Wildlife - Higher Poly Vanilla Dragons
+Core - Meshes and Textures - Creatures and Wildlife - Iconic's Werewolf and Werebear Retexture
+Core - Meshes and Textures - Creatures and Wildlife - Imperial Saddle Retexture
+Core - Meshes and Textures - Creatures and Wildlife - Shadowmere Saddle Retexture
+Core - Meshes and Textures - Creatures and Wildlife - Yee Haaaa Horse Saddle Retexture
+Core - Meshes and Textures - Creatures and Wildlife - Higher Poly Vanilla Saddles
+Core - Beauty and Appearance - NPC - NPC Overhauls - Northbourne NPCs Resources
+Core - Beauty and Appearance - Body and Skin - Female Hands Redone
+Core - Late Loaders - Meshes and Textures - Subdivide and Smooth - Vines
+Core - Late Loaders - Meshes and Textures - Windhelm Bridge Revived
+Core - Late Loaders - Meshes and Textures - Windhelm Bridge Revived - Patches
+Core - Late Loaders - Meshes and Textures - Pleasing Polygon Increase - Whiterun Farm Fences
+
+Addons - Survival - Footprints - Bright Snow FIx
+Addons - Survival - Give Me Shelter
+Addons - Survival - Dirt and Blood Widget Addon Sunhelm Patch
+Addons - Followers - Song of the Green - Enhanced Voice Remastered
+
+Adventures - Late Loaders Misc - Legacy of the Dragonborn Player Home Displays
+~~~
+
+![Removed]
+~~~
+Prerequisites - MO2 Root Builder
+Core - Ruins Clutter Improved Upscaled Textures (covered elsewhere)
+Core - Icy Windhelm (new approach)
+Core - Rally's Barrels (in AIO)
+Core - RUSTIC WINDOWS (Skyland)
+Core - FYX - Solitude Arch (Improved Solitude Arch)
+Core - Rally's Honey Pots (in AIO)
+Core - Elsopa - Potions Redone - My Patches - CACO Patch (covered elsewhere)
+Core - Rally's Crates (in AIO)
+Core - Rally's Market Stalls (in AIO)
+Core - Rally's Weapon Racks (in AIO)
+Core - Dragon Priest Retexture (xavbio)
+Core - DRAGON PRIEST (xavbio)
+Core - Stairs of Skyrim Windhelm Bridge Stairs (new approach)
+Adventures - Legacy of the Dragonborn Cathedral 3D Mountain Flowers Patch
+Adventures - Konahrik's Accoutrements Upscaled Textures
+Adventures - Wyrmstooth Suleyk Retexture SE
+~~~
+
+![Updated]
+~~~
+Prerequisites - FallrimTools updated to 6.0.643.
+Prerequisites - xLODGEN updated to Beta 101.
+Prerequisites - DynDOLOD updated to Alpha-155.
+
+Core - Mu Skeleton Editor updated to 0.4.3.
+Core - Skyrim Skill Uncapper updated to 2.2.3.
+Core - Naked Dead NPC Fix updated to 1.0.6.
+Core - powerofthree's Tweaks updated to 1.8.1.
+Core - Navigator updated to 1.5.4.
+Core - Skyrim Landscape and Water Fixes updated to 8.2.
+Core - CritterSpawn Congestion Fix updated to 1.52.
+Core - Vanilla Script (micro)Optimizations updated to 1.17.
+Core - Dynamic Activation Key Addons Collection updated to 2.1.1.
+Core - Outlaws Refuges Base Object Swapper updated to 1.1.
+Core - Northern Roads Patch Collection updated to 1.21.
+Core - Simple Snow Improvements - Skyrim updated to 2.1.
+Core - BUVARP updated to 1.3.1.
+Core - Forgotten Retex Project - updated delete instructions.
+Core - Illustrious Whiterun updated to 2.1.
+Core - Skyland Solitude updated to 1.8.
+Core - Mrf's Solitude Optional Files FOMOD updated
+Core - Orc Settlements Enhanced updated to 1.3.
+Core - Skyland Imperial Forts and Dungeons updated to 2.61.
+Core - Skyland Nordic Ruins updated to 2.6.
+Core - Skyland Skyhaven Temple updated to 1.1
+Core - Skyland Sovngarde updated to 1.1.
+Core - Skyland Imperial and Nordic Tents updated to 1.7.
+Core - Snoblind renamed in list to be properly searchable on non-EU keyboards
+Core - Snowy Surfaces Sound Collision updated to 1.6.5.
+Core - Kabu's Pumpkin Plant Overhaul updated to 1.2e.
+Core - High Poly Swamp Fungal Pods updated to 2.1.
+Core - Skyland Chests updated to 1.2.
+Core - Better Bellows updated to 1.4.
+Core - JS Unique Utopia - Daggers updated to 1.2.
+Core - Lux updated to 6.4.
+Core - Northbourne NPCs of Whiterun Hold updated to 3.6.
+Core - Dynamic Sprint updated to 1.5.
+Core - Underdog - Animations updated to 1.9.5. (pending FOMOD revision)
+Core - Weapon Switch Animation Fix updated to 1.4.
+Core - Vanargand Animations Sprint updated to Vanargand II.
+Core - Conditional Expressions Extended updated to 1.5.1.
+Core - Improved Idle Laydown Animations updated to 1.1.
+Core - NPC Animation Remix updated to 1.6.2.
+Core - Civil War Lines Expansion updated to 1.08.
+Core - Misc Dialogue Edits updated to 1.9.3.
+Core - Immersive Interactions - Animated Actions updated to 1.73.
+Core - Dragon War updated to 3.1.4.
+Core - Reliquary of Myth updated to 4.7.3.
+Core - Animated Coffins updated to 1.1.
+Core - OSHA-Compliant Sovengarde Mesh Fixes updated to 2.2.
+Core - Icy Mesh Remaster updated to 2.30.
+Core - Icy Mesh Remaster ENB Addon updated to A1.21.
+
+Addons - Survival - Favor Jobs Overhaul updated to 2.7.5.
+Addons - Survival - Go To Bed Patches FOMOD changed (-Tent Collision Disabler patch)
+Addons - Survival - Immersive Hunting Animation updated to 1.2.
+Addons - Survival - Campfire Igniting Animation updated to 1.03.
+Addons - Survival - Dirt and Blood Widget Addon Settings Loader changed to SunHelm version.
+Addons - Followers - Song of the Green 3DNPC Banter Patch changed to ESLified version.
+Addons - Followers - Song of the Green Inigo Banter Patch changed to ESLified version.
+Addons - Followers - Xelzaz updated to 1.10.1.
+
+Adventures - Moonpath to Elsweyr Fixes updated to 1.7, added 3d Docks patch, CAO instructions
+Adventures - The Tools of Kagrenac updated to 1.60a.
+Adventures - Legacy of the Dragonborn Patches updated to 5.6.
+
+Final - Added ESMify instructions for Windhelm Bridge Revived.
+~~~
+
 # 1.0.0.0 RC1 - 2023-09-23
 
 ![Added]
