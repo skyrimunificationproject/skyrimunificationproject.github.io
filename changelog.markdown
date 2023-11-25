@@ -162,8 +162,8 @@ Arch - JK's Blue Palace Terrace updated to 1.3.
 Arch - JK's modules given proper information
 Arch - JK's College of Winterhold Combo Patches updated to 2.6.5.
 
-Final - ESMify instructions updated for Unique Border Gates - Fixes, IDDP Unique Border Gates Patch,
-        Simplicity of Snow, -IcyFixes.
+Final - ESMify instructions updated for +Unique Border Gates - Fixes, +IDDP Unique Border Gates Patch,
+        +Simplicity of Snow, -IcyFixes.
 ~~~
 
 # 1.0.0.0.RC2 - 2023-10-23
