@@ -93,6 +93,27 @@ Delete *_KID.ini.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34903) | Version: `1.0` | Author: `EpicCrab`
 Download: | Main Files - Contraband Confiscation v1
 
+## Contraband Confiscation - lilebonymace's Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36042) | Version: `2.36` | Author: `lilebonymace`
+Download: | Main Files - lilebonymace patches
+
+![FOMOD]
+~~~
+1/6 Patches:
+   * None
+2/6 Patches:
+   * None
+3/6 Patches:
+   * None
+4/6 Patches:
+   * None
+5/6 Patches:
+   * None
+6/6 Mod Patches and Tweaks:
+   * Contraband Confiscation - Fixes
+~~~
+
 ## Dirt and Blood - Dynamic Visual Effects
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.30` | Author: `jayserpa` | ![CAO]
@@ -138,7 +159,7 @@ Pack the mod with CAO.
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.5` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.6` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -249,13 +270,13 @@ Misc:
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.6` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.7` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
 ~~~
 Options:
-   * Exclude Stormcloak Gauntlets and Boots
+   * All, Exclude Stormcloak Gauntlets and Boots
 ~~~
 
 ## Immersive Carcass Carrying
@@ -290,7 +311,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.05` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.06` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -378,6 +399,11 @@ Download: | Main Files - SunHelm __ CACO
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62133) | Version: `1.0` | Author: `Isquras`
 Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 
+## SunHelm Survival and Needs - 4K Waterskin
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75319) | Version: `1.1` | Author: `IWantATardis`
+Download: | Main Files - 2K Sunhelm
+
 ## Go To Bed - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56286) | Version: `2.2.0` | Author: `MaskedRPGFan`
@@ -416,7 +442,7 @@ Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.6` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.7` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]
@@ -581,7 +607,7 @@ Pack the mod with CAO.
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.10.1` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.10.2` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
 Download: | Main Files - Xelzaz Follower Core 1.9.0
 
 ## Xelzaz - Wyrmstooth Patch

@@ -262,8 +262,8 @@ Manually extract the folder into Modding\Skyrim\Tools\EasyNPC
 
 ## xEdit
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164) | Version: `4.0.4` | Author: `ElminsterAU and the xEdit team` | ![Core] |
-Download: | Main Files - SSEEdit 4_0_4
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164) | Version: `4.1.5` | Author: `ElminsterAU and the xEdit team` | ![Core] |
+Download: | Main Files - SSEEdit 4.1.5 EXPERIMENTAL
 
 ![PostInstall]
 ~~~
@@ -380,105 +380,79 @@ You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this 
 
 
 
-## BethINI
+## BethINI PIE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4875) | Version: `3.6.1` | Author: `DoubleYou` | ![Core] |
-Download: | Main Files - BethINI Standalone Version
+[![mod]](https://www.nexusmods.com/site/mods/631) | Version: `4.10` | Author: `DoubleYou` | ![Core] |
+Download: | Main Files - Bethini Pie
 
-![PostInstall]
-~~~
 Manually extract the folder into Modding\Skyrim\Tools\BethINI
  (or to a folder where you will store your tools).
  
-Close Mod Organizer 2 and run BethINI.exe.
-* Select the 'Setup' tab.
-   + Make sure the 'Mod Organizer' path and 'INI Path' are correct.
-* Select the 'Basic' tab.
-   + Click the 'Default' button.
-   + Click the 'High' button.
-   + Click the 'BethINI Presets' button.
-   + Check the 'Recommended Tweaks' option.
-   + Set Antialiasing to 'None'.
-   + Check the 'Windowed Mode' options.
-   + Check the 'Borderless' option.
-   + Uncheck the 'FXAA' option.
-   + Uncheck the 'VSync' option.
-   + Uncheck the 'Lock Frame Rate' option.
-* Select the 'Gameplay' tab.
-   + Set 'Over-Encumbered Reminder' to '60'.
-   + Set '1st Person Arrow Tilt-up Angle' to '0.7'.
-   + Set '3rd Person Arrow Tilt-up Angle' to '0.7'.
-   + Set '1st Person Bolt Tilt-up Angle' to '0.7'.
-   + Check the 'NPCs Use Ammo' option.
-* Select the 'Interface' tab.
-   + Uncheck the 'Bethesda Modding Platform' option.
-* Select the 'Detail' tab.
-   + Set 'Field of View' to '85'.
-   + Set 'Particles' to '6000'.
-   + Uncheck the 'Lens Flare' option.
-   + Set 'Shadow Bias' to '0.47'.
-   + Uncheck the 'Ambient Occlusion' option.
-* Select the 'View Distance' tab.
-   + Set 'Grass Fade' to '18000'.
-   + Set 'Flickering Light' to '8192'.
-   + Set 'uGridsToLoad' to '5'.
-   + Set Distant Object Detail 'Preset' dropdown to 'BethINI High'
-* Select the 'Visuals' tab.
-   + Set 'Grass Density' to '60'.
-   + Set 'Grass Diversity' to '15'.
-   + Set 'Far-off Tree Distance' to '75000'.
-   + Set 'Tree Detail Fade' dropdown to 'BethINI Ultra'
-* Select the 'Basic' tab.
-   + Click the 'Save and Exit' button.
-   
-* Relaunch Mod Organizer 2, click the second-to-right button and select
- 'INI Editor'.
+Add BethINI Pie as an executable IN MO2 and run it from the profile you want to configure. 
+When you run it for the first time, select Skyrim Special Edition from the dropdown.
+In the setup window, make sure that the Game Path is correct for either Steam or Stock Game as appropriate.
+Make sure the INI Path points to your Documents\My Games\Skyrim Special Edition location.
+
+Configure the settings as specified below.  If an option is not mentioned, it can be left as the preset sets it.
  
-* Edit or add these lines for Skyrim.ini:
++ **Basic Tab**
+   + **Presets**
+     + Click the 'Reset to Default' button.
+     + Click the 'Apply Recommended Tweaks' button.
+     + Click the 'High' button.  
+   + **Display**
+     + Resolution: This should be your system's native resolution
+	 + Display Mode: Borderless Windowed Mode
+	 + Antialiasing: None or TAA, your choice
+     + Vsync: Unchecked
+	 + Default World FOV: 85
+	 + Default FOV: 85
+	 + Default 1st Person World FOV: 85
 
-[Actor]
-   fVisibleNavmeshMoveDist=12288.0000
-   
-[Animation] (add after [Actor])
-   bAlwaysDriveRagdoll=1
-   fWeaponChangeClearTime=0.25
-   
-[Camera]
-   iHorseTransitionMillis=250
-   
-[Interface]
-   fBookOpenTime=500
-   uMaxCustomItemNameLength=64
++ **General Tab**
+  + **Saved Games**
+    + Autosaves: Unchecked
+	+ Save on Travel: Unchecked
+	+ Save on Wait: Unchecked
+	+ Save on Rest: Unchecked
 
-[Landscape] (add after [Interface])
-   fLandFriction=32
++ ** Gameplay Tab**
+  + Always Drive Ragdoll: Checked
+  + NPCs Use Ammo: Checked
+  + Tutorials: Unchecked
+  + Weapon Charge Clear Time: 0.25
+  + Over-Encumbered Reminder: 300
+  + Landscape Friction: 32
 
-[MapMenu]
-   bWorldMapNoSkyDepthBlur=1
-   fMapLocalCursorPanSpeed=300
-   fMapLookMouseSpeed=2.5
-   fMapWorldZoomSpeed=8
-   fMapZoomMouseSpeed=8
-   fWorldMapDepthBlurScale=0
-   fWorldMapMaximumDepthBlur=0
-   fWorldMapNearDepthBlurScape=0
-   uLockedObjectMapLOD=8
++ ** Interface Tab**
+  + Bethesda Modding Platform: Unchecked
+  + Mod Manager Menu: Unchecked
 
-[SaveGame]
-   bDisableAutoSave=1
-   bAllowScriptedForceSave=0
-   bAllowScriptedAutoSave=0
-   iAutoSaveCount=5
++ ** Environment Tab **
+  + ** Trees **
+    + Move the four sliders all the way to the right.
+  + ** Water**
+    + Reflect Sky: Unchecked
+	
++ ** Shadows Tab **
+  + Ambient Occlusion: Unchecked
+  
++ ** Visuals Tab **
+  + ** Effects**
+    + Particles: 7500
+	+ Lens Flare: Unchecked
 
-* Edit or add these lines for SkyrimPrefs.ini:
-[Display]
-   fDynamicDOFBlurMultiplier=0.0000
++ ** View Distance Tab **
+  + ** Near Details **
+    + Flickering Light Distance: 8192
+  + ** Distant Details **
+    + Level 4 Block Distance: 131072
+	+ Level 8 Block Distance: 212144
+	+ Level 16 Block Distance: 524288
+	+ Tree LOD Distance: 0 (if using Ultra Tree lod)
+    + Large Reference Grid: 11
 
-[General]
-   uLargeRefLODGridSize=11
-~~~
-
-
+Select File->Save, confirm all, and exit.
 
 # LOD Generation
 
@@ -505,7 +479,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-155` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-156` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

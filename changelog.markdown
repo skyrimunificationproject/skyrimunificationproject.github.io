@@ -3,6 +3,169 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0.RC3 - 2023-11-25
+
+![Added]
+~~~
+Core - SKSE - Comprehensive Attack Rate Patch
+Core - User Interface/HUD - Dear Diary Dark Mode - Red Circle In Paper Map
+Core - User Interface/Map - Flat Map World Framework
+Core - User Interface/Map - Apocrypha Paper Map for FWMF
+Core - User Interface/Map - Blackreach Paper Map for MWMF
+Core - User Interface/Map - Dayspring Canyon Paper Map for MWMF
+Core - User Interface/Map - Deepwood Vale Paper Map for MWMF
+Core - User Interface/Map - Duncan's Paper Maps for FWMF
+Core - User Interface/Map - Forgotten Vale Paper Map for FWMF
+Core - User Interface/Map - Skuldafn Paper Map for FWMF
+Core - User Interface/Map - Soul Cairn Paper Map for FWMF
+Core - User Interface/Map - Sovngarde Paper Map for FWMF
+Core - User Interface/Map - Updates to Various Maps for FWMF
+Core - World Edits/Large Wilderness Edits - Diverse Birds Nests Base Object Swapper
+Core - World Edits/Large Wilderness Edits - Diverse Farm Fences Base Object Swapper
+Core - World Edits/Large Wilderness Edits - Evil Dead Trees Base Object Swapper
+Core - Meshes and Textures/Architecture (Buildings) - Better Floors - Whiterun
+Core - Meshes and Textures/Architecture (Objects) - SD's Farmhouse Fences
+Core - Trees and Grasses - High Poly Solstheim Mushroom Trees
+Core - Meshes and Textures/Little Things/Flora - Sowables of Skyrim - Wheat
+Core - Meshes and Textures/Little Things/Clutter - JS Emblaming Tools
+Core - Meshes and Textures/Little Things/Clutter - Slightly Better Large Antlers
+Core - Meshes and Textures/Little Things/Clutter - Slightly Better Small Antlers and Deer Hide
+Core - Meshes and Textures/Little Things/Clutter - ElSopa - Training Dummies Redone
+Core - Meshes and Textures/Little Things/Clutter - FYX - 3D Ragged Flagon Sign Chains
+Core - Meshes and Textures/Effects - FYX - Campfire Reacts To The Wind - EmbersXD Edition
+Core - Environment - Natural Waterfalls
+Core - Environment - Natural Waterfalls - Dawnguard
+Core - Environment - Natural Waterfalls - Dragonborn
+Core - Animation/Conditional Idles and Misc - Riding Animation Overhaul - OAR
+Core - Immersion/General - Simply Knock Dynamic Activation key Patch
+Core - Gameplay/Perks, Leveling, and Classes - Subclasses of Skyrim 2
+Core - Late Loaders/Meshes and Textures - Less Repetitive Farmhouse Walls
+Core - Late Loaders/Meshes and Textures - Optional Round Farmhouse Posts
+Core - Late Loaders/Meshes and Textures - Drengin's Proudspire Manor Rework
+Core - Late Loaders/Meshes and Textures - Skyrim Remastered - Unreal Ice and Glaciers
+Core - Late Loaders/Meshes and Textures - Stairs of Safety - Farmhouses
+Core - Late Loaders/Meshes and Textures - Tel Mithryn Overhaul - High Poly
+Core - Late Loaders/Meshes and Textures - JS Solitude Sewer Cover
+Core - Late Loaders/Meshes and Textures - More Realistic Antlers for Female Elk
+Core - Late Loaders/Meshes and Textures - More Realistic Antlers for Male Elk
+Core - Late Loaders/Meshes and Textures - More Realistic Fur and Antlers for Hagraven Clutter
+Core - Late Loaders/Meshes and Textures - More Realistic Fur and Antlers for Wall Mounted Female Elks
+Core - Late Loaders/Meshes and Textures - More Realistic Fur and Antlers for Wall Mounted Male Elks
+
+Adventures - Falskaar - SunHelm Cold Patch
+Adventures - Legacy of the Dragonborn - Rudy's Silver Patch
+Adventures - Legacy of the Dragonborn - Safehouse Desk Fix
+
+Addons - Survival - Contraband Confiscation - lilebonymace's Patches
+Addons - Survival - SunHelm Survival and Needs - 4K Waterskin
+
+Arch - Distinct Interiors for Cities of the North
+Arch - The Lone Whale - JK's Skyrim Adddon
+Arch - The Great Cities - Resources
+Arch - Winterhold Docks
+Arch - Markarth Extra Mountains Edit
+Arch - Solitude Watchtower
+Arch - Snazzy Interiors Patch Collection
+~~~
+
+![Removed]
+~~~
+Core - Unique Map Weather
+Core - A Clear Map of Skyrim and Other Worlds
+Core - Unique Border Gates - Better Dawnguard Entrance Patch
+Core - Beyond Skyrim Morrowind Bonemold Weapon Pack aMidianBorn Color Match
+Core - KG's Fences (part of Diverse Farm Fences BOS)
+Core - Happy Little Trees No Dead Twig Branches
+Core - Sets of Skills
+Core - Sets of Skills - Improved UI
+Core - Sets of Skills - Custom Skill Framework
+Core - Sets of Skills - Standardization of Spelling of Sets of Skills
+Core - 3D Manhole
+Core - Ancient Dwemer Metal - Patches - 3D Manhole
+Core - Icy Mesh Remaster - ENB Addon
+~~~
+
+![Updated]
+~~~
+Prerequisites - xEdit updated to 4.1.5.
+Prerequisites - BethINI updated to 4.10, instructions updated.
+Prerequisites - DynDOLOD updated to Alpha-156.
+Core - ConsolePlusPlus updated to 1.4.0.
+Core - Faster HDT-SMP updated to 2.0.4-beta1.  If you get crashes, try disabling.
+Core - Security Overhaul SKSE Addons updated to 0.1.9.1.
+Core - Skyrim Landscape and Water Fixes updated to 8.4.
+Core - Rock Traps Trigger Fixes updated to 1.5.
+Core - Unaggressive Dragon Priests Fix updated to 1.3.
+Core - Press E to Heal Followers - Added CACO patch
+Core - Immersive Sounds Compendium Sound Record Distributor Patch updated to 2.3.1.
+Core - Unique Border Gates changed to Unique Border Gates Fixes
+Core - Simple Snow Improvements Skyrim updated to 2.2.
+Core - Simple Snow Improvements Giant Obelisks updated to 1.4.
+Core - College of Winterhold Quest Expansion updated to 1.15.
+Core - Beyond Skyrim Morrowind Bonemold Weapon Pack updated to 1.2.
+Core - Beyond Skyrim Wares of Tamriel updated to 1.5.
+Core - DynDOLOD Resources Large Reference Workaround Scripts updated to Alpha-13.
+Core - Snoblind updated to 1.01.
+Core - Snowy Surfaces Sound Collision and Aesthetics updated to 1.6.6.2.
+Core - Kabu's Cathedral 3D Nightshade Redone - Added snowy patch
+Core - Scallions of Skyrim - position changed
+Core - Sowables of Skyrim - Leeks - position changed
+Core - Sowables of Skyrim - Potatoes - position changed
+Core - Sowables of Skyrim - Scrumptious Cabbages - position changed
+Core - Embers XD updated to 2.9.1
+Core - Embers XD Fire Them Sparks updated to 1.3.
+Core - Better Bellows updated to 1.5.
+Core - JS Unique Utopia Rings updated to 1.2.
+Core - LeanWolf's Better Shaped Weapons - added delete instruction
+Core - JS Unique Utopia Daggers updated to 1.2.1.
+Core - Real Elks changed to 4k.
+Core - Simplicity of Snow updated to 0.16.
+Core - Water for ENB updated to 1.84.
+Core - Lux - instructions updated
+Core - CBBE updated to 2.0.2.
+Core - CBBE AE-CC Outfits updated to 2.0.2.
+Core - CBBE No Rim Lighting updated to 2.0.2.
+Core - True Directional Movement updated to 2.2.5.
+Core - Ice Skating Fixed For Real updated to 1.4.
+Core - Improved Table Transition updated to 1.3.
+Core - Underdog updated to 1.9.6.
+Core - Weapon Styles Draw-Sheathe Animations updated to 2.0.
+Core - Conditional Expressions Extended updated to 1.5.2.
+Core - Misc Dialogue Edits Updated to 1.9.3.1.
+Core - Immersive Death Cycle updated to 1.03.
+Core - Immersive Interactions Animated Actions DAR updated to 1.74.
+Core - Reliquary of Myth updated to 4.7.4.
+Core - kryptopyr's Patch Hub updated to 4.0.1, instructions changed.
+Core - Late Loaders Meshes and Textures - positions of nearly every mod changed
+     - some mods renamed like Drengin's house reworks
+Core - Icy Mesh Remaster updated to 2.35, instructions changed
+
+Adventures - kryptopyr's Patch Hub [Addons-Adventures] - changed from FOMOD to indiv. files
+Adventures - Moonpath to Elsweyr Fixes updated to 2.5.
+Adventures - Legacy of the Dragonborn Curator's Companion updated to 6.2.4.
+Adventures - Legacy of the Dragonborn Fate Cards Remade - updated delete instructions
+
+Addons - Survival - Favor Jobs Overhaul updated to 2.7.6.
+Addons - Survival - Immersive Aggressive Opponents updated to 1.7.
+Addons - Survival - Simple Hunting Overhaul updated to 1.06.
+Addons - Followers - Serana Dialogue Add-on Patch Hub updated to 2.7.
+Addons - Followers - Xelzaz updated to 1.10.2.
+
+Arch - Cities of the North Dawnstar updated to 1.4.
+Arch - Cities of the North Patch Collection updated to 5.0.
+Arch - The Great City of Winterhold updated to 4.1.
+Arch - The Great City of Winterhold Patch Collection updated to 2.2.
+Arch - Fortified Ramp to the Castle Dour updated to 1.1, compact instructions added
+Arch - JK's Windhelm Outskirts updated to 1.1.2.
+Arch - Environs Kolskeggr updated to 3.02.
+Arch - JK's Blue Palace Terrace updated to 1.3.
+Arch - JK's modules given proper information
+Arch - JK's College of Winterhold Combo Patches updated to 2.6.5.
+
+Final - ESMify instructions updated for Unique Border Gates - Fixes, IDDP Unique Border Gates Patch,
+        Simplicity of Snow, -IcyFixes.
+~~~
+
 # 1.0.0.0.RC2 - 2023-10-23
 
 ![Added]

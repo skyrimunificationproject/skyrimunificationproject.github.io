@@ -72,8 +72,7 @@ Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
-IcyFixes.esm | Compact formIDs, add ESL flag
-Icy Windhelm.esp | Apply ESMifier script
+IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
@@ -104,6 +103,7 @@ SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
+Simplicity of Snow.esp | Apply ESMifier script
 SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 Snazzy Furniture and Clutter Overhaul.esp | Apply ESMifier script
@@ -114,8 +114,7 @@ Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UniqueBarbas.esp | Add ESL flag
-UniqueBorderGates-All.esp | Compact formIDs, add ESL flag, apply ESMifier script (do in same session as below)
-UniqueBorderGates-All-BetterDGEntrance.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Unique Border Gates - Fixes.esp | Apply ESMifier script
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
@@ -295,7 +294,7 @@ When xLODGEN finishes generating deactivate SSE-Terrain-Tamriel-Extend.esm.
 
 Move SSE_LODGEN folder to your MO2’s mod folder and activate it as a mod.
 
-
+If you are using Flat World Map Framework, delete meshes/terrain/tamriel/tamriel.32.0.0.btr.
 
 # Grass Cache (Optional)
 

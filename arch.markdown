@@ -96,6 +96,8 @@ Download: | Main Files - Ryn's Farms
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.3` | Author: `Urtho` | ![ESM]
 Download: | Main Files - Settlements Expanded SE
 
+
+
 ## High Poly NPC Overhaul - JK's Skyrim
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39181) | Version: `1.0` | Author: `Zhalroth` | ![CAO]
@@ -126,12 +128,12 @@ Pack the mod with CAO.
 
 ## Cities of the North - Dawnstar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28952) | Version: `1.3` | Author: `JPSteel2` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28952) | Version: `1.4` | Author: `JPSteel2` | ![ESM]
 Download: | Main Files - Cities of the North - Dawnstar
 
 ## Cities of the North - Dawnstar Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `4.4` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.0` | Author: `Janquel` | 
 Download: | Main Files - COTN Dawnstar Patch Collection
 
 ![FOMOD]
@@ -140,11 +142,12 @@ City Overhauls:
    * Expanded Towns and Cities - Combined
    * JKs Skyrim
 No Snow Under the Roof:
-   * NSUTR 
+   * None 
 Miscellaneous Patches:
    * None
 Immersive Citizens AI Overhaul:
    * None
+All others: None
 ~~~
 
 ![PostInstall]
@@ -197,10 +200,27 @@ Optional Add-Ons:
 Remove COTN Falkreath - JKs Skyrim Patch.esp.
 ~~~
 
+## Cities of the North - Falkreath - Better Occlusion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81967) | Version: `0.0.3` | Author: `Wartortle` | 
+Download: | Main Files - Better Occlusion - COTN Falkreath
+
 ## Cities of the North - Winterhold
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40088) | Version: `1.1` | Author: `JPSteel2` | ![ESM]
 Download: | Main Files - Cities of the North - Winterhold
+
+## Distinct Interiors for Cities of the North
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46359) | Version: `2.3` | Author: `Czasior`
+Download: | Main Files - Distinct Interiors for Cities of the North
+
+![FOMOD]
+~~~
+Cities of the North:
+   * Cities of the North: Dawnstar
+   * Cities of the North: Falkreath
+~~~
 
 ## Optimized Cities of the North Meshes
 
@@ -223,25 +243,41 @@ CotN Winterhold - Patches:
    * Partitioned Interiors
 ~~~
 
+## The Lone Whale - JK's Skyrim Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105050) | Version: `1.0a` | Author: `sethnorris23` | ![BSA]
+Download: | Main Files - The Lone Whale - Bsa
+
+![PostInstall]
+~~~
+Make sure that you have extracted the bsa.
+Delete *.esp.
+~~~
+
+## The Great Cities - Resources
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104373) | Version: `1.0` | Author: `Archinatic`
+Download: | Main Files - The Great Cities Resources
+
 ## The Great City of Winterhold SSE Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17127) | Version: `4.0.3` | Author: `Archinatic` | ![ESM]
-Download: | Main Files - The Great City of Winterhold 4.0.3
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17127) | Version: `4.1` | Author: `Archinatic` | ![ESM]
+Download: | Main Files - The Great City of Winterhold 4.1
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `1.7.3` | Author: `Czasior` | ![BSA] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.2` | Author: `Czasior` | ![BSA] ![ESM]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
 ~~~
 City Patches:
    * Cities of the North - Winterhold
-College of Winterhold:
-   * None
 Convenient Carriages:
    * None
 Creation Club:
+   * None
+Lux Orbis Consistency Patches:
    * None
 Midden Expanded:
    * None
@@ -263,10 +299,10 @@ Delete TGC Winterhold - Outlaws Refuges patch.esp. (ensure BSA is extracted)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74699) | Version: `1.6` | Author: `WeldingManDE` | 
 Download: | Main Files - Simple Snow Improvements - The Great City of Winterhold
 
-## Better Occlusion - COTN Falkreath
+## Winterhold Docks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81967) | Version: `0.0.3` | Author: `Wartortle` | 
-Download: | Main Files - Better Occlusion - COTN Falkreath
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.1` | Author: `CarpeNihil` | ![ESM]
+Download: | Main Files - Winterhold Docks
 
 # C04. Addons - Project Arch - Markarth and Riften
 
@@ -349,6 +385,11 @@ Delete Markarth Outskirts - Custom moss shader.esp.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92028) | Version: `1.0` | Author: `Amasido`
 Download: | Main Files - Markarth - City of Stone
 
+## Markarth Extra Mountains Edit
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/101700) | Version: `1.0` | Author: `zohryu`
+Download: | Main Files - Markarth Extra Mountains Edit - City of Stone
+
 ## Riften Docks Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.6` | Author: `agentw` |  ![ESM]
@@ -408,8 +449,8 @@ Download: | Main Files - BluePalaceTerrace SE
 
 ## Fortified Ramp to the Castle Dour
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92823) | Version: `1.0` | Author: `Drengin` | ![ESM]
-Download: | Main Files - Fortified ramp to thhe Castle Dour
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92823) | Version: `1.1` | Author: `Drengin` | ![ESM] ![ESL-C]
+Download: | Main Files - Fortified ramp to the Castle Dour
 
 ## Blue Palace Frescoes Simplified
 
@@ -464,6 +505,11 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80979) | Version: `1.0` | Author: `monkeyangie`
 Download: | Main Files - RS Children - Solitude Docks Updated Patch
+
+## Solitude Watchtower
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104666) | Version: `1.0` | Author: `Drengin` | ![ESM]
+Download: | Main Files - Solitude Watchtower
 
 ## Snazzy Interiors - Solitude Bryling's House
 
@@ -574,7 +620,7 @@ Technical notes: Drawcall count may exceed 15k. Current-gen CPU recommended to u
 
 ## JK's Windhelm Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86975) | Version: `1.1.1` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86975) | Version: `1.1.2` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's Windhelm Outskirts
 
 ## JK's Windhelm Outskirts Patch Collection
@@ -687,7 +733,7 @@ Download: | Main Files - Environs - Master Plugin
 
 ## Environs - Kolskeggr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.01` | Author: `Siberpunk` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk` | ![ESM]
 Download: | Main Files - Environs - Kolskeggr
 
 ## Half-Moon Mill - Cities of the North Addon
@@ -705,208 +751,285 @@ Download: | Main Files - Old Hroldan Ruins -- SE Enhanced
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8537) | Version: `1.0` | Author: `Albro` | ![ESM]
 Download: | Main Files - Sky Haven Temple - Gardens
 
+## Snazzy Interiors Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.14.1` | Author: `czasior gutmaw GGUNIT`
+Download: | Main Files - Snazzy Interiors Patch Collection
+
+![FOMOD]
+~~~
+Interiors selection:
+   * Riften Black-Briar Manor
+   * Solitude Bryling's House
+   * Solitude Erikur's House
+   * Solitude Vittoria Vici's House
+   * Whiterun House Battleborn
+   * Whiterun House Gray-Mane
+   * Windhelm House Clan Cruel-Sea
+   * Windhelm House Clan Shattershield
+Riften Black-Briar Manor:
+   * Allow autoselected
+   * Miscellaneous - Snazzy Furniture and Clutter Overhaul
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Solitude Bryling's House:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Solitude Erikur's House:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Solitude Vittoria Vici's House:
+   * Allow autoselected
+   * Miscellaneous - Snazzy Furniture and Clutter Overhaul
+Whiterun House Battleborn:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Whiterun House Gray-Mane:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Windhelm House Clan Cruel-Sea:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+Windhelm House Clan Shattershield:
+   * Allow autoselected
+   * REQUIRE MANUAL SELECTION - SD's Vanilla Table Replacers
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp.
+~~~
+
 # C10. Addons - Project Arch - JK Interiors - Cities
 
 ## JK's Angeline's Aromatics
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44482) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Angeline's Aromatics
 
 ## JK's Arcadia's Cauldron
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33565) | Version: `1.01` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Arcadia's Cauldron
 
 ## JK's Arnleif and Sons Trading Company
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Arnleif and Sons Trading Company
 
 ## JK's Belethor's General Goods
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33636) | Version: `1.1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Belethor's General Goods
 
 ## JK's Bits and Pieces
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44642) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Bits and Pieces
 
 ## JK's Candlehearth Hall
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45617) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Candlehearth Hall
 
 ## JK's Elgrims Elixirs
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49934) | Version: `1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Elgrims Elixirs
 
 ## JK's Haelga's Bunkhouse
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60085) | Version: `1.1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Haelga's Bunkhouse
 
 ## JK's New Gnisis Cornerclub
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48293) | Version: `1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's New Gnisis Cornerclub
 
 ## JK's Radiant Raiment
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44858) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Radiant Raiment
 
 ## JK's Sadri's Used Wares
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47942) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Sadri's Used Wares
 
 ## JK's Silver-Blood Inn
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53554) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Silver-Blood Inn
 
 ## JK's The Bee and Barb
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49516) | Version: `1.1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's The Bee and Barb
 
 ## JK's The Hag's Cure
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54587) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's The Hag's Cure
 
 ## JK's The Pawned Prawn
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50135) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's The Pawned Prawn
 
 ## JK's The Winking Skeever
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43991) | Version: `1.5.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's The Winking Skeever
 
 ## JK's Warmaiden's
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Version: `1.3.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Warmaiden's
 
 ## JK's White Phial
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47713) | Version: `1.1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's White Phial
 
 # C11. Addons - Project Arch - JK Interiors - Temples and Palaces
 
 ## JK's Blue Palace
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45324) | Version: `1.4.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `1.3` | Author: `jkrojmal and czasior` | 
+Download: | Main Files - JK's Blue Palace Terrace
+
+![FOMOD]
+~~~
+Additional Patches: (select only)
+   * Thieves Guild Requirements 
+Extravagant Interiors Patches:
+   * Extravagant Interiors 4K - Solitude Blue Palace (Lux)
+Royal Armory Patches:
+   * None
+~~~
 
 ## JK's Dragonsreach
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Version: `1.1.2` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Dragonsreach
 
 ## JK's Mistveil Keep
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52462) | Version: `1.0.2` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Mistveil Keep
 
 ## JK's Palace of the Kings
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48902) | Version: `1.2.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Palace of the Kings
 
 ## JK's Temple of the Divines
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57304) | Version: `1.2.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Temple of the Divines
 
 ## JK's Temple of Dibella
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56371) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Temple of Dibella
 
 ## JK's Temple of Kynareth
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
-
-## JK's Temple of Talos
-
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56737) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Temple of Kynareth
 
 ## JK's Temple of Mara
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52724) | Version: `1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Temple of Mara
+
+## JK's Temple of Talos
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56971) | Version: `1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Temple of Talos
+
+
 
 # C12. Addons - Project Arch - JK Interiors - Guild HQs
 
 ## JK's Castle Dour
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74309) | Version: `1.2.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Castle Dour
 
 ## JK's College of Winterhold
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65676) | Version: `1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's College of Winterhold
 
 ## JK's High Hrothgar
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62219) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's High Hrothgar
 
 ## JK's Jorrvaskr
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60738) | Version: `1.1.4` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Jorrvaskr
 
 ## JK's Sky Haven Temple
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63039) | Version: `1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Sky Haven Temple
 
 ## JK's The Bards College
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71054) | Version: `1.0.3` | Author: `jkrojmal` | 
+Download: | Main Files - JK's The Bards College
 
 ## JK's College of Winterhold (Immersive and Obscure) Combo Patches
 
-[![mod]](temp) | Version: `` | Author: ``
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.6.5` | Author: `Czasior and Janquel`
+Download: | Main Files - JK's College of Winterhold (Immersive and Obscure)
+
+![FOMOD]
+~~~
+Main Patch:
+   * JKs College of Winterhold - Obscure's College of Winterhold
+JK's and Obscure's College of Winterhold:
+   * Allow autoselected
+JK's OCW - Optional Plugins:
+   * None
+JK's OCW - Synergy Patches:
+   * Allow autoselected
+~~~
+
+![PostInstall]
+~~~
+Delete *.esp except for JK's College of Winterhold - OCW patch.esp.
+~~~
 
 # C13. Addons - Project Arch - JK Interiors - Towns and Misc
 
 ## JK's Riverwood Trader
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55959) | Version: `1.1.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Riverwood Trader
 
 ## JK's Septimus Signus's Outpost
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66915) | Version: `1.0.1` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Septimus Signus's Outpost
 
 ## JK's Sinderion's Field Laboratory
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.2` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Sinderion's Field Laboratory
 
 ## JK's Sleeping Giant Inn
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35806) | Version: `1.1.0` | Author: `jkrojmal` | 
+Download: | Main Files - JK's Sleeping Giant Inn
 
 # C20. Addons - Project Arch - Lore-Friendly Towns
 
@@ -1069,7 +1192,7 @@ Denizens of Morthal__Lollia.esp | Apply ESMifer script
 Distinct Interiors.esp | Apply ESMifier script
 ETaC - Complete.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
-Fortified ramp to the Castle Dour.esp | Apply ESMifier script
+Fortified ramp to the Castle Dour.esp | Compact references, apply ESMifier script
 GG's Thieves Guild Headquarters.esp | Apply ESMifier script
 Half-Moon Mill - COTNed.esp | Apply ESMifier script
 JK's Riften Outskirts.esp | Apply ESMifier script
@@ -1091,6 +1214,7 @@ Ryn's Farms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
+Solitude Watchtower.esp | Compact forms, apply ESMifier script
 Snazzy Exteriors - Riften Snow-Shod Manor.esp | Apply ESMifier script
 Snazzy Exteriors - Solitude Bryling's House Gardens.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Guard Tower.esp | Apply ESMifier script
@@ -1112,7 +1236,7 @@ TGCotN Winterhold.esp | Apply ESMifier script
 The Great City of Winterhold v4.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
-
+Winterholddocks.esp | Apply ESMifier script
 
 
 

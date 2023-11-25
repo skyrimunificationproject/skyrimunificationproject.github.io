@@ -74,22 +74,11 @@ Missives:
 ## kryptopyr's Patch Hub [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] 
-Download: | Main Files - kryptopyr's Patch Hub Installer
+Download: | Misc Files - Falskaar__CACO
+| Misc Files - Grey Cowl Nocturnal__CACO
+| Misc Files - Moonpath__CACO
+| Misc Files - Wyrmstooth__CACO
 
-![FOMOD]
-~~~
-Mods:
-   * CACO - Complete Alchemy and Cooking Overhaul
-Mod Detection:
-   * None
-CACO - Creation Club:
-   * None
-CACO - Other: (select only)
-   * Falskaar
-   * Moonpath to Elswyr
-   * The Gray Cowl of Nocturnal
-   * Wyrmstooth
-~~~
 
 ## Lucien - Patches [Addons - Adventures]
 
@@ -270,9 +259,17 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `1.7` | Author: `ToosTruus` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `2.5` | Author: `ToosTruus` | ![CAO]
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
-| Optional Files - Patch for 3D Docks and Boardwalks
+
+![FOMOD]
+~~~
+Blacksmith Forge Patch:
+   * None
+Optional Patches:
+   * Mathy's 3D Docks and Boardwalks Patch
+   * Forest Spider Model Replacer
+~~~
 
 ![PostInstall]
 ~~~
@@ -447,6 +444,16 @@ Download: | Optional Files - MERGED ALL 4 BSA VERSION
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36506) | Version: `1.01` | Author: `aviform` | ![QAC] ![ESM]
 Download: | Main Files - Cheesemod for Everyone - Archived
+
+## Falskaar - SunHelm Cold Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105259) | Version: `1.0` | Author: `UmbraDark` | ![Optional]
+Download: | Main Files - Falskaar - SunHelm Cold Patche
+
+![PostInstall]
+~~~
+Install this patch only if you are also using the Survival module.
+~~~
 
 ## Fossil Mining
 
@@ -849,7 +856,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.3` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.4` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn SSE - The Curators Companion
 
 ![FOMOD]
@@ -1008,6 +1015,7 @@ Download: | Main Files - Fate Cards Remade
 ![PostInstall]
 ~~~
 Delete fate card retexture.esp.
+Delete meshes/dbm resources/.
 ~~~
 
 ## Legacy of the Dragonborn - Fate Cards New Style
@@ -1043,6 +1051,16 @@ Download: | Main Files - Museum Gate Remade
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45904) | Version: `1.0` | Author: `mashanen` | 
 Download: | Main Files - LotD Plaques Retexture
 | Optional Files - LotD Plaques Retexture - Creation Club Add On
+
+## Legacy of the Dragonborn - Rudy's Silver Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104348) | Version: `1.0` | Author: `gutmaw`|
+Download: | Main Files - LotD - Rudy's HQ Rustic-Superior Silver Patch
+
+## Legacy of the Dragonborn - Safehouse Desk Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104343) | Version: `1.0` | Author: `gutmaw` 
+Download: | Main Files - LotD - Safehouse Desk Fix - Lux Lantern
 
 ## Legacy of the Dragonborn - SMIM Chests
 
