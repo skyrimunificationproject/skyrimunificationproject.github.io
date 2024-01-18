@@ -116,7 +116,7 @@ Download: | Main Files - lilebonymace patches
 
 ## Dirt and Blood - Dynamic Visual Effects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.30` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.34` | Author: `jayserpa` | ![CAO]
 Download: | Main Files: Dirt and Blood
 
 ![PostInstall]
@@ -159,7 +159,7 @@ Pack the mod with CAO.
 
 ## Favor Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.6` | Author: `lilebonymace`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.8` | Author: `lilebonymace`
 Download: | Main Files - Favor Jobs Overhaul
 
 ![FOMOD]
@@ -286,12 +286,13 @@ Download: | Main Files - ICC - Simple Hunting Overhaul
 
 ## Immersive Hunting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `1.2` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.0.1` | Author: `Elsawirr`
 Download: | Main Files - Immersive Hunting Animations
 
 ![FOMOD]
 ~~~
 Optional Files:
+   * Conditional Animations
    * MCM Helper
    * Simple Hunting Overhaul
 ~~~
@@ -311,7 +312,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.06` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.07` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -411,7 +412,7 @@ Download: | Main Files - Go to bed - Settings Loader
 
 ## Survival Control Panel - Settings Loader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78593) | Version: `1.0.0` | Author: `MaskedRPGFan`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78593) | Version: `1.0.2` | Author: `MaskedRPGFan`
 Download: | Main Files - Survival Control Panel - Settings Loader
 
 ## SunHelm Survival and Needs - Settings Loader
@@ -437,12 +438,12 @@ DEST_ISL.esp | Add ESL flag
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.0.2.3.` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.0` | Author: `Martimius`
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.7` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.1` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]
@@ -486,7 +487,7 @@ Download: | Main Files - Patch - The Forgotten City
 
 ## Khajiit Will Follow - eeekie's Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79072) | Version: `1.1` | Author: `eeekie` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79072) | Version: `1.2` | Author: `eeekie` | ![CAO]
 Download: | Main Files - eeekie's KWF Replacer 4k
 
 ![PostInstall]
@@ -567,7 +568,7 @@ Pack the mod with CAO.
 
 ## Song of the Green - Enhanced Voice Remastered
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63787) | Version: `2.0.1` | Author: `TheVoidKnight`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63787) | Version: `2.0.2` | Author: `TheVoidKnight`
 Download: | Main Files - Auri - Remastered Audio
 | Misc Files - 3DNPCs Banter Patch ESLified
 | Misc Files - Inigo Banter Patch ESLified
@@ -586,6 +587,7 @@ Download: | Main Files - Auri Dismount AI Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82661) | Version: `1.2` | Author: `GGUNIT`
 Download: | Main Files - Song of the Green Auri fancy pod
+| Optional Files - Song of the Green Auri's fancy pod - Lux patch
 
 ## Song of the Green - Majestic Auri
 
@@ -604,6 +606,11 @@ Human eyes:
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Axarien's Animations - Auri
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/107268) | Version: `1.0` | Author: `Axarien`
+Download: | Main Files - Axarien's Animations - Auri
 
 ## Xelzaz
 

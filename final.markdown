@@ -37,6 +37,7 @@ CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 Inigo.esp |
 middenexpanded.esp |
+OCW_LotD_FEPatch.esp |
 Sepolcri.esp |
 Windhelm Lighthouse.esp |
 
@@ -68,6 +69,7 @@ Faction Crossbows.esp | Compact formIDs, add ESL flag
 FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
+FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
@@ -85,10 +87,11 @@ MajesticMountains_Landscape.esm | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag
-Northern Marsh Bridges SE.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Northern Marsh Bridges SE.esp | Apply ESMifier script
 Northern Roads.esp | Apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
+OutlawsRefuges.esp | Apply ESMifier script
 Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
@@ -103,11 +106,9 @@ SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
-Simplicity of Snow.esp | Apply ESMifier script
-SMIM-SE-Merged-All.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Smooth Weapon.esm | Add ESL flag
 Snazzy Furniture and Clutter Overhaul.esp | Apply ESMifier script
-SolitudeTempleFrescoes.esp | Compact formIDs, add ESL flag, apply ESMifier script
+SolitudeTempleFrescoes.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
 TheStumblingSabrecat.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag

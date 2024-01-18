@@ -29,7 +29,7 @@ Delete all except: DragonWar - Wyrmstooth Patch.esp, DragonWarLotD.esp
 
 ## Erikur's House Rework [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `2.0` | Author: `Drengin` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `3.0` | Author: `Drengin` | ![Core]
 Download: | Optional Files - Erikur's House rework for LotD
 
 ## Farmhouse Chimneys [Addons - Adventures]
@@ -259,11 +259,13 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `2.5` | Author: `ToosTruus` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `2.8` | Author: `ToosTruus` | ![CAO]
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
 
 ![FOMOD]
 ~~~
+ESMyfied Plugin Replacer:
+   * None
 Blacksmith Forge Patch:
    * None
 Optional Patches:
@@ -316,8 +318,8 @@ Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
 ## The Tools of Kagrenac
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.60a` | Author: `Titansbane and PrivateEye` | ![ESM]
-Download: | Main Files - The Tools of Kagrenac V1.60 SSE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.62` | Author: `Titansbane and PrivateEye` | ![ESM]
+Download: | Main Files - The Tools of Kagrenac V1.61a SSE
 
 ## There Is No Umbra - Chapter III
 
@@ -341,12 +343,24 @@ Pack the mod with CAO.
 
 ## Wyrmstooth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.19.8` | Author: `Jonx0r` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.20.1` | Author: `Jonx0r` 
 Download: | Main Files - Wyrmstooth
+
+## Wyrmstooth - Assorted Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99102) | Version: `1.0` | Author: `Blackread`
+Download: | Main Files - Wyrmstooth Patches - FOMOD
+
+![FOMOD]
+~~~
+Patches:
+   * Wyrmstooth - Crates Patch
+   * Wyrmstooth - EECO Building Navmesh Patch
+~~~
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.0` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.3` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Wyrmstooth - CC's Enhanced Ore Veins Patch
@@ -434,6 +448,11 @@ Texture Resolution:
 Options:
    * None
 ~~~
+
+## Artifacts - The Tournament of the Ten Bloods - Update.esm Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66015) | Version: `1.1` | Author: `Janquel`
+Download: | Main FIles - TotTB - Artifacts of Boethiah - Update Patch
 
 ## BadGremlins Collection
 
@@ -523,7 +542,7 @@ Pack the mod with CAO.
 
 ## Skyrim's Unique Treasures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | Version: `4.6` | Author: `clintmich and icecreamassassin and sirjesto` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/5261) | Version: `4.7` | Author: `clintmich and icecreamassassin and sirjesto` | ![ESM]
 Download: | Main Files - Skyrim Unique Treasures SE
 
 ## Treasure Hunter
@@ -645,7 +664,11 @@ Pack the mod with CAO.
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
+## Assorted 3DNPC Patches
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72309) | Version: `1.1` | Author: `Janquel` | ![Core]
+Download: | Main Files - 3DNPC - Moon and Star Patch
+| Main Files - 3DNPC - Treasure Hunter Patch
 
 ## Dynamic Treasure Map Journal
 
@@ -668,6 +691,27 @@ Marked Treasure:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33596) | Version: `1.11` | Author: `Rantanplan and Czasior` | 
 Download: | Main Files - Fossil Mining Map Markers
 
+## Legacy of the Dragonborn - Artifact Immersion Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68078) | Version: `1.1.2` | Author: `Kriana`
+Download: | Main Files - Helgen Reborn Artifact Immersion Patch
+| Main Files - Inigo Artifact Immersion Patch
+| Main Files - Interesting NPCs Artifact Immersion Patch
+| Main Files - Moonpath to Elsweyr Artifact Immersion Patch
+| Main Files - Skyrims Unique Treasures Artifact Immersion Patch
+| Main Files - Teldryn Serious Artifact Immersion Patch
+| Main Files - Wintersun Artifact Immersion Patch
+| Main Files - Wyrmstooth Artifact Immersion Patch
+
+## Legacy of the Dragonborn - Better Rkund Navmesh
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/107821) | Version: `1.0` | Author: `Wartortle`
+Download: | Main Files - Better Rkund Maze Navmesh
+
+## Legacy of the Dragonborn - Better Sancre Tor Navmesh
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108982) | Version: `1.1.0` | Author: `Wartortle`
+Download: | Main Files - BetterSancreTorNavmesh
 
 ## Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
 
@@ -697,6 +741,11 @@ Download: | Main Files - Legacy of the Dragonborn - Interesting NPCs Patch
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Legacy of the Dragonborn - Item Descriptions
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106041) | Version: `0.1` | Author: `wSkeever`
+Download: | Main Files - Legacy of the Dragonborn - Item Descriptions
 
 ## Legacy of the Dragonborn - Followers Patch
 
@@ -767,13 +816,13 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6.1` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
 ~~~
 City and Lighting Overhauls:
-   * None
+   * Allow autochecked
 Museum Display Expansions:
    * Allow autochecked
 Armor Additions:
@@ -787,8 +836,10 @@ Additional Patches A-M: (select only)
    * Elder Scrolls Online Imports
    * Mystic Condenser
 Additional Patches N-Z: (select only)
+   * Quaint Raven Rock (Arch)
    * Reliquary of Myth
    * RS Children
+   * Thieves Guild Requirements
 Manually Selectable Patches:
    * Cloaks of Skyrim - Retextured
    * Ruins Clutter Improved
@@ -819,13 +870,13 @@ Addon Patches: (auto-selected)
    * Fishing + Rare Curios
    * Saints and Seducers + Rare Curios
 Synergy Patches:
-   * None (unselect any)
+   * Fishing + Tools of Kagrenac
 ~~~
 
 ![PostInstall]
 ~~~
 Delete textures/dbm_cc/armor/seasons.
-Delete textures/dbm_cc/weapons/razaksadjuster_*.
+Delete textures/dbm_cc/weapons/razaksadjuster/razaksadjuster_*.
 ~~~
 
 ## Legacy of the Dragonborn - Perk Menus
@@ -1082,6 +1133,12 @@ Download: | Main Files - Moonpath To Elsweyr Retexture SE
 Pack the mod with CAO.
 ~~~
 
+## Snazzy - Skyrim's Unique Treasures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105714) | Version: `1.1` | Author: `Gutmaw`
+Download: | Main Files - Snazzy Skyrim Unique Treasures
+| Optional Files - Snazzy Skyrim Unique Treasures - LotD Patch
+
 ## The Brotherhood of Old SE - Cleaned Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51049) | Version: `1.1` | Author: `TomTesoro - senatorjarjarbinks` | ![Visuals] ![CAO]|
@@ -1147,6 +1204,11 @@ Delete textures/cubemaps/.
 Delete textures/effects/wtfxmothdimfrost_g.dds.
 Delete textures/terrain/.
 ~~~
+
+## Wyrmstooth - Vulom - Skeleton Replacer HD Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `1.0` | Author: `Shesurus` | ![Visuals]
+Download: | Main Files - Wyrmstooth - Vulom - Skeleton Replacer HD
 
 ## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 
@@ -1216,7 +1278,6 @@ Replacement Plugins:
    * DBM_RoyalArmory_Patch
    * Falskaar Wildlife
    * Moon and Star
-   * Moonpath
 ~~~
 
 
@@ -1263,7 +1324,7 @@ Gray Fox Flora Overhaul.esp | Compact formIDs, add ESL flag, apply ESMifier scri
 Helgen Reborn.esp | Apply ESMifier script
 icebladeofthemonarch.esp | Apply ESMifier script
 konahrik_accoutrements.esp | Apply ESMifier script
-ktWeaponPackSE.esp | Apply ESMifier script
+LegacyoftheDragonborn.esm | Apply ESMifier script (some missing)
 MoonAndStar_MAS.esp | Apply ESMifier script
 moonpath.esp | Apply ESMifier script
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
@@ -1273,7 +1334,6 @@ Tools of Kagrenac.esp | Apply ESMifier script
 TreasureHunter.esp | Apply ESMifier script
 treasure_hunt.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
-Wyrmstooth.esp | Apply ESMifier script (check if still needed)
 WZOblivionArtifacts.esp | Apply ESMifier script
 yumcheese.esp | Apply ESMifier script
 

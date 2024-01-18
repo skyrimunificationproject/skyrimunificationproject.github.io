@@ -138,36 +138,30 @@ Download the "Best of Both" optional file from [Unofficial Skyrim Special Editio
 Install the Creation Kit from Steam. (https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
-## Skyrim Creation Kit Downgrader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67096) | Version: `` | Author: `Halgari` | ![Core] ![Optional]
-Download: | Main Files - Patcher.exe
-
-Use this to downgrade your Creation Kit if you plan to edit Landscape records at any point.
-
-
-## SSE CreationKit Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20061) | Version: `3.2` | Author: `Nukem` | ![Core] |
-Download: | Main Files - CK64Fixes Release 3.2
-| Main Files - FaceFXWrapper 0.4
-| Main Files - [CreationKitCustom.ini](https://www.dropbox.com/s/2cnpzok3keb8v97/CreationKitCustom.ini?dl=0)
-
-![PostInstall]
 ~~~
-Manually extract the files into your Skyrim Special Edition folder.
+If you want to use CK alongside a downgraded Skyrim without swapping steam dlls:
+
+From Win+R run window enter steam://open/console and press enter.
+Enter these commands:
+download_depot 1946180 1946182 5099162879680505807
+download_depot 1946180 1946183 1633303557398589581
+
+Copy the files from your system Steam install /steamapps/content/app_1946180/depot_1946182 and depot_1946183 folders
+into the Skyrim folder.
 ~~~
 
-## SSE CreationKit Fixes Update
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `3.3` | Author: `Nukem and perchik71" | ![Core]
-Download: | Old Files - CK64Fixes Release 3.3
+## Creation Kit Platform Extended for Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.1` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.1
 
 ![PostInstall]
 ~~~
 Manually extract the files into your Skyrim Special Edition folder.
 
-Note: Using 3.3 because there are some undesirable changes in 3.4 currently.
+If you have downgraded CK, you must enable bSupportFormat171=true in CreationKitPlatformExtended.ini.
+This may not actually work and the CK may freeze when loading plugins.
 ~~~
 
 
@@ -479,7 +473,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-156` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-165` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
