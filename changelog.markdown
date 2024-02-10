@@ -3,6 +3,159 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0.RC5 - 2024-02-09
+
+![Added]
+~~~
+Core - SKSE/Framework - Dynamic Armor Variants
+Core - SKSE/Framework - Dynamic Armor Variants for Skyrim 1.5
+Core - SKSE - Dynamic Lowered Hoods
+Core - SKSE - Equipment Toggle
+Core - SKSE - Helmet Toggle 2
+Core - World Edits/Large Wilderness Edits - Diverse Campfires - Base Object Swapper
+Core - Content/Modified Vanilla Content - Face Sculptor Expanded
+Core - Meshes and Textures/General World Improvement - Rally's Burned and Ruined Books
+Core - Meshes and Textures/Architecture (Buildings) - FYX - 3D Stockades - Wall and Gate
+Core - Meshes and Textures/Architecture (Buildings) - FYX - 3D Stockades - Compatibility Tweaks
+Core - Meshes and Textures/Landscape - HD Terrain Noise Texture SE
+Core - Meshes and Textures/Flora - Cathedral - 3D Stonecrop
+Core - Meshes and Textures/Flora - ICFur's Yellow Shrubs
+Core - Meshes and Textures/Food - Realistic HD Food Remastered
+Core - Meshes and Textures/Clutter - ElSopa - Gem Holders Redone
+Core - Meshes and Textures/Clutter - High Poly Dwemer Bowls and Pots
+Core - Meshes and Textures/Clutter - Rally's Spell Tomes
+Core - Meshes and Textures/Furniture - Rally's Common Furniture
+Core - Meshes and Textures/Effects - No Glowing Frost Impacts
+Core - Meshes and Textures/Effects - TB's Improved Smoke
+Core - Meshes and Textures/Clothing - Robes Retexture SE
+Core - Animation/Framework - Offset Movement Animation - Nemesis
+Core - Animation/Conditional Combat - Varangand Animations II - OAR - Unarmed Pugilism Stance
+Core - Animation/Conditional Idles and Misc - Guards Pose With Weapons
+Core - Late Loaders/Meshes and Textures - FYX - 3D Shack Kit Roofs
+Core - Late Loaders/Meshes and Textures - FYX - 3D Shack Kit Walls
+Core - Late Loaders/Meshes and Textures - FYX - Vanilla Table Replacers
+Core - Late Loaders/Meshes and Textures - More Realistic Fur and Antlers for Hearthfire Elks
+Core - Late Loaders/ENB Meshes - ENB Light - Reasonably Round Dunmer Lanterns
+Core - Autoselecting Patch Hubs - lilebonymace's Patches
+Core - Autoselecting Patch Hubs - Tiny But Useful Yet Another Patch Hub
+
+Adventures - New Lands and Quests - Moon and Star - Better Navmesh
+
+Arch - Cities of the North - Snazzy Interiors - Falkreath Dengeir's House
+Arch - JK Interiors/Temples and Palaces - Snazzy Interiors - JK's Dragonsreach
+Arch - JK Interiors/Temples and Palaces - Snazzy Interiors - JK's Palace of the Kings
+
+Addons - Survival - Footprints - Alternative Design
+~~~
+
+![Removed]
+~~~
+Core - Dynamic Equipment Manager
+Core - Small Nordic Tent Replacer
+Core - HD Stone Quarry and Clay Deposit - Majestic Mountains - Patch
+Core - Read the Room
+Core - Honed Metal Revoiced
+Core - Read the Room Settings Loader
+Addons - Contraband Confiscation - lilebonymace's Patches (covered in Autoselecting)
+~~~
+
+![Updated]
+~~~
+Prerequisites - Creation Kit Platform Extended updated to 0.2.
+Prerequisites - DynDOLOD updated to Alpha-167.
+Prerequisites - ENB updated to 0.499.
+Core - Mu Skeleton Editor updated to 0.5.0.
+Core - Sound Record Distributor updated to 1.5.0.
+Core - Dynamic Collision Adjustment link fixed.
+Core - Enemies Respect Encounter Zones updated to 1.4.2.
+Core - Faster HDT-SMP updated to 2.2.1.
+Core - Paired Animation Improvements updated to 1.0.2.
+Core - Skyrim Particle Patch for ENB updated to 1.2.8.
+Core - Navigator updated to 1.5.6.
+Core - Select One Skip updated to 0.1.2.
+Core - Outlaws Refuges Dynamic Progression Patch - fixed format error, added missing compact tag
+Core - Mundus Stones - fixed download link
+Core - Northern Roads Patch Compendium - updated FOMOD instr (remove Rocks patch)
+Core - Obscure's College of Winterhold Creation Club and Other Patches - removed Cheesemod patch
+Core - BUVARP RE SE updated to 1.3.2, removed CAO instruction.
+Core - Blood and Silver - Cidhna Mine Expanded updated to 2.3a.
+Core - The Heart of Dibella Quest Expansion updated to 1.02.
+Core - Favor Quests Separated updated to 2.9.
+Core - Favor Quests Separated Patches updated to 2.8.
+Core - C.O.I.N. updated to 2.1.3.2.
+Core - LOD Model Library for DynDOLOD updated to 1.4.1.
+Core - Rally's Solstheim AIO updated to 1.2.
+Core - Northern Concept - Northern Roads updated to 3.2.
+Core - HD Stone Quarry and Clay Deposit - updated instructions (delete stonequarry tex, nif)
+Core - Improved Solitude Arch updated to 1.2.
+Core - Removed "Little Things" from Meshes and Textures separator names.
+Core - Cathedral - 3D Clovers updated to 4.0.
+Core - Skyrim Remastered - Soul Gems - Updated delete instructions (gem holder mesh)
+Core - Rudy HQ Misc - updated FOMOD instructions (-beds)
+Core - Embers XD updated to 2.9.4.
+Core - aMidianBorn Content Addon updated to 3.0.5.
+Core - Northbourne NPCs Resources updated to 1.3.
+Core - Northbourne NPCs of Whiterun Hold updated to 3.9.2.
+Core - Dynamic Bow Animation updated to 1.5.
+Core - Axarien's Animations - Teldryn Solo updated to 1.1.
+Core - Conditional Tavern Cheering updated to 1.3.0.
+Core - Gesture Animation Remix updated to 2.1.0.
+Core - NPC Animation Remix updated to 1.8.1.
+Core - Honed Metal updated to 1.25.2.
+Core - Stay In Shape updated to 2.0.
+Core - WACCF updated to 2.9.5.
+Core - Armor and Clothing Extension updated to 1.5.2.
+Core - CCOR updated to 2.5.5.
+Core - Dynamic Things Alternative instructions updated (delete deer skull)
+Core - kryptopyr's Patch Hub updated to 4.0.3.
+Core - Fixed Mesh Lighting updated to 1.9.1, instructions updated (tundrascrub)
+Core - High Hrothgar Fixed updated to 1.04.
+Core - FYX Smooth Wells Mesh Fixes renamed Compatibility Tweaks, updated to 1.4.3.
+Core - More Realistic Fur and Antlers for Mounted Elks - files updated (mounted leather/dta)
+Core - moreHUD SE Settings Loader updated to 2.2.0.
+Core - Extravagant Blue Palace BOS updated to 1.03.
+Core - Northern Roads Patch Collection updated to 1.24.1.
+
+Adventures - Moonpath to Elsweyr Music Weather and Other Fixes updated to 3.0.
+Adventures - Assorted 3DNPC Patches - updated files (removed MAS patch)
+Adventures - Legacy of the Dragonborn The Curator's Companion updated to 6.2.5.
+
+Arch - Cities of the North Falkreath Patch Collection updated to 1.21.2.
+Arch - Anga's Mill Cities of the North Addon Patch Collection moved to section Towns and Villages.
+Arch - Half-Moon Mill Cities of the North Addon Patch Collection moved to section Towns and Villages.
+Arch - The Great Cities - Resources - added ESM tag
+Arch - The Great City of Winterhold Patch Collection - added ESM tag
+Arch - Distinct Opulent Thieves Guild - updated FOMOD instr (manually select JK's Ragged Flagon)
+Arch - JK's Riften Outskirts updated to 1.1.
+Arch - JK's Riften Outskirts Patch Collection updated to 1.4.2.
+Arch - Markarth Outskirts - added update file.
+Arch - Riften Docks Overhaul updated to 2.5.7.
+Arch - RYFTEN Consistency of windows in Riften - updated file instructions for either/or based on JK Interiors
+Arch - Drengin's Fortified Ramp to the Castle Dour - removed compact tag
+Arch - Snazzy Interiors Solitude Vittoria Vici's House updated to 1.2.
+Arch - Capital Windhelm Expansion Rob's Bug Fixes - added ESM tag
+Arch - JK's Windhelm Outskirts Patch Collection updated to 1.4.2.
+Arch - Whiterun Exteriors Patch Collection - added ESM tag
+Arch - Snazzy Interiors Whiterun House Battle-Born updated to 1.3.
+Arch - Better Tel Mithryn CFTO Patch updated to 2.0.1.
+Arch - Snazzy Interiors Patch Collection updated to 1.21, moved to Autoselecting Patch Hubs section.
+Arch - JK's Blue Palace Terrace updated to 1.4.3.
+Arch - JK's Guild HQ Interiors Patch Collection updated to 1.15.2.
+
+Arch - Final - Added ESMify instructions for: 
+                  JKs Ryns Whiterun Exterior.esp
+				  Resources - The Great Cities.esp
+				  Snazzy Interiors - Falkreath Dengeir's House.esp
+				  
+Addons - Survival - Speechcraft Randomization updated to 1.2.
+Addons - Survival - Campfire Igniting Animation updated to 1.04.
+Addons - Followers - Serana Dialogue Addon updated to 4.1.0.1.
+Addons - Followers - Serana Dialogue Addon Patch Hub updated to 2.9.2, FOMOD/instructions updated.
+Addons - Followers - Xelzaz updated to 1.11.0, CAO tag removed.
+
+Final - Added compact/ESL instructions for OutlawsRefugesProgressionPatch.esp.
+~~~
+
 # 1.0.0.0.RC4 - 2024-01-17
 
 ![Added]

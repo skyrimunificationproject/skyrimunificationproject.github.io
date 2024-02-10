@@ -241,6 +241,12 @@ Download: | Main Files - Konahrik's Accoutrements - Fixed Esp
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4301) | Version: `3.2` | Author: `GanXingba` | ![ESM]
 Download: | Main Files - Moon and Star
 
+## Moon and Star - Better Navmesh
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110521) | Version: `1.0.2` | Author: `Wartortle`
+Download: | Main Files - Better Moon and Star Navmesh
+| Optional Files - BetterMASNavmesh - USSEP - 3DNPC patch
+
 ## Moon and Star - Moss Creek Camp
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/90145) | Version: `1.0.3` | Author: `tarlazo`
@@ -259,7 +265,7 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `2.8` | Author: `ToosTruus` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `3.0` | Author: `ToosTruus` | ![CAO]
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
 
 ![FOMOD]
@@ -667,8 +673,7 @@ Pack the mod with CAO.
 ## Assorted 3DNPC Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72309) | Version: `1.1` | Author: `Janquel` | ![Core]
-Download: | Main Files - 3DNPC - Moon and Star Patch
-| Main Files - 3DNPC - Treasure Hunter Patch
+Download: | Main Files - 3DNPC - Treasure Hunter Patch
 
 ## Dynamic Treasure Map Journal
 
@@ -907,7 +912,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.4` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.5` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn SSE - The Curators Companion
 
 ![FOMOD]
@@ -1123,7 +1128,7 @@ Download: | Main Files - Legacy of The Dragonborn - SMIM Chests
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42567) | Version: `1.2` | Author: `Timbles` | 
 Download: | Main Files - Visage of the Dragonborn (Gifts of Akatosh) Upscaled 4k
 
-## Moonpath To Elswyr Retexture SE
+## Moonpath To Elsweyr Retexture SE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67295) | Version: `1.0` | Author: `xavbio` | ![CAO]
 Download: | Main Files - Moonpath To Elsweyr Retexture SE
@@ -1286,7 +1291,9 @@ Replacement Plugins:
 
 # Adventures - Final Steps
 
+## Lux
 
+Reinstall Lux, Lux Orbis, and Lux Via to autoselect the new mods.
 
 ## xEdit
 

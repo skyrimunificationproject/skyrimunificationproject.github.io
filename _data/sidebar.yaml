@@ -86,14 +86,14 @@ core:
         url: 34-meshes-and-textures---trees-and-grasses
   - title: Meshes and Textures - Little Things
     subfolderitems:
-      - page: 35. Meshes and Textures - Little Things - Flora
-        url: 35-meshes-and-textures---little-things---flora
-      - page: 36. Meshes and Textures - Little Things - Food
-        url: 36-meshes-and-textures---little-things---food
-      - page: 37. Meshes and Textures - Little Things - Clutter
-        url: 37-meshes-and-textures---little-things---clutter
-      - page: 38. Meshes and Textures - Little Things - Furniture
-        url: 38-meshes-and-textures---little-things---furniture
+      - page: 35. Meshes and Textures - Flora
+        url: 35-meshes-and-textures---flora
+      - page: 36. Meshes and Textures - Food
+        url: 36-meshes-and-textures---food
+      - page: 37. Meshes and Textures - Clutter
+        url: 37-meshes-and-textures---clutter
+      - page: 38. Meshes and Textures - Furniture
+        url: 38-meshes-and-textures---furniture
   - title: Meshes and Textures - Effects, Equipment, and Creatures
     subfolderitems:
       - page: 39. Meshes and Textures - Effects
@@ -106,8 +106,8 @@ core:
         url: 42-meshes-and-textures---creatures-and-wildlife
   - title: Environment, Lighting and Weather
     subfolderitems:
-      - page: 43. Meshes and Textures - Environment
-        url: 43-meshes-and-textures---environment
+      - page: 43. Environment
+        url: 43-environment
       - page: 44. Lighting
         url: 44-lighting
       - page: 45. Weather Systems
@@ -184,12 +184,14 @@ core:
     subfolderitems:
       - page: 74. Utilities
         url: 74-utilities
-      - page: Z01. Conflict Resolution
-        url: z01-conflict-resolution
-      - page: Z02. Output - Generated Patches
-        url: z02-output---generated-patches
-      - page: Z03. Output - LOD Generation
-        url: z03-output---lod-generation
+      - page: Z01. Autoselecting Patch Hubs
+        url: z01-autoselecting-patch-hubs
+      - page: Z02. Conflict Resolution
+        url: z02-conflict-resolution
+      - page: Z03. Output - Generated Patches
+        url: z03-output---generated-patches
+      - page: Z04. Output - LOD Generation
+        url: z04-output---lod-generation
 intro:
   - title: Introduction
     url: introduction
@@ -301,7 +303,9 @@ arch:
     url: c13-addons---project-arch---jk-interiors---towns-and-misc
   - title: C20. Addons - Project Arch - Lore-Friendly Towns
     url: c20-addons---project-arch---lore-friendly-towns
-  - title: Z01. Conflict Resolution
-    url: z01-conflict-resolution
+  - title: Z01. Autoselecting Patch Hubs
+    url: z01-autoselecting-patch-hubs
+  - title: Z02. Conflict Resolution
+    url: z02-conflict-resolution
   - title: Addons - Project Arch - Final Steps
     url: addons---project-arch---final-steps

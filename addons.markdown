@@ -93,26 +93,6 @@ Delete *_KID.ini.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34903) | Version: `1.0` | Author: `EpicCrab`
 Download: | Main Files - Contraband Confiscation v1
 
-## Contraband Confiscation - lilebonymace's Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36042) | Version: `2.36` | Author: `lilebonymace`
-Download: | Main Files - lilebonymace patches
-
-![FOMOD]
-~~~
-1/6 Patches:
-   * None
-2/6 Patches:
-   * None
-3/6 Patches:
-   * None
-4/6 Patches:
-   * None
-5/6 Patches:
-   * None
-6/6 Mod Patches and Tweaks:
-   * Contraband Confiscation - Fixes
-~~~
 
 ## Dirt and Blood - Dynamic Visual Effects
 
@@ -234,6 +214,16 @@ Fixes inis:
 Pack the mod with CAO.
 ~~~
 
+## Footprints - Alternative Design
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109544) | Version: `0.92` | Author: `Artisto`
+Download: | Main Files - Footprints - Alternative Design Add-on
+
+![PostInstall]
+~~~
+Delete textures/landscape.
+~~~
+
 ## Footprints - Bright Snow Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61760) | Version: `1.1` | Author: `TemplarSwift`
@@ -322,7 +312,7 @@ Pack the mod with CAO.
 
 ## Speechcraft Randomization
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.1` | Author: `AndrealphusVIII` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.2` | Author: `AndrealphusVIII` | ![Optional]
 Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 # A03. Addons - Immersion and Survival (Late Loaders)
@@ -334,7 +324,7 @@ Download: | Main Files: Cuyi's Campfire Backpacks
 
 ## Campfire - Complete Camping System - Igniting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.03` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.04` | Author: `Elsawirr`
 Download: | Main Files - Igniting animation for Campfire
 
 ## Campfire - Complete Camping System - Hotkey Modded Menu Fix
@@ -438,12 +428,12 @@ DEST_ISL.esp | Add ESL flag
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.0` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.0.1` | Author: `Martimius`
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.1` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.2` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]
@@ -463,17 +453,12 @@ Awareness Patches - Quest Mods:
    * House of Horrors Quest Expansion
 Compatibility Patches:
    * Nether's Follower Framework
+   * NPCs Wear Amulets of Mara
+   * Relationship Dialogue Overhaul
    * Remiel
 Feature Preference Patches:
    * None
 ~~~
-
-![PostInstall]
-~~~
-Delete SDA NFF Patch.esp.
-Delete SDA Wintersun Patch.esp.
-~~~
-
 
 ## Khajiit Will Follow
 
@@ -614,8 +599,8 @@ Download: | Main Files - Axarien's Animations - Auri
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.10.2` | Author: `BluePwnsU` | ![CAO] ![QAC] ![ESM]
-Download: | Main Files - Xelzaz Follower Core 1.9.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.11.0` | Author: `BluePwnsU` | ![QAC] ![ESM]
+Download: | Main Files - Xelzaz Follower Core 1.11.0
 
 ## Xelzaz - Wyrmstooth Patch
 

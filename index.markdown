@@ -153,8 +153,8 @@ into the Skyrim folder.
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.1` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.2` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.2
 
 ![PostInstall]
 ~~~
@@ -473,7 +473,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-165` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-167` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
@@ -490,8 +490,8 @@ For each add the following to the arguments field: -sse.
 
 ## ENB Series Skyrim
 
-[![mod]](http://enbdev.com/download_mod_tesskyrimse.html) | Version: `0.475` | Author: `Boris Vorontsov` | ![Core] |
-Download: | Main Files - v0.475 (or newest)
+[![mod]](http://enbdev.com/download_mod_tesskyrimse.html) | Version: `0.499` | Author: `Boris Vorontsov` | ![Core] |
+Download: | Main Files - v0.499 (or newest)
 
 ![PostInstall]
 ~~~
