@@ -21,7 +21,6 @@ Core - Meshes and Textures/Landscape - HD Terrain Noise Texture SE
 Core - Meshes and Textures/Flora - Cathedral - 3D Stonecrop
 Core - Meshes and Textures/Flora - ICFur's Yellow Shrubs
 Core - Meshes and Textures/Food - Realistic HD Food Remastered
-Core - Meshes and Textures/Clutter - ElSopa - Gem Holders Redone
 Core - Meshes and Textures/Clutter - High Poly Dwemer Bowls and Pots
 Core - Meshes and Textures/Clutter - Rally's Spell Tomes
 Core - Meshes and Textures/Furniture - Rally's Common Furniture
@@ -44,8 +43,6 @@ Adventures - New Lands and Quests - Moon and Star - Better Navmesh
 Arch - Cities of the North - Snazzy Interiors - Falkreath Dengeir's House
 Arch - JK Interiors/Temples and Palaces - Snazzy Interiors - JK's Dragonsreach
 Arch - JK Interiors/Temples and Palaces - Snazzy Interiors - JK's Palace of the Kings
-
-Addons - Survival - Footprints - Alternative Design
 ~~~
 
 ![Removed]

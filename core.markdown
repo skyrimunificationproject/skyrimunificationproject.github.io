@@ -5863,7 +5863,6 @@ Download: | Main Files - Skyrim Remastered - Soul Gems Quality Version
 ![PostInstall]
 ~~~
 Delete Skyrim Remastered - Soul Gems.esp.
-Delete meshes/clutter/soulgem/soulgemholder*.
 ~~~
 
 ## Skyrim Remastered - Soul Gems - Remastered

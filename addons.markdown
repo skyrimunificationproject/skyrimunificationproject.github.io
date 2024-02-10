@@ -214,16 +214,6 @@ Fixes inis:
 Pack the mod with CAO.
 ~~~
 
-## Footprints - Alternative Design
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109544) | Version: `0.92` | Author: `Artisto`
-Download: | Main Files - Footprints - Alternative Design Add-on
-
-![PostInstall]
-~~~
-Delete textures/landscape.
-~~~
-
 ## Footprints - Bright Snow Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61760) | Version: `1.1` | Author: `TemplarSwift`
