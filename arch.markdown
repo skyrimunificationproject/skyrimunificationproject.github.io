@@ -92,10 +92,16 @@ Static Mesh Improvement Mod:
 Tree Mesh Replacers:
    * None
 Creation Club:
-   * None
+   * Fishing
 Patches:
+   * CFTO
    * Finding Helgi
    * RS Children Overhaul
+~~~
+
+![PostInstall]
+~~~
+Use Wrye Bash to change the master of ETaC - Complete CFTO Patch.esp from ETaC - RESOURCES.esm to ETaC - RESOURCES.esp.
 ~~~
 
 ## JK's Skyrim
@@ -155,22 +161,24 @@ Download: | Main Files - Cities of the North - Dawnstar
 
 ## Cities of the North - Dawnstar Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.0` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.1` | Author: `Janquel` | 
 Download: | Main Files - COTN Dawnstar Patch Collection
 
 ![FOMOD]
 ~~~
 City Overhauls:
+   * JKs Skyrim
+Expanding Towns and Cities:
    * Expanded Towns and Cities - Combined
-   * JKs Skyrim (currently unable to multiselect, drag from archive)
 No Snow Under the Roof:
    * None 
 Miscellaneous Patches:
    * Allow autoselected
-   * Unselect 3D Mountain Flowers
    * Unselect Beyond Skyrim Wares of Tamriel
+   * Unselect Cathedral 3D Flowers
    * Unselect Cloaks of Skyrim
    * Unselect Mystic Condenser
+   * Unselect Thieves Night on the Town - JK
 Immersive Citizens AI Overhaul:
    * Immersive Citizens - JKs Skyrim
 All others: None
@@ -208,7 +216,6 @@ Consistency Patches:
 Miscellaneous:
    * Thrones of Skyrim
 Optional Add-Ons:
-   * Janquel's Addons
    * Uncheck Landscape and Grass Fixes
 Solitude and Temple Frescoes:
    * Solitude and Temple Frescoes ESL
@@ -274,12 +281,12 @@ Download: | Main Files - The Great Cities Resources
 
 ## The Great City of Winterhold SSE Edition
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17127) | Version: `4.1` | Author: `Archinatic` | ![ESM]
-Download: | Main Files - The Great City of Winterhold 4.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17127) | Version: `4.1.1` | Author: `Archinatic` | ![ESM]
+Download: | Main Files - The Great City of Winterhold 4.1.1
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.3.1` | Author: `Czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.4.1` | Author: `Czasior` | ![ESM]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
@@ -296,11 +303,7 @@ Midden Expanded:
    * Midden Expanded ESP
 Miscellaneous Patches:
    * Allow autoselected, except
-   * Uncheck 3D Mountain Flowers
-   * Uncheck Cloaks of Skyrim
    * Uncheck Keeper Carcette Survives
-   * Uncheck Mystic Condenser
-   * Uncheck SkyTEST
    * Uncheck Waymark
 More Tavern Idle Markers:
    * None
@@ -442,7 +445,7 @@ Download: | Main Files - Markarth Extra Mountains Edit - City of Stone
 
 ## Riften Docks Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7` | Author: `agentw` |  ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7b` | Author: `agentw` |  ![ESM]
 Download: | Main Files - Riften Docks Overhaul
 
 ![FOMOD]
@@ -547,13 +550,13 @@ Fortified Ramp:
 
 ## JK's Solitude Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | Version: `1.1` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | Version: `1.2` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's Solitude Outskirts
 
 ## JK's Solitude Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.4.1` | Author: `Czasior`
-Download: | Main FIles - JK's Solitude Outskirts Patch Collection
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.5.2` | Author: `Czasior`
+Download: | Main Files - JK's Solitude Outskirts Patch Collection
 
 ![FOMOD]
 ~~~
@@ -617,7 +620,7 @@ Patches for JKs Skyrim:
 
 ## Solitude Docks Updated
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `3.0` | Author: `Featherstone` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `3.1` | Author: `Featherstone` | ![CAO]
 Download: | Main Files - Solitude Docks
 
 ![PostInstall]
@@ -749,7 +752,7 @@ Download: | Main Files - Whiterun Plains Sewers - Moved Entrance
 
 ## JK's The Bannered Mare
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33845) | Version: `1.1.0` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33845) | Version: `1.1.1` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Bannered Mare
 
 ## JK's The Drunken Huntsman
@@ -960,6 +963,31 @@ Main:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64454) | Version: `1.0` | Author: `MissileMann` | ![ESM]
 Download: | Main Files - BUVARP - Chillridge COTN Addon
 
+## ClefJ's Morthal
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2` | Author: `ClefJ` | ![ESM]
+Download: | Main Files - ClefJ's Morthal
+
+## ClefJ's Morthal - Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.1` | Author: `ClefJ`
+Download: | Main FIles - ClefJ's Morthal Patch Collection
+
+![FOMOD]
+~~~
+Allow autoselected, except Cathedral 3D Mountain Flowers and Landscape Fixes for Grass Mods.
+~~~
+
+## ClefJ's Morthal - Expanded Towns and Cities Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112751) | Version: `1.3.1` | Author: `gutmaw czasior ra2phoenix`
+Download: | Main Files - ClefJ Morthal - ETaC
+
+![FOMOD]
+~~~
+Allow autoselected.
+~~~
+
 ## Cultured Orc Furniture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65073) | Version: `1.3` | Author: `MaarMalur` | 
@@ -980,6 +1008,29 @@ Delete scripts/WIDeadBodyCleanupScript.pex.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91160) | Version: `2.0` | Author: `Siberpunk`
 Download: | Main Files - Environs - Master Plugin
 
+## Environs - Hroggar's House
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.01` | Author: `Siberpunk` | ![ESM]
+Download: | Main Files - Environs - Hroggar's House
+
+## Environs - Hroggar's House - Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.01` | Author: `Siberpunk` 
+Download: | Main Files - Environs - Hroggar's House - Patch Collection
+
+![FOMOD]
+~~~
+City Overhaul Patches:
+   * None
+Other Patches:
+   * BUVARP Patch
+   * Denizens of Morthal Patch
+Lux Patches:
+   * Lux Patch
+Lux Orbis Patches:
+   * Lux Orbis Patch
+~~~
+
 ## Environs - Kolskeggr
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk` | ![ESM]
@@ -987,7 +1038,7 @@ Download: | Main Files - Environs - Kolskeggr
 
 ## Environs - Kolskeggr - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk`
 Download: | Main Files - Environs - Kolskeggr - Patch Collection
 
 ![FOMOD]
@@ -998,6 +1049,12 @@ Lighting Patches:
    * Lux Patch
    * Lux Orbis Patch
 ~~~
+
+## Expanded Towns and Cities - Must-Foot Wine Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112447) | Version: `1.0` | Author: `gutmaw`
+Download: | Main Files - ETAC - Must-Foot Wine Patch
+| Optional Files - ETAC - Must-Foot Wine - Medieval Spirits Patch
 
 ## Half-Moon Mill - Cities of the North Addon
 
@@ -1024,6 +1081,12 @@ Download: | Main Files - Old Hroldan Ruins -- SE Enhanced
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8537) | Version: `1.0` | Author: `Albro` | ![ESM]
 Download: | Main Files - Sky Haven Temple - Gardens
+
+## Snazzy Drelas' Cottage
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/114551) | Vresion: `1.0` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Drelas' Cottage
+| Optional Files - Snazzy Drelas Cottage Patches - Plugins
 
 ## Snazzy Interiors - Morthal Falion's House
 
@@ -1227,7 +1290,7 @@ Download: | Main Files - RYFTEN - Consistency of windows in Riften JK's Mistveil
 
 ## Snazzy Interiors - JK's Dragonsreach
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110403) | Version: `1.1` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110403) | Version: `1.2` | Author: `gutmaw`
 Download: | Main Files - Snazzy Interiors - JK's Dragonsreach
 
 ## Snazzy Interiors - JK's Palace of the Kings
@@ -1299,7 +1362,7 @@ Deactivate all patches from Obscure's College of Winterhold
 
 ## JK's Guild HQ Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.15.2` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.18` | Author: `Janquel`
 Download: | Main Files - JKs Guild HQ Interiors Patch Collection
 
 ![FOMOD]
@@ -1346,7 +1409,7 @@ Download: | Main Files - JK's Sleeping Giant Inn
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.18.1` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.19.1` | Author: `Janquel`
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -1354,12 +1417,12 @@ Download: | Main Files - JKs Interiors Patch Collection
 Additional files verification:
    * Would you like to remove duplicate unique items?: Yes
    * Do you use Rugnarok?: Yes
+   * Solitude and Temple Frescoes version: Solitude and Temple Frescoes 2019 - Complete ESL
 Select JKs Interiors:
-   * Allow autoselected, except JK's Silver-Blood Inn and JK's Blue Palace
+   * Allow autoselected, except JK's Silver-Blood Inn, JK's Blue Palace, and JK's Understone Keep
 
 Allow autoselected on all, except:
    * JK's Bee and Barb: Navmesh patches: None
-   * JK's Blue Palace: Solitude City Mods: None
    * JK's Dragonsreach: Uncheck Mystic Conenser; Optional Files: Rudy HQ Miscellaneous
    * JK's Eligrim's Elixirs: Navmesh patches: None
    * JK's Mistveil Keep: Uncheck Mystic Condenser
@@ -1509,13 +1572,15 @@ Download: | Main Files -
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.21` | Author: `czasior gutmaw GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.22` | Author: `czasior gutmaw GGUNIT`
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
 ~~~
 Interiors selection:
    * Select all except Falkreath Dengeir's House
+Additional files verification - SD's Vanilla Table Replacers:
+   * Yes
 Markarth Endon's House:
    * Allow autoselected
    * Rudy HQ Miscellaneous: Rustic Silver version
@@ -1609,6 +1674,7 @@ Blue Palace Frescoes.esp | Apply ESMifier script
 BluePalaceTerrace.esp | Apply ESMifier script
 BUVARP SE RE - Chillridge Farm COTNed.esp | Apply ESMifier script
 ClefJ's Fort Dawnguard.esp | Apply ESMifier script
+ClefJ's Morthal.esp | Apply ESMifier script
 COTN - Dawnstar.esp | Apply ESMifier script
 COTN - Falkreath.esp | Apply ESMifier script
 COTN - Winterhold.esp | Apply ESMifier script
@@ -1616,6 +1682,8 @@ COTN Addon - Anga's mill.esp | Apply ESMifier script
 Denizens of Morthal__Lollia.esp | Apply ESMifer script
 Distinct Interiors.esp | Apply ESMifier script
 ETaC - Complete.esp | Apply ESMifier script
+Environs - Hroggar's House.esp | Apply ESMifier script
+Environs - Kolseggr.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Fortified ramp to the Castle Dour.esp | Apply ESMifier script
 GG's Thieves Guild Headquarters.esp | Apply ESMifier script
@@ -1646,6 +1714,7 @@ Settlements Expanded SE.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
 Solitude Docks.esp | Apply ESMifier script
 Solitude Watchtower.esp | Apply ESMifier script
+Snazzy Drelas Cottage.esp | Apply ESMifier script
 Snazzy Exteriors - Riften Snow-Shod Manor.esp | Apply ESMifier script
 Snazzy Exteriors - Solitude Bryling's House Gardens.esp | Apply ESMifier script
 Snazzy Interiors - Falkreath Dengeir's House.esp | Apply ESMifier script

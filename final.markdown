@@ -39,6 +39,7 @@ Inigo.esp |
 middenexpanded.esp |
 OCW_LotD_FEPatch.esp |
 Sepolcri.esp |
+Skyking Signs - Interesting NPCs Patch.esp |
 Windhelm Lighthouse.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -74,6 +75,7 @@ Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
+IcyFixesLite.esm | Compact formIDs, add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
@@ -93,7 +95,6 @@ OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 OutlawsRefuges.esp | Apply ESMifier script
 OutlawsRefugesProgressionPatch.esp | Compact formIDs, add ESL flag
-Prometheus_No_snow_Under_the_roof.esp | Apply ESMifier script
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
@@ -105,6 +106,7 @@ s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier s
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
+Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 Smooth Weapon.esm | Add ESL flag
@@ -257,7 +259,7 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select 'Payload Interpreter', 'Ice Skating Fixed For Real', 'Some Creature Behavior Bug Fixes', 
-'TK Dodge RE/Ultimate Combat', 'Animation Teleport Bug Fix', and 'zxlice hitstop fixed'.
+'TK Dodge RE/Ultimate Combat', 'Animation Teleport Bug Fix', 'Slow sprint bug fix', and 'zxlice hitstop fixed'.
 
 Click 'Update Engine'
 

@@ -3,6 +3,217 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0 RC6 - 2024-04-10
+
+![Added]
+~~~
+Core - SKSE/Framework - Open Animation Replacer - Dialogue Plugin
+Core - SKSE/Framework - Pyramid Utils
+Core - SKSE - Subtitles
+Core - Bug and Mesh Fixes - Dragon Mounds - Better Collision and Mesh Fixes
+Core - User Interface/UI - ImGui Icons
+Core - World Edits/Dynamic Edits - Diverse Witcher Missive Boards - Base Object Swapper
+Core - World Edits/Dynamic Edits - Snazzy Diverse Carriages - Base Object Swapper
+Core - World Edits/Dynamic Edits - Snazzy Wall Mounted Trophies - Base Object Swapper
+Core - Content/New Content - Missives - Quest Edits for Unique Missive Board Mods
+Core - Meshes and Textures/Architecture (Buildings) - Weathered Stockades Retexture
+Core - Meshes and Textures/Architecture (Objects) - Skyking Signs
+Core - Meshes and Textures/Architecture (Objects) - Skyking Unique Signs
+Core - Meshes and Textures/Dwemer Ruins - Ancient Dwemer Metal - Patches - Skyking Signs
+Core - Meshes and Textures/Landscape - Slightly Better Nordic Burial Cairns
+Core - Meshes and Textures/Food - TMD Winery
+Core - Meshes and Textures/Clutter - Stacks of Skyrim
+Core - Meshes and Textures/Clutter - Stacks of Skyrim - My Patches SE
+Core - Meshes and Textures/Furniture - Snazzy Furniture and Clutter Overhaul (SFCO3) - Base Object Swapper
+Core - Meshes and Textures/Furniture - wd - Barrels
+Core - Meshes and Textures/Furniture - Rally's Barsets
+Core - Meshes and Textures/Furniture - Rally's Chests SMIM
+Core - Meshes and Textures/Furniture - Rally's Noble Furniture
+Core - Meshes and Textures/Furniture - Rally's Orc Furniture
+Core - Meshes and Textures/Furniture - Rally's Upper Furniture
+Core - Meshes and Textures/Effects - Heat Shimmer Fix for ENB
+Core - Meshes and Textures/Armor and Weapons - Arcs Chillrend Redux
+Core - New NPCs/Followers and NPCS - Interesting NPCs - Vigram Enable
+Core - Animations/Conditional Idles and Misc - Player Character Gestures - OAR
+Core - Immersion/General - NPCs Take Cover
+Core - Immersion/General - No More Silver In Castle Volkihar
+Core - Immersion/General - No More Silver In Castle Volkihar - WACCF Patch
+Core - Late Loaders/Meshes and Textures - Ignoble Beds
+Core - Late Loaders/Meshes and Textures - Nordic Farmhouse Walls
+Core - Late Loaders/Meshes and Textures - Riften Plaza Well - 3D Trellis
+Core - Late Loaders/ENB Meshes - Rally's Dark Elf Furniture - ENB Light
+Core - Late Loaders/ENB Meshes - wd - Taproots
+Core - Autoselecting Patch Hubs - Lux - Patch Hub
+Core - Autoselecting Patch Hubs - Lux Orbis - Patch Hub
+Core - Autoselecting Patch Hubs - Navigator Patch Collection
+Core - Autoselecting Patch Hubs - SFCO3 Patch Collection
+
+Adventures - Stacks of Septims - My Patches - LOTD
+
+Addons - Survival - Campfire Animations
+Addons - Followers - Thistlefoot Is Totally Stable
+
+Arch - Towns and Villages - ClefJ's Morthal
+Arch - Towns and Villages - ClefJ's Morthal - Patch Collection
+Arch - Towns and Villages - ClefJ's Morthal - Expanded Towns and Cities Patch
+Arch - Towns and Villages - Environs - Hroggar's House
+Arch - Towns and Villages - Environs - Hroggar's House - Patch Collection
+Arch - Towns and Villages - Expanded Towns and Cities - Must-Foot Wine Patch
+Arch - Towns and Villages - Snazzy Drelas' Cottage
+~~~
+
+![Removed]
+~~~
+Core - Dragon Mound Dirt FIX
+Core - Improved Alternate Conversation Camera
+Core - Obscure's College of Winterhold - Creation Club and Other Patches
+Core - WiZkiD - Signs
+Core - WiZkiD - Specific Signs
+Core - RUSTIC FURNITURE
+Core - Snazzy Furniture and Clutter Overhaul
+Core - Solstheim Objects SMIMed - High Poly Dark Elf Furniture
+Core - Rally's Display Cases
+Core - Weathered Furniture - Bars and Counters
+Core - Weathered Furniture - Common and Upper Class
+Core - Animated Coffins
+Core - Less Repetitive Farmhouse Stonewalls
+Core - ENB Lights - Dark Elf Lantern - Animated Glow
+Core - ENB Lights - Dark Elf Lantern - Animated Glow - Particle Patch
+Core - ENB Light - Subdivide and Smooth - Hagraven
+Core - Snazzy Furniture and Clutter Overhaul Patch Collection
+
+Addons - Followers - Song of the Green - Dismount AI Fix
+~~~
+
+![Updated]
+~~~
+Prereqs - Persistentify Those Plugisn updated to 0.20.1.
+Prereqs - Synthesis updated to 0.27.
+Prereqs - xLODGEN updated to beta 108.
+Prereqs - DynDOLOD updated to Alpha-169.
+
+Core - Description Framework updated to 1.4.0.
+Core - Infinity UI updated to 2.0.2.
+Core - Keyword Item Distributor updated to 3.4.0.
+Core - Mu Skeleton Editor updated to 0.6.0.
+Core - Open Animation Replacer updated to 2.2.2.
+Core - Scaleform Translation Plus Plus NG updatd to 1.8.
+Core - Sound Record Distributor updated to 1.5.1.
+Core - Spell Perk Item Distributor updated to 7.0.0.
+Core - Comprehensive Attack Rate Patch updated to 1.1.2.8.
+Core - Helmet Toggle 2 updated to 2.8.4.
+Core - NPCs Use Potions updated to 3.2.2.
+Core - Photo Mode updated to 1.4.0.
+Core - powerofthree's Tweaks updated to 1.9.2.
+Core - Stones of Solitude Majestic Mountain Rocks updated to 1.3.
+Core - Skyrim Particle Patch for ENB updated to 1.2.9.
+Core - Landscape Fixes For Grass Mods updated to 5.3.
+Core - Skyrim Landscape and Water Fixes updated to 8.5.2.
+Core - CritterSpawn Congestion Fix updated to 1.54.
+Core - Interesting NPCs Script Optimization renamed Interesting NPCs Script Fixes, updated to 2.1.
+Core - Immersive DIsplay Overhaul updatd to 1.31.
+Core - moreHUD Inventory Edition updated to 1.0.20.
+Core - Phoenix Compendium updated to 2.3.0.
+Core - Outlaws Refuge Base Object Swapper updated to 1.2.
+Core - World Edits - Small Wilderness Edits renamed to World Edits - Dynamic Edits
+       Many BOS mods moved to this section.
+Core - Diverse Farm Fences - Base Object Swapper updated to 1.5b.
+Core - World Edits - Large Wilderness Edits renamed to World Edits - Wilderness
+	   Unique Border Gates Fixes, Windhelm Lighthouse moved to this section.
+Core - Northern Roads Patches Compendium updated to 6.6.1.
+Core - Blood and Silver Cidhna Mine Expanded updated to 2.3b.
+Core - The Heart of Dibella Quest Expansion updated to 1.03.
+Core - The Whispering Door Quest Expansion updated to 1.11.
+Core - Extended Encounters updated to 1.6.6.
+Core - Missives World Additions Solstheim updated to 2.08.
+Core - Beyond Skyrim Morrowind Bonemold Weapon Pack updated to 1.3.
+Core - Heavy Armory New Weapons updated to 6.0.5.
+Core - New Armory Series Ash Spawn Weapons updated to 1.3.
+Core - New Armory Series Dragon Cult Weapons upddated to 1.11.
+Core - DynDOLOD Resources updated to Alpha-49.
+Core - DynDOLOD Resources Large Ref Workaround updated to Alpha-17.
+Core - LOD Model Library to DynDOLOD updated to 1.5.1.
+Core - Blended Roads Redone updated to 2.1.
+Core - HD Terrain Noise Texture updated to 1.1.
+Core - Aspens Ablaze updated to 2.36.
+Core - Fancy Sleeping Tree Replacer updated to 1.7.
+Core - Rally's Feather and Ink updated to 1.2.
+Core - Rally's Common Furniture updated to 1.7.
+Core - Embers XD updated to 2.9.7.
+Core - aMidianBorn Content Addon update to 3.0.8.
+Core - Ebony Armors and Weapons Retexture updated to 2.01.
+Core - Glass Armors and Weapons Retexture updated to 2.1.1.
+Core - Water for ENB updated to 1.90.
+Core - Natural Waterfalls updated to 2.2.
+Core - Lux updated to 6.5.4.
+Core - Lux Orbis updated to 4.2.1.
+Core - Storm Lightning updated to 1.4.21.
+Core - Immersive Patrols updated to 3.0b.
+Core - Interesting NPCs - Al'Hassan's Smithy Patch updated to 1.1.
+Core - CBBE updated to 2.0.3.
+Core - CBBE AE-CC Outfits updated to 2.0.3.
+Core - CBBE No Rim Lighting updated to 2.0.3.
+Core - Kaliles Brows High Poly Head updated to 2.0.
+Core - CBPC updated to 1.6.4.
+Core - Dynamic Sprint updated to 1.9.
+Core - Conditional Expressions Extended updated to 2.0.3.
+Core - Dynamic Female Weather Idles updated to 1.3.
+Core - Gesture Animation Remix updated to 2.1.1.
+Core - NPC Animation Remix updated to 1.8.2.
+Core - XPMSSE updated to 5.06.
+Core - Honed Metal updated to 1.26.
+Core - Simply Knock Dynamic Activation Key Patch updated to 0.3.
+Core - Complete Alchemy and Cooking Overhaul updated to 2.1.3.
+Core - Complete Crafting Overhaul Remastered updated to 2.5.7.
+Core - Blade and Blunt updated to 3.5.0.
+Core - Reliquary of Myth updated to 4.8.1.
+Core - Subclasses of Skyrim 2 updated to 1.0.3.
+Core - Your Own Thoughts updated to 1.2AE.
+Core - kryptopyr's Patch Hub updated to 4.0.5.
+Core - High Hrothgar Fixed updated to 1.0.7 - Lux and Lux Orbis patches removed
+Core - Icy Mesh Remaster updated to 2.41.
+Core - Mesh Patches - Lux and Lux Orbis updated to 1.7.1.
+Core - Water in Wells updated to 0.8.
+Core - Improved Solitude Windmill updated to 1.4.
+Core - Praedy's College of Winterhold - Patches moved to Autoselecting Patch Hubs.
+Core - Rally's Bees and More updated to 1.5.
+Core - More Realistic Fur and Antlers For Hagraven Clutter updated to 1.4.
+Core - Mfg Fix changed to Mfg Fix NG 0.1.5.
+Core - Complete Crafting Overhaul Remastered Settings Loader updated to 2.1.0.
+Core - lilebonymace's Patches updated to 2.38.
+Core - Northern Roads Patch Collection updated to 1.25.1.
+Core - Psychopatchist Purgagory updated to 0.5.
+Core - Tiny But Useful Yet Another Patch Hub updated to 2.1.1.
+
+Adventures - Moonpath to Elsweyr Music Weather and Other Fixes updated to 3.1.
+Adventures - Wyrmstooth - Brimstone and Wyrmstone Armory updated to 1.4.
+Adventures - Legacy of the Dragonborn - Patches updated to 5.6.2.
+
+Addons - Survival - Immersive Hunting Animation updated to 2.1.2.
+Addons - Survival - Simple Hunting Overhaul updated to 1.09.
+Addons - Followers - Remiel updated to 1.7.1.
+Addons - Followers - Xelzaz updated to 1.11.2.
+
+Arch - Expanded Towns and Cities instructions updated (CFTO patch)
+Arch - Cities of the North Dawnstar Patch Collection updated to 5.1.
+Arch - The Great City of Winterhold updated to 4.1.1.
+Arch - The Great City of Winterhold Patch Collection updated to 2.4.1.
+Arch - Riften Docks Overhaul updated to 2.5.7b.
+Arch - JK's Solitude Outskirts updated to 1.2.
+Arch - JK's Solitude Outskirts Patch Collection updated to 1.5.2.
+Arch - Solitude Docks Updated updated to 3.1.
+Arch - JK's The Bannered Mare updated to 1.1.1.
+Arch - Snazzy Interiors - JK's Dragonsreach updated to 1.2.
+Arch - JK's Guild HQ Interiors Patch Collection updated to 1.18.
+Arch - JK's Interiors Patch Collection updated to 5.19.1.
+Arch - Snazzy Interiors Patch Collection updated to 1.22.
+Arch - Final steps updated (ESMify ClefJ Morthal, Environs Hroggar, Environs Kolskeggr, Snazzy Drelas Cottage)
+
+Final Steps updated - clean SkyKing Signs Interesting NPCs Patch
+      Updated instructions for IcyFixesLite, Skyking Signs Interesting NPCs Patch
+	  Added Slow sprint bug fix to Nemesis patch list
+~~~
+
 # 1.0.0.0.RC5 - 2024-02-09
 
 ![Added]

@@ -278,7 +278,7 @@ Manually extract the Edit Scripts folder into Modding\Skyrim\Tools\xEdit\
 
 ## Persistentify Those Plugins
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76750) | Version: `0.10.0` | Author: `FelesNoctis` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76750) | Version: `0.20.1` | Author: `FelesNoctis` | ![Core] |
 Download: | Main Files - Persistentify Those Plugins (Functional Beta)
 
 ![PostInstall]
@@ -296,7 +296,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.26` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.27` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -454,8 +454,8 @@ Select File->Save, confirm all, and exit.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 101` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 101
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 108` | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 108
 
 ![PostInstall]
 ~~~
@@ -473,7 +473,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-167` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-169` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

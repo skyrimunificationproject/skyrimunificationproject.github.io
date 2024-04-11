@@ -265,7 +265,7 @@ Download: | Main Files - Moonpath to Elsweyr SSE
 
 ## Moonpath to Elsweyr - Music - Weather and Other Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `3.0` | Author: `ToosTruus` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `3.1` | Author: `ToosTruus` | ![CAO]
 Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
 
 ![FOMOD]
@@ -366,7 +366,7 @@ Patches:
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.3` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.4` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Wyrmstooth - CC's Enhanced Ore Veins Patch
@@ -821,7 +821,7 @@ Download: | Main Files - Legacy of the Dragonborn Delay Patch
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6.1` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6.2` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -1143,6 +1143,17 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105714) | Version: `1.1` | Author: `Gutmaw`
 Download: | Main Files - Snazzy Skyrim Unique Treasures
 | Optional Files - Snazzy Skyrim Unique Treasures - LotD Patch
+
+## Stacks of Septims - My Patches SE by Xtudo - LOTD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `1.8` | Author: `Xtudo` | ![Visuals]
+Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
+
+![PostInstall]
+~~~
+Delete meshes/tamira/treasure/goldmoundlarge01.nif.
+Delete *.esp.
+~~~
 
 ## The Brotherhood of Old SE - Cleaned Textures
 

@@ -266,7 +266,7 @@ Download: | Main Files - ICC - Simple Hunting Overhaul
 
 ## Immersive Hunting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.0.1` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.1.2` | Author: `Elsawirr`
 Download: | Main Files - Immersive Hunting Animations
 
 ![FOMOD]
@@ -274,7 +274,6 @@ Download: | Main Files - Immersive Hunting Animations
 Optional Files:
    * Conditional Animations
    * MCM Helper
-   * Simple Hunting Overhaul
 ~~~
 
 ## Immersive Spell Learning - DESTified
@@ -292,7 +291,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.07` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.09` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -321,6 +320,11 @@ Download: | Main Files - Igniting animation for Campfire
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73343) | Version: `1.0` | Author: `dendritiic`
 Download: | Main Files - Campfire - hotkey fix
+
+## Campfire Animations
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.2` | Author: `GiraPomba`
+Download: | Main Files - Campfire Animations
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
 
@@ -472,7 +476,7 @@ Pack the mod with CAO.
 
 ## Remiel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.0` | Author: `Maplespice` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.1` | Author: `Maplespice` | ![QAC] ![ESM]
 Download: | Main Files - Remiel-Dwemer Specialist
 
 ![FOMOD]
@@ -486,6 +490,8 @@ Commentary Patches - Legacy of the Dragonborn:
 Commentary Patches - Beyond Reach:
    * None
 Commentary Patches - The Timelost Dwemer:
+   * None
+Commentary Patches - Lost Races of Aetherius:
    * None
 Misc Patches:
    * None
@@ -553,11 +559,6 @@ Download: | Main Files - Auri - Remastered Audio
 Pack the mod with CAO.
 ~~~
 
-## Song of the Green - Dismount AI Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57976) | Version: `1.1.0` | Author: `Wartortle`
-Download: | Main Files - Auri Dismount AI Fix
-
 ## Song of the Green - Fancy Pod
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82661) | Version: `1.2` | Author: `GGUNIT`
@@ -582,6 +583,11 @@ Human eyes:
 Pack the mod with CAO.
 ~~~
 
+## Thistlefoot Is Totally Stable (Actual Auri Mount Fix)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/114146) | Version: `0.0.1` | Author: `Akira1364`
+Download: | Main Files - T.I.T.S. (Actual Auri Mount Fix)
+
 ## Axarien's Animations - Auri
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/107268) | Version: `1.0` | Author: `Axarien`
@@ -589,7 +595,7 @@ Download: | Main Files - Axarien's Animations - Auri
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.11.0` | Author: `BluePwnsU` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.11.2` | Author: `BluePwnsU` | ![QAC] ![ESM]
 Download: | Main Files - Xelzaz Follower Core 1.11.0
 
 ## Xelzaz - Wyrmstooth Patch
