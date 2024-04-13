@@ -40,10 +40,10 @@ core:
         url: 14-world-edits---towns-and-settlements
       - page: 15. World Edits - Dungeons
         url: 15-world-edits---dungeons
-      - page: 16. World Edits - Small Wilderness Edits
-        url: 16-world-edits---small-wilderness-edits
-      - page: 17. World Edits - Large Wilderness Edits
-        url: 17-world-edits---large-wilderness-edits
+      - page: 16. World Edits - Dynamic Edits
+        url: 16-world-edits---dynamic-edits
+      - page: 17. World Edits - Wilderness Edits
+        url: 17-world-edits---wilderness-edits
   - title: Content Expansion
     subfolderitems:
       - page: 18. Content - Guilds and Factions

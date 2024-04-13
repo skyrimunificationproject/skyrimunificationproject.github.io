@@ -22,8 +22,8 @@ Core - Meshes and Textures/Architecture (Objects) - Skyking Unique Signs
 Core - Meshes and Textures/Dwemer Ruins - Ancient Dwemer Metal - Patches - Skyking Signs
 Core - Meshes and Textures/Landscape - Slightly Better Nordic Burial Cairns
 Core - Meshes and Textures/Food - TMD Winery
-Core - Meshes and Textures/Clutter - Stacks of Skyrim
-Core - Meshes and Textures/Clutter - Stacks of Skyrim - My Patches SE
+Core - Meshes and Textures/Clutter - Stacks of Septims
+Core - Meshes and Textures/Clutter - Stacks of Septims - My Patches SE
 Core - Meshes and Textures/Furniture - Snazzy Furniture and Clutter Overhaul (SFCO3) - Base Object Swapper
 Core - Meshes and Textures/Furniture - wd - Barrels
 Core - Meshes and Textures/Furniture - Rally's Barsets
