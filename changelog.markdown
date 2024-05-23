@@ -3,6 +3,206 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0 RC7 - 2024-05-22
+
+![Added]
+~~~
+Core - SKSE/Framework - Andrealphus' Papyrus Functions
+Core - SKSE - Alchemy XP Fix
+Core - SKSE - Beard Mask Fix
+Core - SKSE - Beard Mask Fix for Skyrim 1.5
+Core - SKSE - Dynamic Wait SKSE
+Core - SKSE - Menu Zoom
+Core - SKSE - Universal Rim Lighting Fix
+Core - User Interface/Map - Extended Cut - Saints and Seducers Paper Map for FWMF
+Core - World Edits/Dynamic Edits - Slightly Better Nordic Henges - Wintersun Patch
+Core - Content/Modified Vanilla Content - Andrealphus Scene Tweaks
+Core - Content/Modified Vanilla Content/Quest Expansions - Infiltration - Quest Expansion
+Core - Content/Modified Vanilla Content/Quest Expansions - Skyrim Extended Cut - Saints and Seducers
+Core - Meshes and Textures/Architecture (Buildings) - Inveterate Imperium
+Core - Meshes and Textures/Architecture (Buildings) - Nordic Ruins Tower Rework
+Core - Meshes and Textures/Architecture (Buildings) - FYX Imperial Doors Collisions
+Core - Meshes and Textures/Ancient Structures - Astral Aspect
+Core - Meshes and Textures/Furniture - Rally's Thrones
+Core - Meshes and Textures/Armor and Weapons - Improved Closefaced Helmets Lite
+Core - Meshes and Textures/Armor and Weapons - Semi-Open Guard Helmets
+Core - Beauty and Appearance/Body and Skin - CBBE 3BA
+Core - Beauty and Appearance/Body and Skin - Highly Improved Male Body Overhaul -HIMBO-
+Core - Beauty and Appearance/Body and Skin - Bits and Pieces - RSV Patch
+Core - Beauty and Appearance/Body and Skin - Bits and Pieces - Child Skin
+Core - Beauty and Appearance/Body and Skin - Bits and Pieces - Teeth Overhaul
+Core - Beauty and Appearance/Body and Skin - Racial Skin Variance - SPID
+Core - Beauty and Appearance/Body and Skin - Nordic Feel
+Core - Beauty and Appearance/Body and Skin - HIMBO Regular Guy Preset
+Core - Beauty and Appearance/Body and Skin - Quarter Cranks
+Core - Animation/Foundation - CBPC Config - Petite to Plenty
+Core - Animation/Conditional Combat - Varangand Animations II - Unarmed Normal and Power Attacks
+Core - Animation/Conditional Idles and Misc - Dynamic Crafting Animations
+Core - Animation/Conditional Idles and Misc - Dynamic Looting and Harvesting Animations
+Core - Immersion/Dialogue and Relationship - Extended Bandit Dialogue
+Core - Immersion/Dialogue and Relationship - Extended Guard Dialogue
+Core - Late Loaders/Patches - CBBE 3BA Vanilla Outfits Redone
+Core - Late Loaders/Patches - Weapons Armor Clothing and Clutter Fixes - CBBE 3BA
+Core - Late Loaders/Patches - Armor Variants Expansion - HIMBO Refit
+Core - Late Loaders/Patches - Creation Club ARmor Clothing Refits - HIMBO
+Core - Late Loaders/ENB Meshes - Flame VFX Edit
+Core - Late Loaders/ENB Meshes - Frost VFX Edit
+Core - Autoselecting Patch Hubs - Descriptions for Various Mods
+Core - Autoselecting Patch Hubs - Lux Via - Patch Hub
+
+Adventures - Legacy of the Dragonborn - CBBE 3BA and HIMBO Patch
+Adventures - Volkihar Knight - CBBE 3BA
+Adventures - Wyrmstooth - CBBE 3BA and HIMBO Patch
+Adventures - Rally's Banners of Skyrim
+
+Addons - Survival - More Realistic Antlers for Carry Your Carcasses
+Addons - Survival - Dirt and Blood - Dynamic Visual Effects - New Dirt Textures
+Addons - Followers - Remiel - CBBE 3BA
+
+Arch - Shadow's Markarth Patch - Mossy City of Stone
+Arch - Snazzy Interiors - Morvayn Manor
+Arch - JK's Castle Volkihar
+~~~
+
+![Removed]
+~~~
+Core - Headpart Whitelist
+Core - Skyrim Landscape and Water Fixes
+Core - Vanilla Plus Writing Purity Patch
+Core - Mundus Stones
+Core - Ancient Dwemer Metal - Patches - Aetherial Crown
+Core - Improved Closefaced Helmets
+Core - Vitruvia
+Core - Bijin Skin CBBE
+Core - Eye Normal Map Fix SSE
+Core - Dynamic Bow Animation
+
+Note: Several mods merged into upcoming LOTD V6
+Adventures - Dragon War (Adventures-specific install)
+Adventures - Legacy of the Dragonborn - Safehouse Plus
+Adventures - Legacy of the Dragonborn - Fossil Mining
+Adventures - New Treasure Hunt
+Adventures - Treasure Hunter
+Adventures - Fossil Mining - Map Markers
+Adventures - Legacy of the Dragonborn - Better Rkund Navmesh
+Adventures - Legacy of the Dragonborn - Better Sancre Tor Navmesh
+Adventures - Legacy of the Dragonborn - Followers Patch
+Adventures - Legacy of the Dragonborn - Quest and Reward Delay
+Adventures - Legacy of the Dragonborn - CBBE Patch
+Adventures - Legacy of the Dragonborn - Dome Retexture
+Adventures - Legacy of the Dragonborn - Dwemer Compass Replacer
+Adventures - Legacy of the Dragonborn - Fixes and Tweaks
+Adventures - Legacy of the Dragonborn - Gemstones Remade
+Adventures - Legacy of the Dragonborn - Museum Dome Improved
+Adventures - Volkihar Knight - CBBE Bodyslide
+
+Addons - Survival - Favor Jobs Overhaul
+~~~
+
+![Updated]
+~~~
+Prereqs - Synthesis updated to 0.28.
+Prereqs - xLODGEN updated to Beta 111.
+
+Core - Base Object Swapper updated to 3.0.3.
+Core - Description Framework updated to 2.1.0.
+Core - More Informative Console updated to 1.2.0.
+Core - Open Animation Replacer updated to 2.3.0.
+Core - Spell Perk Item Distributor updated to 7.1.3.
+Core - Faster HDT-SMP updated to 2.4.0.
+Core - Items Stolen Bug Fix updated to 1.0.7.
+Core - Naked Dead NPC Fix updated to 1.0.7.
+Core - No Grass In Objects updated to 1.0.14.
+Core - Read Or Take updated to 1.4.0.
+Core - Unofficial Skyrim Special Edition Patch updated to 4.3.1.
+Core - Landscape Fixes For Grass Mods updated to 5.4.
+Core - Scripts Carefully Reworked Optimized and Tactically Enhanced updated to 1.0.2.
+Core - Unaggressive Dragon Priests Fix updated to 1.3.1.
+Core - Constructible Object Custom Keyword System updated to 1.1.1.
+Core - Constructible Object Keyword System NG updated to 1.1.1.
+Core - Diverse Witcher Missive Boards updated to 1.5.
+Core - Snazzy Wall Mounted Trophies updated to 1.2.
+Core - Northern Roads Patch Compendium updated to 6.6.2.
+Core - BUVARP RE updated to 1.3.3.
+Core - Even Better Quest Objectives updated to 1.10.0.
+Core - Missives - Worldspace Additions - Solstheim updated to 2.09.
+Core - Beyond Skyrim Morrowind Bonemold Weapon Pack updated to 1.4.
+Core - Beyond Skyrim Wares of Tamriel updated to 1.5.3.
+Core - New Armory Series Dragon Cult Weapons updated to 1.2.
+Core - DynDOLOD Resources Large Reference Workaround Scripts updated to Alpha-29.
+Core - LOD Model Library for DynDOLOD updated to 1.6.
+Core - Assorted Mesh Fixes updated to 0.98.1.
+Core - Forgotten Retex Project updated to 8.4.
+Core - Better Floors - Whiterun moved to Late Loaders, updated to 1.2.
+Core - Better Imperial Forts updated to 1.1.
+Core - Skyking Signs - added SSEC optional file.
+Core - Aspens Ablaze Add-on DynDOLOD updated to 2.36.3.
+Core - Sigils of Skyrim - Banners updated to 1.1.
+Core - Skyrim Objects SMIMed - Noble Furniture updated to 0.6.
+Core - Ignoble Beds moved here from Late Loaders
+Core - Rally's Noble Furniture updated to 1.5, BOS addon added.
+Core - Embers XD updated to 3.0.3.
+Core - Natural Waterfalls updated to 2.4.
+Core - Lux updated to 6.7.1.
+Core - Lux Orbis updated to 4.2.2.
+Core - Lux Via updated to 2.2.
+Core - Brows High Poly Head Patch updated to 2.0.
+Core - Sonders Keyword DIstribution Resources updated to 1.4.
+Core - Dynamic Sprint updated to 2.2.
+Core - Conditional Expressions Extended updated to 2.0.4.
+Core - Guards Pose With Weapons updated to 1.1.
+Core - Lively Children Animations updated to 2.2.1.
+Core - NPC Animation Remix updated to 1.9.0.
+Core - Misc Dialogue Edits updated to 1.9.5.2.
+Core - More Dialogue Options updated to 1.5.1.
+Core - Nether's Follower Framework updated to 2.8.6b.
+Core - Complete Alchemy and Cooking Overhaul updated to 2.1.5.
+Core - Complete Crafting Overhaul Remastered updated to 2.5.9.
+Core - Dragon War updated to 4.0. Added Adventures patches back into main mod install.
+Core - Blunt and Blade updated to 3.7.2.
+Core - Dynamic Things Alternative - updated delete instructions.
+Core - kryptopyr's Patch Hub - FOMOD updated
+Core - Sconces of Skyrim updated to 0.3.
+Core - Better Pelts and Hides - updated delete instructions.
+Core - ENB Light - Reasonably Round Dunmer Lanterns updated to 1.2.
+Core - ENB - Rudy NAT updated to 1.2a.
+Core - Lux - Patch Hub updated to 6.6.
+Core - Northern Roads Patch Collection updated to 1.26.
+Core - Psychopatchist Purgatory updated to 0.6.
+Core - SFCO3 Patch Collection updated to 1.4.
+
+Final Steps - Removed compact instructions from fallentreebridges.esp.
+              Added compact instructions for Semi-Open Guard Helmets SE.esp.
+
+Adventures - Wyrmstooth updated to 1.20.2
+Adventures - Legacy of the Dragonborn - Patches - updated delete instructions
+Adventures - Wyrmstooth Vulom Skeleton Replacer HD Patch updated to 2.0.1.
+Adventures Final Steps - Removed ESM instructions from moonpath.esp.
+
+Addons - Survival - Simple Hunting Overhaul updated to 1.10.
+Addons - Followers - Serana Dialogue Add-On updated to 4.1.1.0.
+Addons - Followers - Serana Dialogue Add-On Patch Hub updated to 2.9.3.
+
+Arch - Distinct Interiors Patch Collection updated to 1.1.
+Arch - Cities of the North - Falkreath Patch Collection updated to 1.22.
+Arch - Distinct Interiors for Cities of the North updated to 2.4.
+Arch - Optimized Cities of the North Meshes updated to 1.5.1.
+Arch - Markarth - City of Stone updated to 1.3.3.
+Arch - Snazzy Interiors - Markarth Endon's House - updated delete instructions.
+Arch - JK's Solitude Outskirts updated to 1.2.1.
+Arch - JK's Solitude Outskirts Patch Collection updated to 1.6.
+Arch - Snazzy Interiors - Solitude Erikur's House - updated delete instructions.
+Arch - Capital Windhelm Expansion - HPNPC patch moved to new mod entry
+Arch - GG's Capital JK's Whiterun updated to 2.1.
+Arch - Whiterun Exteriors Patch Collection updated to 1.2.2.
+Arch - JK's Blue Palace updated to 1.4.1.
+Arch - JK's Blue Palace Terrace updated to 1.4.6.
+Arch - JK's College of Winterhold Combo Patches updated to 2.7.
+Arch - JK's Guild HQ Interiors Patch Collection updated to 1.19.2.
+Arch - Snazzy Interiors Patch Collection updated to 1.24.
+Arch Final Steps - Added ESM instructions for JK's Castle Volkihar.esp and Markarth - City of Stone.esp.
+~~~
+
 # 1.0.0.0 RC6 - 2024-04-10
 
 ![Added]

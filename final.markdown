@@ -68,7 +68,7 @@ ESOimports.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | Compact formIDs, add ESL flag
 FarmhouseChimneys.esp | Apply ESMifier script
-fallentreebridgesSSE.esp | Compact formIDs, add ESL flag, apply ESMifier script
+fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
 Gildergreen Regrown.esp | Compact formIDs, add ESL flag
@@ -102,9 +102,9 @@ ReadingImprovesSpeech.esp | Add ESL flag
 RealRainSE.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
-s6o6t Lore - Mundus Stones.esp | Compact formIDs, add ESL flag, apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
+Semi-Open Guard Helmets SE.esp | Compact formIDs, add ESL flag
 Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
 SkyrimSewers.esp | Apply ESMifier script

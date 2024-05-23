@@ -42,8 +42,8 @@ core:
         url: 15-world-edits---dungeons
       - page: 16. World Edits - Dynamic Edits
         url: 16-world-edits---dynamic-edits
-      - page: 17. World Edits - Wilderness Edits
-        url: 17-world-edits---wilderness-edits
+      - page: 17. World Edits - Wilderness
+        url: 17-world-edits---wilderness
   - title: Content Expansion
     subfolderitems:
       - page: 18. Content - Guilds and Factions

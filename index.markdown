@@ -296,7 +296,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.27` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.28` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -454,8 +454,8 @@ Select File->Save, confirm all, and exit.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 108` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 108
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 111` | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 111
 
 ![PostInstall]
 ~~~

@@ -136,25 +136,6 @@ Pack the mod with CAO.
 ~~~
 
 
-
-## Favor Jobs Overhaul
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40145) | Version: `2.7.8` | Author: `lilebonymace`
-Download: | Main Files - Favor Jobs Overhaul
-
-![FOMOD]
-~~~
-Options:
-   * None
-Patches:
-   * Complete Alchemy and Crafting Overhaul (CACO)
-   * Immersive Interactions - Animated Actions
-MineOreScript.pex:
-   * Complete Crafting Overhaul Remastered (CCOR)
-ResourceFurnitureScript.pex:
-   * Complete Crafting Overhaul Remastered (CCOR)
-~~~
-
 ## Footprints
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | Version: `1.6.1` | Author: `hexabit`
@@ -291,7 +272,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.09` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.10` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -303,6 +284,11 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.2` | Author: `AndrealphusVIII` | ![Optional]
 Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
+
+## More Realistic Antlers for Carry Your Carcasses
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/118993) | Version: `1.1` | Author: `FrankBlack`
+Download: | Main Files - More Realistic Antlers for Carry Your Carcasses
 
 # A03. Addons - Immersion and Survival (Late Loaders)
 
@@ -346,6 +332,10 @@ Install optional plugin?:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89852) | Version: `1.2.1n` | Author: `jagerguy` 
 Download: | Main Files - DnBE animation patch
 
+## Dirt and Blood - Dynamic Visual Effects - New Dirt Textures
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56596) | Version: `1.6b` | Author: `MoonMods`
+Download: | Main Files - New Dirt Textures - Dirt and Blood - 2k
 
 ## Dirt and Blood - Dynamic Visual Effects - Widget Addon
 
@@ -422,12 +412,12 @@ DEST_ISL.esp | Add ESL flag
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.0.1` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.0` | Author: `Martimius`
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.2` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.3` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]
@@ -516,6 +506,11 @@ Extras:
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Remiel - CBBE 3BA
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85903) | Version: `1.0` | Author: `megaman2k`
+Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 
 ## Song of the Green
 
