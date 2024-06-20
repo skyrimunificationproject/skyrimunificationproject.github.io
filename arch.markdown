@@ -20,6 +20,12 @@ Install these categories between "Addons - Adventures" and "Conflict Resolution"
 Download: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
 | Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
 
+## Statue of Mara - My Patches SE by Xtudo [Addons - Project Arch]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93961) | Version: `2.0` | Author: `Xtudo` | ![Core]
+Download: | Main Files - Mara - My Exterior SE by Xtudo - JK's Lux Orbis
+| Main Files - Mara - My Exterior SE by Xtudo - JKs Solitude Dock
+
 ## Thieves' Night On the Town [Addons - Project Arch]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42069) | Version: `1.0.8` | Author: `Megapatato` | ![Core] |
@@ -198,7 +204,7 @@ Download: | Main Files - Snazzy Interiors - Falkreath Dengeir's House
 
 ## Cities of the North - Falkreath Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.22` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.22.1` | Author: `Janquel` | 
 Download: | Main Files - COTN Falkreath Patch Collection
 
 ![FOMOD]
@@ -213,8 +219,10 @@ Miscellaneous Patches:
    * Uncheck Mystic Condenser
 Combined Patches:
    * Allow autoselected
+   * Helgen Reborn: Helgen Reborn (Not JK)
 Consistency Patches:   
    * Allow autoselected
+   * ESO Imports and LOTD: JK's Skyrim + ESO Imports
 Miscellaneous:
    * Thrones of Skyrim
 Optional Add-Ons:
@@ -443,7 +451,7 @@ Download: | Main Files - Markarth - City of Stone
 
 ## Shadow's Markarth Patch - Mossy City of Stone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/117987) | Version: `1` | Author: `Shadowangel09`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/117987) | Version: `1.1` | Author: `Shadowangel09`
 Download: | Main Files - Markarth - Mossy City of Stone
 
 ## Markarth Extra Mountains Edit
@@ -633,11 +641,12 @@ Patches for JKs Skyrim:
 
 ## Solitude Docks Updated
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `3.1` | Author: `Featherstone` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33777) | Version: `3.2c` | Author: `Featherstone` | ![CAO] ![ESM]
 Download: | Main Files - Solitude Docks
 
 ![PostInstall]
 ~~~
+Delete Solitude Docks - LWF patch.esp.
 Pack the mod with CAO.
 ~~~
 
@@ -646,6 +655,10 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80979) | Version: `1.0` | Author: `monkeyangie`
 Download: | Main Files - RS Children - Solitude Docks Updated Patch
 
+## Solitude Docks Updated - High Poly NPCs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120023) | Version: `1.0` | Author: `Socalista`
+Download: | Main Files - Solitude Docks Updated - High Poly NPCs
 
 ## Snazzy Interiors - Solitude Bryling's House
 
@@ -758,6 +771,14 @@ Patches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.1` | Author: `GGUNIT`
 Download: | Main Files - GG's Capital JK's Whiterun
 | Update Files - GG's Capital JK's Whiterun Update
+| Optional Files - Addon - Kynareth Statue option
+| Optional Files - Addon - Fancy road option
+
+## GG's Temple of Kynareth
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120756) | Version: `1.1` | Author: `GGUNIT`
+Download: | Main Files - GG's Temple of Kynareth (vanilla)
+| Optional Files - GG's Kynareth - JK's patch
 
 ## Whiterun Plains Sewers - Moved Entrance
 
@@ -845,6 +866,11 @@ Consistency Patches:
 New Weynon:
    * None
 ~~~
+
+## Snazzy Honningbrew Meadery
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120534) | Version: `1.0` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Honningbrew Meadery
 
 ## Snazzy Interiors - Whiterun House Battle-Born
 
@@ -960,6 +986,11 @@ Allow autoselected.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58041) | Version: `2.23` | Author: `InstantKor`
 Download: | Main Files - Quaint Raven Rock NAVM Optimized Patch
 
+## Daedric Shrines - Quaint Raven Rock Add-on
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63499) | Version: `3.01` | Author: `Mur4s4me`
+Download: | Main Files - Quaint Raven Rock Add-on
+
 ## Snazzy Interiors - Morvayn Manor
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/119820) | Version: `1.0` | Author: `gutmaw` | ![ESM]
@@ -1035,12 +1066,12 @@ Download: | Main Files - Environs - Master Plugin
 
 ## Environs - Hroggar's House
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.01` | Author: `Siberpunk` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.02` | Author: `Siberpunk` | ![ESM]
 Download: | Main Files - Environs - Hroggar's House
 
 ## Environs - Hroggar's House - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.01` | Author: `Siberpunk` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.03` | Author: `Siberpunk` 
 Download: | Main Files - Environs - Hroggar's House - Patch Collection
 
 ![FOMOD]
@@ -1604,15 +1635,18 @@ Download: | Main Files -
 
 # Z01. Autoselecting Patch Hubs
 
+Add to end of previously installed mods:
+
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.24` | Author: `czasior gutmaw GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.25.1` | Author: `czasior gutmaw GGUNIT`
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
 ~~~
 Interiors selection:
    * Select all except Falkreath Dengeir's House
+   * Drelas' Cottage - plugins
 Additional files verification - SD's Vanilla Table Replacers:
    * Yes
 Drelas' Cottage:
@@ -1648,6 +1682,8 @@ Solitude Erikur's House:
    * Allow autoselected
    * REQUIRE MANUAL SELECTION: Erikur's House Rework, SD's Vanilla Table Replacers
 Solitude Vittoria Vici's House:
+   * Allow autoselected
+Honningbrew Meadery:
    * Allow autoselected
 JK's Dragonsreach: (if using)
    * Allow autoselected
@@ -1692,9 +1728,6 @@ Download: | Main Files -
 
 # Addons - Project Arch - Final Steps
 
-## Lux
-
-Reinstall Lux, Lux Orbis, and Lux Via to autoselect the new mods.
 
 ## xEdit
 
@@ -1759,11 +1792,13 @@ Solitude Watchtower.esp | Apply ESMifier script
 Snazzy Drelas Cottage.esp | Apply ESMifier script
 Snazzy Exteriors - Riften Snow-Shod Manor.esp | Apply ESMifier script
 Snazzy Exteriors - Solitude Bryling's House Gardens.esp | Apply ESMifier script
+Snazzy Honningbrew Meadery.esp | Apply ESMifier script
 Snazzy Interiors - Falkreath Dengeir's House.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Endon's House.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Guard Tower.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Nepos' House.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Treasury House.esp | Apply ESMifier script
+Snazzy Interiors - Moravyn Manor.esp | Apply ESMifier script
 Snazzy Interiors - Morthal Falion's House.esp | Apply ESMifier script
 Snazzy Interiors - Riften Black-Briar Manor.esp | Apply ESMifier script
 Snazzy Interiors - Riften Snow-Shod Manor.esp | Apply ESMifier script

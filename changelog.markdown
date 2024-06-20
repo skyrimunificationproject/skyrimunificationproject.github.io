@@ -3,6 +3,293 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0 RC8 - 2024-06-19
+
+![Added]
+~~~
+Core - SKSE Plugins (Framework) - Crash Logger SSE AE VR - PDB Support
+Core - SKSE Plugins (Framework) - ENB Extender for Skyrim
+Core - SKSE Plugins (Framework) - KiLoader for Skyrim
+Core - SKSE Plugins (Framework) - Object Categorization Framework
+Core - SKSE Plugins (Framework) - Object Categorization Framework - Some KID Patches
+Core - SKSE Plugins - Behavior Data Injector Universal Support
+Core - SKSE Plugins - IFrame Generator RE AE Support
+Core - SKSE Plugins - Inventory Interface Information Injector
+Core - SKSE Plugins - Mum's The Word NG
+Core - SKSE Plugins - No Follower Attack Collision NG
+Core - SKSE Plugins - No Opposite Gender Animations NG
+Core - SKSE Plugins - dTry Plugin Updates
+
+Core - User Interface/UI - I4 - MVV Forgotten Icons
+Core - User Interface/UI - I4 - Shouts Overhaul
+Core - User Interface/UI - I4 - SkyUI Weapons Pack
+Core - User Interface/HUD - Dear Diary Dark Mode - Squish Fixes
+Core - User Interface/HUD - Dear Diary Dark Mode - Compact UI
+Core - User Interface/HUD - Modern Wait Menu
+Core - User Interface/HUD - Modern Wait Menu - Dear Diary Dark Mode Reskin
+Core - User Interface/HUD - TrueHUD - HUD Additions
+Core - User Interface/HUD - TrueHUD - iHUD Patch
+Core - User Interface/HUD - Kome's Inventory Tweaks
+Core - User Interface/Map - Skyrim Paper Map by FreelanceCartography for FWMF
+
+Core - World Edits/Towns and Settlements - Environs - Western Watchtower Doesn't Stay Broken
+Core - World Edits/Towns and Settlements - Environs - Western Watchtower Doesn't STay Broken - Patches
+Core - World Edits/Dynamic Edits - Diverse Windmill Sails - Base Object Swapper
+Core - World Edits/Dynamic Edits - Real Water for Wash Basins - Base Object Swapper
+Core - Content/Modified Vanilla Content - Assorted Vampire Fixes and Tweaks
+Core - Content/Modified Vanilla Content - Quest Expansions - Destroy the Dark Brotherhood - Quest Expansion
+Core - Meshes and Textures/LOD Generator - DynDOLOD The Little Things
+Core - Meshes and Textures/Architecture (Buildings) - Tomato's V3 Farmhouse Parallax
+Core - Meshes and Textures/Architecture (Objects) - Glorious Doors of Skyrim - Missing Door Sounds
+Core - Meshes and Textures/Ancient Structures - Daedric Shrines - All in One
+Core - Meshes and Textures/Ancient Structures - Daedric Shrines - All in One - My Patches by Xtudo
+Core - Meshes and Textures/Ancient Structures - Daedric Shrines - Jyggalag
+Core - Meshes and Textures/Ancient Structures - Daedric Shrines - Jyggalag - My Patches by Xtudo
+Core - Meshes and Textures/Ancient Structures - Daedric Shrines - Mehrunes Dagon - My Patches by Xtudo
+Core - Meshes and Textures/Ancient Structures - Lux Via Kynareth Addon
+Core - Meshes and Textures/Ancient Structures - Statue of Dibella
+Core - Meshes and Textures/Ancient Structures - Statue of Kynareth
+Core - Meshes and Textures/Ancient Structures - Statue of Mara
+Core - Meshes and Textures/Ancient Structures - Statue of Mara - My Exterior Patches SE by Xtudo
+Core - Meshes and Textures/Ancient Structures - Statue of Sithis
+Core - Meshes and Textures/Landscape - Vanaheimr - Mountains
+Core - Meshes and Textures/Flora - Slightly Better Sabre Cat Eyes
+Core - Meshes and Textures/Food - Medieval Potions
+Core - Meshes and Textures/Furniture - Divide and Conquer - A Noble Divider Replacer
+Core - Beauty and Appearance/Body and Skin - RSV SPID Patches for Consistency
+Core - Beauty and Appearance/Hair Brows Beards - Eyebrow Specularity Fix
+Core - Animation/Foundation - Comprehensive First Person Animation Overhaul
+Core - Animation/Foundation - EVG CLAMBER
+Core - Animation/Conditional Idles and Misc - New Creature Animation - Falmer
+Core - Immersion/General - Honed Metal Integration Patches
+Core - Immersion/General - Hunters Loot - And Skin Animals
+Core - Immersion/General - Immersive Interactions - Ingredients and Poison
+Core - Immersion/General - Skeuomorphism of Skyrim - Immersive Plaque Reading Interface
+Core - Gameplay/Combat - TK Dodge RE - Distance Adjustment
+Core - Gameplay/Combat - TK Dodge NG
+Core - Gameplay/Combat - Valhalla Combat
+Core - Gameplay/Combat - Wildcat - Combat of Skyrim
+Core - Gameplay/Perks Leveling Classes - Ordinator - Perks of Skyrim - No Timed Block
+Core - Late Loaders/Meshes and Textures - H.I.T.S. - Hands Itch To Steal - A Silverware Worthy Of The Nords
+Core - Late Loaders/Meshes and Textures - GG's Complex Silverware
+Core - Late Loaders/ENB Meshes - Dragon Breath VFX Edit
+Core - Utilities - Wildcat - Combat of Skyrim - Settings Loader
+
+Addons/Survival - Stress and Fear - A Dynamic Sanity System
+Addons/Survival - Stress and Fear - CACO Patch
+
+Adventures - Daedric Shrines - All in One - My Patches by Xtudo [Addons - Adventures]
+Adventures - Statue of Mara - My Patches SE by Xtudo [Addons - Adventures]
+Adventures - The Grey Cowl of Nocturnal - Daedric Shrines AIO Patch
+Adventures - Legacy of the Dragonborn - Mara Statue Patch
+
+Arch - Statue of Mara - My Patches SE by Xtudo [Addons - Project Arch]
+Arch - Solitude Docks Updated - High Poly NPCs
+Arch - GG's Temple of Kynareth
+Arch - Snazzy Honningbrew Meadery
+Arch - Daedric Shrines - Quaint Raven Rock Add-on
+~~~
+
+![Removed]
+~~~
+Core - .Net Script Framework
+Core - Dynamic Armor Variants for Skyrim 1.5
+Core - Beard Mask Fix for Skyrim 1.5
+Core - Better Stealing
+Core - Screenshot Helper
+Core - Simple Block Sparks
+Core - SSE Fixes
+Core - SSE Gameplay Tweaks
+Core - RaceMenu Memory Leak Hotfix
+Core - SkyUI - Better Config - Smart Sorting by Type - DDDM
+Core - Nordic Ruins Tower Rework
+Core - Skyland Imperial Forts and Dungeons
+Core - WiZkiD Farmhouses
+Core - Majestic Mountains - Northside
+Core - ElSopa - Potions Redone
+Core - ElSopa - Potions Redone - Patches
+Core - ElSopa - Potions Redone - My Patches - Vanilla - LOTD
+Core - ElSopa - Potions Redone - My Patches - Falmer Blood Elixir
+Core - ElSopa - Potions Redone - My Patches - ELIF Inventory SIze Patch
+Core - ElSopa - Potions Redone - Less Emissive and Fixed Inventory Size
+Core - Xtudo's Potion of Blood
+Core - Xtudo's Sleeping Tree Sap
+Core - Xtudo's The White Phial
+Core - Xtudo's Vaermina's Torpor
+Core - Dynamic Sprint
+Core - Savage Skyrim
+Core - Supreme Vampire Lords
+Core - Tyrannical Trolls
+Core - Wicked Werewolves
+Core - No More Silver In Castle Volkihar
+Core - No More Silver In Castle Volkihar - WACCF Patch
+Core - IFrame Generator RE
+Core - Zxlice Hitstop SSE
+Core - Blade and Blunt
+Core - Weapons Repositioner SE
+Core - Nordic Farmhouse Walls
+
+Adventures - Legacy of the Dragonborn - Rudy's Silver Patch
+~~~
+
+![Updated]
+~~~
+Note - change from 1.5.97 to 1.6.1170! Many FOMOD options changed to select the correct version.
+
+Prerequisites - Creation Kit Platform Extended updated to 0.3-b298.
+Prerequisites - DynDOLOD updated to Alpha-173.
+
+Core - Address Library for SKSE Plugins updated to v11 (Anniversary Edition)
+Core - Base Object Swapper updated to 3.1.1, FOMOD changed
+Core - Console Commands Extender changed to Anniversary Edition Update v.1.12.0
+Core - ConsolePlusPlus updated to 1.4.1, FOMOD changed
+Core - Description Framework updatedd to 2.1.1
+Core - ENB Helper updated to 2.2.0
+Core - ENB Light Inventory Fix file to download changed
+Core - Formlist Manipulator FOMOD changed
+Core - Open Animation Replacer updated to 2.3.4
+Core - Open Animation Replacer IED Conditions FOMOD changed
+Core - Pyramid Utils FOMOD changed
+Core - Actor Limit Fix file to download changed
+Core - Alchemy XP Fix FOMOD changed
+Core - Animated Object Swapper FOMOD changed
+Core - Behavior Data Injector - added Payload Interpreter patch
+Core - Better Combat Escape changed to Better Combat Escape NG 1.01
+Core - Better Jumping file to download changed
+Core - Better Third Person Selection updated to 0.7.0
+Core - Bug Fixes updated to 10.0 (AE)
+Core - Classic Paralysis FOMOD updated
+Core - Classic Sprinting Redone updated to 2.3.1 (AE)
+Core - Dual Casting Fix FOMOD updated
+Core - Equip Enchanting Fix FOMOD updated
+Core - Equipment Toggle FOMOD updated
+Core - Encounter Zones Unlocked file to download changed
+Core - Enhanced Invisibility FOMOD updated
+Core - Essential Favorites FOMOD updated
+Core - Faster HDT-SMP updated to 2.5.0, FOMOD updated
+Core - Favorite Misc Items FOMOD updated
+Core - Fuz Ro Doh updated to 2.5 (AE)
+Core - Horse Stamina HUD updated to 1.0.4. (AE)
+Core - Immersive Equipment Displays file to download changed
+Core - Magic Sneak Attacks FOMOD changed
+Core - Menu Zoom FOMOD changed
+Core - Naked Dead NPC Fix updated to 1.0.8
+Core - No Crime Teleport RE file to download changed
+Core - No Grass In Objects file to download changed
+Core - Photo Mode FOMOD changed
+Core - powerofthree's Tweaks SE FOMOD changed
+Core - Read or Take FOMOD changed
+Core - Reading Is Good updated to 1.1.2 (AE)
+Core - Scrambled Bugs updated to 21.0 (AE), optional file removed
+Core - Security Overhaul SKSE FOMOD changed
+Core - Simple Offense Suppression FOMOD changed
+Core - Soaking Wet file to download changed
+Core - Splashes of Skyrim FOMOD changed
+Core - Splashes of Storms FOMOD changed
+Core - SSE Engine Fixes file to download changed (Part 1)
+Core - Stagger Direction Fix changed to Stagger Effect Fix
+Core - To Your Face updated to 1.0u (AE)
+Core - Use Or Take FOMOD changed
+
+Core - Skyrim Particle Patch for ENB updated to 1.3.0
+Core - Navigator updated to 1.5.7.
+Core - Rock Traps Trigger Fixes updated to 1.6.
+Core - RaceMenu updated to 0.4.19.16 (AE)
+Core - SmoothCam FOMOD changed
+Core - SkyUI Fix Note Icon file to download changed
+Core - MCM Helper updated to 1.5.0 (AE), instructions removed
+Core - Dynamic Activation Key updated to 1.12
+Core - Dynamic Activation Key MCM updated to 2.1.0
+Core - moreHUD updated to 5.2.2.0 (AE)
+Core - moreHUD Inventory Edition file to download changed
+Core - SkyHUD FOMOD changed
+Core - CoMAP updated to 4.1.0 (AE), FOMOD changed
+Core - Compass Navigation Overhaul updated to 2.2 (AE)
+Core - Flat World Map Framework FOMOD changed
+Core - Phoenix Compendium updated to 2.3.0
+Core - Northern Roads Patches Compendium updated to 6.6.3
+Core - Even Better Quest Objectives updated to 1.10.0
+Core - Innocence Lost updated to 1.11
+Core - Favor Quests Separated updated to 2.10
+Core - Extended Encounters updated to 1.6.7
+Core - DynDOLOD Resources updated to Alpha-50
+Core - DynDOLOD Resources Large Reference Workaround file to download changed
+Core - Static Mesh Improvement Mod Improvement Mod updated to 1.9
+Core - Assorted Mesh Fixes updated to 0.100
+Core - Skyking Signs updated to 1.4
+Core - Stunning Statues of Skyrim - FOMOD updated
+Core - Remiros' Statues HD - files to download changed
+Core - JS Dwarven Oil upddated to 1.1
+Core - Snowy Surfaces Sound Collision and Aesthetics updated to 1.7
+Core - Aspens Ablaze updated to 2.37
+Core - Cabbage updated to 1.1
+Core - Scallions of Skyrim updated to 0.2
+Core - BURP Book Unity and Revamp Project FOMOD changed (LOTD V6 prep)
+Core - BURP Spell Tomes marked as optional
+Core - BURP Spell Tomes Patches marked as optional
+Core - Snazzy Furniture and Clutter Overhaul SFCO3 updated to 3.04
+Core - Dragon Priests Retexture SE updated to 1.1
+Core - Silver Armors and Weapons Retexture SE updated to 2.0.1
+Core - Lux updated to 6.7.2
+Core - Lux Orbis updated to 4.3
+Core - Storm Lightning FOMOD updated
+Core - Moons and Stars FOMOD updated
+Core - Bits and Pieces RSV patch - added update file
+Core - Racial Skin Variance SPID updated to 2.4.1
+Core - KS Hairdows Salt and Wind Foamimi's Retexture Hub updated to 3.0
+Core - CBPC FOMOD changed
+Core - EVG Conditional Idles updated to 1.51
+Core - EVG Conditional Idles Extended updated to 1.41
+Core - Conditional Expressions Extended updated to 2.0.5
+Core - Female Player Animations updated to 1.0.2
+Core - New Praying Animations updated to 1.0.2
+Core - Honed Metal updated to 1.26.1, FOMOD changed
+Core - Simply Knock - SKSE Update - file to download changed
+Core - Complete Alchemy and Cooking Overhaul - FOMOD changed
+Core - Dragon War updated to 4.0.3
+Core - Experience updated to 3.3.0
+Core - Simple Dual Sheath file to download changed, XPM patch moved to new mod entry
+Core - YASTM FOMOD changed
+Core - CBBE 3BA Vanilla Outfits Redone updated to 3.3.3, misc files moved to new mod entries
+Core - Cathedral 3D Mountain Flowers Base Object Swapper updated to 0.2
+Core - Windhelm Bridge Revived updated to 1.5.1
+Core - Windhelm Bridge Revived Patches updated to 1.5
+Core - ENB Lights - Effect Shaders FOMOD changed
+Core - JContainers file to download changed
+Core - PapyrusUtil file to download changed
+Core - EVG Conditional Idles Setting Loader updated to 3.0
+Core - lilebonymace's Patches updated to 2.41
+Core - Lux Patch Hub updated to 6.7
+Core - Lux Orbis Patch Hub updated to 4.3
+Core - SFCO3 Patch Collection updated to 1.5
+
+Addons/Survival - Survival Control Panel updated to 1.1.2
+Addons/Survival - Go To Bed file to download changed
+Addons/Survival - Immersive Hunting Animations updated to 2.2
+Addons/Survival - Immersive Spell Learning DESTified FOMOD changed
+Addons/Survival - Campfire Complete Camping System Igniting Animation updated to 1.1
+Addons/Survival - Go To Bed DAR Patch file to downloadd changed
+Addons/Followers - Section moved below Addons Survival
+Addons/Followers - Serana Dialogue Add-On updated to 4.1.1.1
+Addons/Followers - Serana Dialogue Add-On Patch Hub updated to 2.9.4
+
+Adventures - There Is No Umbra updated to 1.12.
+Adventures - Wyrmstooth - Upscaled Textures - added file to delete (dragonpriesthelm)
+
+Arch - Cities of the North Falkreath Patch Collection updated to 1.22.1
+Arch - Shadow's Markarth Patch - Mossy City of Stone updated to 1.1
+Arch - Solitude Docks Updated updated to 3.2c
+Arch - GG's Capital JK's Whiterun additional files added (Kynareth, Fancy road)
+Arch - Environs Hroggar's House updated to 2.02
+Arch - Environs Hroggar's House Patch Collection updated to 2.03
+Arch - Snazzy Interiors Patch Collection updated to 1.25.1
+Arch - Final Steps updated: ESM Snazzy Honningbrew Meader, Snazzy Interiors Moravyn Manor
+
+Final Steps updated: ESL DEST_ISL, remove IcyFixesLite instruction, ESL man_dibella
+   Removed OppositeAnimationDisabler from Synthesis
+   Revised Nemesis instructions (IMPORTANT, RERUN)
+~~~
+
 # 1.0.0.0 RC7 - 2024-05-22
 
 ![Added]

@@ -9,6 +9,11 @@ Install these categories between "Utilities" and "Conflict Resolution".
 
 # B01. Addons - Adventures - Install Changes
 
+## Daedric Shrines - All in One - My Patches by Xtudo [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78809) | Version: `3.8` | Author: `Xtudo` | ![Core]
+Download: | Optional Files - Daedric Shrines AIO by Xtudo - The Gray Cowl
+| Optional Files - Daedric Shrines AIO by Xtudo - Wyrmstooth
 
 ## Erikur's House Rework [Addons - Adventures]
 
@@ -127,6 +132,10 @@ RSChildren Patches:
    * Wyrmstooth
 ~~~
 
+## Statue of Mara - My Patches SE by Xtudo [Addons - Adventures]
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93961) | Version: `2.0` | Author: `Xtudo` | ![Core]
+Download: | Main Files - Mara - My Exterior SE by Xtudo - Falskaar
 
 # B02. Addons - Adventures - Legacy of the Dragonborn
 
@@ -301,6 +310,11 @@ Download: | Main Files - The Gray Cowl of Nocturnal
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM]
 Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
+## The Gray Cowl of Nocturnal - Daedric Shrines AIO Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79510) | Version: `1.0` | Author: `Epolbadare`
+Download: | Main Files - ESL GCON Nocturnal Statue position Fix - AIO vers
+
 ## The Tools of Kagrenac
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.62` | Author: `Titansbane and PrivateEye` | ![ESM]
@@ -308,7 +322,7 @@ Download: | Main Files - The Tools of Kagrenac V1.61a SSE
 
 ## There Is No Umbra - Chapter III
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.11` | Author: `FableForge` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89089) | Version: `1.12` | Author: `FableForge` | ![CAO] ![ESM]
 Download: | Main Files - FloatingSwordFollower.zip
 
 ![FOMOD]
@@ -704,6 +718,11 @@ Download: | Main Files - Legacy of the Dragonborn - Item Descriptions
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45829) | Version: `1.0` | Author: `bign0se` | 
 Download: | Main Files - LOTD Mementos
 
+## Legacy of the Dragonborn - Mara Statue Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93917) | Version: `2.2` | Author: `Xtudo`
+Download: | Main Files - Mara - My patches SE by Xtudo - LOTD Lux
+
 ## Legacy of the Dragonborn - Museum Exterior Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.7` | Author: `wSkeever` 
@@ -985,11 +1004,6 @@ Download: | Main Files - Museum Gate Remade
 Download: | Main Files - LotD Plaques Retexture
 | Optional Files - LotD Plaques Retexture - Creation Club Add On
 
-## Legacy of the Dragonborn - Rudy's Silver Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104348) | Version: `1.0` | Author: `gutmaw`|
-Download: | Main Files - LotD - Rudy's HQ Rustic-Superior Silver Patch
-
 ## Legacy of the Dragonborn - Safehouse Desk Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104343) | Version: `1.0` | Author: `gutmaw` 
@@ -1097,6 +1111,7 @@ Download: | Main Files - Wyrmstooth_2x
 
 ![PostInstall]
 ~~~
+Delete textures/armor/dragonpriesthelm/.
 Delete textures/clutter/signage/.
 Delete textures/cubemaps/.
 Delete textures/effects/wtfxmothdimfrost_g.dds.
@@ -1204,10 +1219,6 @@ Replacement Plugins:
 
 
 # Adventures - Final Steps
-
-## Lux
-
-Reinstall Lux, Lux Orbis, and Lux Via to autoselect the new mods.
 
 ## xEdit
 

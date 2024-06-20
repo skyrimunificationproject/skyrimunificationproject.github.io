@@ -253,8 +253,8 @@ addons:
       url: addons---immersion-and-survival---final-steps
   - title: Addons - Followers
     subfolderitems:
-    - page: D01. Addons - Followers
-      url: d01-addons---followers
+    - page: A10. Addons - Followers
+      url: a10-addons---followers
     - page: Addons - Followers - Final Steps
       url: addons---followers---final-steps
 adventures:

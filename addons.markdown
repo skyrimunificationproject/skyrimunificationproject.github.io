@@ -12,8 +12,8 @@ Install these categories between "Utilities" and "Conflict Resolution".  Each ad
 
 ## Survival Control Panel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41891) | Version: `1.0.3` | Author: `Parapets`
-Download: | Old Files - Survival Control Panel
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41891) | Version: `1.1.2` | Author: `Parapets`
+Download: | Main Files - Survival Control Panel
 
 ## Sunhelm Survival and Needs
 
@@ -118,7 +118,7 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87960) | Version: `1.5.0` | Author: `jagerguy` | ![CAO]
 Download: | Main Files - Dirt and Blood Expanded (DNBE)
-| Optional FIles - PRieST47's Cloth Texture
+| Optional Files - PRieST47's Cloth Texture
 
 ![FOMOD]
 ~~~
@@ -208,7 +208,7 @@ Download: | Main Files - Give Me Shelter - Sacrilege
 ## Go To Bed
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
-Download: | Main Files: Gotobed (1.5.97)
+Download: | Main Files: Gotobed (Skyrim SE 1.6.629+)
 
 ## Go To Bed - Patches
 
@@ -245,9 +245,9 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99867) | Version: `1.0` | Author: `Elsawirr` 
 Download: | Main Files - ICC - Simple Hunting Overhaul
 
-## Immersive Hunting Animation
+## Immersive Hunting Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.1.2` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.2` | Author: `Elsawirr`
 Download: | Main Files - Immersive Hunting Animations
 
 ![FOMOD]
@@ -265,7 +265,7 @@ Download: | Optional Files - ISL - DESTified 2.0 RC3
 ![FOMOD]
 ~~~
 Game:
-   * Skyrim Special Edition
+   * Skyrim Anniversary Edition
 Choose MCM:
    * MCM Helper Support
 ~~~
@@ -285,6 +285,21 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.2` | Author: `AndrealphusVIII` | ![Optional]
 Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
+## Stress and Fear - A Dynamic Sanity System
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `1.03` | Author: `jayserpa` | ![Optional] ![CAO]
+Download: | Main Files - Stress and Fear
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+## Stress and Fear - CACO Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/119815) | Version: `1.2` | Author: `jp1224` | ![Optional]
+Download: | Main Files - Stress and Fear - CACO SUD Patch
+
 ## More Realistic Antlers for Carry Your Carcasses
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/118993) | Version: `1.1` | Author: `FrankBlack`
@@ -299,8 +314,8 @@ Download: | Main Files: Cuyi's Campfire Backpacks
 
 ## Campfire - Complete Camping System - Igniting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.04` | Author: `Elsawirr`
-Download: | Main Files - Igniting animation for Campfire
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.1` | Author: `Elsawirr`
+Download: | Main Files - Igniting Animation for Campfire
 
 ## Campfire - Complete Camping System - Hotkey Modded Menu Fix
 
@@ -361,7 +376,7 @@ Download: | Optional Files - Widget Addon patch for SunHelm - Settings Loader
 ## Go To Bed - DAR patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43714) | Version: `1.3` | Author: `Xtudo`
-Download: | Main Files: Go To Bed - DAR patch SE - PLAYER and NPCs
+Download: | Main Files: Go To Bed - DAR patch AE - PLAYER and NPCs
 | Optional Files - Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
 
 ## SunHelm Survival and Needs - CACO Patch
@@ -408,16 +423,16 @@ Plugin | Instructions |
 - | -
 DEST_ISL.esp | Add ESL flag
 
-# D01. Addons - Followers
+# A10. Addons - Followers
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.0` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.1` | Author: `Martimius`
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.3` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.4` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]

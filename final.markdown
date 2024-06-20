@@ -60,6 +60,7 @@ BUVARP SE RE.esp | Apply ESMifier script
 CollegeEntry.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
+DESL_ISL.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
@@ -75,7 +76,6 @@ Gildergreen Regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
-IcyFixesLite.esm | Compact formIDs, add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
@@ -86,6 +86,7 @@ Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
 MajesticMountains_Landscape.esm | Add ESL flag
+man_dibella.esp | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag
@@ -178,7 +179,6 @@ Do the same for:
 ~~~
 Khajiitearsshow
 NoDragonLods
-OppositeAnimationDisabler
 ~~~
 
 Select the icon on the bottom left to run the patchers
@@ -258,8 +258,15 @@ Select Ok and exit the menu
 
 Run Nemesis
 
-Select 'Payload Interpreter', 'Ice Skating Fixed For Real', 'Some Creature Behavior Bug Fixes', 
-'TK Dodge RE/Ultimate Combat', 'Animation Teleport Bug Fix', 'Slow sprint bug fix', and 'zxlice hitstop fixed'.
+Select: 
+'Payload Interpreter', 
+'GP Offset Movement Animation', 
+'Ice skating fixed for real', 
+'Some Creature Behavior Bug Fixes', 
+'Slow sprint bug fix', 
+'True Directional Movement - Headtracking',
+'TK Dodge RE / Ultimate Combat',
+'Animation Teleport Bug Fix'.
 
 Click 'Update Engine'
 

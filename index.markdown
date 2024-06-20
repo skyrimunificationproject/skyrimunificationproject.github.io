@@ -153,8 +153,8 @@ into the Skyrim folder.
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.2` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.2
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.3-b298` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.3-b298
 
 ![PostInstall]
 ~~~
@@ -473,7 +473,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-169` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-173` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
