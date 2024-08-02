@@ -62,6 +62,7 @@ CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DESL_ISL.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
+DragonbornShoutPerksOrdinator.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
@@ -72,7 +73,7 @@ FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
-Gildergreen Regrown.esp | Compact formIDs, add ESL flag
+gildergreen regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
@@ -177,6 +178,7 @@ If the patcher shows a red dot for an error, make sure a Project is selected, an
 
 Do the same for:
 ~~~
+HighPolyHead-RaceMenu Patcher
 Khajiitearsshow
 NoDragonLods
 ~~~
@@ -198,46 +200,89 @@ Flag the generated Synthesis.esp as ESL.
 
 
 
-Before running Bodyslide, find a preset on Nexus that you like, unless you plan on using one of the default presets from CBBE.
-
-
 Run Bodyslide from MO2.
 
 
 Towards the top right corner, click on the magnifying glass and select 'Choose groups…'
 
 
-Check 'CBBE Bodies' and select Ok
+Check the following groups:
+ ~~~
+ 3BA
+ 3BBB
+ AVEOutfits-CBBE
+ CBBE - Golden Saint Armory Revamped
+ CBBE 3BA LOTD (if using Adventures)
+ CBBE 3BA Vanilla (ImPhysics)
+ CBBE 3BA WACCF+ACE (ImPhysics)
+ CBBE 3BA Wyrmstooth
+ CBBE Creation Club
+ CBBE Creation Club 1st Person
+ Hands Redone
+ Hands Redone - Clothes
+ [3BA] Volkihar Knight Armor
+ Unassigned
+ ~~~
 
 
-Under 'Outfit/Body' select "CBBE Body Special", or "CBBE NeverNude Physics".
+Under 'Outfit/Body' select "CBBE 3BBB Amazing NeverNude".
 
+Under "Preset" select `- Zeroed Sliders -`.
 
-Under "Preset" select the preset you have chosen (if your preset has a nude and outfit specific presets, then select the nude or non-outfit one)
+In the bottom left corner check 'Build Morphs' and make sure meshes\actors\character\character assets\femalebody_0.nif is checked.
 
-In the bottom left corner check 'Build Morphs' and then Control+Click 'Batch Build...'
+Control+Click 'Batch Build...'
 
-Check only 'CBBE Body Special' (or 'CBBE NeverNude Physics'), 'CBBE Feet', 'CBBE Hands' and 'CBBE Hands Beast'
+!!! IMPORTANT !!!
+If you do not hold Control, you will overwrite all of your installed mods with the generated outfits.
 
-Select Build and choose the destination, either as its own mod or in MO2’s Overwrite folder.
+In the next window, right click and Select All. Disable all "HIMBO" sets.
+You can also disable any CC sets you do not own. (default: Golden Saints and Dark Seducers)
 
-Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Body`
+Click Build.  In the folder selection popup, select the MO2 overwrite folder.
+
+In the next popup, select Hands Redone F for each option where it appears.  For each additional option,
+select Physics, Im Physics (Immersive Physics) or No Physics as you prefer.  
+Select CBBB 3BBB Amazing NeverNude for the body set (typically towards the top).
+If other options appear, prioritize any option that states 3BA in the name.  
+Also prioritize WACCF and Golden Saint Armory.
+
+Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Female`.
+
 
 Run Bodyslide again
 
 Click on the magnifying glass and select 'Choose groups…'
 
+Check the following groups:
+~~~
+HIMBO
+HIMBO Basegame Refits
+HIMBO Body for Vanilla
+HIMBO CC Refits
+HIMBO LOTD (if using Adventures)
+HIMBO Wyrmstooth (if using Adventures)
+HIMBO darkgondul Armor Variants Expansion
+HIMBO yamanotaka Volkihar Knight
+~~~
+
+Under 'Outfit/Body' select "HIMBO Body - Vanilla High Poly Nevernude".
+
+Under "Preset" select `HIMBO Zero for OBody`.
+
 Check all of the options OTHER THAN 'CBBE', and 'CBBE Bodies'
 
 Control+Click 'Batch Build...'
 
-Select Build
+In the next window, right click and Select All.
+You can also disable any CC sets you do not own. (default: Golden Saints and Dark Seducers)
 
-In the next popup, select the options you prefer (i.e. specific armors or clothing having physics or not)
+Click Build.  In the folder selection popup, select the MO2 overwrite folder.
 
-Choose the destination, either as its own mod or in MO2’s Overwrite folder.
+In the next popup, select HIMBO Body - Vanilla High Poly Nevernude in the appropriate outfit set selection.
+Select CC Refit where available.  Do not select Physics options.
 
-Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Outfits`
+Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Male`.
 
 
 

@@ -200,6 +200,11 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61760) | Version: `1.1` | Author: `TemplarSwift`
 Download: | Main Files - Footprints Bright SNow fix - Disabled particles
 
+## Snoblind - Footprints Retexture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95966) | Version: `1.0`| Author: `ra2phoenix`
+Download: | Optional Files - Snoblind - Footprints Retexture
+
 ## Give Me Shelter
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36411) | Version: `1.0` | Author: `Monops`
@@ -231,7 +236,7 @@ Misc:
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.7` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.8` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
@@ -272,7 +277,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.10` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.12` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -324,8 +329,13 @@ Download: | Main Files - Campfire - hotkey fix
 
 ## Campfire Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.2` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.3` | Author: `GiraPomba`
 Download: | Main Files - Campfire Animations
+
+## Campfire - Dynamic Activation Key
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.0` | Author: `GiraPomba`
+Download: | Main Files - Campfire - Dynamic Activation Key
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
 
@@ -351,6 +361,14 @@ Download: | Main Files - DnBE animation patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56596) | Version: `1.6b` | Author: `MoonMods`
 Download: | Main Files - New Dirt Textures - Dirt and Blood - 2k
+
+![FOMOD]
+~~~
+Choose an Installation:
+   * Version I
+MCM Menu:
+   * None
+~~~
 
 ## Dirt and Blood - Dynamic Visual Effects - Widget Addon
 
@@ -481,7 +499,7 @@ Pack the mod with CAO.
 
 ## Remiel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.1` | Author: `Maplespice` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.3` | Author: `Maplespice` | ![QAC] ![ESM]
 Download: | Main Files - Remiel-Dwemer Specialist
 
 ![FOMOD]
@@ -608,41 +626,17 @@ Download: | Main Files - Axarien's Animations - Auri
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.11.2` | Author: `BluePwnsU` | ![QAC] ![ESM]
 Download: | Main Files - Xelzaz Follower Core 1.11.0
 
+## Xelzaz - HIMBO Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124892) | Version: `1.0` | Author: `urbon`
+Download: | Xelzaz - HIMBO conversion
+
 ## Xelzaz - Wyrmstooth Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO]
 Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch
 
-## Legacy of the Dragonborn - Followers Patch [Followers Addon]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `3.0.1` | Author: `gutmaw` | ![CAO]
-Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
-
-![FOMOD]
-~~~
-Note: This is the default/recommended configuration.  There is unfortunately not room
- for all followers, so Xelzaz is not included.  You can choose another configuration
- of followers, but the conflict resolution patch will expect the unique meshes some
- items receive from these patches, and you will need to edit/fix the CR accordingly.
-
-Multiple Rooms:
-   * Khajiit Will Follow - Rooms B
-Room A-1:
-   * Remiel
-Room A-2:
-   * Inigo
-Room A-3:
-   * Auri
-Room A-4:
-   * Lucien
-Optionals:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 # Addons - Followers - Final Steps
 

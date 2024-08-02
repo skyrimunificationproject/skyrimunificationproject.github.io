@@ -74,9 +74,7 @@ Download: | Misc Files - Falskaar__CACO
 Download: | Optional Files - Lucien - Moon and Star Patch
 | Optional Files - Lucien - Moonpath to Elsweyr Patch
 
-## Lux and Lux Orbis
 
-Reinstall Lux and Lux Orbis from the Core - Lighting section and choose the specified Adventures options.
 
 ## Missives - Worldspace Additions [Addons - Adventures]
 
@@ -143,13 +141,13 @@ Download: | Main Files - Mara - My Exterior SE by Xtudo - Falskaar
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `5.6.5` | Author: `icecreamassassin` | 
-Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.3.0` | Author: `icecreamassassin` | 
+Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 
 ## Relic Hunter - Guildmaster Start
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `2.0.3` | Author: `icecreamassassin` |  
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `3.0.0` | Author: `icecreamassassin` |  
 Download: | Main Files - Relic Hunter- Guildmaster Start
 
 
@@ -310,11 +308,6 @@ Download: | Main Files - The Gray Cowl of Nocturnal
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM]
 Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
-## The Gray Cowl of Nocturnal - Daedric Shrines AIO Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79510) | Version: `1.0` | Author: `Epolbadare`
-Download: | Main Files - ESL GCON Nocturnal Statue position Fix - AIO vers
-
 ## The Tools of Kagrenac
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.62` | Author: `Titansbane and PrivateEye` | ![ESM]
@@ -373,16 +366,6 @@ Pack the mod with CAO.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75758) | Version: `1.1` | Author: `Hunter226037`
 Download: | Main Files - LOTD_TCC_Wyrmstone-Brimstone
-
-## Wyrmstooth - World Map Edge Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79175) | Version: `1.0` | Author: `Paleforce`
-Download: | Main Files - Wyrmstooth World Map Edge Fix
-
-## Wyrmstooth - World Map Unique Weather
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79207) | Version: `1.01` | Author: `Paleforce`
-Download: | Main Files - Wyrmstooth Custom World Map Weather
 
 
 
@@ -624,9 +607,9 @@ Visual Patches:
 
 ## Legacy of the Dragonborn Visual Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.2` | Author: `mocia` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.3` | Author: `mocia` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
-| Optional Files - Legacy of the Dragonborn Visual Overhaul - updated esp
+| Optional Files - LotD Visual Overhaul - updated esp
 
 ![PostInstall]
 ~~~
@@ -746,7 +729,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `5.6.2` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.3.0` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -755,7 +738,9 @@ City and Lighting Overhauls:
    * Allow autochecked
 Museum Display Expansions:
    * Allow autochecked
-Armor Additions:
+Volkihar Knight - Vampire Armor:
+   * Male/Female your choice
+Armory Additions:
    * Allow autochecked
 Quest Displays:
    * Allow autochecked
@@ -764,15 +749,17 @@ Overhaul Systems:
 Additional Patches A-M: (select only)
    * Complete Alchemy and Cooking Overhaul
    * Elder Scrolls Online Imports
+   * JS Unique Utopia SE - Daggers
+   * JS Unique Utopia Se - Rings
    * Mystic Condenser
 Additional Patches N-Z: (select only)
-   * Quaint Raven Rock (Arch)
-   * Reliquary of Myth
+   * Obscure's College of Winterhold
+   * Quaint Raven Rock (Arch: may need to rerun this step after installing Arch)
+   * Reliquary of Myth - Artifact Overhaul
    * RS Children
    * Thieves Guild Requirements
 Manually Selectable Patches:
    * Cloaks of Skyrim - Retextured
-   * Ruins Clutter Improved
    * Static Mesh Improvement Mod
 Legacy Book Covers Skyrim Patches:
    * None
@@ -780,6 +767,7 @@ Legacy Book Covers Skyrim Patches:
 
 ![PostInstall]
 ~~~
+Delete meshes/clutter/.
 Delete meshes/dbm resources/dbmloadscreenart/loadscreengallerysign.nif.
 Delete meshes/dbm resources/museumsign.nif.
 Delete meshes/dlc02/.
@@ -787,29 +775,45 @@ Delete meshes/dlc02/.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `5.2.0` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.3` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
 ~~~
 Hall of Wonders Addons:
-   * Quest and Reward Delay
+   * None
 Patches: (auto-selected)
    * Fishing
    * Rare Curios
    * Saints and Seducers
-Addon Patches: (auto-selected)
+Addon Patches: (select only)
    * Fishing + Rare Curios
+   * Saints and Seducers + Extended Cut S+S
    * Saints and Seducers + Rare Curios
-Synergy Patches:
+Synergy Patches: (select only)
    * Fishing + Tools of Kagrenac
+~~~
+
+
+## Legacy of the Dragonborn - Patches - Followers
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.4` | Author: `gutmaw` 
+Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
+
+![FOMOD]
+~~~
+
+Multiple Rooms:
+   * Khajiit Will Follow - Rooms A or B, your choice (if installed)
+Guildhouse:
+   * Allow autoselected
 ~~~
 
 ![PostInstall]
 ~~~
-Delete textures/dbm_cc/armor/seasons.
-Delete textures/dbm_cc/weapons/razaksadjuster/razaksadjuster_*.
+Delete textures/landscape/. (if KWF was selected)
 ~~~
+
 
 ## Legacy of the Dragonborn - Perk Menus
 
@@ -823,23 +827,14 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Player Home Displays
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63706) | Version: `1.01` | Author: `gutmaw`
-Download: | Main Files - Legacy of the Dragonborn - Vanilla Player Homes Displays
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63706) | Version: `1.1` | Author: `gutmaw`
+Download: | Main Files - Legacy of the Dragonborn - Player Homes Displays
+| Optional Files - Legacy of The Dragonborn - Cathedral 3D Mountain Flowers - Player Homes Patch
 
-## Legacy of the Dragonborn - The Brotherhood of Old Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40920) | Version: `1.5` | Author: `Spacedroner` | ![CAO]
-Download: | Main Files - Legacy of the Dragonborn - The Brotherhood of Old Patch OAP
-| Optional Files - LOTD - TBO - Curator's Companion Patch for OAP
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `6.2.5` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.2` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn SSE - The Curators Companion
 
 ![FOMOD]
@@ -860,27 +855,29 @@ Download: | Main Files - LOTD - YASTM Azura and Black Star Variations Patch
 Pack the mod with CAO.
 ~~~
 
-## Legacy of the Dragonborn - Volkihar Knight Patch
+## Legacy of the Dragonborn - Additional Display Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `1.3` | Author: `Spacedroner` | ![CAO]
-Download: | Main Files - Legacy of the Dragonborn - Volkihar Knight Patch (your choice MALE or FEMALE)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `2.0.6` | Author: `Spacedroner` 
+Download: | Main Files - LOTD - Additional Display Patches
 
-![PostInstall]
+![FOMOD]
 ~~~
-Pack the mod with CAO.
-~~~
-
-## Legacy of the Dragonborn - Your Choices Matter Dark Brotherhood Unofficial Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54899) | Version: `1.0` | Author: `Spacedroner` | ![CAO]
-Download: | Main Files - Legacy of the Dragonborn - YCM Dark Brotherhood Patch
-| Optional Files - Curator's Companion Patch
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
+Unofficial Patches:
+   * Your Choices Matter DB
+Fall of the Space Core Vol 1:
+   * None
+The Brotherhood of Old:
+   * Oblivion Artifact Pack Version  
+Serana:
+   * None
+Teldryn Sero:
+   * None   
 ~~~
 
+## Snazzy Interiors - LotD The Wayward Rest
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122412) | Version: `1.1` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Interiors - LotD The Wayward Rest
 
 
 # B07. Addons - Adventures - Late Loaders - Textures and Meshes
@@ -895,7 +892,7 @@ Download: | Main Files - mindbody Aetherium Armor texture enhancements SSEv1_0
 ## Antique Statue HD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57276) | Version: `1.0` | Author: `MoonMods` | ![Visuals]|
-Download: | Main Files - Antique Statue HD - 4k
+Download: | Main Files - Antique Statue HD - 2k
 
 
 ## Daedric Armor
@@ -957,7 +954,7 @@ Download: | Main Files - LOTD Version
 
 ## Legacy of the Dragonborn - CBBE 3BA and HIMBO Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.1.1` | Author: `JuzyJ`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.2` | Author: `JuzyJ`
 Download: | Main Files - Legacy of the Dragonborn CBBE 3BA and HIMBO Patch
 
 ## Legacy of the Dragonborn - Cleaned Textures
@@ -987,11 +984,10 @@ Delete fate card retexture.esp.
 Delete meshes/dbm resources/.
 ~~~
 
-## Legacy of the Dragonborn - Fate Cards New Style
+## Legacy of the Dragonborn - Fate Cards New Style - 2023 Remaster
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77694) | Version: `1.1` | Author: `wSkeever and Rick7`
-Download: | Optional Files - Fate Cards new Style Xtudo Version
-
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104676) | Version: `1` | Author: `wSkeever and Rick7`
+Download: | Main Files - Fate Cards New Style 2023
 
 ## Legacy of the Dragonborn - Museum Gate Remade
 
@@ -1004,15 +1000,23 @@ Download: | Main Files - Museum Gate Remade
 Download: | Main Files - LotD Plaques Retexture
 | Optional Files - LotD Plaques Retexture - Creation Club Add On
 
-## Legacy of the Dragonborn - Safehouse Desk Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104343) | Version: `1.0` | Author: `gutmaw` 
-Download: | Main Files - LotD - Safehouse Desk Fix - Lux Lantern
 
 ## Legacy of the Dragonborn - SMIM Chests
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55720) | Version: `0.3` | Author: `wSkeever` | 
-Download: | Main Files - Legacy of The Dragonborn - SMIM Chests
+Download: | Main Files - Legacy of the Dragonborn - SMIM Chests
+
+## Legacy of the Dragonborn - Snazzy Excavation Tent
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124377) | Version: `1.0` | Author: `gutmaw`
+Download: | Main Files - Legacy of the Dragonborn - Snazzy Excavation Tent
+
+## Legacy of the Dragonborn - Tweaks and Options
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `2.0` | Author: `gutmaw`
+Download: | Optional Files - Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix
+| Optional Files - LotD Tweaks - Display Glass
+| Optional Files - LotD Tweaks - Wood Textures
 
 ## Legacy of the Dragonborn - Visage of the Dragonborn
 
@@ -1094,15 +1098,6 @@ Download: | Main Files - Volkihar Knight - Vampire Armor - HIMBO Refit
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72668) | Version: `0.1` | Author: `wSkeever` | 
 Download: | Main Files - Wyrmstooth Animated ENB Light
 
-## Wyrmstooth - Metallurgy Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54586) | Version: `1.0` | Author: `Selfishmonkey` | 
-Download: | Main Files - Wyrmstooth_Metallurgy_Patch
-
-![PostInstall]
-~~~
-Delete *.esp.
-~~~
 
 ## Wyrmstooth - Upscaled Textures
 
@@ -1113,6 +1108,7 @@ Download: | Main Files - Wyrmstooth_2x
 ~~~
 Delete textures/armor/dragonpriesthelm/.
 Delete textures/clutter/signage/.
+Delete textures/clutter/wtmarauderbanner*.
 Delete textures/cubemaps/.
 Delete textures/effects/wtfxmothdimfrost_g.dds.
 Delete textures/terrain/.
@@ -1134,15 +1130,7 @@ Resolution/Saturation Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105850) | Version: `1.0.1` | Author: `JuzyJ` | ![Visuals]
 Download: | Main Files - Wyrmstooth CBBE 3BA and HIMBO Patch
 
-## Rally's Banners of Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116289) | Version: `1.1` | Author: `Rallyeator` | ![Visuals]
-Download: | Optional Files - Falskaar Patch 4K
-| Optional Files - Helgen Reborn Patch 4K
-| Optional Files - LotD Patch 4K
-| Optional Files - Moonpath Patch 4K
-| Optional Files - Northern Roads Patch 4K
-| Optional Files - Wyrmstooth Patch 4K
 
 ## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 
@@ -1260,6 +1248,7 @@ LegacyoftheDragonborn.esm | Apply ESMifier script (some missing)
 MoonAndStar_MAS.esp | Apply ESMifier script
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
+Snazzy Interiors - LotD Wayward Rest.esp | Apply ESMifier script
 The Brotherhood of Old.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
 TreasureHunter.esp | Apply ESMifier script

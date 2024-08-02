@@ -119,15 +119,6 @@ The following modding tools should be installed into a directory that is not the
 
 
 
-# Best Of Both Worlds Downgrader
-
-
-
-Make sure Skyrim is updated to the latest version in Steam.
-
-Download the "Best of Both" optional file from [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) and run it.
-
-
 
 # Skyrim Creation Kit
 
@@ -138,17 +129,6 @@ Download the "Best of Both" optional file from [Unofficial Skyrim Special Editio
 Install the Creation Kit from Steam. (https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
-~~~
-If you want to use CK alongside a downgraded Skyrim without swapping steam dlls:
-
-From Win+R run window enter steam://open/console and press enter.
-Enter these commands:
-download_depot 1946180 1946182 5099162879680505807
-download_depot 1946180 1946183 1633303557398589581
-
-Copy the files from your system Steam install /steamapps/content/app_1946180/depot_1946182 and depot_1946183 folders
-into the Skyrim folder.
-~~~
 
 
 ## Creation Kit Platform Extended for Skyrim
@@ -159,9 +139,6 @@ Download: | CK Platform Extended 0.3-b298
 ![PostInstall]
 ~~~
 Manually extract the files into your Skyrim Special Edition folder.
-
-If you have downgraded CK, you must enable bSupportFormat171=true in CreationKitPlatformExtended.ini.
-This may not actually work and the CK may freeze when loading plugins.
 ~~~
 
 
@@ -172,12 +149,12 @@ This may not actually work and the CK may freeze when loading plugins.
 
 ## Skyrim Script Extender
 
-[![mod]](http://skse.silverlock.org/) | Version: `2.0.20` | Author: `Ian Patterson, Stephen Abel, Paul Connelly, and Brendan Borthwick` | ![Core] |
-Download: | Main Files - Current SE build 2.0.20 (runtime 1.5.97): 7z archive
+[![mod]](http://skse.silverlock.org/) | Version: `2.2.6` | Author: `Ian Patterson, Stephen Abel, Paul Connelly, and Brendan Borthwick` | ![Core] |
+Download: | Main Files - Current Anniversary Edition build 2.2.6 (runtime 1.6.1170): 7z archive
 
 ![PostInstall]
 ~~~
-Manually extract skse64_1_5_97.dll, skse64_loader.exe,
+Manually extract skse64_1_6_1170.dll, skse64_loader.exe,
  skse64_steam_loader.dll into your Skyrim Special Edition folder.
  
 The Scripts folder will be installed later with Mod Organizer 2.
@@ -218,13 +195,9 @@ Manually extract the folder into Modding\Skyrim\Tools\Fallrim Tools
 
 ## LOOT
 
-[![mod]](https://www.nexusmods.com/site/mods/439) | Version: `0.19.1` | Author: `WrinklyNinja, et al` | ![Core] |
-Download: | Main Files - LOOT v0.19.1 - Installer (64-Bit)
+[![mod]](https://www.nexusmods.com/site/mods/439) | Version: `0.23` | Author: `WrinklyNinja, et al` | ![Core] |
+Download: | Main Files - LOOT v0.23.0 - Installer (64-Bit)
 
-![PostInstall]
-~~~
-Run LOOT once (outside of Mod Organizer 2) and sort your load order.
-~~~
 
 ## Nifskope
 
@@ -313,7 +286,7 @@ Extract the contents into Modding\Skyrim\Tools\Synthesis\.
 
 ## Mod Organizer 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Version: `2.4.0` | Author: `Tannin - MO2 Team` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Version: `2.5.0` | Author: `Tannin - MO2 Team` | ![Core] |
 Download: | Main Files - Mod Organizer 2 (Archive)
 
 ![PostInstall]
