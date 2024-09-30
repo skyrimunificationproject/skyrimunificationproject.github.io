@@ -34,9 +34,15 @@ These mods can be excluded from the modlist without impacting conflict resolutio
 
 ---
 
+![UltrawideLg]
+
+These mods are specific patches, or include installation options, for 21:9 widescreen support.  Following the 1.6.1130 patch, Dear Diary has many problems with ultrawide and these patches make an attempt to fix it.  Results not fully guaranteed: we test ultrawide but fixing it is very difficult.  32:9 support is not and will never be offered, sorry.
+
+---
+
 ![VisualsLg]
 
-These mods contain textures or meshes; the guide recommends 4K for architecture and bigger objects and creatures, and 2K for smaller things such as clutter or armor.  A higher or lower resolution can be used for any given texture based on your own system.  If a mod only has the Visuals tag, then it is implied to be Optional but is still recommended.
+These mods contain textures or meshes; the guide recommends 2k for most textures except for mountains unless you have a video card with above 8gb of vram.  A higher or lower resolution can be used for any given texture based on your own system.  If a mod only has the Visuals tag, then it is implied to be Optional but is still recommended.
 
 ---
 
@@ -269,7 +275,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.28` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.30` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -446,7 +452,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-173` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-180` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
@@ -486,6 +492,8 @@ Manually extract d3dcompiler_46e.dll and d3d11.dll into your
 [addon]: https://img.shields.io/badge/Add--On-600060?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
 [optionalLg]: https://img.shields.io/badge/Optional-AAAA00?style=for-the-badge
+[ultrawide]: https://img.shields.io/badge/Ultrawide-AAAA00?style=flat-square
+[ultrawideLg]: https://img.shields.io/badge/Ultrawide-AAAA00?style=for-the-badge
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square

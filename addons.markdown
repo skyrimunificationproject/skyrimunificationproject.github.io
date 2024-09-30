@@ -51,12 +51,6 @@ Download: | Main Files: Campfire 1.12.1SEVR Release
 Delete SKSE/Plugins/PapyrusUtil.dll.
 ~~~
 
-## Campfire - Complete Camping System - Collectable Deadwood and Branches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65703) | Version: `1.0` | Author: `WiZkiD`
-Download: | Main Files - Campfire Collectable Deadwood and Branches BOS
-
-
 
 
 # A02. Addons - Immersion and Survival (Immersion)
@@ -277,7 +271,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.12` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.13` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -292,7 +286,7 @@ Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `1.03` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `1.04` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -334,7 +328,7 @@ Download: | Main Files - Campfire Animations
 
 ## Campfire - Dynamic Activation Key
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.0` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.1.1` | Author: `GiraPomba`
 Download: | Main Files - Campfire - Dynamic Activation Key
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
@@ -445,7 +439,7 @@ DEST_ISL.esp | Add ESL flag
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.1` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.3` | Author: `Martimius`
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
@@ -499,7 +493,7 @@ Pack the mod with CAO.
 
 ## Remiel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.3` | Author: `Maplespice` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.4` | Author: `Maplespice` | ![QAC] ![ESM]
 Download: | Main Files - Remiel-Dwemer Specialist
 
 ![FOMOD]
@@ -623,8 +617,8 @@ Download: | Main Files - Axarien's Animations - Auri
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.11.2` | Author: `BluePwnsU` | ![QAC] ![ESM]
-Download: | Main Files - Xelzaz Follower Core 1.11.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.12.1` | Author: `BluePwnsU` | ![QAC] ![ESM]
+Download: | Main Files - Xelzaz Follower Core 1.12.1
 
 ## Xelzaz - HIMBO Patch
 

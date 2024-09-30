@@ -198,12 +198,12 @@ Download: | Main Files - Cities of the North - Falkreath
 
 ## Snazzy Interiors - Falkreath Dengeir's House
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/98428) | Version: `1.0` | Author: `gutmaw` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/98428) | Version: `1.1` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Falkreath Dengeir's House
 
 ## Cities of the North - Falkreath Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.22.2` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.23.1` | Author: `Janquel` | 
 Download: | Main Files - COTN Falkreath Patch Collection
 
 ![FOMOD]
@@ -279,7 +279,7 @@ Download: | Main Files - The Great City of Winterhold 4.1.1
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.6` | Author: `Czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.7.1` | Author: `Czasior` | ![ESM]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
@@ -400,7 +400,7 @@ Download: | Main Files - JK's Riften Outskirts
 
 ## JK's Riften Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.5` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.6` | Author: `Czasior`
 Download: | Main Files - JK's Riften Outskirts Patch Collection
 
 ![FOMOD]
@@ -484,6 +484,11 @@ Download: | Main Files - RYFTEN - Consistency of windows in Riften OR IF INSTALL
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60670) | Version: `1.1.3` | Author: `Yuril` | ![ESM]
 Download: | Main Files - RYFTEN DOWN - 1B Performence
 
+## Snazzy Black Briar Lodge
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128330) | Version: `1.0` | Author: `gutmaw`
+Download: | Main Files - Snazzy Black Briar Lodge
+
 ## Snazzy Interiors - Markarth Endon's House
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/107634) | Version: `1.3` | Author: `gutmaw` | ![ESM]
@@ -518,6 +523,11 @@ Download: | Main Files - Snazzy Interiors - Markarth Treasury House
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92068) | Version: `1.5` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Riften Black-Briar Manor
+
+## Snazzy Interiors - Riften Bolli's House
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129972) | Version: `1.0` | Author: `gutmaw`
+Downnload: | Main Files - Snazzy Interiors - Riften Bolli's House
 
 ## Snazzy Interiors - Riften Snow-Shod Manor
 
@@ -557,7 +567,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `1.4.6` | Author: `jkrojmal and czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `1.5.1` | Author: `jkrojmal and czasior` | ![ESM]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -568,7 +578,9 @@ Additional Patches:
 Extravagant Interiors Patches:
    * None
 Legacy of the Dragonborn:
-   * Legacy of the Dragonborn (Lux)
+   * Legacy of the Dragonborn
+   * Legacy of the Dragonborn + Lux
+   * Legacy of the Dragonborn + Lux Orbis
 Royal Armory Patches:
    * Royal Armory Replacer
 ~~~
@@ -593,7 +605,7 @@ Download: | Main Files - JK's Solitude Outskirts
 
 ## JK's Solitude Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.7` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.8.1` | Author: `Czasior`
 Download: | Main Files - JK's Solitude Outskirts Patch Collection
 
 ![FOMOD]
@@ -608,7 +620,7 @@ Consistency patches and addons:
 
 ## Drengin's Solitude Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104668) | Version: `1.1.1` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104668) | Version: `1.1.2` | Author: `Czasior`
 Download: | Main Files - Drengin's Solitude Patch Collection
 
 ![FOMOD]
@@ -674,10 +686,10 @@ Download: | Main Files - Solitude Docks
 Pack the mod with CAO.
 ~~~
 
-## Solitude Docks Updated - RS Children Patch
+## Solitude Docks Updated - Realistic RS Children Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80979) | Version: `1.0` | Author: `monkeyangie`
-Download: | Main Files - RS Children - Solitude Docks Updated Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70579) | Version: `1.0` | Author: `Domenicus7`
+Download: | Main Files - Solitude Docks Updated
 
 ## Solitude Docks Updated - High Poly NPCs
 
@@ -834,7 +846,7 @@ Download: | Main Files - JK's The Drunken Huntsman
 
 ## JK's Whiterun Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78351) | Version: `1.5.0` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78351) | Version: `1.6.0` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's Whiterun Outskirts
 
 
@@ -845,18 +857,15 @@ Download: | Main Files - JK's Windhelm Outskirts
 
 ## JK's Windhelm Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87964) | Version: `1.4.2` | Author: `Czasior` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87964) | Version: `1.5` | Author: `Czasior` | 
 Download: | Main Files - JK's Windhelm Outskirts Patch Collection
 
 ![FOMOD]
 ~~~
 Patches:
    * Allow autoselected
-   * Unselect Landscape and Water Fixes
    * Unselect Skyrim Sewers
 Consistency Patches:
-   * Allow autoselected
-Northern Roads Consistency Patches:
    * Allow autoselected
 ~~~
 
@@ -880,7 +889,7 @@ Download: | Main Files - Ryn's Whiterun City Limits
 
 ## Whiterun Exteriors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.2.2` | Author: `Janquel` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.3.1` | Author: `Janquel` | ![ESM]
 Download: | Main Files - Whiterun Exteriors Patch Collection
 
 ![FOMOD]
@@ -890,16 +899,14 @@ Primary Mod:
    * Ryn's Whiterun City Limits
 Capital Whiterun:
    * Capital Whiterun (Rob's Bug Fixes)
+Creation Club:
+   * Fishing
 Miscellaneous:
    * Allow autoselected
    * Unselect SkyTEST (custom version)
-Iggath and Tundra Homestead:
-   * None
 Consistency Patches:
    * Lux Orbis + Capital Whiterun
    * Lux Via + Lux Orbis
-New Weynon:
-   * None
 ~~~
 
 ## Snazzy Honningbrew Meadery
@@ -936,17 +943,22 @@ Download: | Main Files - Snazzy Interiors - House of Clan Shattershield
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108261) | Version: `1.3` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Windhelm Viola Giordano's House
 
-## RS Children - Capital Windhelm Expansion
+## Capital Whiterun Expansion - Realistic RS Children Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80813) | Version: `1.0` | Author: `monkeynangie` | 
-Download: | Main Files - RS Children - Capital Winhelm Expansion Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
+Download: | Optional Files - RRSC - Capital Whiterun Expansion Patch
+
+## Capital Windhelm Expansion - Realistic RS Children Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45321) | Version: `1.1a` | Author: `Xyloritus` 
+Download: | Main Files - CapitalWindhelmExpansion-RRSC
 
 ## Capital Windhelm Expansion - High Poly NPC Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42990) | Version: `1.0` | Author: `Surjamte`
 Download: | Optional Files - HPNPC patch
 
-## High Poly NPC Overhaul - Capital Whiterun Expansion
+## Capital Whiterun Expansion - High Poly NPC Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39138) | Version: `1.0` | Author: `Zhalroth` 
 Download: | Main Files - High Poly NPC Overhaul - Capital Whiterun Expansion
@@ -1040,8 +1052,8 @@ Download: | Main Files - Anga's Mill - Cities of the North Addon
 
 ## Anga's Mill - Cities of the North Addon Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64685) | Version: `1.2` | Author: `Czasior`
-Download: | Main Files - Anga's Mill - Cities of the North Adddon Patch Coll
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64685) | Version: `1.3` | Author: `Czasior`
+Download: | Main Files - Anga's Mill - COTN Adddon Patch Collection
 
 ![FOMOD]
 ~~~
@@ -1084,14 +1096,21 @@ Allow autoselected.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65073) | Version: `1.3` | Author: `MaarMalur` | 
 Download: | Main Files - Cultured Orc Furniture
 
+![PostInstall]
+~~~
+Delete meshes/furniture/orcfurniture/orcblacksmith*.
+~~~
+
 ## Denizens of Morthal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33965) | Version: `1.3` | Author: `Lollia` | ![ESM]
-Download: | Main Files - Denizens of Morthal
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33965) | Version: `1.4` | Author: `Lollia` | ![ESM]
+Download: | Main Files - Denizens of Morthal Version 1.4
 
 ![PostInstall]
 ~~~
 Delete scripts/WIDeadBodyCleanupScript.pex.
+Delete meshes/../Hearthfires.esm/ and Skyrim.esm/.
+Delete textures/../Hearthfires.esm/ and Skyrim.esm/.
 ~~~
 
 ## Environs - Master Plugin
@@ -1101,12 +1120,12 @@ Download: | Main Files - Environs - Master Plugin
 
 ## Environs - Hroggar's House
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.02` | Author: `Siberpunk` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.0.3` | Author: `Siberpunk` | ![ESM]
 Download: | Main Files - Environs - Hroggar's House
 
 ## Environs - Hroggar's House - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.03` | Author: `Siberpunk` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.0.6` | Author: `Siberpunk` 
 Download: | Main Files - Environs - Hroggar's House - Patch Collection
 
 ![FOMOD]
@@ -1124,12 +1143,12 @@ Lux Orbis Patches:
 
 ## Environs - Kolskeggr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.03` | Author: `Siberpunk` | ![ESM]
 Download: | Main Files - Environs - Kolskeggr
 
 ## Environs - Kolskeggr - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.02` | Author: `Siberpunk`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78477) | Version: `3.03` | Author: `Siberpunk`
 Download: | Main Files - Environs - Kolskeggr - Patch Collection
 
 ![FOMOD]
@@ -1175,16 +1194,23 @@ Download: | Main Files - Sky Haven Temple - Gardens
 
 ## Snazzy Drelas' Cottage
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/114551) | Vresion: `1.0` | Author: `gutmaw` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/114551) | Version: `1.1` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Drelas' Cottage
-| Optional Files - Snazzy Drelas Cottage Patches - Plugins
+
+## Snazzy Interiors - Karthwasten Hall
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/126770) | Version: `1.0` | Author: `gutmaw` | ![ESM]
+Download: | Main Files - Snazzy Interiors - Karthwasten Hall
 
 ## Snazzy Interiors - Morthal Falion's House
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106938) | Version: `1.1` | Author: `gutmaw` | ![ESM]
 Download: | Main Files - Snazzy Interiors - Morthal Falion's House
 
+## Snazzy Interiors - Rorik's Manor
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/126436) | Version: `1.0` | Author: `gutmaw` | ![ESM]
+Download: | Main FIles - Snazzy Interiors - Rorik's Manor
 
 
 # C10. Addons - Project Arch - JK Interiors - Cities
@@ -1236,7 +1262,7 @@ Download: | Main Files - JK's New Gnisis Cornerclub
 
 ## JK's Radiant Raiment
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44858) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44858) | Version: `1.0.2` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Radiant Raiment
 
 ## JK's Sadri's Used Wares
@@ -1246,7 +1272,7 @@ Download: | Main Files - JK's Sadri's Used Wares
 
 ## JK's Silver-Blood Inn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53554) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53554) | Version: `1.0.1` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Silver-Blood Inn
 
 ## JK's The Bee and Barb
@@ -1287,7 +1313,7 @@ Download: | Optional Files - RYFTEN - Consistency of windows in Riften - JK's Ha
 
 ## Lux Interiora Distincta - JK's Silver-Blood Inn Variante
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60527) | Version: `1.2` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60527) | Version: `1.3` | Author: `Czasior`
 Download: | Main Files - Lux Interiora Distincta - JK's Silver-Blood Inn Variante
 
 ![FOMOD]
@@ -1352,14 +1378,14 @@ Download: | Main Files - Snazzy Interiors - JK's Dragonsreach
 
 ## Snazzy Interiors - JK's Palace of the Kings
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110339) | Version: `1.2` | AUthor: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110339) | Version: `1.3` | AUthor: `gutmaw`
 Download: | Main Files - Snazzy Interiors - JK's Palace of the Kings
 
 # C12. Addons - Project Arch - JK Interiors - Guild HQs
 
 ## JK's Castle Dour
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74309) | Version: `1.2.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74309) | Version: `1.3.0` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Castle Dour
 
 ## JK's Castle Volkihar
@@ -1375,12 +1401,12 @@ Download: | Main Files - JK's College of Winterhold
 
 ## JK's Dark Brotherhood Sanctuaries
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121950) | Version: `1.0` | Author: `jkrojmal`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121950) | Version: `1.1.0` | Author: `jkrojmal`
 Download: | Main Files - JK's Dark Brotherhood Sanctuaries
 
 ## JK's High Hrothgar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62219) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62219) | Version: `1.0.2` | Author: `jkrojmal` | 
 Download: | Main Files - JK's High Hrothgar
 
 ## JK's Jorrvaskr
@@ -1390,7 +1416,7 @@ Download: | Main Files - JK's Jorrvaskr
 
 ## JK's Sky Haven Temple
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63039) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63039) | Version: `1.0.1` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Sky Haven Temple
 
 ## JK's The Bards College
@@ -1483,7 +1509,7 @@ Download: | Main Files - JK's Sleeping Giant Inn
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.20.1` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.20.2` | Author: `Janquel`
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -1648,7 +1674,7 @@ Add to end of previously installed mods:
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.27` | Author: `czasior gutmaw GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `1.31` | Author: `czasior gutmaw GGUNIT`
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
@@ -1656,12 +1682,17 @@ Download: | Main Files - Snazzy Interiors Patch Collection
 Interiors selection:
    * Select all except Falkreath Dengeir's House
    * Drelas' Cottage - plugins
-Additional files verification - SD's Vanilla Table Replacers:
-   * Yes
+Do you use Rally's Upper Furniture?:
+   * Yes (note: this is assumed auto-checked in following pages)
+Do you use SD's Vanilla Table Replacers?:
+   * Yes (note: this is assumed auto-checked in following pages)
 Drelas' Cottage:
+   * Allow autoselected
+Karthwasten Hall:
    * Allow autoselected
 Markarth Endon's House:
    * Allow autoselected
+   * GG's Complex Silverware
    * Rudy HQ Miscellaneous: Rustic Silver version
 Markarth Guard Tower:
    * Allow autoselected
@@ -1674,21 +1705,26 @@ Morthal Falion's House:
    * Allow autoselected
 Morvayn Manor:
    * Allow autoselected
+Black-Briar Lodge:
+   * Allow autoselected
 Riften Black-Briar Manor:
    * Allow autoselected
    * Balcony: Black Briar Banners
    * Interesting NPCs: 3DNPC (regular)
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
+   * RYFTEN Consistency of Windows: RYFTEN - Consistency of windows in Riften (Lux)
+Riften Bolli's House:
+   * Allow autoselected
    * RYFTEN Consistency of Windows: RYFTEN - Consistency of windows in Riften (Lux)
 Riften Snow-Shod Manor:
    * Allow autoselected
    * Exterior Patches: JK's Skyrim
    * RYFTEN Consistency of Windows: RYFTEN - Consistency of windows in Riften (Lux)
+Rorik's Manor:
+   * Allow autoselected
 LotD the Wayward Rest:
    * Lux
 Solitude Bryling's House:
    * Allow autoselected
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
 Solitude Erikur's House:
    * Allow autoselected
    * REQUIRE MANUAL SELECTION: Erikur's House Rework, SD's Vanilla Table Replacers
@@ -1701,11 +1737,9 @@ JK's Dragonsreach: (if using)
 Whiterun House Battleborn:
    * Allow autoselected
    * Immersive Citizens: Immersive Citizens (regular)
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
 Whiterun House Gray-Mane:
    * Allow autoselected
    * Immersive Citizens: Immersive Citizens (regular)
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
 JK's Palace of the Kings: (if using)
    * Allow autoselected
    * Uncheck Cloaks of Skyrim
@@ -1715,10 +1749,8 @@ Windhelm Blacksmith:
 Windhelm House Clan Cruel-Sea:
    * Allow autoselected
    * Immersive Citizens: Immersive Citizens (regular)
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
 Windhelm House Clan Shattershield:
    * Allow autoselected
-   * REQUIRE MANUAL SELECTION: SD's Vanilla Table Replacers
 Windhelm Viola Giordano's House:
    * Allow autoselected
 Consistency Patches:
@@ -1793,6 +1825,7 @@ OpulentThievesGuild.esp | Apply ESMifier script
 Resources - The Great Cities.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
+RRSC-SurWR-Patch.esp | Add ESL flag
 RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script
 RYFTEN DOWN.esp | Apply ESMifier script
 Ryn's Farms.esp | Apply ESMifier script
@@ -1807,6 +1840,7 @@ Snazzy Exteriors - Riften Snow-Shod Manor.esp | Apply ESMifier script
 Snazzy Exteriors - Solitude Bryling's House Gardens.esp | Apply ESMifier script
 Snazzy Honningbrew Meadery.esp | Apply ESMifier script
 Snazzy Interiors - Falkreath Dengeir's House.esp | Apply ESMifier script
+Snazzy Interiors - Karthwasten Hall.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Endon's House.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Guard Tower.esp | Apply ESMifier script
 Snazzy Interiors - Markarth Nepos' House.esp | Apply ESMifier script

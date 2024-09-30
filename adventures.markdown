@@ -4,8 +4,11 @@ title: "Skyrim Unification Project"
 category: "Adventures"
 ---
 
+# Please Read:
+
 Install these categories between "Utilities" and "Conflict Resolution".
 
+If you want to install "Survival" or "Followers" addons, please do so before this section.
 
 # B01. Addons - Adventures - Install Changes
 
@@ -44,19 +47,6 @@ Delete FarmhouseChimneys.esp. (removing overwrite of Core install)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `1.0.2` | Author: `Delta` | ![Core] 
 Download: | Main Files - Forceful Tongue - Wyrmstooth Patch
-
-## Headhunter - Bounties Redone [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.30` | Author: `JaySerpa` | ![Core] |
-Download: | Main Files - Headhunter - Bounties Redone
-
-![FOMOD]
-~~~
-ALLGUD:
-   * None
-Missives:
-   * Missives Wyrmstooth
-~~~
 
 
 ## kryptopyr's Patch Hub [Addons - Adventures]
@@ -125,7 +115,6 @@ Download: | Main Files - RSC FOMOD Beta
 RSChildren Patches:
    * Falskaar
    * Forgotten City
-   * Helgen Reborn
    * Moon and Star
    * Wyrmstooth
 ~~~
@@ -141,7 +130,7 @@ Download: | Main Files - Mara - My Exterior SE by Xtudo - Falskaar
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.3.0` | Author: `icecreamassassin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.6.0` | Author: `icecreamassassin` | 
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 
@@ -231,7 +220,7 @@ Download: | Main Files - Moon and Star
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110521) | Version: `1.0.2` | Author: `Wartortle`
 Download: | Main Files - Better Moon and Star Navmesh
-| Optional Files - BetterMASNavmesh - USSEP - 3DNPC patch
+| Optional Files - BetterMASNavmesh - 3DNPC patch
 
 ## Moon and Star - Moss Creek Camp
 
@@ -386,14 +375,8 @@ Pack the mod with CAO.
 
 ## Additional Hearthfire Dolls - Small Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76463) | Version: `1.1` | Author: `cool531` | ![ESM]
-Download: | Main Files - Additional Hearthfire Dolls - Small Fixes
-| Optional Files - Additional Hearthfire Dolls - Small Fixes LOTD Patch
-
-![PostInstall]
-~~~
-Delete AdditionalHFDollsFixesLOTD.esp.
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76463) | Version: `1.3` | Author: `cool531` | ![ESM]
+Download: | Main Files - AHD Fixes - No Passives
 
 ## Aetherium Armor and Weapons Compilation
 
@@ -513,9 +496,29 @@ Download: | Volkihar Knight SE 1.0.0
 
 # B05. Addons - Adventures - NPC Retextures
 
+## Realistic RS Children Overhaul - Legacy of the Dragonborn Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` 
+Download: | Optional Files - RRSC - Legacy of the Dragonborn Patch
+
+## Realistic RS Children Overhaul - Helgen Reborn Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
+Download: | Optional Files - RRSC - Helgen Reborn Patch
+
+## Project ja-Kha'jay - Moonpath to Elsweyr Khajiit Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63480) | Version: `3.04` | Author: `SassiestAssassin` | ![CAO]
+Download: | Main Files - Project ja-Kha'jay - Moonpath Addon
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Modpocalypse NPCs - Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` | ![Core] ![Visuals] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` |  ![CAO]
 Download: | Main Files - Modpocalypse NPCs - Resources
 
 ![PostInstall]
@@ -602,7 +605,6 @@ Download: | Optional Files - NVICO - Visual Compatibility Patches
 ~~~
 Visual Patches:
    * Legacy of the Dragonborn
-   * Wyrmstooth
 ~~~
 
 ## Legacy of the Dragonborn Visual Overhaul
@@ -618,26 +620,12 @@ Pack the mod with CAO.
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
-## Assorted 3DNPC Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72309) | Version: `1.1` | Author: `Janquel` | ![Core]
-Download: | Main Files - 3DNPC - Treasure Hunter Patch
 
 ## Dynamic Treasure Map Journal
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78681) | Version: `2.0` | Author: `DrMabuse`
-Download: | Main Files - Dynamic Treasure Map Journal V2 - FOMOD
+Download: | https://drive.google.com/file/d/1iCSFqX581X3y6E3VSxDdPNORbpIMpw25/view
 
-![FOMOD]
-~~~
-Select Version:
-   * LOTD
-Choose Addons:
-   * New Treasure Hunt
-   * Treasure Hunter
-Marked Treasure:
-   * None
-~~~
 
 ## Falskaar - SunHelm Cold Patch
 
@@ -682,7 +670,7 @@ Unofficial Patches:
 
 ## Legacy of the Dragonborn - Interesting NPCs Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39834) | Version: `1.3.1` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39834) | Version: `1.40` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn - Interesting NPCs Patch
 
 ![PostInstall]
@@ -729,7 +717,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.3.0` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.6.1` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -758,6 +746,7 @@ Additional Patches N-Z: (select only)
    * Reliquary of Myth - Artifact Overhaul
    * RS Children
    * Thieves Guild Requirements
+   * Weapon Armor Clothing Clutter Fixes
 Manually Selectable Patches:
    * Cloaks of Skyrim - Retextured
    * Static Mesh Improvement Mod
@@ -770,7 +759,6 @@ Legacy Book Covers Skyrim Patches:
 Delete meshes/clutter/.
 Delete meshes/dbm resources/dbmloadscreenart/loadscreengallerysign.nif.
 Delete meshes/dbm resources/museumsign.nif.
-Delete meshes/dlc02/.
 ~~~
 
 ## Legacy of the Dragonborn - Patches - Creation Club
@@ -872,7 +860,14 @@ Serana:
    * None
 Teldryn Sero:
    * None   
+Curator's Companion Patches:
+   * Allow selected
 ~~~
+
+## Mannequin Management
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38221) | Version: `4.1` | Author: `icecreamassassin`
+Download: | Main Files - Mannequin Management
 
 ## Snazzy Interiors - LotD The Wayward Rest
 
@@ -1044,11 +1039,6 @@ Download: | Main Files - Snazzy Skyrim Unique Treasures
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `1.8` | Author: `Xtudo` | ![Visuals]
 Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
 
-![PostInstall]
-~~~
-Delete meshes/tamira/treasure/goldmoundlarge01.nif.
-Delete *.esp.
-~~~
 
 ## The Brotherhood of Old SE - Cleaned Textures
 
@@ -1246,13 +1236,12 @@ icebladeofthemonarch.esp | Apply ESMifier script
 konahrik_accoutrements.esp | Apply ESMifier script
 LegacyoftheDragonborn.esm | Apply ESMifier script (some missing)
 MoonAndStar_MAS.esp | Apply ESMifier script
+RRSC-HelgenReborn-Patch.esp | Add ESL flag
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
 Snazzy Interiors - LotD Wayward Rest.esp | Apply ESMifier script
 The Brotherhood of Old.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
-TreasureHunter.esp | Apply ESMifier script
-treasure_hunt.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
 yumcheese.esp | Apply ESMifier script

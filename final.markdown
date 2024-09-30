@@ -86,7 +86,6 @@ KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
-MajesticMountains_Landscape.esm | Add ESL flag
 man_dibella.esp | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
@@ -151,21 +150,24 @@ You can leave them there or put them in a new mod.
 
 # EasyNPC
 
-For this step, enable all mods in NPC - Retextures, and place the esps somewhere above Conflict Resolution.
+For this step, enable all mods in NPC - Retextures, and place the esps somewhere above Consistency Patches.
 
 Launch EasyNPC from MO2. Click OK to confirm the load order. 
 
 Once all plugins have loaded and the Profile window appears, click the open folder icon at the far right.  Select the EasyNPC txt file from the Skyrim Unification Project - Conflict Resolution folder. There will not be a visual confirmation, but the profile will be loaded.
 
-Click Build at the top of the window. There should not be any warnings under alerts - if there are, something may have been installed incorrectly.  Click the large Build button at right.
+Click Build at the top of the window. Some warnings (npc conflict, suspicious masters) are expected due to the way the mods are organized.
+Click the large Build button at right.
 
-Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than Modpocalypse - Resources, RS Children, and RS Children patches.
+Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than Modpocalypse - Resources, RS Children/Realistic RS Children, RS Children/RRSC patches, and Project ja-Kha'jay and associated direct patches.
+
+If using Project Arch, also disable RTDocks - High Poly Head.esp.
 
 
 
 # Synthesis
 
-
+Note: The below steps have already been done and provided for the as-is guide install. You only need to generate a patch if you have additional mods.
 
 Run Synthesis (download the required dependencies if you do not have them already installed. Synthesis will tell you if do not have them installed)
 
@@ -178,8 +180,7 @@ If the patcher shows a red dot for an error, make sure a Project is selected, an
 
 Do the same for:
 ~~~
-HighPolyHead-RaceMenu Patcher
-Khajiitearsshow
+Khajiitearsshow (if you choose)
 NoDragonLods
 ~~~
 
@@ -193,7 +194,6 @@ Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
 (It should contain Synthesis.esp and SKSE/Plugins/Experience.)
 
 Flag the generated Synthesis.esp as ESL.
-
 
 
 # Bodyslide
