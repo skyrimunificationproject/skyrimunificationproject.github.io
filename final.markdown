@@ -47,17 +47,22 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
+018Auri.esp | Apply ESMifier script
 3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Aspens Ablaze.esp | Compact formIDs, add ESL flag
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
+BarbarianPaints.esp | Add ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 BSMBonemoldSet.esp | Compact formIDs, add ESL flag
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 CollegeEntry.esp | Add ESL flag
+CommunityOverlays1_0T30.esp | Add ESL flag
+CommunityOverlays2_31T50.esp | Add ESL flag
+CommunityOverlays3.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DESL_ISL.esp | Add ESL flag
@@ -80,15 +85,21 @@ HoldBorderBanners.esp | Compact formIDs, add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
+Imperial Castles of Skyrim.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
 KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
+Koralina's Eyebrows.esp | Compact formIDs, add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
 Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
+Lupine_YyvengarBodypaints.esp | Add ESL flag
+Lupine_ZiovendianBodypaints.esp | Add ESL flag
 man_dibella.esp | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
+Nature of the Wild Lands.esp | Apply ESMifier script
+Nature of the Wild Lands - Northern Roads Patch.esp | Add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag
 Northern Marsh Bridges SE.esp | Apply ESMifier script
 Northern Roads.esp | Apply ESMifier script
@@ -106,7 +117,7 @@ s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
 Semi-Open Guard Helmets SE.esp | Compact formIDs, add ESL flag
-Sepolcri.esp | Compact formIDs, add ESL flag, apply ESMifier script
+SFO_SkinFeatureOverlays.esp | Add ESL flag
 Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
@@ -114,10 +125,12 @@ Smooth Weapon.esm | Add ESL flag
 Snazzy Furniture and Clutter Overhaul.esp | Apply ESMifier script
 SolitudeTempleFrescoes.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
+Sunstarved_Tanlines.esp | Add ESL flag
 TheStumblingSabrecat.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
+UlvenwaldLite.esp | Apply ESMifier script
 UniqueBarbas.esp | Add ESL flag
 Unique Border Gates - Fixes.esp | Apply ESMifier script
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
@@ -126,7 +139,8 @@ VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Windhelm Bridge Revived.esp | Apply ESMifier script
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
-
+WNB_WeatheredNordicBodypaints.esp | Add ESL flag
+Wolfpaint_Face.esp | Add ESL flag
 
 
 # LOOT
@@ -163,11 +177,10 @@ Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the
 
 If using Project Arch, also disable RTDocks - High Poly Head.esp.
 
-
+Edit the NPC Appearances Merged.esp file in xEdit and set the header version to 1.71.
 
 # Synthesis
 
-Note: The below steps have already been done and provided for the as-is guide install. You only need to generate a patch if you have additional mods.
 
 Run Synthesis (download the required dependencies if you do not have them already installed. Synthesis will tell you if do not have them installed)
 
@@ -182,25 +195,28 @@ Do the same for:
 ~~~
 Khajiitearsshow (if you choose)
 NoDragonLods
+HighPolyHead-RaceMenuPatcher
+HighPolyHeadVampireFix
+MortalEnemies
+SynSetESL
 ~~~
 
 Select the icon on the bottom left to run the patchers
 
 
-Exit out of Synthesis after the patchers complete
+Exit out of Synthesis after the patchers complete.
 
 
 Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
 (It should contain Synthesis.esp and SKSE/Plugins/Experience.)
 
-Flag the generated Synthesis.esp as ESL.
 
 
 # Bodyslide
 
 
 
-Run Bodyslide from MO2.
+Run Bodyslide from MO2.  You may have to select the Skyrim Special Edition directory manually (Stock Game/Data).
 
 
 Towards the top right corner, click on the magnifying glass and select 'Choose groups…'
@@ -209,15 +225,15 @@ Towards the top right corner, click on the magnifying glass and select 'Choose g
 Check the following groups:
  ~~~
  3BA
+ 3BA HDT GEMLING
  3BBB
  AVEOutfits-CBBE
- CBBE - Golden Saint Armory Revamped
+ CBBE 3BA Creation Club (Im Physics)
+ CBBE 3BA HDT Amulets
  CBBE 3BA LOTD (if using Adventures)
  CBBE 3BA Vanilla (ImPhysics)
  CBBE 3BA WACCF+ACE (ImPhysics)
  CBBE 3BA Wyrmstooth
- CBBE Creation Club
- CBBE Creation Club 1st Person
  Hands Redone
  Hands Redone - Clothes
  [3BA] Volkihar Knight Armor
@@ -245,45 +261,9 @@ In the next popup, select Hands Redone F for each option where it appears.  For 
 select Physics, Im Physics (Immersive Physics) or No Physics as you prefer.  
 Select CBBB 3BBB Amazing NeverNude for the body set (typically towards the top).
 If other options appear, prioritize any option that states 3BA in the name.  
-Also prioritize WACCF and Golden Saint Armory.
+Also prioritize hdt_amuF (_gem_ where present), AVE, and WACCF.
 
 Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Female`.
-
-
-Run Bodyslide again
-
-Click on the magnifying glass and select 'Choose groups…'
-
-Check the following groups:
-~~~
-HIMBO
-HIMBO Basegame Refits
-HIMBO Body for Vanilla
-HIMBO CC Refits
-HIMBO LOTD (if using Adventures)
-HIMBO Wyrmstooth (if using Adventures)
-HIMBO darkgondul Armor Variants Expansion
-HIMBO yamanotaka Volkihar Knight
-~~~
-
-Under 'Outfit/Body' select "HIMBO Body - Vanilla High Poly Nevernude".
-
-Under "Preset" select `HIMBO Zero for OBody`.
-
-Check all of the options OTHER THAN 'CBBE', and 'CBBE Bodies'
-
-Control+Click 'Batch Build...'
-
-In the next window, right click and Select All.
-You can also disable any CC sets you do not own. (default: Golden Saints and Dark Seducers)
-
-Click Build.  In the folder selection popup, select the MO2 overwrite folder.
-
-In the next popup, select HIMBO Body - Vanilla High Poly Nevernude in the appropriate outfit set selection.
-Select CC Refit where available.  Do not select Physics options.
-
-Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Male`.
-
 
 
 # Nemesis
@@ -304,6 +284,7 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select: 
+'centurionOAR (sdsd)',
 'Payload Interpreter', 
 'GP Offset Movement Animation', 
 'Ice skating fixed for real', 
@@ -395,7 +376,7 @@ Additionally, if you are generating Grass LOD, check the Grass box. (Direct 186,
 
 Click Start.  When the log file says complete, choose "Zip and Exit", and then install the zip file as a mod in MO2.
 
-Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.  Set Wizard=0.  Set Level32=1.
+Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini.  Set Wizard=0.
 
 Launch DynDOLOD, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
@@ -403,8 +384,7 @@ Launch DynDOLOD, right click in worldspaces and select all, click 'High' button 
 
 Additionally, if you are generating Grass LOD, check that box.
 
-Scroll down to the bottom of the rules section.
-Doubleclick the rule for "/" and in the popup, set LOD Level 32 dropdown to Level0.
+IMPORTANT: Some mods provide seasons inis, so the Seasons box may be checked automatically. Uncheck this box.  This list does not support Seasons.
 
 Click start.
 

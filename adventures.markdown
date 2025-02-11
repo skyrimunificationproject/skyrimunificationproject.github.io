@@ -33,7 +33,7 @@ Download: | Main Files - Farmhouse Chimneys SE v4.2.1
 Modded Towns:
    * Helgen Reborn
 New Lands:
-   * Falskaar
+   * None
 New Villages:
    * None
 ~~~
@@ -49,28 +49,18 @@ Delete FarmhouseChimneys.esp. (removing overwrite of Core install)
 Download: | Main Files - Forceful Tongue - Wyrmstooth Patch
 
 
-## kryptopyr's Patch Hub [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `2.3` | Author: `kryptopyr and others` | ![Core] 
-Download: | Misc Files - Falskaar__CACO
-| Misc Files - Grey Cowl Nocturnal__CACO
-| Misc Files - Moonpath__CACO
-| Misc Files - Wyrmstooth__CACO
-
 
 ## Lucien - Patches [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20035) | Version: `1.6.3` | Author: `Joseph Russell` | ![Core] 
 Download: | Optional Files - Lucien - Moon and Star Patch
-| Optional Files - Lucien - Moonpath to Elsweyr Patch
 
 
 
 ## Missives - Worldspace Additions [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.05` | Author: `AndrealphusVIII` | ![Core]
-Download: | Main Files - Missives - Falskaar Patch
- | Main Files - Missives - Wyrmstooth patch
+Download: | Main Files - Missives - Wyrmstooth patch
  | Main Files - Missives - Gray Cowl Patch
 
 
@@ -113,16 +103,12 @@ Download: | Main Files - RSC FOMOD Beta
 ![FOMOD]
 ~~~
 RSChildren Patches:
-   * Falskaar
    * Forgotten City
    * Moon and Star
    * Wyrmstooth
 ~~~
 
-## Statue of Mara - My Patches SE by Xtudo [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93961) | Version: `2.0` | Author: `Xtudo` | ![Core]
-Download: | Main Files - Mara - My Exterior SE by Xtudo - Falskaar
 
 # B02. Addons - Adventures - Legacy of the Dragonborn
 
@@ -130,7 +116,7 @@ Download: | Main Files - Mara - My Exterior SE by Xtudo - Falskaar
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.6.0` | Author: `icecreamassassin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.8.0` | Author: `icecreamassassin` | 
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 
@@ -144,31 +130,6 @@ Download: | Main Files - Relic Hunter- Guildmaster Start
 # B03. Addons - Adventures - Quests
 
 
-
-## Falskaar
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2057) | Version: `2.2` | Author: `AlexanderJVelicky` |  ![BSA] ![CAO] ![QAC] 
-Download: | Main Files - Falskaar V2_2
-
-![PostInstall]
-~~~
-Pack the mod with CAO. (note: extract/repack to optimize)
-~~~
-
-## Falskaar - Comprehensive Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62819) | Version: `1.4.0` | Author: `Wartortle` |  ![CAO]|
-Download: | Main Files - Comprehensive Falskaar Fixes
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Falskaar - Wildlife Add-On
-
-[![mod]](https://www.nexusmods.com/skyrim/mods/50246) | Version: `1.0` | Author: `Dean Corso` | 
-Download: | Main Files - Falskaar Wildlife add-on
 
 ## Helgen Reborn
 
@@ -233,33 +194,6 @@ Options:
    * Extended with TCIY and Wintersun
 ~~~
 
-## Moonpath to Elsweyr
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4341) | Version: `1.16.1` | Author: `MuppetPuppet` | ![ESM]
-Download: | Main Files - Moonpath to Elsweyr SSE
-
-## Moonpath to Elsweyr - Music - Weather and Other Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97517) | Version: `3.1` | Author: `ToosTruus` | ![CAO]
-Download: | Main Files - Moonpath to Elsweyr SSE - Fixes
-
-![FOMOD]
-~~~
-ESMyfied Plugin Replacer:
-   * None
-Blacksmith Forge Patch:
-   * None
-Optional Patches:
-   * Mathy's 3D Docks and Boardwalks Patch
-   * Forest Spider Model Replacer
-~~~
-
-![PostInstall]
-~~~
-Delete textures/smim/.
-
-Pack the mod with CAO.
-~~~
 
 ## Teldryn Serious - Backstory Quest
 
@@ -276,11 +210,6 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32415) | Version: `1.1.5` | Author: `tarlazo` | 
 Download: | Main Files - Teldryn Serious Patch
 
-## The Brotherhood of Old
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15322) | Version: `1.1.2` | Author: `TomTesoro` | ![ESM]
-Download: | Main Files - The Brotherhood of Old
-| Optional Files - The Brotherhood of Old - RS Children Patch
 
 ## The Forgotten City
 
@@ -356,7 +285,15 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75758) | Version: `1.1` | Author: `Hunter226037`
 Download: | Main Files - LOTD_TCC_Wyrmstone-Brimstone
 
+## Wyrmstooth - Dragons SE
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132683) | Version: `2.0` | Author: `megnoeu`
+Download: | Main Files - Wyrmstooth - Dragons SE
+
+## Wyrmstooth - Stonehollow Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131619) | Version: `1.0.2` | Author: `TateTaylorOH`
+Download: | Main Files - Stonehollow Overhaul
 
 # B04. Addons - Adventures - Treasures and World Expansions
 
@@ -369,14 +306,13 @@ Download: | Main Files - Additional Hearthfire Dolls SE 3.0 Separate
 
 ![PostInstall]
 ~~~
-Delete AdditionalHFDollsPassivesPatch.esp.
 Pack the mod with CAO.
 ~~~
 
 ## Additional Hearthfire Dolls - Small Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76463) | Version: `1.3` | Author: `cool531` | ![ESM]
-Download: | Main Files - AHD Fixes - No Passives
+Download: | Main Files - AHD Fixes - Passives
 
 ## Aetherium Armor and Weapons Compilation
 
@@ -506,15 +442,6 @@ Download: | Optional Files - RRSC - Legacy of the Dragonborn Patch
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
 Download: | Optional Files - RRSC - Helgen Reborn Patch
 
-## Project ja-Kha'jay - Moonpath to Elsweyr Khajiit Overhaul
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63480) | Version: `3.04` | Author: `SassiestAssassin` | ![CAO]
-Download: | Main Files - Project ja-Kha'jay - Moonpath Addon
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Modpocalypse NPCs - Resources
 
@@ -526,50 +453,22 @@ Download: | Main Files - Modpocalypse NPCs - Resources
 Pack the mod with CAO.
 ~~~
 
-## Modpocalypse NPCs - Falskaar
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56989) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Falskaar
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Modpocalypse NPCs - Helgen Reborn
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56796) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Helgen Reborn
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Modpocalypse NPCs - Moon and Star
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58196) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Moon and Star
+Download: | Main Files - Modpocalypse NPCs (v1) Moon and Star
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
 
-## Modpocalypse NPCs - Moonpath to Elsweyr
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58197) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) Moonpath to Elsweyr
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Modpocalypse NPCs - The Forgotten City
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56739) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) The Forgotten City
+Download: | Main Files - Modpocalypse NPCs (v1) The Forgotten City
 
 ![PostInstall]
 ~~~
@@ -579,7 +478,7 @@ Pack the mod with CAO.
 ## Modpocalypse NPCs - The Gray Cowl of Nocturnal
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58194) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v2) The Gray Cowl of Nocturnal
+Download: | Main Files - Modpocalypse NPCs (v1) The Gray Cowl of Nocturnal
 
 ![PostInstall]
 ~~~
@@ -596,20 +495,15 @@ Download: | Main Files - S.O.U.P. from Wyrmstooth 1K
 Pack the mod with CAO.
 ~~~
 
-## NVICO Modular High-Poly NPC Overhaul - Patches [Addons - Adventures]
+## There Is No Umbra - High Poly Head Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48821) | Version: `2.01` | Author: `barret12` | ![Core] ![Visuals]
-Download: | Optional Files - NVICO - Visual Compatibility Patches
+[![mod]](https://www.dropbox.com/scl/fi/q3td788feks9347qalh32/There-Is-No-Umbra-High-Poly-Head-Patch.7z?rlkey=zza43jkl1l1wuoueswt9myxil&dl=0) | Version: `1.0` | Author: `Mycenia`
+Download: | There Is No Umbra - High Poly Head Patch.7z
 
-![FOMOD]
-~~~
-Visual Patches:
-   * Legacy of the Dragonborn
-~~~
 
 ## Legacy of the Dragonborn Visual Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.3` | Author: `mocia` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.4` | Author: `mocia` | ![CAO]
 Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 | Optional Files - LotD Visual Overhaul - updated esp
 
@@ -620,6 +514,10 @@ Pack the mod with CAO.
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
+## Auto Grab Amulets of Skyrim From Standing Stones
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134337) | Version: `1.0` | Author: `Lively`
+Download: | Main Files - Auto Grab Amulets of Skyrim From Standing Stones
 
 ## Dynamic Treasure Map Journal
 
@@ -627,27 +525,6 @@ Pack the mod with CAO.
 Download: | https://drive.google.com/file/d/1iCSFqX581X3y6E3VSxDdPNORbpIMpw25/view
 
 
-## Falskaar - SunHelm Cold Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105259) | Version: `1.0` | Author: `UmbraDark` | ![Optional]
-Download: | Main Files - Falskaar - SunHelm Cold Patche
-
-![PostInstall]
-~~~
-Install this patch only if you are also using the Survival module.
-~~~
-
-## Legacy of the Dragonborn - Artifact Immersion Patch Collection
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68078) | Version: `1.1.2` | Author: `Kriana`
-Download: | Main Files - Helgen Reborn Artifact Immersion Patch
-| Main Files - Inigo Artifact Immersion Patch
-| Main Files - Interesting NPCs Artifact Immersion Patch
-| Main Files - Moonpath to Elsweyr Artifact Immersion Patch
-| Main Files - Skyrims Unique Treasures Artifact Immersion Patch
-| Main Files - Teldryn Serious Artifact Immersion Patch
-| Main Files - Wintersun Artifact Immersion Patch
-| Main Files - Wyrmstooth Artifact Immersion Patch
 
 ## Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
 
@@ -694,16 +571,6 @@ Download: | Main Files - LOTD Mementos
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93917) | Version: `2.2` | Author: `Xtudo`
 Download: | Main Files - Mara - My patches SE by Xtudo - LOTD Lux
 
-## Legacy of the Dragonborn - Museum Exterior Fixes
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47321) | Version: `0.7` | Author: `wSkeever` 
-Download: | Main Files - Legacy of The Dragonborn - Museum Exterior Fixes
-
-![FOMOD]
-~~~
-Options:
-   * None
-~~~
 
 ## Legacy of the Dragonborn - Mystic Condenser
 
@@ -717,7 +584,7 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.6.1` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.7.4` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -736,7 +603,6 @@ Overhaul Systems:
    * None
 Additional Patches A-M: (select only)
    * Complete Alchemy and Cooking Overhaul
-   * Elder Scrolls Online Imports
    * JS Unique Utopia SE - Daggers
    * JS Unique Utopia Se - Rings
    * Mystic Condenser
@@ -763,7 +629,7 @@ Delete meshes/dbm resources/museumsign.nif.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.3` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.8` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
@@ -779,13 +645,14 @@ Addon Patches: (select only)
    * Saints and Seducers + Extended Cut S+S
    * Saints and Seducers + Rare Curios
 Synergy Patches: (select only)
+   * Fishing + Heavy Armory
    * Fishing + Tools of Kagrenac
 ~~~
 
 
 ## Legacy of the Dragonborn - Patches - Followers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.4` | Author: `gutmaw` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.8` | Author: `gutmaw` 
 Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
@@ -797,10 +664,6 @@ Guildhouse:
    * Allow autoselected
 ~~~
 
-![PostInstall]
-~~~
-Delete textures/landscape/. (if KWF was selected)
-~~~
 
 
 ## Legacy of the Dragonborn - Perk Menus
@@ -822,8 +685,8 @@ Download: | Main Files - Legacy of the Dragonborn - Player Homes Displays
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.2` | Author: `icecreamassassin` 
-Download: | Main Files - Legacy of the Dragonborn SSE - The Curators Companion
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.7` | Author: `icecreamassassin` 
+Download: | Main Files - Legacy of the Dragonborn - The Curators Companion
 
 ![FOMOD]
 ~~~
@@ -855,7 +718,7 @@ Unofficial Patches:
 Fall of the Space Core Vol 1:
    * None
 The Brotherhood of Old:
-   * Oblivion Artifact Pack Version  
+   * None
 Serana:
    * None
 Teldryn Sero:
@@ -946,11 +809,24 @@ Light Armor:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34698) | Version: `1.1` | Author: `AgentW` |
 Download: | Main Files - LOTD Version
 
+## Legacy of the Dragonborn - BSM Bonemold Weapon Pack Display Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134442) | Version: `1.3.0` | Author: `Soranotsora`
+Download: | Main Files - DBM Bonemold Weapon Pack
+| Optional Files - DBM Bonemold Weapon Pack TCC Patch
 
 ## Legacy of the Dragonborn - CBBE 3BA and HIMBO Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.2` | Author: `JuzyJ`
-Download: | Main Files - Legacy of the Dragonborn CBBE 3BA and HIMBO Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.3` | Author: `JuzyJ`
+Download: | Main Files - LOTD CBBE 3BA and (or) HIMBO Patch
+
+![FOMOD]
+~~~
+Install Meshes:
+   * CBBE 3BA and HIMBO
+Install Tools:
+   * CBBE 3BA and HIMBO
+~~~
 
 ## Legacy of the Dragonborn - Cleaned Textures
 
@@ -984,10 +860,6 @@ Delete meshes/dbm resources/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104676) | Version: `1` | Author: `wSkeever and Rick7`
 Download: | Main Files - Fate Cards New Style 2023
 
-## Legacy of the Dragonborn - Museum Gate Remade
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77195) | Version: `0.1.3` | Author: `wSkeever` | ![Visuals] ![Optional]
-Download: | Main Files - Museum Gate Remade
 
 ## Legacy of the Dragonborn - Plaques Retexture
 
@@ -1018,19 +890,10 @@ Download: | Optional Files - Legacy of the Dragonborn - Hall of Wonders Main Sta
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42567) | Version: `1.2` | Author: `Timbles` | 
 Download: | Main Files - Visage of the Dragonborn (Gifts of Akatosh) Upscaled 4k
 
-## Moonpath To Elsweyr Retexture SE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67295) | Version: `1.0` | Author: `xavbio` | ![CAO]
-Download: | Main Files - Moonpath To Elsweyr Retexture SE
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Snazzy - Skyrim's Unique Treasures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105714) | Version: `1.1` | Author: `Gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105714) | Version: `1.3.1` | Author: `Gutmaw`
 Download: | Main Files - Snazzy Skyrim Unique Treasures
 | Optional Files - Snazzy Skyrim Unique Treasures - LotD Patch
 
@@ -1039,16 +902,6 @@ Download: | Main Files - Snazzy Skyrim Unique Treasures
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `1.8` | Author: `Xtudo` | ![Visuals]
 Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
 
-
-## The Brotherhood of Old SE - Cleaned Textures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51049) | Version: `1.1` | Author: `TomTesoro - senatorjarjarbinks` | ![Visuals] ![CAO]|
-Download: | Main Files - Choose one main file. 2k
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## The Gray Cowl of Nocturnal - HD Retexture
 
@@ -1106,21 +959,27 @@ Delete textures/terrain/.
 
 ## Wyrmstooth - Vulom - Skeleton Replacer HD Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.0.1` | Author: `ChildofDragons` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.2` | Author: `ChildofDragons` | ![Visuals]
 Download: | Main Files - Wyrmstooth - Skeleton Replacer HD - Vulom Fix
 
 ![FOMOD]
 ~~~
-Resolution/Saturation Options:
-   * 2K Saturated
+Texture Resolution:
+   * 2K
 ~~~
 
 ## Wyrmstooth - CBBE 3BA and HIMBO Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105850) | Version: `1.0.1` | Author: `JuzyJ` | ![Visuals]
-Download: | Main Files - Wyrmstooth CBBE 3BA and HIMBO Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105850) | Version: `1.1` | Author: `JuzyJ` | ![Visuals]
+Download: | Main Files - Wyrmstooth CBBE 3BA and (or) HIMBO Patch
 
-
+![FOMOD]
+~~~
+Install Meshes:
+   * CBBE 3BA and HIMBO
+Install Tools:
+   * CBBE 3BA and HIMBO
+~~~
 
 ## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 
@@ -1188,7 +1047,6 @@ Download: | Skyrim Unification Project - Repacement Plugins - Addon - Adventures
 ~~~
 Replacement Plugins:
    * DBM_RoyalArmory_Patch
-   * Falskaar Wildlife
    * Moon and Star
 ~~~
 
@@ -1205,7 +1063,6 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
-Falskaar.esm |
 ForgottenCity.esp |
 Gray Fox Cowl.esp |
 konahrik_accoutrements.esp |
@@ -1213,8 +1070,6 @@ ktWeaponPackSE.esp |
 RSC HR Patch.esp |
 yumcheese.esp |
 WZOblivionArtifacts.esp
-
-Manually edit Falskaar.esp: Delete "Landscape Texture" top group.
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -1225,7 +1080,6 @@ AdditionalHearthfireDolls.esp | Apply ESMifier script
 AetheriumSwordsnArmor.esp | Apply ESMifier script
 ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Apply ESMifier script
-FarmhouseChimneysFalskaar | Compact formIDs, add ESL flag
 FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
@@ -1240,7 +1094,6 @@ RRSC-HelgenReborn-Patch.esp | Add ESL flag
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
 Snazzy Interiors - LotD Wayward Rest.esp | Apply ESMifier script
-The Brotherhood of Old.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script

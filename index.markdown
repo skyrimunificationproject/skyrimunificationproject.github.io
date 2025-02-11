@@ -36,7 +36,7 @@ These mods can be excluded from the modlist without impacting conflict resolutio
 
 ![UltrawideLg]
 
-These mods are specific patches, or include installation options, for 21:9 widescreen support.  Following the 1.6.1130 patch, Dear Diary has many problems with ultrawide and these patches make an attempt to fix it.  Results not fully guaranteed: we test ultrawide but fixing it is very difficult.  32:9 support is not and will never be offered, sorry.
+These mods are specific patches, or include installation options, for 21:9 widescreen support.  With the recent SKSE mod to revert 1130 changes, widescreen should "just work" with the appropriate patches.  32:9 support is not and will never be offered, sorry.
 
 ---
 
@@ -139,8 +139,8 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.3-b298` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.3-b298
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.4-b952` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.4-b952
 
 ![PostInstall]
 ~~~
@@ -207,8 +207,8 @@ Download: | Main Files - LOOT v0.23.0 - Installer (64-Bit)
 
 ## Nifskope
 
-[![mod]](https://github.com/niftools/nifskope/releases) | Version: `2.0 Dev 7` | Author: `jonwd7` | ![Core] |
-Download: | Assets - NifSkope_2_0_2018-02-22-x64.7z
+[![mod]](https://github.com/fo76utils/nifskope/releases) | Version: `2.0Dev9` | Author: `jonwd7` | ![Core] |
+Download: | Assets - NifSkope_2_0_2024-12-28-win64qt6_gcc.7z
 
 ![PostInstall]
 ~~~
@@ -275,7 +275,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.30` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.33.0-pre-release-2 | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -292,7 +292,7 @@ Extract the contents into Modding\Skyrim\Tools\Synthesis\.
 
 ## Mod Organizer 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Version: `2.5.0` | Author: `Tannin - MO2 Team` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Version: `2.5.2` | Author: `Tannin - MO2 Team` | ![Core] |
 Download: | Main Files - Mod Organizer 2 (Archive)
 
 ![PostInstall]
@@ -312,6 +312,16 @@ Download: | Main Files - Mod Organizer 2 (Archive)
     + Expand the arrow by skse64_ and right-click the Data folder
         within it.  Select 'Set as data directory'.
     + Change the Name field to 'Skyrim Script Extender'. Click OK.	
+~~~
+
+## NIF Preview
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/137741) | Version: `0.4.3` | Author: `Parapets - GabonZ` | ![Core]
+Download: | Main Files - NIF Preview
+
+![PostInstall]
+~~~
+Copy the files from the zip to the above Mod Organizer 2 folder you created's \plugins directory.
 ~~~
 
 ## Adding Executables in MO2
@@ -355,7 +365,7 @@ You will set up xLODGEN, TexGen, DynDOLOD, Nemesis, BodySlide shortcuts in this 
 
 ## BethINI PIE
 
-[![mod]](https://www.nexusmods.com/site/mods/631) | Version: `4.10` | Author: `DoubleYou` | ![Core] |
+[![mod]](https://www.nexusmods.com/site/mods/631) | Version: `4.11` | Author: `DoubleYou` | ![Core] |
 Download: | Main Files - Bethini Pie
 
 Manually extract the folder into Modding\Skyrim\Tools\BethINI
@@ -433,8 +443,8 @@ Select File->Save, confirm all, and exit.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-86-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/) | Version: `Beta 111` | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 111
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen/) | Version: `Beta 127 | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 127
 
 ![PostInstall]
 ~~~
@@ -452,7 +462,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-180` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-184` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

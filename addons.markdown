@@ -17,7 +17,7 @@ Download: | Main Files - Survival Control Panel
 
 ## Sunhelm Survival and Needs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39414) | Version: `3.1.4` | Author: `colinswrath`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39414) | Version: `3.1.4` | Author: `colinswrath` | ![ESL-C]
 Download: | Main Files - SunHelm Survival
 
 ![FOMOD]
@@ -90,7 +90,7 @@ Download: | Main Files - Contraband Confiscation v1
 
 ## Dirt and Blood - Dynamic Visual Effects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.34` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.37` | Author: `jayserpa` | ![CAO]
 Download: | Main Files: Dirt and Blood
 
 ![PostInstall]
@@ -246,7 +246,7 @@ Download: | Main Files - ICC - Simple Hunting Overhaul
 
 ## Immersive Hunting Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.2` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.3.1` | Author: `Elsawirr`
 Download: | Main Files - Immersive Hunting Animations
 
 ![FOMOD]
@@ -271,7 +271,7 @@ Choose MCM:
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.13` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.14` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -286,7 +286,7 @@ Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `1.04` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.0` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -313,7 +313,7 @@ Download: | Main Files: Cuyi's Campfire Backpacks
 
 ## Campfire - Complete Camping System - Igniting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.1` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.2` | Author: `Elsawirr`
 Download: | Main Files - Igniting Animation for Campfire
 
 ## Campfire - Complete Camping System - Hotkey Modded Menu Fix
@@ -323,12 +323,12 @@ Download: | Main Files - Campfire - hotkey fix
 
 ## Campfire Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.3` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.4` | Author: `GiraPomba`
 Download: | Main Files - Campfire Animations
 
 ## Campfire - Dynamic Activation Key
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.1.1` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.2` | Author: `GiraPomba`
 Download: | Main Files - Campfire - Dynamic Activation Key
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
@@ -391,10 +391,6 @@ Download: | Optional Files - Widget Addon patch for SunHelm - Settings Loader
 Download: | Main Files: Go To Bed - DAR patch AE - PLAYER and NPCs
 | Optional Files - Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
 
-## SunHelm Survival and Needs - CACO Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19518) | Version: `1.2` | Author: `kryptopyr`
-Download: | Main Files - SunHelm __ CACO
 
 ## SunHelm Survival and Needs - CCARA DAR - Patch
 
@@ -434,6 +430,7 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 DEST_ISL.esp | Add ESL flag
+SunHelmWyrmstoothPatch.esp | Compact formIDs, add ESL flag, Create SEQ File
 
 # A10. Addons - Followers
 
@@ -452,7 +449,6 @@ Download: | Main Files - SDA Patch Hub
 Animation Framework Patches:
    * None
 Awareness Patches - Gameplay Mods:
-   * Campfire (If using Addon - Immersion and Survival)
    * Wintersun (CACO Version)
 Awareness Patches - Crimson Blood Armor:
    * None
@@ -473,7 +469,7 @@ Feature Preference Patches:
 
 ## Khajiit Will Follow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.1` | Author: `robbobert` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.2a` | Author: `robbobert` | ![ESM]
 Download: | Main Files - Khajiit Will Follow
 
 ## Khajiit Will Follow - Forgotten City Patch
@@ -539,98 +535,37 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85903) | Version: `1.0` | Author: `megaman2k`
 Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 
-## Song of the Green
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11278) | Version: `1.4` | Author: `Waribiki` | ![CAO] ![QAC] ![ESM]
-Download: | Main Files - Song Of The Green 1.4
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Song of the Green - 3DNPC Banter Patch ESLified
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/101337) | Version: `1` | Author: `Freyr95` 
-Download: | Main Files - Auri 3DNPCs banter patch ESLified
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Song of the Green - Inigo Banter Patch ESLified
-
-[![mod]](hhttps://www.nexusmods.com/skyrimspecialedition/mods/101336) | Version: `1` | Author: `Freyr95` 
-Download: | Main Files - Auri Follower Inigo Banter Patch ESLified
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Song of the Green - Enhanced Voice Remastered
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63787) | Version: `2.0.2` | Author: `TheVoidKnight`
-Download: | Main Files - Auri - Remastered Audio
-| Misc Files - 3DNPCs Banter Patch ESLified
-| Misc Files - Inigo Banter Patch ESLified
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Song of the Green - Fancy Pod
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82661) | Version: `1.2` | Author: `GGUNIT`
-Download: | Main Files - Song of the Green Auri fancy pod
-| Optional Files - Song of the Green Auri's fancy pod - Lux patch
-
-## Song of the Green - Majestic Auri
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72361) | Version: `2.0` | Author: `urbon` | ![CAO]
-Download: | Main Files - Majestic Auri - A visual replacer
-
-![FOMOD]
-~~~
-Hairstyle:
-   * Classic Hair
-Human eyes:
-   * Elve eyes
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Thistlefoot Is Totally Stable (Actual Auri Mount Fix)
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/114146) | Version: `0.0.1` | Author: `Akira1364`
-Download: | Main Files - T.I.T.S. (Actual Auri Mount Fix)
-
-## Axarien's Animations - Auri
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/107268) | Version: `1.0` | Author: `Axarien`
-Download: | Main Files - Axarien's Animations - Auri
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.12.1` | Author: `BluePwnsU` | ![QAC] ![ESM]
-Download: | Main Files - Xelzaz Follower Core 1.12.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.0` | Author: `BluePwnsU` | ![QAC] ![ESM] ![CAO]
+Download: | Main Files - Xelzaz Follower Core 1.13.0
 
-## Xelzaz - HIMBO Patch
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124892) | Version: `1.0` | Author: `urbon`
-Download: | Xelzaz - HIMBO conversion
 
 ## Xelzaz - Wyrmstooth Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO]
 Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
+## Lulu's Xelzaz - Xelzaz Visual Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116476) | Version: `1.2` | Author: `DementedLulu`  | ![CAO]
+Download: | Main Files - Lulu's Xelzaz - Xelzaz Visual replacer
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 # Addons - Followers - Final Steps
 
@@ -641,9 +576,7 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
-018Auri.esp |
 HLIORemi.esp |
-KhajiitWillFollow.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -651,9 +584,138 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 BPUFXelzazFollower.esp | Apply ESMifier script
-018Auri.esp | Apply ESMifier script
 HLIORemi.esp | Apply ESMifier script
+KhajiitWillFollow.esp | Apply ESMifier script
 
+# E01. Addons - Vanilla Location Overhauls
+
+Note: Many patches for the below mods are included in the list's conflict resolution files.  If you are modifying the list to do your own conflict resolution, you may need patches provided by these mods along with other patch sources.
+
+## Snozz's Resource Pack
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.08` | Author: `snozz2004`
+Download: | Main Files - Snozz's Resources
+
+## Bleak Falls Barrow Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.0` | Author: `snozz2004`
+Download: | Main Files - Bleak Falls Barrow Overhaul V2
+
+## Bleak Falls Tower
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.01` | Author: `snozz2004`
+Download: | Main Files - Bleak Falls Tower Overhaul 2.0
+
+## Embershard
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `1.1` | Author: `snozz2004`
+Download: | Main Files - Embershard Overhaul - ESL Version
+
+## Fort Greymoor
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.01` | Author: `snozz2004`
+Download: | Main Files - Fort Greymoor
+| Optional Files - Lux - Fort Greymoor Patch
+| Optional Files - Lux Orbis - Fort Greymoor Patch
+
+## Halted Stream
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.0` | Author: `snozz2004`
+Download: | Main Files - Halted Stream Camp Interior Only
+| Optional Files - Lux - Halted Stream Patch
+
+## Redoran's Retreat
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80226) | Version: `1.14` | Author: `snozz2004`
+Download: | Main Files - Redoran's Retreat Overhaul
+
+## Silent Moons Camp
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004`
+Download: | Main Files - Silent Moons Camp (ESL)
+
+## Swindlers Den
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.02` | Author: `snozz2004`
+Download: | Main Files - Swindlers Den (ESL)
+
+## Valtheim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.0` | Author: `snozz2004`
+Download: | Main Files - Valtheim 2.0 (ESL)
+| Optional Files - Lux - Valtheim Patch (ESL)
+
+## White River Watch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82794) | Version: `1.10` | Author: `snozz2004`
+Download: | Main Files - White River Watch Overhaul
+
+## Northern Scenery - Bleak Falls Barrow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94647) | Version: `1.0.3` | Author: `HeilingerKrest`
+Download: | Main Files - Northern Scenery - Bleak Falls Barrow
+
+## Northern Scenery - Whiterun's Tundra
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94476) | Version: `1.3.9` | Author: `HeilingerKrest`
+Download: | Main Files - Northern Scenery - Whiterun's Tundra
+
+## Ryn's Bleak Falls Barrow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70984) | Version: `1.0` | Author: `Ryn`
+Download: | Main Files - Ryn's Bleak Falls Barrow
+
+## Ryn's Bleak Falls Tower
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72659) | Version: `1.5` | Author: `Ryn`
+Download: | Main Files - Ryn's Bleak Falls Tower
+
+## Ryn's Bleakwind Basin
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73141) | Version: `1.1` | Author: `Ryn`
+Download: | Main Files - Ryn's Bleakwind Basin
+
+## Ryn's Halted Stream Camp
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73907) | Version: `1.5` | Author: `Ryn`
+Download: | Main Files - Ryn's Halted Stream Camp
+
+## Ryn's Secunda's Kiss
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73265) | Version: `1.0` | Author: `Ryn`
+Download: | Main Files - Ryn's Secunda's Kiss
+
+## Ryn's White River Watch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74311) | Version: `1.6` | Author: `Ryn`
+Download: | Main Files - Ryn's White River Watch
+
+## Combo Patch - Snozz and Ryn's - Bleak Falls Barrow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131206) | Version: `1.0` | Author: `MissileMann`
+Download: | Main Files - Snozz and Ryn's Bleak Falls Overhaul Patch
+| Optional Files - Less Bandits Tweak
+
+## Combo Patch - Snozz and Ryn's - Bleak Falls Tower
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121785) | Version: `1.0` | Author: `ChickenMike`
+Download: | Main Files - Snozz Ryn Bleak Falls Tower mashup patch
+| Optional Files - Snozz Ryn Bleak Falls Tower - Lux Orbis patch
+
+## Combo Patch - Snozz and Ryn's - White River Watch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135032) | Version: `1.0` | Author: `MissileMann`
+Download: | Main Files - Snozz's and Ryn's White River Watch Patch
+| Optional Files - Lux Orbis Patch
+
+## Skyfall's Sleeping Hist Tree Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116792) | Version: `1.4` | Author: `Skyfall515`
+Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
+| Optional Files - Dead Looking Sleeping Tree (Leafless)
+| Optional Files - Embers XD Patch
+| Optional Files - Magical Purple Glow Effect Addon
+| Optional Files - Xelzaz - Argonian Follower - Patch (if using Followers)
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square
