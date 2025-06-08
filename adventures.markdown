@@ -12,42 +12,11 @@ If you want to install "Survival" or "Followers" addons, please do so before thi
 
 # B01. Addons - Adventures - Install Changes
 
-## Daedric Shrines - All in One - My Patches by Xtudo [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78809) | Version: `3.8` | Author: `Xtudo` | ![Core]
-Download: | Optional Files - Daedric Shrines AIO by Xtudo - The Gray Cowl
-| Optional Files - Daedric Shrines AIO by Xtudo - Wyrmstooth
 
 ## Erikur's House Rework [Addons - Adventures]
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82328) | Version: `3.0` | Author: `Drengin` | ![Core]
 Download: | Optional Files - Erikur's House rework for LotD
-
-## Farmhouse Chimneys [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8766) | Version: `4.2.0` | Author: `Scarla` | ![Core] ![ESL-C]
-Download: | Main Files - Farmhouse Chimneys SE v4.2.1
-
-![FOMOD]
-~~~
-Modded Towns:
-   * Helgen Reborn
-New Lands:
-   * None
-New Villages:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Delete FarmhouseChimneys.esp. (removing overwrite of Core install)
-~~~
-
-## Forceful Tongue - Shouts Overhaul - Patches [Addons - Adventures]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36276) | Version: `1.0.2` | Author: `Delta` | ![Core] 
-Download: | Main Files - Forceful Tongue - Wyrmstooth Patch
-
 
 
 ## Lucien - Patches [Addons - Adventures]
@@ -116,7 +85,7 @@ RSChildren Patches:
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.8.0` | Author: `icecreamassassin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.10.0` | Author: `icecreamassassin` | 
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 
@@ -350,11 +319,6 @@ Options:
    * None
 ~~~
 
-## Artifacts - The Tournament of the Ten Bloods - Update.esm Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66015) | Version: `1.1` | Author: `Janquel`
-Download: | Main FIles - TotTB - Artifacts of Boethiah - Update Patch
-
 ## BadGremlins Collection
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15092) | Version: `SE1` | Author: `badgremlin` | ![ESM]
@@ -432,15 +396,8 @@ Download: | Volkihar Knight SE 1.0.0
 
 # B05. Addons - Adventures - NPC Retextures
 
-## Realistic RS Children Overhaul - Legacy of the Dragonborn Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` 
-Download: | Optional Files - RRSC - Legacy of the Dragonborn Patch
 
-## Realistic RS Children Overhaul - Helgen Reborn Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
-Download: | Optional Files - RRSC - Helgen Reborn Patch
 
 
 ## Modpocalypse NPCs - Resources
@@ -519,6 +476,12 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134337) | Version: `1.0` | Author: `Lively`
 Download: | Main Files - Auto Grab Amulets of Skyrim From Standing Stones
 
+![FOMOD]
+~~~
+Auto Grab Amulets:
+   * Vanilla
+~~~
+
 ## Dynamic Treasure Map Journal
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78681) | Version: `2.0` | Author: `DrMabuse`
@@ -566,25 +529,15 @@ Download: | Main Files - Legacy of the Dragonborn - Item Descriptions
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45829) | Version: `1.0` | Author: `bign0se` | 
 Download: | Main Files - LOTD Mementos
 
-## Legacy of the Dragonborn - Mara Statue Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93917) | Version: `2.2` | Author: `Xtudo`
-Download: | Main Files - Mara - My patches SE by Xtudo - LOTD Lux
-
 
 ## Legacy of the Dragonborn - Mystic Condenser
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10176) | Version: `2.3` | Author: `Dave0523` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10176) | Version: `2.3` | Author: `Dave0523`
 Download: | Optional Files - Mystic Condenser 2.3 UCE
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.7.4` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.0` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -629,7 +582,7 @@ Delete meshes/dbm resources/museumsign.nif.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.8` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.10` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
@@ -652,7 +605,7 @@ Synergy Patches: (select only)
 
 ## Legacy of the Dragonborn - Patches - Followers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.8` | Author: `gutmaw` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.11` | Author: `gutmaw`
 Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
@@ -664,24 +617,15 @@ Guildhouse:
    * Allow autoselected
 ~~~
 
-
-
 ## Legacy of the Dragonborn - Perk Menus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `2.0` | Author: `wSkeever` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `2.0` | Author: `wSkeever`
 Download: | Main Files - Legacy of the Dragonborn Perk Menu
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Legacy of the Dragonborn - Player Home Displays
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63706) | Version: `1.1` | Author: `gutmaw`
 Download: | Main Files - Legacy of the Dragonborn - Player Homes Displays
-| Optional Files - Legacy of The Dragonborn - Cathedral 3D Mountain Flowers - Player Homes Patch
-
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
@@ -732,10 +676,16 @@ Curator's Companion Patches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38221) | Version: `4.1` | Author: `icecreamassassin`
 Download: | Main Files - Mannequin Management
 
-## Snazzy Interiors - LotD The Wayward Rest
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122412) | Version: `1.1` | Author: `gutmaw` | ![ESM]
-Download: | Main Files - Snazzy Interiors - LotD The Wayward Rest
+## Realistic RS Children Overhaul - Legacy of the Dragonborn Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` 
+Download: | Optional Files - RRSC - Legacy of the Dragonborn Patch
+
+## Realistic RS Children Overhaul - Helgen Reborn Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
+Download: | Optional Files - RRSC - Helgen Reborn Patch
 
 
 # B07. Addons - Adventures - Late Loaders - Textures and Meshes
@@ -815,7 +765,7 @@ Download: | Main Files - LOTD Version
 Download: | Main Files - DBM Bonemold Weapon Pack
 | Optional Files - DBM Bonemold Weapon Pack TCC Patch
 
-## Legacy of the Dragonborn - CBBE 3BA and HIMBO Patch
+## Legacy of the Dragonborn - CBBE 3BA Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.3` | Author: `JuzyJ`
 Download: | Main Files - LOTD CBBE 3BA and (or) HIMBO Patch
@@ -823,19 +773,14 @@ Download: | Main Files - LOTD CBBE 3BA and (or) HIMBO Patch
 ![FOMOD]
 ~~~
 Install Meshes:
-   * CBBE 3BA and HIMBO
+   * CBBE 3BA
 Install Tools:
-   * CBBE 3BA and HIMBO
+   * CBBE 3BA
 ~~~
 
-## Legacy of the Dragonborn - Cleaned Textures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42975) | Version: `1.01` | Author: `Kartoffels` | ![CAO]|
-Download: | Main Files - LOTDCT_BC7
-
-![PostInstall]
+![Merged]
 ~~~
-Pack the mod with CAO.
+The esp from this mod is merged into SUP Adventures Resources.
 ~~~
 
 ## Legacy of the Dragonborn - Dragonmail Cuirass Enhanced
@@ -931,10 +876,6 @@ Decals:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78234) | Version: `1.0` | Author: `Vichoriz0`
 Download: | Main Files - Vokihar Knight 3BA Bodyslide
 
-## Volkihar Knight - HIMBO Refit
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64812) | Version: `1.0` | Author: `Jayysee`
-Download: | Main Files - Volkihar Knight - Vampire Armor - HIMBO Refit
 
 ## Wyrmstooth - Animated ENB Light
 
@@ -968,7 +909,17 @@ Texture Resolution:
    * 2K
 ~~~
 
-## Wyrmstooth - CBBE 3BA and HIMBO Patch
+## Wyrmstooth - Unique Weapons Reforged
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92848) | Version: `1.0` | Author: `Vilidran`
+Download: | Main Files - Wyrmstooth - Unique Weapons Reforged
+
+![Merged]
+~~~
+The LOTD patch on this page is merged into SUP Conflict Resolution - Adventures.
+~~~
+
+## Wyrmstooth - CBBE 3BA Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105850) | Version: `1.1` | Author: `JuzyJ` | ![Visuals]
 Download: | Main Files - Wyrmstooth CBBE 3BA and (or) HIMBO Patch
@@ -976,10 +927,15 @@ Download: | Main Files - Wyrmstooth CBBE 3BA and (or) HIMBO Patch
 ![FOMOD]
 ~~~
 Install Meshes:
-   * CBBE 3BA and HIMBO
+   * CBBE 3BA
 Install Tools:
-   * CBBE 3BA and HIMBO
+   * CBBE 3BA
 ~~~
+
+## Legacy of the Dragonborn - Paintings Replacer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/149114) | Version: `1.11` | Author: `DeonDF` | ![Visuals]
+Download: | Main Files - LOTD Paintings
 
 ## Ancient Dwemer Metal - Patches - Aetherium Armor and Weapons Compilation
 
@@ -1093,7 +1049,6 @@ MoonAndStar_MAS.esp | Apply ESMifier script
 RRSC-HelgenReborn-Patch.esp | Add ESL flag
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
-Snazzy Interiors - LotD Wayward Rest.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
@@ -1121,5 +1076,6 @@ Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
 [qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

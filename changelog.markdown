@@ -3,6 +3,692 @@ layout: default
 title: "Skyrim Unification Project"
 ---
 
+# 1.0.0.0 RC12 - 2025-06-08
+
+![Added]
+~~~
+Prereqs - FOMOD Plus
+
+Core - Core Impact Framework (CIF)
+Core - ENB Helper Plus
+Core - Contextual Crosshair
+Core - Favorites Menu Effects Description
+Core - FYX - Alpha Blood Blending Bug NG
+Core - Inertia (Floating Gear Fix)
+Core - Invisible Rune Explosion Fix
+Core - Magic Fixes and Tweaks SKSE
+Core - Remove Orphaned Hazards
+Core - Security Overhaul SKSE - Extra Locks
+Core - Sprint Stuttering Fix
+Core - STB Quick Hotkey Cast
+Core - Terrain Helper for ENB
+Core - Toggle UI SKSE
+Core - Hammering Animation and Sound Fixes
+Core - CritterSpawn Congestion Fix - Script Call Reduction
+Core - World Encounter Noble Riding Horse Fix - WERoad02
+Core - Absorb Dragon Soul Lesser Power
+Core - The Clever Prisoner
+Core - Hotkey Reminder
+Core - Tween Menu Overhaul
+Core - Tween Menu Overhaul - Untarnished UI Reskin
+Core - TrueHUD Curated Bosses
+Core - Loading Menu Overhaul
+Core - Loading Menu Overhaul - Untarnished UI Reskin
+Core - Quest Journal Overhaul - Untarnished UI Reskin
+Core - Quest Journal Overhaul - Untarnished UI Reskin - Widescreen
+Core - STB Widgets
+Core - STB Widges - DwP Reskin
+Core - STB Active Effects
+Core - SUP HUD Config - Regular
+Core - SUP HUD Config - Widescreen
+Core - Arch-Curate Vyrthur Revoiced
+Core - BA Bard Songs
+Core - Dragon-Voiced Word Walls
+Core - General Falx Carius Enhanced Voice
+Core - Ghostly Helgi Voice
+Core - Hermaeus Mora - Voice Renewal
+Core - Hircine Revoiced
+Core - Hrothmund the Red Enhanced Voice
+Core - Lu'ah Al-Skaven Enhanced Voice
+Core - Magical Nirnroot Audio
+Core - Merida Revised
+Core - Peryite Revoiced
+Core - Potema Revoiced
+Core - The Black Door Revoiced
+Core - The Night Mother Revoiced
+Core - Whispers of the Daedric Princes
+Core - Environs - The Ruined Tundra Farmhouse
+Core - Environs - The Ruined Tundra Farmhouse - Patch Collection
+Core - Blackreach Fern to Dawnguard Plant
+Core - Diverse Grindstones - Base Object Swapper
+Core - Real Water for Volcanic Mineral Pools - Base Object Swapper
+Core - Rustic Repose - A Common Bed Replacer - Base Object Swapper
+Core - Shores of Skyrim - Base Object Swapper
+Core - Sleipnir Beds - An Upper Class Bed Replacer - Base Object Swapper
+Core - Unmarked Locations Pack - All In One
+Core - At Your Own Pace - Main Quest
+Core - The Gildergreen Grows
+Core - Beyond Skyrim - Morrowind - Bonemold Weapon Pack - Armory Extended
+Core - Better Mistveil Keep
+Core - Riverbord's Riften Revival
+Core - Riverbord Solitude
+Core - Rodryk's Dragon Bridge Retexture - Solitude Edition
+Core - Farmhouses of the Nords
+Core - Nordic Stonewalls
+Core - Nordic Stonewall Terraces
+Core - Riton's Skyhaven Temple
+Core - RUSTIC WINDOWS
+Core - Daedric Shrines AIO Complex Material
+Core - Statue of Dibella Complex Material
+Core - Statue of Kynareth Complex Material
+Core - Skyrim Remastered - Azura and Blackreach Crystals
+Core - ERMed - Blackreach Crystals
+Core - 3D Dwemer Sun - Subterranean Object SMIMed
+Core - Dwemer Gate Reworked
+Core - Ancient Dwemer Metal - Patches - Deep Slumber
+Core - Ancient Dwemer Metal - Patches - Dwemer Gate
+Core - Vanaheimr - Landscapes - AIO
+Core - Aspens Ablaze
+Core - Aspens Ablaze Add-On - DynDOLOD 3
+Core - High Quality Ivy
+Core - High Quality Ivy for Riverwood's Gate - Base Object Swapper
+Core - High Quality Ivy for SD's Farmhouse Fences
+Core - High Quality Ivy for Tree Stumps and Logs
+Core - Reimagined Mountain Flowers - BYOH Flowers Fix
+Core - Higher Poly Vanilla Burnt Corpses
+Core - Slightly Better Bunting
+Core - Slightly Better Oars
+Core - Slightly Better Scrolls
+Core - Slightly Better Scrolls - quilb's Textures Version
+Core - Logical Rope Bridges
+Core - Remove Ugly Torch Glow Special Edition
+Core - Spell Rune Retexture
+Core - Spell Rune Retexture - Consistency Patches
+Core - Embers XD - Glow Maps for ENB
+Core - Skeleton Replacer HD - DLC2 Forge Clutter Add On
+Core - Common Clothing Retexture SE
+Core - Saints and Seducers Retexture SE
+Core - Arcs Spellbreaker Redux
+Core - Clofas Chaurus and Egg Sacs
+Core - Divergence - Compendium of Beasts - Ash Guardian
+Core - Setting on Sulphur
+Core - Lawless - A Bandit Overhaul
+Core - Lawless - A Bandit Overhaul - Patches
+Core - Pan's Nameless Vampires
+Core - The New Gentleman SFW Edition
+Core - Bits and Pieces - Male Skin
+Core - Bits and Pieces - Female Skin
+Core - Vanilla Hair Remake
+Core - Vanilla Hair Remake HPH Patch
+Core - Shiny ENB Eyebrows Begone
+Core - KS Hairdos - HDT SMP
+Core - KS Hairdos - HDT SMP - 3BA Collision Sliders
+Core - Bits and Pieces - Eye Pack
+Core - Eyes Nouveaux
+Core - Eyes Nouveaux - Vanilla Presets Patched
+Core - Eye Mods Nouveaux
+Core - Kala's Eyes - Beast  Race Edition
+Core - Next-Gen Decapitation
+Core - Barstool Exit Animation Fix
+Core - CBPC Config - Realistic Firm
+Core - Draw Fix - Move Equip Animation Fix
+Core - Improved Barstool Exit Animation
+Core - NPC Block Loop Fix
+Core - USSEP Behaviour Patch
+Core - Smooth Moveset
+Core - EVG Conditional Idles - Smooth Moveset Patch
+Core - Falmer Servant Lines Expanded
+Core - Skyrim's Got Talent - Improve As a Bard
+Core - Skyrim's Got Talent - Improve As a Bard - Addons
+Core - Skyrim's Got Talent - Interesting NPCs (3DNPC) aAddon
+Core - Skyrim's Got Talent - Player Reactions Addon
+Core - Skyrim's Got Talent - Show In UI
+Core - Precision
+Core - Sanguine Symphony
+Core - Sanguine Symphonny - More Subtle Sound FX
+Core - Ordinator's Got Talent
+Core - Numinous Nord Ruins
+Core - Better-Looking ANtlers for Reindeer
+Core - Frolique's Fluffy Dust
+Core - Vanaheimr - Landscapes - AIO - Lux Patch
+Core - Vanaheimr - Ore Veins
+Core - Enhanced Rocks and Mountains - Addon
+Core - Berrybog's Blackreach Bush
+Core - Root Weeds Redone
+Core - KittyVFX - ENBHands
+Core - Weapon Animation - Dawnbreaker
+Core - ENB of the Elders
+
+Adventures - Wyrmstooth - Unique Weapons Reforged
+Adventures - Legacy of the Dragonborn - Paintings Replacer
+
+Addons - Survival - Andrealphus' Jobs Overhaul
+Addons - Survival - Books of Power - Immersive Spell Learning
+Addons - Survival - Books of Power - Immersive Spell Learning - 3rd Person Book Holding OAR
+Addons - Survival - Nordic UI Icons for Sunhelm and iNeed Widgets
+
+Addons - Armors and Accessories - Lunar Guard Armor
+Addons - Armors and Accessories - Lunar Guard Armor CBBE 3BA Bodyslide
+Addons - Armors and Accessories - Lunar Guard Arsenal - Battleaxe
+Addons - Armors and Accessories - Piratical Pirate Outfit
+Addons - Armors and Accessories - Piratical Pirate Outfit CBBE 3BA Bodyslide SMP
+Addons - Armors and Accessories - Wilderness Witch Outift
+Addons - Armors and Accessories - Wilderness Witch Outfit CBBE 3BA Bodyslide
+
+Addons - Vanilla Location Overhauls - Children of the North Wind
+Addons - Vanilla Location Overhauls - Deadly Dragon Lair Locations
+Addons - Vanilla Location Overhauls - Gorgeous Giant Camps Compilation
+Addons - Vanilla Location Overhauls - Ryn's Dragon Mounds
+Addons - Vanilla Location Overhauls - Ryn's Standing Stones
+
+Arch - Snazzy Location Resources
+Arch - Snazzy Dawnstar AIO
+Arch - Snazzy Falkreath AIO
+Arch - Snazzy Winterhold AIO
+Arch - Snazzy Markarth AIO
+Arch - Snazzy Riften AIO
+Arch - Snazzy Solitude AIO
+Arch - The Windhelm Well
+Arch - Snazzy Whiterun AIO
+Arch - Snazzy Windhelm AIO
+Arch - More Capital Whiterun Expansion Patches
+Arch - Sowables of Skyrim - Grow Tomatoes SSE
+Arch - JK's Raven Rock
+Arch - JK's Raven Rock Patch Collection
+Arch - Snazzy Raven Rock AIO
+Arch - Snazzy Morthal AIO
+Arch - Snazzy Towns and Settlements
+Arch - Snazzy Misc Locations
+~~~
+
+![Removed]
+~~~
+Core - Backported Extended ESL Support (was removed from WJ a long time ago)
+Core - dMenu
+Core - Armor Rating Rescaled SKSE Remake
+Core - No Follower Attack Collision NG
+Core - Sound Hammering Sounds
+Core - A Matter of Time
+Core - Immersive HUD - iHUD
+Core - TrueHUD - iHUD Patch
+Core - Wheeler
+Core - Wheeler - Untarnished UI Edit
+Core - Quest Journal Overhaul - Widescreen Patch
+Core - Dungeons Revisited
+Core - Malacath's Chosen Orc Furniture Replacer
+Core - Obscure's College of Winterhold NPC Stuck In Staircase Fix
+Core - Alternate Start - Live Another Life - Voiced
+Core - Don't Rush Me - Markarth
+Core - Don't Rush Me - Riften
+Core - Gildergreen Regrown
+Core - Bandolier Cleaned and Upscaled Textures
+Core - Cloaks and Capes Cleaned and Upscaled Textures
+Core - Animated Clutter
+Core - FYX - Nordic Doors and Traps Collisions
+Core - Skyland Solitude
+Core - Mrf's Riften
+Core - Skyland Skyhaven Temple
+Core - Skyland Nordic Ruins
+Core - Skyland Windows
+Core - Temple of Talos Redone
+Core - Tomato's V3 Farmhouse Parallax
+Core - Whiterun Fence Walls Mesh Fix
+Core - Whiterun Wall Rubble Fixed
+Core - JS Shrines of the Divines - HD Glaze
+Core - Statue of Mara My Exterior Patches SE by Xtudo
+Core - Better Dirt Cliffs and Alphas
+Core - CC's Enhanced Ore Veins
+Core - Praedy's Blackreach Deposits
+Core - Blended Roads Complex Material
+Core - Northern Concept - Northern Roads
+Core - Polar Peaks
+Core - Vanaheimr - Dirt and Rocks
+Core - Septentrional Landscapes Complex 2K
+Core - HD Terrain Noise Texture SE
+Core - Majestic Landdscapes - Meshes Only
+Core - Medieval Blended Roads
+Core - Skyrim Remastered - Glaciers and Ice - IMR Edition
+Core - Rudy HQ - ENB Complex Material Mineral Pools Water
+Core - Vanaheimr - Dragonborn
+Core - Vanaheimr - Fallforest
+Core - Vanaheimr - Marsh
+Core - Vanaheimr - PineForest
+Core - Nature of the Wild Lands - Reduced Resolution Textures
+Core - Creepy Chaurus Eggs
+Core - Extraordinary Eggs
+Core - Silky Spider Eggs
+Core - Morthal Quest Coffin Retexture
+Core - Sigils of Skyrim - Banners - 2K Upscale
+Core - Skyland Chests
+Core - Alternate Summoning Visuals
+Core - Enhanced Blood Textures
+Core - TB's Enhanced Smoke
+Core - Embers XD - Fire Them Sparks
+Core - RUSTIC CLOTHING
+Core - Golden Saint Armory Revamped
+Core - Heritage Enemies 2
+Core - Citizens of Tamriel
+Core - Interesting NPCs - Vigram Enable (merged)
+Core - Citizens of Tamriel - Visual Overhaul
+Core - RS Children Overhaul - Citizens of Tamriel Patch
+Core - The New Gentleman - NeverNude
+Core - High Poly Vanilla Hair
+Core - Eyebrow Specularity Fix
+Core - KS Hairdos - Salt and Wind - Citizens of Tamriel
+Core - Improved Eye Model
+Core - The Eyes of Beauty - Ai Remastered
+Core - The Eyes of Beauty - Ai Remastered - Vanilla Eyes Replacer
+Core - The Eyes of Beauty - Ai Remastered - Vampire Eyes
+Core - Smooth Combat Non Combat Animation
+Core - Conditional Expressions - Extended
+Core - Enhanced Blood Textures Optimized Scripts
+Core - Glacierslab SSE
+Core - Daedra-tastic Rune Spells
+Core - Whiterun Skyforge - Reforged
+Core - Kauz ENB
+Core - A Matter Of Time Settings Loader
+Core - Immersive HUD Settings Loader
+Core - Janquel's Arguably Needed Quixotically Unifying ESP Library
+Core - Psychopatchist Purgatory
+Core - Tiny But Useful - Another Patch Hub
+
+Adventures - Daedric Shrines AIO My Patches By Xtudo [Adventures] (merged0
+Adventures - Farmhouse Chimneys [Adventures] (merged)
+Adventures - Forceful Tongue [Adventures] (merged)
+Adventures - Artifacts Tournament of the Ten Bloods Update.esm Patch (merged)
+Adventures - Legacy of the Dragonborn Mara Statue Patch (merged)
+Adventures - Snazzy Interiors - LotD The Wayward Rest (snazzy aio)
+Adventures - Legacy of the Dragonborn - Cleaned Textures
+Adventures - Volkihar Knight - HIMBO Refit
+
+Addons - Survival - Dirt and Blood Dynamic Visual Effects Expanded
+Addons - Survival - Snoblind Footprints Retexture (merged into main)
+Addons - Survival - Immersive Spell Learning DESTified
+Addons - Survival - Dirt and Blood Dynamic Visual Effects Expanded Animation Patch
+
+Addons - Vanilla Location Overhauls - Ryn's Bleakwind Basin
+Addons - Vanilla Location Overhauls - Ryn's Secunda's Kiss
+Addons - Vanilla Location Overhauls - Ryn's Halted Stream Camp
+
+Arch - Statue of Mara - My Patches SE (merged)
+Arch - Snazzy Interiors - Dawnstar Brina's House
+Arch - Snazzy Interiors - Dawnstar Mortar and Pestle
+Arch - Snazzy Interiors - Dawnstar Silus Vesuius' House
+Arch - Snazzy Interiors - Falkreath Dengeir's House
+Arch - Snazzy Interiors - Winterhold Birna's Oddments
+Arch - Snazzy Interiors - Winterhold Kraldar's House
+Arch - Snazzy Black Briar Lodge
+Arch - Snazzy Riftweald Manor
+Arch - Snazzy Interiors - Markarth Endon's House
+Arch - Snazzy Interiors - Markarth Guard Tower
+Arch - Snazzy Interiors - Markarth Nepos' House
+Arch - Snazzy Interiors - Markarth Treasury House
+Arch - Snazzy Interiors - Riften Aerin's House
+Arch - Snazzy Interiors - Riften Black-Briar Manor
+Arch - Snazzy Interiors - Riften Bolli's House
+Arch - Snazzy Interiors - Riften Snow-Shod Manor
+Arch - Snazzy Exteriors - Riften Snow-Shod Manor
+Arch - Snazzy Interiors - Sarethi Farm
+Arch - Snazzy Interiors - Solitude Bryling's House
+Arch - Snazzy Interiors - Solitude Erikur's House
+Arch - Snazzy Interiors - Solitude Vittoria Vici's House
+Arch - Snazzy Exteriors - Solitude Bryling's Garden
+Arch - Capital Windhelm Expansion - Rob's Bug Fixes - JK's Skyrim United
+Arch - Snazzy Honningbrew Meadery
+Arch - Snazzy Interiors - Whiterun House Battle-Born
+Arch - Snazzy Interiors - Whiterun House Gray-Mane
+Arch - Snazzy Interiors - Windhelm Blacksmith
+Arch - Snazzy Interiors - Calixto's House of Curiosities
+Arch - Snazzy Interiors - Windhelm House of Clan Cruel-Sea
+Arch - Snazzy Interiors - Windhelm House of Clan Shattershield
+Arch - Snazzy Interiors - Windhelm Viola Giordano's House
+Arch - Better Tel Mithryn - CFTO Patch (merged)
+Arch - Quaint Raven Rock Patch Collection
+Arch - Quaint Raven Rock Navm Cleaned and Optimized
+Arch - Daedric Shrines - Quaint Raven Rock Add-on
+Arch - Snazzy Interiors - Glover Mallory's House
+Arch - Snazzy Interiors - Moravyn Manor
+Arch - Anga's Mill - Cities of the North Addon Patch Collection (merged)
+Arch - ClefJ's Morthal - Patch Collection (merged)
+Arch - ClefJ's Morthal - My Patches and Tweaks (merged)
+Arch - Environs - Kolskeggr - Patch Collection (merged)
+Arch - Gonzeh - Stonehills ReRe-imagined - Patches (merged)
+Arch - Half-Moon Mill - Cities of the North Addon Patch Collection (merged)
+Arch - Snazzy Drelas' Cottage
+Arch - Snazzy Interiors - Darkwater Crossing Verner and Annekke's House
+Arch - Snazzy Interiors - Karthwasten Hall
+Arch - Snazzy Interiors - Morthal Falion's House
+Arch - Snazzy Interiors - Morthal Thaumaturgist's Hut
+Arch - Snazzy Interiors - Rorik's Manor
+Arch - RYFTEN JK Cities (merged)
+Arch - RYFTEN JK Mistveil Keep (merged)
+Arch - Snazzy Interiors - JK's Dragonsreach
+Arch - Snazzy Interiors - JK's Palace of the Kings
+Arch - K's Interiors Lite (merged)
+Arch - Ryn's Skyrim Patch Collection (merged)
+~~~
+
+![Updated]
+~~~
+Prereqs - CKPE updated to 0.5-b143.
+Prereqs - Nifskope updated to 2.0Dev11.
+Prereqs - xLODGEN updated to Beta 130.
+Prereqs - DynDOLOD updated to Alpha-190.
+
+Core - Andrealphus' Papyrus Functions updated to 1.5.2.
+Core - Container Distribution Framework updated to 3.0.2.
+Core - Custom Skills Framework - Added CAO tag
+Core - Dynamic String Distributor updated to 1.2.5.
+Core - ENB Extender for Skyrim updated to 1.3.1.
+Core - Infinity UI updated to 2.0.3.
+Core - Object Categorization Framework - Some KID Patches updated to 2.5.
+Core - powerofthree's Papyrus Extender updated to 5.10.0.
+Core - Spell Perk Item Distributor updated to 7.2.0RC13.
+Core - Actor Limit Fix updated to 9.
+Core - Better Jumping updated to 1.8.6.
+Core - Better Third Person Selection updated to 0.8.9.
+Core - Comprehensive Attack Rate Patch updated to 1.1.2.14.
+Core - Considerate Followers updated to 1.3.0.
+Core - Dialogue History updated to 2.1.2.
+Core - Encounter Zones Unlocked updated to 1.5.4.
+Core - Enemies Respect Encounter Zones updated to 1.4.3.
+Core - Helmet Toggle 2 updated to 3.4.2.
+Core - Magic Sneak Attacks updated to 1.3.0.
+Core - No Grass In Objects updated to 1.4.0.
+Core - Photo Mode updated to 1.9.1.
+Core - Security Overhaul SKSE updated to 4.0.
+Core - SSE Engine Fixes updated to 6.2.
+Core - Unofficial Skyrim Special Edition Patch updated to 4.3.4a.
+Core - Particle Patch for ENB updated to 1.3.8.
+Core - Unofficial Material Fix - added CAO, ESM tag
+Core - Landscape Fixes for Grass Mods updated to 5.8.
+Core - Navigator updated to 1.5.9.
+Core - NPC Stuck In Bleedout Fix updated to 0.2
+Core - Scripts Carefully Reworked Optimized and Tactfully Enhanced - switched to BSA
+Core - Random Barrel Roll updated to 0.1.1.
+Core - Simplicity of Seeding updated to 0.6.4.
+Core - Simplicity of Seeding CACO Patch updated to 1.2.
+Core - SPID-Protected Citizens updated to 1.6.
+Core - SkyUI - removed BSA tag
+Core - Quest Journal Overhaul updated to 1.3.
+Core - Atlas Map Markers updated to 3.0.4.
+Core - Flat World Map Framework updated to 1.9.7.
+Core - Phoenix Compendium updated to 2.5.2.
+Core - Acoustic Space Improvement Fixes updated to 1.3.3.
+Core - Regional Sounds Expansion updated to 2.1.0.
+Core - Cultured Orc Furniture moved here from Project Arch.
+Core - Environs Master Plugin moved here from Project Arch.
+Core - Environs Western Watchtower - added ESM, CAO tags
+Core - Environs Western Watchtower Patches - updated files and instructions
+Core - Outlaws Refuges - CoMAP Addon updated to 1.5.
+Core - Cozy Cots updated to 1.0.2.
+Core - Deep Slumber updated to 1.0.4.
+Core - Diverse Windmill Sails updated to 1.2.
+Core - Dunmer Dreams updated to 1.0.1.
+Core - Rustic Repose moved section
+Core - Utenlands Nordic Tents updated to 1.2.
+Core - After the Civil War updated to 2.6.2
+Core - Alternate Start Live Another Life updated to 4.2.4.
+Core - Better Courier - added merge instruction
+Core - BUVARP RE updated to 1.3.6.
+Core - Even Better Quest Objectives - added merge instruction
+Core - Face Sculptor Expanded - added CAO tag
+Core - Blood and Silver Cidhna Mine Expanded - added ESM tag
+Core - Caught Red Handed Quest Expansion - added merge instruction
+Core - College of Winterhold Quest Expansion updated to 1.16.
+Core - Innocence Lost Quest Expansion updated to 1.12.
+Core - The Heart of Dibella Quest Expansion updated to 1.07.
+Core - Favor Quests Separated - added CAO tag
+Core - Radiant Requirements - removed optional file (inc. in CR)
+Core - Coins of Interesting Natures updated to 3.2.1.
+Core - Extended Encounters upddated to 1.6.9.
+Core - Headhunter Bounties Redone updated to 1.57.
+Core - Elven Supremacy updated to 1.0.3.
+Core - Morrowind Mint updated to 1.0.10.
+Core - Skyrim Silver updated to 1.0.11, merge instruction added
+Core - Better Big Boat LOD updated to 1.11.
+Core - Assorted Mesh Fixes updated to 0.127.
+Core - Ruins Clutter Improved - removed CAO tag, updated delete instructions
+Core - Simplicity of Snow updated to 0.25.
+Core - Static Mesh Improvement Mod Improvement Mod updated to 1.13.1, delete instructions updated.
+Core - Whiterun Objects SMIMed updated to 0.6.0.
+Core - Orc Settlements Enhanced updated to 1.4.3.
+Core - Praedy's Fort Dawnguard updated to 3.3.
+Core - FYX 3D Stockades Compatibility Tweaks updated to 2.1.1.
+Core - Skyking Signs updated to 1.7.
+Core - Skyking Unique Signs updated to 1.1.
+Core - SD's Farmhouse Fences - changed download file
+Core - Praedy's Apocyphra - added download file
+Core - Statue of Kynareth - added delete instruction
+Core - Overlooked Dungeon Objects Retextures updated to 2.0.
+Core - Ancient Dwemer Metal My Patches - updated delete instructions
+Core - Icy Mesh Remaster section changed
+Core - Nordic Northern Roads updated to 2.6.
+Core - Snoblind updated to 1.1.
+Core - Nature of the Wild Lands updated to 3.12.
+Core - Nature of the Wild Lands 3D Hybrid LOD updated to 1.11.
+Core - Reimagined Mountain Flowers updated to 1.08.
+Core - Sowables of Skyrim Potatoes updated to 2.01.01.
+Core - Slightly Better Honey Nut Treat updated to 1.2.
+Core - Book Unity and Revamp Project - added merge instruction
+Core - JS Dragon Claws - added merge instruction
+Core - Embers XD updated to 3.1.5.
+Core - JS Vanilla Circlets updated to 1.15.
+Core - aMidian Book of Silence - removed BSA tag
+Core - LeanWolf's Better-Shaped Weapons - updated FOMOD
+Core - aMidianBorn Content Addon updated to 3.1.2.
+Core - Unique Armors and Weapons Retexture SE updated to 1.2.0.
+Core - Praedy's Staves AIO - updated delete instructions
+Core - Stahlrim Refrozen - updated files to install, FOMOD instructions
+Core - Ancient Nord Armors and Weapons Retexture SE updated to 1.1.
+Core - Dark Brotherhood Armors Retexture SE updated to 1.1.0.
+Core - Dragon Armors and Weapons Retexture SE updated to 2.2.
+Core - Forsworn Armors and Weapons Retexture SE updated to 1.1.
+Core - Glass Armors and Weapons Retexture SE updated to 2.2.
+Core - Guards and Stormcloaks Armors Retexture SE updated to 1.1.
+Core - Iron Armors and Weapons Retexture SE updated to 2.1.0.
+Core - Leather Armors Retexture SE updated to 1.1.
+Core - Stahlrim Armors and Weapons Retexture SE - added merge instructions
+Core - Wolf Armors and Weapons Retexture SE updated to 1.2.0.
+Core - Serene Wispmothers - added file to download
+Core - Higher Poly Vanilla Saddles updated to 1.2.
+Core - Shaders of Solstheim updated to 0.3.
+Core - Water for ENB updated to 2.06.
+Core - Natural Waterfalls updated to 3.1.
+Core - Lux updated to 6.9.
+Core - Storm Lightning updated to 1.4.22.
+Core - Interesting NPCs - Al'Hassan's Smithy Patch - added merge instruction
+Core - Interesting NPCs - Rumarin Solstheim Commentary - added CAO tag
+Core - Interesting NPCs - Zora's Voice-Boost - added CAO flag
+Core - Song of the Green updated to 2.2.
+Core - Song of the Green - Enhanced Voice Remastered updated to 2.2.1.
+Core - High Poly Head - FOMOD, delete instructions updated.
+Core - BeastHHBB - added CAO tag
+Core - NVICO Modular High-Poly NPC Overhaul - Patches - removed Citizens from FOMOD
+Core - CBBE - updated FOMOD
+Core - CBBE 3BA updated to 2.48.
+Core - OBody Next Generation updated to 4.3.7, added CAO tag
+Core - Racial Skin Variance - SPID updated to 2.5.2.
+Core - KS Hairdos updated to 1.10.
+Core - Lamenthia's Marks of Beauty - removed CAO tag
+Core - True Directional Movement - added Nemesis tag
+Core - Offset Movement Animation - added Nemesis tag
+Core - Sonders Keyword Distribution Resources updated to 1.8.
+Core - Disable Turn Animation updated to 2.0.
+Core - First Person Animation Teleport Bug Fix - added Nemesis tag
+Core - Improved Table Transition updated to 1.4, added install note
+Core - Slow Sprint Bug Fix - added Nemesis tag
+Core - Weapon Styles - Draw-Sheathe Animations for IED updated to 3.0.1.
+Core - EVG Conditional Idles Extended updated to 1.6.
+Core - Conditional Expressions updated to 1.28.
+Core - Drunk Animations updated to 1.6.1.
+Core - Fishermen Fish update to 1.4, optional file removed
+Core - New Creature Animation Dwarven Centurion - added Nemesis tag
+Core - New Creature Animation Falmer updated to 2.0
+Core - Riding Animation Overhaul updated to 1.4.
+Core - Carriages and Stables Dialogue Bundle - removed optional file (merged into CR)
+Core - Extended Bandit Dialogue updated to 1.0.2.
+Core - Hearthfire Multiple Adoptions Expanded updated to 1.08.
+Core - Hunters Not Bandits updated to 4.2.
+Core - NPCs React To Frenzy - added CAO tag
+Core - NPCs React To Invisibility - added CAO tag
+Core - NPCs React To Necromancy (And More) updated to 1.03, added CAO tag
+Core - Immersive Death Cycle - added CAO tag
+Core - Immersive Interactions Ingredients and Poison updated to 1.4.
+Core - NPCs Take Cover - added CAO tag
+Core - Simply Knock - added merge instructions
+Core - TK Dodge RE - added Nemesis innstruction
+Core - Apocalypse updated to 10.0.9.
+Core - Apocalypse Ordinator Compatibility Patch updated to 10.0.1.
+Core - Reliquary of Myth updated to 4.8.3.
+Core - Mainland Staff Enchanters - updated merge instructions
+Core - NPC Spell Variance updated to 2.3.0.
+Core - NPC Spell Variance KID Vanilla Spells updated to 1.0.1.
+Core - NPC Spell Variance KID Apocalypse updated to 1.0.
+Core - Growl updated to 3.2.1.
+Core - Dragonborn Shouts Perk Tree - added FOMOD instruction, merge instruction
+Core - Experience updated to 3.6.0.
+Core - Apocalypse Optimized Scripts updated to 1.1.1.
+Core - Gate To Sovngarde - added QAC tag (see Final)
+Core - kryptopyr's Patch Hub updated to 4.2.3, FOMOD updated.
+Core - CBBE 3BA Vanilla Outfits Redone updated to 4.1.8.
+Core - CBBE 3BA WACCF and ACE updated to 1.1.2.
+Core - Missile's IED Preset upated to 3.1.2.
+Core - Fixed Mesh Lighting - updated delete instructions.
+Core - Mesh patches - Lux and Lux Orbis - updated FOMOD
+Core - Majestic Landscapes - Enhanced Rocks and Mountains Patch updated to 2.0.2.
+Core - Praedy's Soul Cairnn updated to 3.2.
+Core - Slightly Better Evil Rock Cairns - updated delete instruction.
+Core - Solitude Objects SMIMed Solitude Well - added FOMOD
+Core - Touch of Detail Shack Doors - added merge instruction
+Core - Vanaheimr Mines and Caves updated to 4.0.
+Core - Windhelm Bridge Overhaul - added merge instructions
+Core - Fixed Meshes for Rugnarok updated to 1.5.
+Core - Rally's Dark Elf Furniture ENB Light updated to 1.1.
+Core - Frost VFX Edit updated to 1.23.
+Core - JContainers updated to 4.2.9.
+Core - Mfg Fix NG updated to 1.0.2.
+Core - PapyrusUtil updated to 4.6.
+Core - VioLens Settings Loader updated to 2.0.
+Core - Dunmeri Furniture in Gray Quarter updated to 2.2, merge instruction added.
+Core - Extravagant Blue Palace Base Object Swapper - merge instruction added
+Core - lilebonymace's Patches - merge instruction added
+Core - Lux Patch Hub updated to 6.9, delete instructionn added, merge instruction added.
+Core - Lux Orbis Patch Hub - merge instruction added.
+Core - Navigator Patch Collection - merge instruction added.
+Core - Northern Roads Patch Collection updated to 1.34.1, merge instruction added.
+Core - Occlusion for Quest Mods updated to 1.9.0.
+Core - Outlaws Refuges Patch Collection - merge instruction added.
+Core - Praedy's College of Winterhold updated to 3.2.
+Core - SFCO3 Patch Collection updated to 1.16.1, merge instruction added.
+
+Core - Final - Added QAC instruction for LessPipesForLucien
+
+               Aspens Ablaze - added ESMify
+			   BSMBoneMoldSet - added note about PvtI_BSBonemold
+			   Cidhna Mine Expanded - added ESMify
+			   Environs Ruined Tundra - added ESMify
+			   Environs Western Watchtower - added ESMify
+			   Kala Beast Race Eyes - added compact
+			   Ruins Clutter Improved - added ESMify
+			   Unmarked Locations AIO - added ESMify
+			   Unofficial Material Fix - added ESMify
+			   
+			   Removed MortalEnemies from Synthesis
+			   
+			   Removed Payload Interpreter, added Barstool Exit, Precision, USSEP Behavior to
+			   Nemesis.
+
+Adventures - Legacy of the Dragonborn updated to 6.10.0.
+Adventures - Legacy of the Dragonborn - Mystic Condenser - removed CAO tag
+Adventures - Legacy of the Dragonborn - Patches updated to 6.10.0.
+Adventures - Legacy of the Dragonborn - Patches - Creation Club updated to 6.0.10.
+Adventures - Legacy of the Dragonborn - Patches - Followers updated to 4.0.11.
+Adventures - Legacy of the Dragonborn - Perk Menus - removed CAO tag
+Adventures - Legacy of the Dragonborn - Player Home Displays - removed optional cathedral flowers file
+Adventures - Realistic RS Children Overhaul patches moved.
+Adventures - Legacy of the Dragonborn - CBBE Patch - removed HIMBO instructions
+Adventures - Wyrmstooth - CBBE 3BA Patch - removed HIMBO instructions
+
+Addons - Survival - Immersive Hunting Animations - added CAO tag
+Addons - Survival - Stress and Fear updated to 2.01.
+
+Addons - Followers - Serana Dialogue Add-On - added ESM tag
+Addons - Followers - Khajiit Will Follow updated to 4.7.3.
+Addons - Followers - Remiel updated to 1.7.5.
+Addons - Followers - Xelzaz - removed CAO tag (unnecessary)
+Addons - Followers - Lulu's Xelzaz updated to 2.0.
+Addons - Followers - Final steps - added SDA Campfire Patch and SDA instructions.
+
+Addons - Vanilla Location Overhauls - Snozz's Resource Pack updated to 1.10.
+Addons - Vanilla Location Overhauls - Fort Greymoor updated to 1.02, added merge instructions
+Addons - Vanilla Location Overhauls - Halted Stream updated to 1.01, added merge instructions
+Addons - Vanilla Location Overhauls - Redoran's Retreat updated to 2.0, added merge instructions
+Addons - Vanilla Location Overhauls - Swindler's Den updated to 1.03.
+Addons - Vanilla Location Overhauls - Valtheim - added merge instructions
+Addons - Vanilla Location Overhauls - White River Watch updated to 1.11.
+Addons - Vanilla Location Overhauls - Combo Patch Snozz and Ryn's Bleak Falls Tower - added merge instructions
+
+Arch - Modder's Resource Pack The Witcher - moved to Late Loaders
+Arch - High Poly NPC Overhaul JK's Skyrim - moved to NPC Overhauls
+Arch - Modpocalypse NPCs Expanded Towns and Cities - moved to NPC Overhauls
+Arch - Modpocalypse NPCs Settlements Expanded - moved to NPC Overhauls
+Arch - Cities of the North Dawnstar Patch Collection updated to 5.6.2, added merge instructions
+Arch - Cities of the North Falkreath Patch Collection updated to 1.27, added merge instructions
+Arch - The Great City of Winterhold SSE - added CAO instruction
+Arch - The Great City of Winterhold Patch Collection updated to 2.9.2, added merge instructions
+Arch - GG's Thieves Guild HQ Patch Collection updated to 1.8.2, added merge instructions
+Arch - JK's Riften Outskirts Patch Collection - added merge instructions
+Arch - JK's The Ragged Flagon - moved sections
+Arch - Markarth Outskirts - added merge instructions
+Arch - Riften Docks Overhaul High Poly Head - moved to NPC Overhauls
+Arch - RYFTEN - Consistency of windows in Riften - changed files to download, removed additional versions
+Arch - JK's Blue Palace updated to 2.0.2.
+Arch - JK's Blue Palace Terrace updated to 2.2, added merge instructions
+Arch - JK's The Winking Skeever - moved sections
+Arch - Blue Palace Frescoes Simplified updated to 1.4.1, added merge instruction
+Arch - JK's Solitude Outskirts updated to 1.2.2.
+Arch - JK's Solitude Outskirts Patch collection - added merge instructions
+Arch - Drengin's Solitude Patch Collection updated to 1.3, added merge instructions
+Arch - Rodryk's Dragon Bridge Retexture updated to 2.5.
+Arch - Rodryk's Dragon Bridge Patch Collection - added merge instructions
+Arch - Solitude Docks Updated High Poly NPCs moved to NPC Overhauls
+Arch - Fixed Meshes for Capital Whiterun Expansion - added merge instruction
+Arch - Capital Windhelm Expansion - removed ESM tag (overwritten by RBF), added merge instruction
+Arch - GG's Capital JK's Whiterun - updated delete instructions, added merge instruction
+Arch - GG's Temple of Kynareth - added merge instruction
+Arch - JK's Candlehearth Hall - moved section
+Arch - JK's New Gnisis Cornerclub - moved section
+Arch - JK's The Bannered Mare - moved section
+Arch - JK's The Drunken Huntsman - moved section
+Arch - JK's Windhelm Outskirts updated to 1.1.3.
+Arch - JK's Windhelm Outskirts Patch Collection updated to 1.5.3, added merge instructions
+Arch - SB - Fixed Windhelm Entrance - added merge instruction
+Arch - Whiterun Exteriors Patch Collection - added merge instructions
+Arch - JK's ClefJ's Fort Dawnguard - added merge instructions
+Arch - Anga's Mill Cities of the North Addon - added merge instructions
+Arch - ClefJ Morthal - added CAO instruction, merge instructions
+Arch - Cultured Orc Furniture moved to Core.
+Arch - Denizens of Morthal updated to 1.5.
+Arch - Environs Master Plugin moved to Core.
+Arch - Environs - Abandoned Abodes - Added CAO instruction
+Arch - Environs - Abandoned Abodes Patch Collection - added merge instructions
+Arch - Environs - Hroggar's House Patch Collection - added merge instructions
+Arch - Environs - Kolskeggr - Added CAO instruction, merge instructions
+Arch - Gonzeh - Stonehilsl ReRe-imagined - added merge instructions
+Arch - Half-Moon Mill Cities of the North Addon - added merge instructions
+Arch - The Great Town of Ivarstead SSE - added CAO instruction
+Arch - The Great Town of Ivarstead Patch Collection updated to 3.2, added merge instructions
+Arch - JK's Radiant Raiment updated to 1.0.4.
+Arch - JK's Castle Dour updated to 1.3.1.
+Arch - JK's College of Winterhold Combo Patches updated to 2.9, added merge instructions
+Arch - JK's Guild HQ Interiors Patch Collection - added merge instructions
+Arch - JK's Sleeping Giant Inn updated to 1.1.1.
+Arch - JK's Interiors Patch Collection updated to 5.26, added merge instructions
+Arch - Snazzy Interiors Patch Collection updated to 2.0.3, added merge instructions
+
+~~~
+
 # 1.0.0.0 RC11 - 2025-02-10
 
 ![Added]

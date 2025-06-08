@@ -36,9 +36,9 @@ Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 Inigo.esp |
+LessPipesForLucien.esp |
 middenexpanded.esp |
 OCW_LotD_FEPatch.esp |
-Sepolcri.esp |
 Skyking Signs - Interesting NPCs Patch.esp |
 Windhelm Lighthouse.esp |
 
@@ -51,14 +51,16 @@ Plugin | Instructions |
 3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-Aspens Ablaze.esp | Compact formIDs, add ESL flag
+Aspens Ablaze.esp | Compact formIDs, add ESL flag, apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
 Babette has Fangs.esp | Compact formIDs, add ESL flag
 BarbarianPaints.esp | Add ESL flag
+BlubboPines_V3.esp | Add ESM, ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
-BSMBonemoldSet.esp | Compact formIDs, add ESL flag
+BSMBonemoldSet.esp | Compact formIDs, add ESL flag (ensure PvtI_BSBonemold is loaded)
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
+Cidhna Mine Expanded.esp | Apply ESMifier script
 CollegeEntry.esp | Add ESL flag
 CommunityOverlays1_0T30.esp | Add ESL flag
 CommunityOverlays2_31T50.esp | Add ESL flag
@@ -71,7 +73,8 @@ DragonbornShoutPerksOrdinator.esp | Add ESL flag
 DungeonsRevisited.esp | Apply ESMifier script
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
-ESOimports.esp | Apply ESMifier script
+Environs - The Ruined Tundra Farmhouse.esp | Apply ESMifier script
+Environs - Western Watchtower.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | Compact formIDs, add ESL flag
 FarmhouseChimneys.esp | Apply ESMifier script
@@ -87,6 +90,7 @@ iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Imperial Castles of Skyrim.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
+KALA_BEAST RACE EYES.esp | Compact formIDs, add ESL flag
 KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
 Koralina's Eyebrows.esp | Compact formIDs, add ESL flag
 KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
@@ -113,6 +117,7 @@ RaceMenuPlugin.esp | Add ESL flag
 ReadingImprovesSpeech.esp | Add ESL flag
 RealRainSE.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
+Ruins Clutter Improved.esp | Add ESM flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
@@ -133,6 +138,8 @@ UIExtensions.esp | Add Skyrim.esm as a master
 UlvenwaldLite.esp | Apply ESMifier script
 UniqueBarbas.esp | Add ESL flag
 Unique Border Gates - Fixes.esp | Apply ESMifier script
+Unmarked Locations Pack - All In One.esp | Apply ESMifier script
+Unofficial Material Fix.esp | Apply ESMifier script
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
@@ -197,7 +204,6 @@ Khajiitearsshow (if you choose)
 NoDragonLods
 HighPolyHead-RaceMenuPatcher
 HighPolyHeadVampireFix
-MortalEnemies
 SynSetESL
 ~~~
 
@@ -284,15 +290,17 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select: 
-'centurionOAR (sdsd)',
-'Payload Interpreter', 
+'Barstool Exit Animation Fix',
+'centurion OAR',
+'Precision',
 'GP Offset Movement Animation', 
 'Ice skating fixed for real', 
 'Some Creature Behavior Bug Fixes', 
 'Slow sprint bug fix', 
 'True Directional Movement - Headtracking',
 'TK Dodge RE / Ultimate Combat',
-'Animation Teleport Bug Fix'.
+'Animation Teleport Bug Fix',
+'USSEP Behavior Patch'
 
 Click 'Update Engine'
 
@@ -323,7 +331,9 @@ For the dropdown box that says LOD4, enter the settings below for LOD4, LOD8, LO
 
 ![](./assets/img/lod16.PNG)
 
-![](./assets/img/lod32.PNG)
+![](./assets/img/lod32_FWMF.PNG)
+
+Note: LOD32 settings assume that Flat World Map Framework is being used.
 
 Select Generate
 

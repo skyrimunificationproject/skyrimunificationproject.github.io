@@ -257,6 +257,10 @@ addons:
       url: a10-addons---followers
     - page: Addons - Followers - Final Steps
       url: addons---followers---final-steps
+  - title: Addons - Vanilla Location Overhauls
+    subfolderitems:
+    - page: E01. Addons - Vanilla Location Overhauls
+      url: e01-addons---vanilla-location-overhauls     
 adventures:
   - title: B01. Addons - Adventures - Install Changes
     url: b01-addons---adventures---install-changes
@@ -272,6 +276,8 @@ adventures:
     url: b06-addons---adventures---late-loaders---misc
   - title: B07. Addons - Adventures - Late Loaders - Textures and Meshes
     url: b07-addons---adventures---late-loaders---textures-and-meshes
+  - title: D01. Addons - Armors and Accessories
+    url: d01-addons---armors-and-accessories
   - title: Z01. Conflict Resolution
     url: z01-conflict-resolution
   - title: Adventures - Final Steps
@@ -301,8 +307,10 @@ arch:
     url: c12-addons---project-arch---jk-interiors---guild-hqs
   - title: C13. Addons - Project Arch - JK Interiors - Towns and Misc
     url: c13-addons---project-arch---jk-interiors---towns-and-misc
-  - title: C20. Addons - Project Arch - Lore-Friendly Towns
-    url: c20-addons---project-arch---lore-friendly-towns
+  - title: C20. Addons - Project Arch - NPC Overhauls
+    url: c20-addons---project-arch---npc-overhauls
+  - title: C21. Addons - Project Arch - Late Loaders
+    url: c21-addons---project-arch---late-loaders
   - title: Z01. Autoselecting Patch Hubs
     url: z01-autoselecting-patch-hubs
   - title: Z02. Conflict Resolution

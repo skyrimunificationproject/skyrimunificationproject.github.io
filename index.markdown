@@ -100,6 +100,12 @@ Instructions on files to move or delete *within the mod* after installing into M
 
 ---
 
+![Nemesis]
+
+These mods install files that will be utilized during the Nemesis portion of Final Steps.
+
+---
+
 ![Adventures]
 
 The Adventures module is a set of optional add-ons to Core.  They contains Legacy of the Dragonborn, supporting quest and world content for it, and some other curated mods.  All of the mods in Adventures that are not purely Visual must be installed within each section chosen, as there is a single set of conflict resolution patches covering all of them and their interaction with Core mods.
@@ -115,6 +121,12 @@ Project Arch is an optional add-on to Core and Adventures (both required).  It c
 ![Addon]
 
 Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.
+
+![Merged]
+
+These denote patches that have been merged into the main conflict resolution files.  If you are using the guide as written, you don't need them,
+but if you are doing your own additions or subtractions and can't use the CRs then you might want some or all of them, so the FOMODs still
+are configured to install the relevant ones.
 
 
 # Prerequisites
@@ -139,8 +151,8 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.4-b952` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.4-b952
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.5-b143` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.5-b143
 
 ![PostInstall]
 ~~~
@@ -207,8 +219,8 @@ Download: | Main Files - LOOT v0.23.0 - Installer (64-Bit)
 
 ## Nifskope
 
-[![mod]](https://github.com/fo76utils/nifskope/releases) | Version: `2.0Dev9` | Author: `jonwd7` | ![Core] |
-Download: | Assets - NifSkope_2_0_2024-12-28-win64qt6_gcc.7z
+[![mod]](https://github.com/fo76utils/nifskope/releases) | Version: `2.0Dev11` | Author: `jonwd7` | ![Core] |
+Download: | Assets - NifSkope_2_0_2025-04-14-win64qt6_clang.7z
 
 ![PostInstall]
 ~~~
@@ -322,6 +334,16 @@ Download: | Main Files - NIF Preview
 ![PostInstall]
 ~~~
 Copy the files from the zip to the above Mod Organizer 2 folder you created's \plugins directory.
+~~~
+
+## FOMOD Plus
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.15.0` | Author: `aglowinthefield` | ![Core]
+Download: | Main Files - FOMOD Plus
+
+![PostInstall]
+~~~
+Copy the files from the zip to the above Mod Organizer 2 folder you created (root MO2 directory).
 ~~~
 
 ## Adding Executables in MO2
@@ -443,8 +465,8 @@ Select File->Save, confirm all, and exit.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen/) | Version: `Beta 127 | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 127
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen/) | Version: `Beta 130 | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 130
 
 ![PostInstall]
 ~~~
@@ -462,7 +484,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-184` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-190` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
@@ -493,6 +515,7 @@ Manually extract d3dcompiler_46e.dll and d3d11.dll into your
 [cao]: https://img.shields.io/badge/CAO-important?style=for-the-badge
 [ck]: https://img.shields.io/badge/CK-important?style=for-the-badge
 [bsa]: https://img.shields.io/badge/BSA-critical?style=for-the-badge
+[nemesis]: https://img.shields.io/badge/Nemesis-important?style=flat-square
 [visuals]: https://img.shields.io/badge/Visuals-informational?style=flat-square
 [visualsLg]: https://img.shields.io/badge/Visuals-informational?style=for-the-badge
 [fomod]: https://img.shields.io/badge/FOMOD%20Instructions-informational?style=for-the-badge
@@ -504,6 +527,7 @@ Manually extract d3dcompiler_46e.dll and d3d11.dll into your
 [optionalLg]: https://img.shields.io/badge/Optional-AAAA00?style=for-the-badge
 [ultrawide]: https://img.shields.io/badge/Ultrawide-AAAA00?style=flat-square
 [ultrawideLg]: https://img.shields.io/badge/Ultrawide-AAAA00?style=for-the-badge
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
