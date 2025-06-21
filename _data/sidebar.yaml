@@ -199,8 +199,6 @@ intro:
     url: guide-tags
   - title: Prerequisites
     url: prerequisites
-  - title: Best of Both Worlds Downgrader
-    url: best-of-both-worlds-downgrader
   - title: Skyrim Creation Kit
     url: skyrim-creation-kit
   - title: Skyrim Script Extender
@@ -257,6 +255,10 @@ addons:
       url: a10-addons---followers
     - page: Addons - Followers - Final Steps
       url: addons---followers---final-steps
+  - title: Addons - Armors and Accessories
+    subfolderitems:
+    - page: D01. Addons - Armors and Accessories
+      url: d01-addons---armors-and-accessories
   - title: Addons - Vanilla Location Overhauls
     subfolderitems:
     - page: E01. Addons - Vanilla Location Overhauls
