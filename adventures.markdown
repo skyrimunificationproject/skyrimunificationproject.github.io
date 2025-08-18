@@ -239,10 +239,9 @@ Patches:
 
 ## Wyrmstooth - Brimstone and Wyrmstone Armory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.4` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74671) | Version: `1.5` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Wyrmstooth - Brimstone and Wyrmstone Armory
 | Optional Files - Legacy of the Dragonborn - Wyrmstooth - Brimstone and Wyrmstone Armory
-| Optional Files - Wyrmstooth - CC's Enhanced Ore Veins Patch
 
 ![PostInstall]
 ~~~
@@ -258,6 +257,11 @@ Download: | Main Files - LOTD_TCC_Wyrmstone-Brimstone
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132683) | Version: `2.0` | Author: `megnoeu`
 Download: | Main Files - Wyrmstooth - Dragons SE
+
+## Wyrmstooth - QW's Unique Grasses
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/152984) | Version: `1.0` | Author: `QuagaarWarrior`
+Download: | Main Files - QW's Unique Grasses - Wyrmstooth (50)
 
 ## Wyrmstooth - Stonehollow Overhaul
 
@@ -398,66 +402,6 @@ Download: | Volkihar Knight SE 1.0.0
 
 
 
-
-
-## Modpocalypse NPCs - Resources
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54421) | Version: `1.03` | Author: `ModpocalypseGaming` |  ![CAO]
-Download: | Main Files - Modpocalypse NPCs - Resources
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-
-## Modpocalypse NPCs - Moon and Star
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58196) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v1) Moon and Star
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-
-## Modpocalypse NPCs - The Forgotten City
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56739) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v1) The Forgotten City
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Modpocalypse NPCs - The Gray Cowl of Nocturnal
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58194) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v1) The Gray Cowl of Nocturnal
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Simply Original and Unadulterated People from Wyrmstooth
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95781) | Version: `1.0` | Author: `Owlessa` | ![CAO]
-Download: | Main Files - S.O.U.P. from Wyrmstooth 1K
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## There Is No Umbra - High Poly Head Patch
-
-[![mod]](https://www.dropbox.com/scl/fi/q3td788feks9347qalh32/There-Is-No-Umbra-High-Poly-Head-Patch.7z?rlkey=zza43jkl1l1wuoueswt9myxil&dl=0) | Version: `1.0` | Author: `Mycenia`
-Download: | There Is No Umbra - High Poly Head Patch.7z
-
-
 ## Legacy of the Dragonborn Visual Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.4` | Author: `mocia` | ![CAO]
@@ -468,6 +412,10 @@ Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Skyrim Unification Project - HPH Facegen
+
+Distribution method TBD
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
@@ -537,7 +485,7 @@ Download: | Optional Files - Mystic Condenser 2.3 UCE
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.0` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.11.0` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -560,8 +508,7 @@ Additional Patches A-M: (select only)
    * JS Unique Utopia Se - Rings
    * Mystic Condenser
 Additional Patches N-Z: (select only)
-   * Obscure's College of Winterhold
-   * Quaint Raven Rock (Arch: may need to rerun this step after installing Arch)
+   * Obscure's College of Winterhold (only if you are not installing Project Arch)
    * Reliquary of Myth - Artifact Overhaul
    * RS Children
    * Thieves Guild Requirements
@@ -582,7 +529,7 @@ Delete meshes/dbm resources/museumsign.nif.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.10` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.11` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
@@ -605,7 +552,7 @@ Synergy Patches: (select only)
 
 ## Legacy of the Dragonborn - Patches - Followers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.11` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.12` | Author: `gutmaw`
 Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
@@ -713,6 +660,11 @@ Download: | Main Files - 1DaedricArmorSE
 Delete /meshes.
 ~~~
 
+## Elsopa - Big Backpack HD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36445) | Version: `1.1` | Author: `ElSopa`
+Download: | Main Files - ElSopa - HD Big Backpack
+
 ## Falmer Overhaul - My Patches
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86724) | Version: `1.3` | Author: `Xtudo` 
@@ -722,6 +674,11 @@ Download: | Main Files - Falmer Overhaul - My patches SE by Xtudo - LOTD patch
 ~~~
 Delete /textures/dbm resources/.
 ~~~
+
+## Konahrik's Accoutrements - Xavbio CBBE Bodyslide Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/148368) | Version: `1.0` | Author: `SwagsterMcEpic`
+Download: | Main Files - Xavbio Meshes Konarik's Accoutrements - CBBE Patch
 
 ## Legacy of the Dragonborn - Amulet of Kings Replacer
 
@@ -805,6 +762,10 @@ Delete meshes/dbm resources/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104676) | Version: `1` | Author: `wSkeever and Rick7`
 Download: | Main Files - Fate Cards New Style 2023
 
+## Legacy of the Dragonborn - Museum Gate Remade
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77195) | Version: `0.1.3` | Author: `wSkeever`
+Download: | Main Files - Museum Gate Remade
 
 ## Legacy of the Dragonborn - Plaques Retexture
 
@@ -891,6 +852,7 @@ Download: | Main Files - Wyrmstooth_2x
 ![PostInstall]
 ~~~
 Delete textures/armor/dragonpriesthelm/.
+Delete textures/armor/stormcloaks/.
 Delete textures/clutter/signage/.
 Delete textures/clutter/wtmarauderbanner*.
 Delete textures/cubemaps/.
@@ -1036,6 +998,7 @@ AdditionalHearthfireDolls.esp | Apply ESMifier script
 AetheriumSwordsnArmor.esp | Apply ESMifier script
 ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Apply ESMifier script
+DynamicTreasureMapJournal - DBM.esp | Add ESL flag
 FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script

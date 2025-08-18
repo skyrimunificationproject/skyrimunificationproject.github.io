@@ -55,19 +55,9 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 
 # A02. Addons - Immersion and Survival (Immersion)
 
-## Savage Offspring SKSE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49377) | Version: `2.1.0` | Author: `powerofthree` | ![Optional]
-Download: | Main Files - Savage Offspring SE
-
-## Slayable Offspring SKSE
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46826) | Version: `2.1.0` | Author: `powerofthree`| ![Optional]
-Download: | Main Files - Slayable Offspring SE
-
 ## Andrealphus' Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.4.2` | Author: `AndrealphusVIII` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.2` | Author: `AndrealphusVIII` | ![CAO]
 Download: | Main Files - AJO - Andrealphus Jobs Overhaul
 
 ![PostInstall]
@@ -274,7 +264,7 @@ Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.01` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.03` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -291,6 +281,11 @@ Download: | Main Files - Stress and Fear - CACO SUD Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/118993) | Version: `1.1` | Author: `FrankBlack`
 Download: | Main Files - More Realistic Antlers for Carry Your Carcasses
+
+![PostInstall]
+~~~
+Delete textures/.
+~~~
 
 # A03. Addons - Immersion and Survival (Late Loaders)
 
@@ -311,12 +306,12 @@ Download: | Main Files - Campfire - hotkey fix
 
 ## Campfire Animations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.4` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112322) | Version: `1.5.1` | Author: `GiraPomba`
 Download: | Main Files - Campfire Animations
 
 ## Campfire - Dynamic Activation Key
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.2` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.4` | Author: `GiraPomba`
 Download: | Main Files - Campfire - Dynamic Activation Key
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
@@ -432,12 +427,12 @@ SunHelmWyrmstoothPatch.esp | Compact formIDs, add ESL flag, Create SEQ File
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.1.1.3` | Author: `Martimius` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.2.0.0` | Author: `Martimius` | ![ESM]
 Download: | Main Files - Serana Dialogue Add-On SE
 
 ## Serana Dialogue Add-On - Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.4` | Author: `Martimius`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.6` | Author: `Martimius`
 Download: | Main Files - SDA Patch Hub
 
 ![FOMOD]
@@ -454,6 +449,8 @@ Awareness Patches - Follower Mods:
    * None
 Awareness Patches - Quest Mods:
    * House of Horrors Quest Expansion
+Awareness Patches - Misc Mods:
+   * None
 Compatibility Patches:
    * Nether's Follower Framework
    * NPCs Wear Amulets of Mara
@@ -461,6 +458,8 @@ Compatibility Patches:
    * Remiel
 Feature Preference Patches:
    * None
+Bodyslide Patches:
+   * CBBE
 ~~~
 
 ## Khajiit Will Follow
@@ -537,8 +536,6 @@ Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.0` | Author: `BluePwnsU` | ![QAC] ![ESM] 
 Download: | Main Files - Xelzaz Follower Core 1.13.0
 
-
-
 ## Xelzaz - Wyrmstooth Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO]
@@ -549,15 +546,10 @@ Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch
 Pack the mod with CAO.
 ~~~
 
-## Lulu's Xelzaz - Xelzaz Visual Replacer
+## Zoldyg's Xelzaz - Visual Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116476) | Version: `2.0` | Author: `DementedLulu`  | ![CAO]
-Download: | Main Files - Lulu's Xelzaz - Xelzaz Visual replacer
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156570) | Version: `1.2` | Author: `ZoldyG`
+Download: | Main Files - Zoldyg's Xelzaz - Visual Replacer
 
 # Addons - Followers - Final Steps
 
@@ -629,8 +621,13 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.10` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.10` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Bleak Falls Barrow Overhaul
 
@@ -737,7 +734,7 @@ Download: | Main Files - Ryn's Dragon Mounds Collection ALL IN ONE
 
 ## Ryn's Standing Stones
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64969) | Version: `1.5` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64969) | Version: `1.8` | Author: `Ryn`
 Download: | Main Files - Ryn's Standing Stones
 
 ## Ryn's White River Watch
@@ -769,22 +766,33 @@ Download: | Main Files - Snozz's and Ryn's White River Watch Patch
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `4.9.9` | Author: `FuzzBeed`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.6` | Author: `FuzzBeed` | ![CAO]
 Download: | Main Files - Children of the North Wind
 
 ![FOMOD]
 ~~~
-Modules:
-   * Animal Totems
-   * Assorted Clutter
-   * Dragon Cult Bronze
-   * Location Changes
-Location Change Patches:
-   * None
-Model and Texture Patches (Manual Selection):
-   * Mandragorasprouts' Draugr Overhaul
-   * Complex Material Textures
+Base Object Swapper:
+   * Dragon Cult Metal
+Nordic Totems:
+   * Nordic Totems - Dragon Cult Metal
 ~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+![Merged]
+~~~
+Any required patches have been merged into Vanilla Locations Overhaul CR. For modifying the list, you
+may need to download the Patch Collection and relevant patches.
+~~~
+
+## Children of the North Wind - Nordic Ruin Diversity - Complex Material Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.3.4` | Author: `FuzzBeed`
+Download: | Optional Files - Complex Material Texture Addon
+
 
 ## Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
 

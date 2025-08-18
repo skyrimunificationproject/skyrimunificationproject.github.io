@@ -9,9 +9,13 @@ category: "Intro"
 
 # Introduction
 
+Skyrim Unification Project is a modular modlist for *The Elder Scrolls V: Skyrim Special Edition* that allows the player to create their ideal experience. Whether with a framework to build upon, choosing between the different modules offered, or installing everything, the experience will be engaging, consistent, challenging, rewarding, and hassle-free.
+
+Consistency is an essential mission for Skyrim Unification Project, which sets it apart from other modlists on top of its large scope. Skyrim Unification Project includes thousands of mods that countless talented mod authors provide. These mods are patched and tweaked to ensure a seamless, consistent, and bug-free experience.
+
+Skyrim Unification Project is built around Skyrim Unification Project - Gameplay Overhaul, which was developed alongside the modlist to ensure every mod, whether it is new armor, weapons, clothing, items, quests, enemies, and much more, are patched to create a unified and ultimately cohesive experience.
 
 
-Placeholder text.
 
 Note that many compatibility patches have already been included in the Conflict Resolution patches installed at the end of the guide.  If you see a FOMOD option that you think should be installed and we don't specify it, it's probably handled.
 
@@ -287,7 +291,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.33.0-pre-release-2 | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.35.0 | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -437,7 +441,10 @@ Configure the settings as specified below.  If an option is not mentioned, it ca
   + ** Trees **
     + Move the four sliders all the way to the right.
   + ** Water**
-    + Reflect Sky: Unchecked
+    + Reflect Trees: Unchecked
+	+ Reflect Land: Unchecked
+	+ Reflect Objects: Unchecked
+    + Reflect Sky: Checked
 	
 + ** Shadows Tab **
   + Ambient Occlusion: Unchecked
@@ -484,7 +491,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-190` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-194` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

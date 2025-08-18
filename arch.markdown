@@ -12,13 +12,6 @@ Install these categories between "Addons - Adventures" and "Conflict Resolution"
 
 # C01. Addons - Project Arch - Install Changes
 
-## Ashbound - Solstheim Revisited [Addons - Project Arch]
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `1.0` | Author: `Ruse` | 
-Download: | Optional Files - Ashbound - Solstheim Revisited - Better Tel Mithryn Patch
-| Optional Files - Ashbound - Solstheim Revisited - Quaint Raven Rock Patch
-
-
 
 ## Thieves' Night On the Town [Addons - Project Arch]
 
@@ -72,7 +65,6 @@ Creation Club:
    * Fishing
 Patches:
    * Finding Helgi
-   * RS Children Overhaul
 ~~~
 
 ![Merged]
@@ -114,7 +106,50 @@ meshes/ccor/plants/harvestables/citsgreenappletree.nif
 meshes/ccor/plants/harvestables/citsredappletree.nif
 ~~~
 
+## JK's Skyrim - Better Cranes
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156110) | Version: `0.2` | Author: `wSkeever`
+Download: | Main Files - JK's Skyrim Better Cranes
+
+![FOMOD]
+~~~
+BOS or no BOS:
+   * Don't use Base Object Swapper
+~~~
+
+## More Dynamic Less Clutter in JKs Riften
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125086) | Version: `1.1` | Author: `jepster`
+Download: | Main Files - More dynamic less clutter in JKs Riften
+
+![FOMOD]
+~~~
+Versions:
+   * 30percent less clutter
+~~~
+
+
+## More Dynamic Less Clutter in JKs Solitude
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121802) | Version: `1.2` | Author: `jepster`
+Download: | Main Files - More dynamic less clutter in JKs Solitude
+
+![FOMOD]
+~~~
+Versions:
+   * 30percent less clutter
+~~~
+
+## More Dynamic Less Clutter in JKs Whiterun
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122580) | Version: `1.0` | Author: `jepster`
+Download: | Main Files - More dynamic less clutter in JKs Whiterun
+
+![FOMOD]
+~~~
+Versions:
+   * 30percent less clutter
+~~~
 
 ## Ryn's Farms
 
@@ -133,7 +168,7 @@ Download: | Optional Files - Settlements Expanded SE - RS Children Overhaul Patc
 
 ## Snazzy Location Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.02` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Location Resources
 
 ![FOMOD]
@@ -146,10 +181,14 @@ Miscellaneous:
 Rudy HQ Miscellaneous:
    * Rustic Silver version
 Silverware:
-   * GG's Complex Silverware
    * Rudy's ENB Complex Material for Silverware
 Split meshes:
    * Split meshes
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 # C03. Addons - Project Arch - Cities of the North
@@ -161,7 +200,7 @@ Download: | Main Files - Cities of the North - Dawnstar
 
 ## Cities of the North - Dawnstar Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.6.2` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.7` | Author: `Janquel` | 
 Download: | Main Files - COTN Dawnstar Patch Collection
 
 ![FOMOD]
@@ -347,7 +386,7 @@ CotN Dawnstar - Patches:
 
 ## Snazzy Dawnstar AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147758) | Version: `2.1` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147758) | Version: `2.2` | Author: `gutmaw`
 Download: | Main Files - Snazzy Dawnstar AIO
 
 ![FOMOD]
@@ -380,7 +419,7 @@ Installation type:
 
 ## Winterhold Docks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.1` | Author: `CarpeNihil` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.1` | Author: `CarpeNihil`
 Download: | Main Files - Winterhold Docks
 
 # C04. Addons - Project Arch - Markarth and Riften
@@ -394,16 +433,11 @@ Download: | Main Files - ALT - Markarth's Forge
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53663) | Version: `3.0` | Author: `agentw` 
 Download: | Main Files - Balthazars Books - A Markarth Bookstore Remastered
-| Optional Files - Balthazars Books - High Poly Head
 
-![PostInstall]
-~~~
-Delete MarkarthBookstore - HPH.esp.
-~~~
 
 ## JK's Thieves Guild HQ
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133787) | Version: `1.01` | Author: `jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133787) | Version: `1.0.2` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Thieves Guild
 
 ## GG's Thieves Guild Headquarters
@@ -413,7 +447,7 @@ Download: | Main Files - GG's Thieves Guild Headquarters
 
 ## GG's Thieves Guild HQ Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63967) | Version: `1.8.2` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63967) | Version: `1.9` | Author: `Czasior`
 Download: | Main Files - GG's Thieves Guild HQ Patch Collection
 
 ![FOMOD]
@@ -559,13 +593,18 @@ Download: | Main Files - RYFTEN DOWN - 1B Performence
 
 ## Snazzy Riften AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.11` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Riften AIO
 
 ![FOMOD]
 ~~~
 Installation type:
    * All-in-One
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 # C05. Addons - Project Arch - Solitude and Dragon Bridge
@@ -655,7 +694,7 @@ The JK's Blue Palace Terrace patch is merged into Project Arch - Solitude.
 
 ## JK's Solitude Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | Version: `1.2.2` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103209) | Version: `1.2.5` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's Solitude Outskirts
 
 ## JK's Solitude Outskirts Patch Collection
@@ -786,7 +825,7 @@ Download: | Main Files - Solitude Docks Updated
 
 ## Snazzy Solitude AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.0.1` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Solitude AIO
 
 ![FOMOD]
@@ -795,6 +834,10 @@ Installation type:
    * All-in-One
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 # C06. Addons - Project Arch - Capital Whiterun and Windhelm
 
@@ -802,12 +845,6 @@ Installation type:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37982) | Version: `1.3` | Author: `Surjamte`
 Download: | Main Files - A. Whiterun Expansion 1.5 Normal Version
-| Optional Files - RS Children Overhaul PATCH
-
-![PostInstall]
-~~~
-Delete RSC-SurWR-Patch.esp.
-~~~
 
 
 ## Capital Whiterun Expansion - More Accurate Collision
@@ -836,6 +873,11 @@ Download: | Main Files - Fixed Meshes for Capital Whiterun Expansion
 ~~~
 The esp is merged into Project Arch - Whiterun.  The meshes are still used.
 ~~~
+
+## Capital Whiterun Expansion - Bucket Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65422) | Version: `1.0` | Author: `PatricianVidya`
+Download: | Main Files - Paint Bucket Fix
 
 ## Capital Windhelm Expansion
 
@@ -868,7 +910,7 @@ Patches:
 
 ## GG's Capital JK's Whiterun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.1` | Author: `GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.1` | Author: `GGUNIT` | ![CAO]
 Download: | Main Files - GG's Capital JK's Whiterun
 | Update Files - GG's Capital JK's Whiterun Update
 | Optional Files - Addon - Kynareth Statue option
@@ -876,9 +918,7 @@ Download: | Main Files - GG's Capital JK's Whiterun
 
 ![PostInstall]
 ~~~
-Delete meshes/statues.
-Delete meshes/clutter.
-Delete meshes/architecture/whiterun/wrterrain/wrskyforge01.nif.
+Pack the mod with CAO.
 ~~~
 
 ![Merged]
@@ -943,7 +983,7 @@ Download: | Main Files - Whiterun Plains Sewers - Moved Entrance
 
 ## JK's Whiterun Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78351) | Version: `1.6.1` | Author: `Jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78351) | Version: `1.6.2` | Author: `Jkrojmal` | ![ESM]
 Download: | Main Files - JK's Whiterun Outskirts
 
 
@@ -1001,7 +1041,7 @@ Download: | Main Files - Ryn's Whiterun City Limits
 
 ## Whiterun Exteriors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.4` | Author: `Janquel` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.5` | Author: `Janquel` | ![ESM]
 Download: | Main Files - Whiterun Exteriors Patch Collection
 
 ![FOMOD]
@@ -1043,7 +1083,7 @@ Installation type:
 
 ## Snazzy Windhelm AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147620) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147620) | Version: `2.0` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Windhelm AIO
 
 ![FOMOD]
@@ -1052,10 +1092,14 @@ Installation type:
    * All-in-One
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## More Capital Whiterun Expansion Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.5.1` | Author: `Jonado`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.6.1` | Author: `Jonado`
 Download: | Main Files - Capital Whiterun Expansion Patches
 
 ![FOMOD]
@@ -1066,11 +1110,14 @@ Patches:
    * None
 ~~~
 
+
+
 ## Sowables of Skyrim - Grow Tomatoes SSE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86921) | Version: `1.0` | Author: `ICFur`
 Download: | Main Files - 1k SOS Tomatoes Textures
 | Main Files - SOS Tomatoes - Meshes
+
 
 ## Capital Whiterun Expansion - Realistic RS Children Patch
 
@@ -1090,7 +1137,31 @@ Download: | Main Files - CapitalWindhelmExpansion-RRSC
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/643) | Version: `1.0` | Author: `YsCordelan` | ![ESM]
 Download: | Main Files - Better Tel Mithryn
+| Update Files - Better Tel Mithryn - Spongeman131 Update
 
+## JK's Tel Mithryn
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/151512) | Version: `1.0.2` | Author: `jkrojmal` 
+Download: | Main Files - JK's Tel Mithryn
+
+## JK's Tel Mithryn Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154109) | Version: `1.1` | Author: `czasior` 
+Download: | Main Files - JK's Tel Mithryn Patch Collection
+
+![FOMOD]
+~~~
+Allow autoselected
+~~~
+
+![Merged]
+~~~
+The following patches are merged into Project Arch - Dawnguard and Dragonborn:
+JKs Tel Mithryn - CACO patch.esp
+JKs Tel Mithryn - Konahrik Accoutrements patch.esp
+JKs Tel Mithryn - TSR patch.esp
+JKs Tel Mithryn - USSEP patch.esp
+~~~
 
 ## ClefJ's Fort Dawnguard
 
@@ -1099,7 +1170,7 @@ Download: | Main Files - ClefJ's Fort Dawnguard
 
 ## JK's Fort Dawnguard
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110645) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110645) | Version: `1.0.3` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Fort Dawnguard
 
 ## JK's - ClefJ's Fort Dawnguard
@@ -1140,7 +1211,7 @@ Download: | Main Files - Quaint Raven Rock
 
 ## JK's Raven Rock
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141070) | Version: `1.0.1` | Author: `jkrojmal`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141070) | Version: `1.0.3` | Author: `jkrojmal`
 Download: | Main Files - JK's Raven Rock
 
 ## JK's Raven Rock Patch Collection
@@ -1174,7 +1245,7 @@ JKs Raven Rock - USSEP patch.esp
 
 ## Snazzy Raven Rock AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147623) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147623) | Version: `2.0` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Raven Rock AIO
 
 ![FOMOD]
@@ -1183,6 +1254,10 @@ Installation type:
    * All-in-One
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 # C08. Addons - Project Arch - Towns and Villages
 
@@ -1426,6 +1501,30 @@ Half-Moon Mill COTNed - Radiance Locations patch.esp
 Half-Moon Mill COTNed - SUT Patch.esp
 ~~~
 
+## Nightgate Inn Revived
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121244) | Version: `1.6` | Author: `miliyx` | ![ESM]
+Download: | Main Files - Nightgate Inn Revived - Main File
+
+![Merged]
+~~~
+All required patches have been merged into Project Arch - Windhelm or Project Arch - Followers Patch.
+If you have installed additional mods you may require some additional patches
+from Main Files - Nightgate Inn Revived - Patches and Addons.
+
+Merged patches include:
+Lux - Nightgate Inn Revived patch.esp
+Nightgate Inn Revived - 3DNPC.esp
+Nightgate Inn Revived - Alternate Start.esp
+Nightgate Inn Revived - Cheesemod.esp
+Nightgate Inn Revived - Embers XD.esp
+Nightgate Inn Revived - Immersive Citizens.esp
+Nightgate Inn Revived - Legacy of the Dragonborn.esp
+Nightgate Inn Revived - Lux Orbis.esp
+Nightgate Inn Revived - Skyrims Unique Treasures.esp
+Nightgate Inn Revived - Xelzaz.esp.
+~~~
+
 
 ## Old Hroldan Ruins SE
 
@@ -1444,7 +1543,7 @@ Download: | Main Files - Sky Haven Temple - Gardens
 
 ## Snazzy Morthal AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147759) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147759) | Version: `2.1` | Author: `gutmaw`
 Download: | Main Files - Snazzy Morthal AIO
 
 ![FOMOD]
@@ -1471,7 +1570,7 @@ Towns and Settlements:
 
 ## The Great Town of Ivarstead SSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | Version: `1.3.3` | Author: `Archinatic` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34505) | Version: `1.3.4` | Author: `Archinatic` | ![CAO]
 Download: | Main Files - The Great Town of Ivarstead
 
 ![PostInstall]
@@ -1513,26 +1612,7 @@ Great Town of Ivarstead - TNotT patch.esp
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35406) | Version: `2.0` | Author: `AgentW`
 Download: | Main Files - TGT Ivarstead - SMIM
 
-## The Great Town Series - NPC Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135907) | Version: `1.3` | Author: `araviss` | 
-Download: | Main Files - The Great Town series NPC replacer
-
-![FOMOD]
-~~~
-Select your replacer:
-   * Ivarstead 1.3
-Ivarstead 1.3:
-   * Ivarstead 1.3 edited esp
-Rob's bugfixes:
-   * None
-~~~
-
-![PostInstall]
-~~~
-Note: We don't pack this as EasyNPC cannot patch for TGTI currently, so we are going to leave
-it loose and do npc resolution the old-fashioned way.
-~~~
 
 
 # C10. Addons - Project Arch - JK Interiors - Cities
@@ -1630,7 +1710,7 @@ Download: | Main Files - JK's The Ragged Flagon
 
 ## JK's The Winking Skeever
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43991) | Version: `1.5.0` | Author: `jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43991) | Version: `1.6.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Winking Skeever
 
 ## JK's Warmaiden's
@@ -1656,8 +1736,13 @@ Download: | Main Files - JK's Dragonsreach
 
 ## JK's Mistveil Keep
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52462) | Version: `1.0.2` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52462) | Version: `1.0.2` | Author: `jkrojmal` | ![CAO]
 Download: | Main Files - JK's Mistveil Keep
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## JK's Palace of the Kings
 
@@ -1692,10 +1777,6 @@ Download: | Main Files - JK's Temple of Talos
 
 # C12. Addons - Project Arch - JK Interiors - Guild HQs
 
-## JK's Castle Dour
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74309) | Version: `1.3.1` | Author: `jkrojmal` | 
-Download: | Main Files - JK's Castle Dour
 
 ## JK's Castle Volkihar
 
@@ -1737,7 +1818,7 @@ Download: | Main Files - JK's The Bards College
 
 ## JK's College of Winterhold (Immersive and Obscure) Combo Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.9` | Author: `Czasior and Janquel` | ![BSA]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.10` | Author: `Czasior and Janquel` | ![BSA]
 Download: | Main Files - JK's College of Winterhold (Immersive and Obscure)
 
 ![FOMOD]
@@ -1790,12 +1871,11 @@ JKs CoW - OCW - SUT Patch.esp
 JKs CoW - OCW - There Is No Umbra patch.esp
 JKs CoW - OCW - ToK Patch.esp
 JKs CoW - OCW - WACCF Patch.esp
-TGC Winterhold - JKs CoW - OCW Patch.esp (duplicate of TGC patch hub)
 ~~~
 
 ## JK's Guild HQ Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.27` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.28` | Author: `Janquel`
 Download: | Main Files - JKs Guild HQ Interiors Patch Collection
 
 ![FOMOD]
@@ -1819,12 +1899,12 @@ Download: | Main Files - JK's Riverwood Trader
 
 ## JK's Septimus Signus's Outpost
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66915) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66915) | Version: `1.0.2` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Septimus Signus's Outpost
 
 ## JK's Sinderion's Field Laboratory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.2` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.3` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Sinderion's Field Laboratory
 
 ## JK's Sleeping Giant Inn
@@ -1836,55 +1916,25 @@ Download: | Main Files - JK's Sleeping Giant Inn
 
 # C20. Addons - Project Arch - NPC Overhauls
 
-## High Poly NPC Overhaul - JK's Skyrim
+## The Great Town Series - NPC Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39181) | Version: `1.0` | Author: `Zhalroth` | ![CAO]
-Download: | Main Files - High Poly NPC Overhaul - JK's Skyrim
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135907) | Version: `1.3` | Author: `araviss` | 
+Download: | Main Files - The Great Town series NPC replacer
 
-## Modpocalypse NPCs - Expanded Towns and Cities
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59743) | Version: `1.01` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v1) ETaC - Complete
-
-![PostInstall]
+![FOMOD]
 ~~~
-Pack the mod with CAO.
-~~~
-
-## Modpocalypse NPCs - Settlements Expanded
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57070) | Version: `1.0` | Author: `ModpocalypseGaming` | ![CAO]
-Download: | Main Files - Modpocalypse NPCs (v1) Settlements Expanded
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
+Select your replacer:
+   * Ivarstead 1.3
+Ivarstead 1.3:
+   * Ivarstead 1.3 edited esp
+Rob's bugfixes:
+   * None
 ~~~
 
-## Riften Docks Overhaul - High Poly Head
+## Skyrim Unification Project - HPH Facegen
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.2` | Author: `agentw` |  ![CAO]
-Download: | Optional Files - Riften Docks Overhaul - High Poly Head
+Distribution method tbd
 
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Solitude Docks Updated - High Poly NPCs
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120023) | Version: `1.0` | Author: `Socalista`
-Download: | Main Files - Solitude Docks Updated - High Poly NPCs
-
-## Capital Windhelm Expansion - High Poly NPC Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42990) | Version: `1.0` | Author: `Surjamte`
-Download: | Optional Files - HPNPC patch
-
-## Capital Whiterun Expansion - High Poly NPC Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39138) | Version: `1.0` | Author: `Zhalroth` 
-Download: | Main Files - High Poly NPC Overhaul - Capital Whiterun Expansion
 
 # C21. Addons - Project Arch - Late Loaders
 
@@ -1906,7 +1956,7 @@ additional mods, you may need additional patches from this installer.
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.0` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -1921,9 +1971,14 @@ Misc Locations:
    * The Wayward Rest (Legacy of the Dragonborn)
 ~~~
 
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.0.3` | Author: `czasior gutmaw GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.2` | Author: `czasior gutmaw GGUNIT`
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
@@ -2060,6 +2115,7 @@ JKs Skyrim - Rob's Bug Fixes.esp | Apply ESMifier script
 JKs-ClefJs Fort Dawnguard.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 Markarth - City of Stone.esp | Apply ESMifier script
+Nightgate Inn Revived.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
 Resources - The Great Cities.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
@@ -2082,7 +2138,7 @@ TGCotN Winterhold.esp | Apply ESMifier script
 The Great City of Winterhold v4.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
-Winterholddocks.esp | Apply ESMifier script
+Winterholddocks.esp | Apply ESMifier script (install the replacer from Core-Psychopatchist Purgatory first)
 
 
 

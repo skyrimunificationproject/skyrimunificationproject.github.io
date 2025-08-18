@@ -35,9 +35,11 @@ Better Courier.esp |
 Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
+HearthfireMultiKid.esp |
 Inigo.esp |
 LessPipesForLucien.esp |
 middenexpanded.esp |
+MorrowindUsesDrams.esp |
 OCW_LotD_FEPatch.esp |
 Skyking Signs - Interesting NPCs Patch.esp |
 Windhelm Lighthouse.esp |
@@ -83,13 +85,13 @@ FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
 gildergreen regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
-High Poly Head.esm | Add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Imperial Castles of Skyrim.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
+Ivy Stendarrs Beacon Overhaul.esp | Apply ESMifier script
 KALA_BEAST RACE EYES.esp | Compact formIDs, add ESL flag
 KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
 Koralina's Eyebrows.esp | Compact formIDs, add ESL flag
@@ -180,9 +182,8 @@ Once all plugins have loaded and the Profile window appears, click the open fold
 Click Build at the top of the window. Some warnings (npc conflict, suspicious masters) are expected due to the way the mods are organized.
 Click the large Build button at right.
 
-Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than Modpocalypse - Resources, RS Children/Realistic RS Children, RS Children/RRSC patches, and Project ja-Kha'jay and associated direct patches.
+Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than RS Children/Realistic RS Children, RS Children/RRSC patches, and Project ja-Kha'jay and associated direct patches.
 
-If using Project Arch, also disable RTDocks - High Poly Head.esp.
 
 Edit the NPC Appearances Merged.esp file in xEdit and set the header version to 1.71.
 
@@ -202,9 +203,6 @@ Do the same for:
 ~~~
 Khajiitearsshow (if you choose)
 NoDragonLods
-HighPolyHead-RaceMenuPatcher
-HighPolyHeadVampireFix
-SynSetESL
 ~~~
 
 Select the icon on the bottom left to run the patchers
@@ -234,14 +232,16 @@ Check the following groups:
  3BA HDT GEMLING
  3BBB
  AVEOutfits-CBBE
+ CBBE 3BA ACE (Physics)
  CBBE 3BA Creation Club (Im Physics)
  CBBE 3BA HDT Amulets
  CBBE 3BA LOTD (if using Adventures)
  CBBE 3BA Vanilla (ImPhysics)
- CBBE 3BA WACCF+ACE (ImPhysics)
+ CBBE 3BA WACCF (ImPhysics)
  CBBE 3BA Wyrmstooth
  Hands Redone
  Hands Redone - Clothes
+ KS Hairdos SMP - Collisions (CBBE)
  [3BA] Volkihar Knight Armor
  Unassigned
  ~~~
@@ -259,7 +259,7 @@ Control+Click 'Batch Build...'
 If you do not hold Control, you will overwrite all of your installed mods with the generated outfits.
 
 In the next window, right click and Select All. Disable all "HIMBO" sets.
-You can also disable any CC sets you do not own. (default: Golden Saints and Dark Seducers)
+You can also disable any CC sets you do not own. (default: Golden Saints, Dark Seducers, Fishing Clothes)
 
 Click Build.  In the folder selection popup, select the MO2 overwrite folder.
 
@@ -291,7 +291,7 @@ Run Nemesis
 
 Select: 
 'Barstool Exit Animation Fix',
-'centurion OAR',
+'Centurion OAR',
 'Precision',
 'GP Offset Movement Animation', 
 'Ice skating fixed for real', 
@@ -301,6 +301,7 @@ Select:
 'TK Dodge RE / Ultimate Combat',
 'Animation Teleport Bug Fix',
 'USSEP Behavior Patch'
+'Weapons Switch Animations Compleate' (sic)
 
 Click 'Update Engine'
 
