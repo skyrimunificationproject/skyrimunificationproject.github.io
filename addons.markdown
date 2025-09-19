@@ -216,7 +216,7 @@ Misc:
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.8` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.9` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
@@ -249,7 +249,7 @@ Pack the mod with CAO.
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.14` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.15` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -264,7 +264,7 @@ Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.03` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.04` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -311,8 +311,14 @@ Download: | Main Files - Campfire Animations
 
 ## Campfire - Dynamic Activation Key
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.4` | Author: `GiraPomba`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124401) | Version: `1.5` | Author: `GiraPomba`
 Download: | Main Files - Campfire - Dynamic Activation Key
+
+![FOMOD]
+~~~
+Heart Craft:
+   * None
+~~~
 
 ## Dirt and Blood - Dynamic Visual Effects - HD Retexture
 
@@ -427,8 +433,9 @@ SunHelmWyrmstoothPatch.esp | Compact formIDs, add ESL flag, Create SEQ File
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.2.0.0` | Author: `Martimius` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.2.2` | Author: `Martimius` | ![ESM]
 Download: | Main Files - Serana Dialogue Add-On SE
+| Update Files - SDA 4.2.2 Hotfix
 
 ## Serana Dialogue Add-On - Patch Hub
 
@@ -533,7 +540,7 @@ Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.0` | Author: `BluePwnsU` | ![QAC] ![ESM] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.1` | Author: `BluePwnsU` | ![QAC] ![ESM] 
 Download: | Main Files - Xelzaz Follower Core 1.13.0
 
 ## Xelzaz - Wyrmstooth Patch
@@ -548,8 +555,9 @@ Pack the mod with CAO.
 
 ## Zoldyg's Xelzaz - Visual Replacer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156570) | Version: `1.2` | Author: `ZoldyG`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156570) | Version: `1.4` | Author: `ZoldyG`
 Download: | Main Files - Zoldyg's Xelzaz - Visual Replacer
+| Main Files - Bectile's edits
 
 # Addons - Followers - Final Steps
 
@@ -576,7 +584,7 @@ SeranaDialogueAddon.esp | Apply ESMifier script
 
 
 
-# D01. Addons - Armors and Accessories
+# A20. Addons - Armors and Accessories
 
 Note: Many patches for the below mods are included in the list's conflict resolution files.  If you are modifying the list to do your own conflict resolution, you may need patches provided by these mods along with other patch sources.
 
@@ -615,7 +623,7 @@ Download: | Main Files - wilderness_witch
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40845) | Version: `2.0` | Author: `RaZzy3r`
 Download: | Main Files - Wilderness Witch CBBE 3BA Bodyslide
 
-# E01. Addons - Vanilla Location Overhauls
+# A30. Addons - Vanilla Location Overhauls
 
 Note: Many patches for the below mods are included in the list's conflict resolution files.  If you are modifying the list to do your own conflict resolution, you may need patches provided by these mods along with other patch sources.
 
@@ -646,35 +654,35 @@ Download: | Main Files - Embershard Overhaul - ESL Version
 
 ## Fort Greymoor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.02` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.02` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Fort Greymoor
 | Optional Files - Lux - Fort Greymoor Patch
 | Optional Files - Lux Orbis - Fort Greymoor Patch
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Overhauls.
 ~~~
 
 ## Halted Stream
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.01` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.01` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Halted Stream Camp
 | Optional Files - Lux - Halted Stream Patch
 | Optional Files - Lux Orbis - Halted Stream Patch
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Overhauls.
 ~~~
 
 ## Redoran's Retreat
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80226) | Version: `2.0` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80226) | Version: `2.0` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Redoran's Retreat
 | Optional Files - Lux - Redorans Retreat Patch
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 ~~~
@@ -691,11 +699,11 @@ Download: | Main Files - Swindlers Den (ESL)
 
 ## Valtheim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.0` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.0` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Valtheim 2.0 (ESL)
 | Optional Files - Lux - Valtheim Patch (ESL)
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 ~~~
@@ -750,23 +758,23 @@ Download: | Main Files - Snozz and Ryn's Bleak Falls Overhaul Patch
 
 ## Combo Patch - Snozz and Ryn's - Bleak Falls Tower
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121785) | Version: `1.0` | Author: `ChickenMike`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121785) | Version: `1.0` | Author: `ChickenMike` | ![Merged]
 Download: | Main Files - Snozz Ryn Bleak Falls Tower mashup patch
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Overhauls.
 ~~~
 
 ## Combo Patch - Snozz and Ryn's - White River Watch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135032) | Version: `1.0` | Author: `MissileMann`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135032) | Version: `1.0.1` | Author: `MissileMann`
 Download: | Main Files - Snozz's and Ryn's White River Watch Patch
 | Optional Files - Lux Orbis Patch
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.6` | Author: `FuzzBeed` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.8.1` | Author: `FuzzBeed` | ![CAO] ![Merged]
 Download: | Main Files - Children of the North Wind
 
 ![FOMOD]
@@ -782,7 +790,7 @@ Nordic Totems:
 Pack the mod with CAO.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 Any required patches have been merged into Vanilla Locations Overhaul CR. For modifying the list, you
 may need to download the Patch Collection and relevant patches.
@@ -796,20 +804,20 @@ Download: | Optional Files - Complex Material Texture Addon
 
 ## Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129681) | Version: `2.1.1` | Author: `FuzzBeed`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129681) | Version: `2.1.1` | Author: `FuzzBeed` | ![Merged]
 Download: | Main Files - Deadly Dragon Lair Locations
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux and Lux Orbis patches from this page are merged into SUP CR - Vanilla Locations Overhauls.
 ~~~
 
 ## Gorgeous Giant Camps Compilation - FuzzBeed's Giant Camps AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125327) | Version: `2.2` | Author: `FuzzBeed`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125327) | Version: `2.2` | Author: `FuzzBeed` | ![Merged]
 Download: | Main Files - Gorgeous Giant Camps Compilation
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux Orbis - Embers XD - Three Way Patch on this page is merged into SUP CR - Vanilla Location Overhauls.
 ~~~
@@ -835,7 +843,8 @@ Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
-[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[mergedlg]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=flat-square
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square

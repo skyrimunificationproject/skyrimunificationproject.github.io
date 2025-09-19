@@ -485,7 +485,7 @@ Download: | Optional Files - Mystic Condenser 2.3 UCE
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.11.0` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.12.0` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -724,7 +724,7 @@ Download: | Main Files - DBM Bonemold Weapon Pack
 
 ## Legacy of the Dragonborn - CBBE 3BA Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.3` | Author: `JuzyJ`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/106317) | Version: `1.3` | Author: `JuzyJ` | ![Merged]
 Download: | Main Files - LOTD CBBE 3BA and (or) HIMBO Patch
 
 ![FOMOD]
@@ -735,7 +735,7 @@ Install Tools:
    * CBBE 3BA
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The esp from this mod is merged into SUP Adventures Resources.
 ~~~
@@ -873,10 +873,10 @@ Texture Resolution:
 
 ## Wyrmstooth - Unique Weapons Reforged
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92848) | Version: `1.0` | Author: `Vilidran`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92848) | Version: `1.0` | Author: `Vilidran` | ![Merged]
 Download: | Main Files - Wyrmstooth - Unique Weapons Reforged
 
-![Merged]
+![MergedLg]
 ~~~
 The LOTD patch on this page is merged into SUP Conflict Resolution - Adventures.
 ~~~
@@ -1039,6 +1039,7 @@ Follow the remaining instructions on the Finishing Steps page from LOOT onwards.
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
-[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[mergedlg]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
 [qac]: https://img.shields.io/badge/QAC-critical?style=flat-square

@@ -31,7 +31,6 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 Plugin |
 - | -
 AHZBetterDGEntranceSE.esp |
-Better Courier.esp |
 Black Briar Banners.esp |
 CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
@@ -86,8 +85,8 @@ FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
 gildergreen regrown.esp | Compact formIDs, add ESL flag
 HappyLittleTrees.esp | Compact formIDs, add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
+IcyFixes.esp | Add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
-iHud.esp | Compact formIDs, add ESL flag
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Imperial Castles of Skyrim.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
@@ -222,6 +221,7 @@ Create a new mod from the Overwrite and name it `Synthesis - Output`. \\
 
 Run Bodyslide from MO2.  You may have to select the Skyrim Special Edition directory manually (Stock Game/Data).
 
+Click Settings at bottom right, toggle Advanced, and make sure "Override Warning" is checked.
 
 Towards the top right corner, click on the magnifying glass and select 'Choose groups…'
 
@@ -233,12 +233,14 @@ Check the following groups:
  3BBB
  AVEOutfits-CBBE
  CBBE 3BA ACE (Physics)
+ CBBE 3BA AMB
  CBBE 3BA Creation Club (Im Physics)
  CBBE 3BA HDT Amulets
+ CBBE 3BA HDT Gemling (CCOR)
  CBBE 3BA LOTD (if using Adventures)
  CBBE 3BA Vanilla (ImPhysics)
  CBBE 3BA WACCF (ImPhysics)
- CBBE 3BA Wyrmstooth
+ CBBE 3BA Wyrmstooth (if using Adventures)
  Hands Redone
  Hands Redone - Clothes
  KS Hairdos SMP - Collisions (CBBE)
@@ -249,7 +251,7 @@ Check the following groups:
 
 Under 'Outfit/Body' select "CBBE 3BBB Amazing NeverNude".
 
-Under "Preset" select `- Zeroed Sliders -`.
+Under "Preset" select `Nordic Feel - A Realistic Bodyslide Preset`.
 
 In the bottom left corner check 'Build Morphs' and make sure meshes\actors\character\character assets\femalebody_0.nif is checked.
 
@@ -259,9 +261,9 @@ Control+Click 'Batch Build...'
 If you do not hold Control, you will overwrite all of your installed mods with the generated outfits.
 
 In the next window, right click and Select All. Disable all "HIMBO" sets.
-You can also disable any CC sets you do not own. (default: Golden Saints, Dark Seducers, Fishing Clothes)
+You can also disable any CC sets you do not own. (leave enabled: Golden Saints, Dark Seducers, Fishing Clothes)
 
-Click Build.  In the folder selection popup, select the MO2 overwrite folder.
+Click Build.  In the folder selection popup, select the MO2 overwrite folder. (or your Bodyslide Output if rebuilding)
 
 In the next popup, select Hands Redone F for each option where it appears.  For each additional option,
 select Physics, Im Physics (Immersive Physics) or No Physics as you prefer.  
@@ -269,7 +271,7 @@ Select CBBB 3BBB Amazing NeverNude for the body set (typically towards the top).
 If other options appear, prioritize any option that states 3BA in the name.  
 Also prioritize hdt_amuF (_gem_ where present), AVE, and WACCF.
 
-Close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Female`.
+Click OK. After it completes processing, close out of Bodyslide and create a new mod with the newly created body meshes with the name `Bodyslide Output - Female`.
 
 
 # Nemesis

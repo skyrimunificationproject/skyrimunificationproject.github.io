@@ -43,7 +43,7 @@ Note: We install this to overwrite models used in Outlaws Refuges and some other
 
 ## Expanded Towns and Cities
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13552?tab=files&file_id=263926) | Version: `0.7` | Author: `missjennabee` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/13552?tab=files&file_id=263926) | Version: `0.7` | Author: `missjennabee` | ![ESM] ![Merged]
 Download: | Manually download and install from archive
 
 ![FOMOD]
@@ -67,7 +67,7 @@ Patches:
    * Finding Helgi
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch:
 ETaC - Complete CC Patch Fish.esp
@@ -129,28 +129,6 @@ Versions:
 ~~~
 
 
-## More Dynamic Less Clutter in JKs Solitude
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121802) | Version: `1.2` | Author: `jepster`
-Download: | Main Files - More dynamic less clutter in JKs Solitude
-
-![FOMOD]
-~~~
-Versions:
-   * 30percent less clutter
-~~~
-
-## More Dynamic Less Clutter in JKs Whiterun
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122580) | Version: `1.0` | Author: `jepster`
-Download: | Main Files - More dynamic less clutter in JKs Whiterun
-
-![FOMOD]
-~~~
-Versions:
-   * 30percent less clutter
-~~~
-
 ## Ryn's Farms
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72305) | Version: `1.2` | Author: `Ryn` | ![ESM]
@@ -200,7 +178,7 @@ Download: | Main Files - Cities of the North - Dawnstar
 
 ## Cities of the North - Dawnstar Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.7` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.7` | Author: `Janquel` | ![Merged]
 Download: | Main Files - COTN Dawnstar Patch Collection
 
 ![FOMOD]
@@ -208,7 +186,7 @@ Download: | Main Files - COTN Dawnstar Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Dawnstar:
 COTN Dawnstar - 3DNPC - Immersive Citizens AI Overhaul Patch.esp
@@ -243,7 +221,7 @@ Download: | Main Files - Cities of the North - Falkreath
 
 ## Cities of the North - Falkreath Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.27` | Author: `Janquel` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.27` | Author: `Janquel` | ![Merged]
 Download: | Main Files - COTN Falkreath Patch Collection
 
 ![FOMOD]
@@ -251,7 +229,7 @@ Download: | Main Files - COTN Falkreath Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches have been merged into Project Arch - Falkreath:
 COTN Falkreath - 3DNPC Patch.esp
@@ -290,6 +268,11 @@ COTN Falkreath - TNOTT patch.esp
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81967) | Version: `0.0.3` | Author: `Wartortle` | 
 Download: | Main Files - Better Occlusion - COTN Falkreath
 
+## Cities of the North - Falkreath - Minotaur Trophy
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66118) | Version: `1.0` | Author: `SassiestAssassin`
+Download: | Main Files - COTNF - Minotaur Trophy Addon
+
 ## Cities of the North - Winterhold
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40088) | Version: `1.1` | Author: `JPSteel2` | ![ESM]
@@ -323,7 +306,7 @@ Pack the mod with CAO.
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.9.2` | Author: `Czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.9.2` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
@@ -331,7 +314,7 @@ Download: | Main Files - The Great City of Winterhold Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Winterhold:
 TGC Winterhold - 3DNPC patch.esp
@@ -363,7 +346,7 @@ TGCotN Winterhold - SUT patch.esp
 
 ## The Great City of Winterhold - Simple Snow Improvement - BOS
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74699) | Version: `1.6` | Author: `WeldingManDE` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74699) | Version: `1.6.1` | Author: `WeldingManDE` | 
 Download: | Main Files - Simple Snow Improvements - The Great City of Winterhold
 
 
@@ -447,7 +430,7 @@ Download: | Main Files - GG's Thieves Guild Headquarters
 
 ## GG's Thieves Guild HQ Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63967) | Version: `1.9` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63967) | Version: `1.9` | Author: `Czasior` | ![Merged]
 Download: | Main Files - GG's Thieves Guild HQ Patch Collection
 
 ![FOMOD]
@@ -455,7 +438,7 @@ Download: | Main Files - GG's Thieves Guild HQ Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Riften:
 GG's Thieves Guild HQ - LOTD patch.esp
@@ -476,7 +459,7 @@ Download: | Main Files - JK's Riften Outskirts
 
 ## JK's Riften Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.7` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.7` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Riften Outskirts Patch Collection
 
 ![FOMOD]
@@ -484,7 +467,7 @@ Download: | Main Files - JK's Riften Outskirts Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches from this page are merged into Project Arch - Riften:
 JKs Riften Outskirts - Atlas Map Markers patch.esp
@@ -501,7 +484,7 @@ There will be no files remaining and this is expected.
 
 ## Markarth Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.6.1` | Author: `GGUNIT` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.6.1` | Author: `GGUNIT` | ![ESM] ![Merged]
 Download: | Main Files - Markarth Outskirts
 | Update Files - Markarth Outskirts small update
 
@@ -517,7 +500,7 @@ Manually installed plugins:
    * Carriage Ferry Travel Overhaul Fixes and Winterhold patch
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following plugins are merged into Project Arch - Markarth:
 Lux Via - Markarth Entrance and Farm Overhaul CFTO patch.esp
@@ -553,7 +536,7 @@ Installation type:
 
 ## Riften Docks Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7b` | Author: `agentw` |  ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7b` | Author: `agentw` |  ![ESM] ![Merged]
 Download: | Main Files - Riften Docks Overhaul
 
 ![FOMOD]
@@ -564,7 +547,7 @@ Consistency Patches:
    * Lux Orbis - Ryn's Farms
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Riften:
 Lux - Riften Docks Overhaul patch.esp
@@ -576,12 +559,12 @@ RTDocks - Song of the Green.esp
 
 ## RYFTEN - Consistency of windows in Riften
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61536) | Version: `1.2.1` | Author: `Yuril` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61536) | Version: `1.2.1` | Author: `Yuril` | ![ESM] ![Merged]
 Download: | Main Files - RYFTEN - Consistency of windows in Riften JK's Mistveil Keep 
 | Optional Files - RYFTEN - Consistency of windows in Riften - JK's Haelga's Bunkhouse PATCH
 | Optional Files - RYFTEN - Consistency of windows in Riften - JK's The Bee and Barb PATCH
 
-![Merged]
+![MergedLg]
 ~~~
 The optional files are merged into Project Arch - Riften.
 ~~~
@@ -612,7 +595,7 @@ Pack the mod with CAO.
 
 ## Drengin's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.1` | Author: `Drengin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2` | Author: `Drengin` 
 Download: | Main Files - BluePalaceTerrace - Renewed
 
 ![FOMOD]
@@ -623,20 +606,19 @@ LOD Pack for DynDOLOD 3.0:
    * Distant windows react to the change of day and night
 ~~~
 
-## Drengin's Fortified Ramp to the Castle Dour
+## Drengin's Blue Palace Terrace - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/92823) | Version: `1.2` | Author: `Drengin` | ![ESM]
-Download: | Main Files - Fortified ramp to the Castle Dour
-| Optional Files - Fortified ramp-JKs Skyrim-Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2a` | Author: `Drengin` 
+Download: | Optional Files - BluePalaceTerrace-Renewed-Patches
 
-## Drengin's Solitude Watchtower
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104666) | Version: `1.0` | Author: `Drengin` | ![ESM] ![CAO]
-Download: | Main Files - Solitude Watchtower
-
-![PostInstall]
+![FOMOD]
 ~~~
-Pack the mod with CAO.
+Grand Solitude:
+   * Grand Solitude - The Walls of High King Erling
+ELFX and ELFX Shadows:
+   * None
+Miscellaneous:
+   * None
 ~~~
 
 ## JK's Blue Palace
@@ -646,7 +628,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.2` | Author: `jkrojmal and czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.2.1` | Author: `jkrojmal and czasior` | ![ESM] ![Merged]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -654,7 +636,7 @@ Download: | Main Files - JK's Blue Palace Terrace
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches have been merged into Project Arch - Solitude:
 JKs BPT - 3DNPC patch.esp
@@ -673,10 +655,24 @@ JKs BPT - Skyrim Sewers patch.esp
 JKs BPT - SUT patch.esp
 ~~~
 
+## Skyfall's Blue Palace Courtyard
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/130890) | Version: `1.3.1` | Author: `skyfall515` | ![ESM] ![Merged]
+Download: | Main Files - Skyfalls Blue Palace Courtyard
+
+![MergedLg]
+~~~
+The JK's BPT patch has been merged into Project Arch - Solitude.
+~~~
+
+## LOTD Museum Dress-Up for Blue Palace Terrace
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37587) | Version: `1.0` | Author: `godescalcus`
+Download: | Main Files - LOTD Museum Dress-up for Drengin's Blue Palace Terrace
 
 ## Blue Palace Frescoes Simplified
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70344) | Version: `1.4.1` | Author: `Czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70344) | Version: `1.4.1` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - Blue Palace Frescoes Simplified
 
 ![FOMOD]
@@ -687,10 +683,42 @@ Patches:
    * Extravagant JK's Blue Palace Terrace
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The JK's Blue Palace Terrace patch is merged into Project Arch - Solitude.
 ~~~
+
+## Grand Solitude - The Walls of High King Erling
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157506) | Version: `1.1` | Author: `Drengin` 
+Download: | Main Files - Grand Solitude - The Walls of High King Erling
+
+![FOMOD]
+~~~
+Optional:
+   * None
+SMIM Rotor:
+   * SMIM Rotor
+Majestic Mountains:
+   * None
+~~~
+
+## Grand Solitude Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.2` | Author: `Czasior`
+Download: | Main Files - Grand Solitude Patch Collection
+
+![FOMOD]
+~~~
+Check "Skyrim Unification Project - Project Arch".
+
+Allow autoselected. (some will not be selected based on above option)
+~~~
+
+## Grand Solitude - C.O.I.N. Bank Exchange
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157596) | Version: `1.0` | Author: `MissileMann`
+Download: | Main Files - Grand Solitude - COIN Bank Exchange
 
 ## JK's Solitude Outskirts
 
@@ -699,15 +727,16 @@ Download: | Main Files - JK's Solitude Outskirts
 
 ## JK's Solitude Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.9` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.11` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Solitude Outskirts Patch Collection
+| Update Files - JKs Solitude Outskirts - Grand Solitude patch
 
 ![FOMOD]
 ~~~
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Solitude:
 JKs Solitude Outskirts - 3DNPC patch.esp
@@ -728,32 +757,11 @@ JKs Solitude Outskirts - Save the Icerunner patch.esp
 JKs Solitude Outskirts - Solitude Docks Updated + Lux Orbis patch.esp
 JKs Solitude Outskirts - Solitude Docks Updated + Lux patch.esp
 JKs Solitude Outskirts - Solitude Docks Updated + Lux Via patch.esp
-JKs Solitude Outskirts - Solitude Watchtower patch.esp
 JKs Solitude Outskirts - USSEP patch.esp
 JKs Solitude Outskirts - Waymark patch.esp
 ~~~
 
-## Drengin's Solitude Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104668) | Version: `1.3` | Author: `Czasior`
-Download: | Main Files - Drengin's Solitude Patch Collection
-
-![FOMOD]
-~~~
-Mod Selection:
-   * Fortified Ramp to the Castle Dour
-Fortified Ramp:
-   * Allow autoselected
-   * EmbersXD - EmbersXD + ElSopa's Anvil
-~~~
-
-![Merged]
-~~~
-The following plugins are merged into Project Arch - Solitude:
-Fortified Ramp - Cheesemod patch.esp
-Fortified Ramp - LOTD patch.esp
-Fortified Ramp - SUT patch.esp
-~~~
 
 ## Rodryk's Dragon Bridge
 
@@ -771,6 +779,11 @@ Download: | Main Files - Rodryk's Meshes Partitioned and Non-Parallax
 Download: | Main Files - Rodryk's DB Mesh Optimization - No Window Iron
 | Optional Files - Rodryk's DB Mesh Optimization - JK's Penitus
 
+## Rodryk's DB Mesh Optimization - Walkway Mesh Collision Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157700) | Version: `1.0` | Author: `Matchm149`
+Download: | Main Files - Rodryn's DB Collision Fix
+
 ## Rodryk's Dragon Bridge Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53433) | Version: `2.5` | Author: `AgentW` | 
@@ -778,7 +791,7 @@ Download: | Main Files - Rodryk's Dragon Bridge Retexture 2K
 
 ## Rodryk's Dragon Bridge - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50408) | Version: `1.7.4` | Author: `somohexual`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50408) | Version: `1.7.4` | Author: `somohexual` | ![Merged]
 Download: | Main Files - Rodryk's Dragon Bridge - Patch Collection
 
 ![FOMOD]
@@ -797,7 +810,7 @@ Patches for JKs Skyrim:
    * JKs + Theives Night on the Town
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following plugins are merged into Project Arch - Dragon Bridge:
 RodryksDragonBridge - CACO.esp
@@ -866,10 +879,10 @@ Download: | Main Files - Rob's Bug Fixes - Capital Whiterun Expansion
 
 ## Capital Whiterun Expansion - Fixed Meshes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124352) | Version: `1.1` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124352) | Version: `1.2` | Author: `gutmaw` | ![Merged]
 Download: | Main Files - Fixed Meshes for Capital Whiterun Expansion
 
-![Merged]
+![MergedLg]
 ~~~
 The esp is merged into Project Arch - Whiterun.  The meshes are still used.
 ~~~
@@ -910,7 +923,7 @@ Patches:
 
 ## GG's Capital JK's Whiterun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.1` | Author: `GGUNIT` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/93224) | Version: `2.1` | Author: `GGUNIT` | ![CAO] ![Merged]
 Download: | Main Files - GG's Capital JK's Whiterun
 | Update Files - GG's Capital JK's Whiterun Update
 | Optional Files - Addon - Kynareth Statue option
@@ -921,25 +934,25 @@ Download: | Main Files - GG's Capital JK's Whiterun
 Pack the mod with CAO.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The optional plugins are merged into Project Arch - Whiterun.
 ~~~
 
 ## GG's Temple of Kynareth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120756) | Version: `1.1` | Author: `GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/120756) | Version: `1.1` | Author: `GGUNIT` | ![Merged]
 Download: | Main Files - GG's Temple of Kynareth (vanilla)
 | Optional Files - GG's Kynareth - JK's patch
 
-![Merged]
+![MergedLg]
 ~~~
 The optional plugin is merged into Project Arch - Whiterun.
 ~~~
 
 ## The Windhelm Well
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128370) | Version: `1.2` | Author: `HalfbitSHirlock`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128370) | Version: `1.2` | Author: `HalfbitSHirlock` | ![Merged]
 DOwnload: | Main Files - The Windhelm Well FOMOD
 
 ![FOMOD]
@@ -951,7 +964,7 @@ DOwnload: | Main Files - The Windhelm Well FOMOD
    * Sunhelm patch (if using)
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Windhelm:
 The Windhelm Well - Capital Windhelm Expansion patch.esp
@@ -994,7 +1007,7 @@ Download: | Main Files - JK's Windhelm Outskirts
 
 ## JK's Windhelm Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87964) | Version: `1.5.3` | Author: `Czasior` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87964) | Version: `1.5.3` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Windhelm Outskirts Patch Collection
 
 ![FOMOD]
@@ -1002,7 +1015,7 @@ Download: | Main Files - JK's Windhelm Outskirts Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following plugins are merged into Project Arch - Windhelm:
 JKs Windhelm Outskirts - 3DNPC patch.esp
@@ -1018,7 +1031,7 @@ JKs Windhelm Outskirts - Windhelm Bridge Revived patch.esp
 
 ## SB - Fixed Windhelm Entrance
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73058) | Version: `1.1` | Author: `Asedael` | ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73058) | Version: `1.1` | Author: `Asedael` | ![ESL-C] ![Merged]
 Download: | Main Files - SB - Fixed Windhelm Entrance
 
 ![FOMOD]
@@ -1029,7 +1042,7 @@ Patches:
    * Lux Orbis Patch
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The Lux Orbis patch is merged into Project Arch - Windhelm.
 ~~~
@@ -1041,7 +1054,7 @@ Download: | Main Files - Ryn's Whiterun City Limits
 
 ## Whiterun Exteriors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.5` | Author: `Janquel` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.5` | Author: `Janquel` | ![ESM] ![Merged]
 Download: | Main Files - Whiterun Exteriors Patch Collection
 
 ![FOMOD]
@@ -1049,7 +1062,7 @@ Download: | Main Files - Whiterun Exteriors Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches have been merged into Project Arch - Whiterun:
 JKs Ryns Whiterun Exterior - 3DNPC Patch.esp
@@ -1146,7 +1159,7 @@ Download: | Main Files - JK's Tel Mithryn
 
 ## JK's Tel Mithryn Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154109) | Version: `1.1` | Author: `czasior` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154109) | Version: `1.1` | Author: `czasior` | ![Merged]
 Download: | Main Files - JK's Tel Mithryn Patch Collection
 
 ![FOMOD]
@@ -1154,7 +1167,7 @@ Download: | Main Files - JK's Tel Mithryn Patch Collection
 Allow autoselected
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Dawnguard and Dragonborn:
 JKs Tel Mithryn - CACO patch.esp
@@ -1175,7 +1188,7 @@ Download: | Main Files - JK's Fort Dawnguard
 
 ## JK's - ClefJ's Fort Dawnguard
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131123) | Version: `1.0.1` | Author: `Czasior` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131123) | Version: `1.0.1` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - JK's - ClefJ's Fort Dawnguard
 
 ![FOMOD]
@@ -1185,7 +1198,7 @@ Patches:
    * Uncheck Mystic Condenser
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Dawnguard and Dragonborn:
 JKs-ClefJs Fort Dawnguard - Amulets of Skyrim patch.esp
@@ -1203,6 +1216,21 @@ JKs-ClefJs Fort Dawnguard - USSEP patch.esp
 JKs-ClefJs Fort Dawnguard - WACCF patch.esp
 ~~~
 
+## Skyfall's Fort Dawnguard Roofs
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157501) | Version: `1.0` | Author: `skyfall515`
+Download: | Main Files - Skyfalls Fort Dawnguard Roofs
+
+## Skyfall's Fort Dawnguard Roofs - Custom Texture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157501) | Version: `1.0` | Author: `skyfall515`
+Download: | Optional Files - TBD
+
+## Skyfall's Fort Dawnguard Roofs - JK-ClefJ Dawnguard Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157501) | Version: `1.0` | Author: `skyfall515`
+Download: | Optional Files - Dawnguard Roofs - JK and ClefJ Combo patch
+
 ## Quaint Raven Rock
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20851) | Version: `1.7.1` | Author: `Undriel` | ![ESM]
@@ -1216,7 +1244,7 @@ Download: | Main Files - JK's Raven Rock
 
 ## JK's Raven Rock Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/143840) | Version: `1.3.2` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/143840) | Version: `1.3.2` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Raven Rock Patch Collection
 
 ![FOMOD]
@@ -1224,7 +1252,7 @@ Download: | Main Files - JK's Raven Rock Patch Collection
 Allow autoselected on all tabs.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches have been merged into Project Arch - Dawnguard and Dragonborn:
 JKs Raven Rock - Atlas Map Markers patch.esp
@@ -1263,10 +1291,10 @@ Pack the mod with CAO.
 
 ## Anga's Mill - Cities of the North Addon
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64398) | Version: `1.0.4` | Author: `TateTaylorOH` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64398) | Version: `1.0.4` | Author: `TateTaylorOH` | ![ESM] ![Merged]
 Download: | Main Files - Anga's Mill - Cities of the North Addon
 
-![Merged]
+![MergedLg]
 ~~~
 All required patches have been merged into Project Arch - Towns and Villages.
 If you have installed additional mods you may require some additional patches from this page:
@@ -1290,15 +1318,16 @@ Download: | Main Files - BUVARP - Chillridge COTN Addon
 
 ## ClefJ's Morthal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2` | Author: `ClefJ` | ![ESM] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.2` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
 Download: | Main Files - ClefJ's Morthal
+| Update Files - Farmhouse Mesh Update
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches from the Patch Collection on this page are merged into Project Arch - Morthal:
 ClefJ Morthal - 3DNPC.esp
@@ -1327,7 +1356,7 @@ ClefJ Morthal - TNOTT.esp
 
 ## ClefJ's Morthal - Expanded Towns and Cities Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112751) | Version: `1.3.1` | Author: `gutmaw czasior ra2phoenix`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112751) | Version: `1.3.1` | Author: `gutmaw czasior ra2phoenix` | ![Merged]
 Download: | Main Files - ClefJ Morthal - ETaC
 
 ![FOMOD]
@@ -1335,7 +1364,7 @@ Download: | Main Files - ClefJ Morthal - ETaC
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch - Morthal:
 ClefJ Morthal - ETaC - 3DNPC patch.esp
@@ -1391,7 +1420,7 @@ Pack the mod with CAO.
 
 ## Environs - Abandoned Abodes - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82410) | Version: `1.0.4` | Author: `Siberpunk`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82410) | Version: `1.0.4` | Author: `Siberpunk` | ![Merged]
 Download: | Main Files - Environs - Abandoned Abodes - Patch Collection
 
 ![FOMOD]
@@ -1404,7 +1433,7 @@ Children Patches:
    * RS Children Patch
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches are merged into Project Arch:
 Environs - Abandoned Abodes - COTN Dawnstar Patch.esp
@@ -1419,7 +1448,7 @@ Download: | Main Files - Environs - Hroggar's House
 
 ## Environs - Hroggar's House - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.0.6` | Author: `Siberpunk` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83457) | Version: `2.0.6` | Author: `Siberpunk` |  ![Merged]
 Download: | Main Files - Environs - Hroggar's House - Patch Collection
 
 ![FOMOD]
@@ -1435,7 +1464,7 @@ Lux Orbis Patches:
    * Lux Orbis Patch
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following plugins are merged into Project Arch - Morthal.  There are still script updates installed by the FOMOD.
 Environs - Hroggars House - BUVARP Patch.esp
@@ -1466,10 +1495,10 @@ Download: | Main Files - ETAC - Must-Foot Wine Patch
 
 ## Gonzeh - Stonehills ReRe-imagined
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133572) | Version: `1.05` | Author: `Gonzeh84` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133572) | Version: `1.05` | Author: `Gonzeh84` | ![ESM] ![Merged]
 Download: | Main Files - Gonz - Stonehills ReRe-imagined
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches from this page have been merged into Project Arch - Towns and Villages:
 Gonz - Stonehills ReRe - Embers XD.esp
@@ -1483,10 +1512,10 @@ Northern Roads - Gonz Stonehills ReRe.esp
 
 ## Half-Moon Mill - Cities of the North Addon
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64360) | Version: `1.4` | Author: `Missilemann` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64360) | Version: `1.4` | Author: `Missilemann` | ![ESM] ![Merged]
 Download: | Main Files - Half-Moon Mill - COTN Addon
 
-![Merged]
+![MergedLg]
 ~~~
 All required patches have been merged into Project Arch - Towns and Villages.
 If you have installed additional mods you may require some additional patches from this page:
@@ -1503,10 +1532,10 @@ Half-Moon Mill COTNed - SUT Patch.esp
 
 ## Nightgate Inn Revived
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121244) | Version: `1.6` | Author: `miliyx` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121244) | Version: `1.6` | Author: `miliyx` | ![ESM] ![Merged]
 Download: | Main Files - Nightgate Inn Revived - Main File
 
-![Merged]
+![MergedLg]
 ~~~
 All required patches have been merged into Project Arch - Windhelm or Project Arch - Followers Patch.
 If you have installed additional mods you may require some additional patches
@@ -1580,7 +1609,7 @@ Pack the mod with CAO.
 
 ## The Great Town of Ivarstead Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.2` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.2` | Author: `Janquel` | ![Merged]
 Download: | Main Files - Great Town of Ivarstead Patch Collection
 
 ![FOMOD]
@@ -1588,7 +1617,7 @@ Download: | Main Files - Great Town of Ivarstead Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following patches from this page have been merged into Project Arch - Towns and Villages:
 Great Town of Ivarstead - 3DNPC Patch.esp
@@ -1749,11 +1778,6 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48902) | Version: `1.2.0` | Author: `jkrojmal` | 
 Download: | Main Files - JK's Palace of the Kings
 
-## JK's Temple of the Divines
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57304) | Version: `1.2.0` | Author: `jkrojmal` | 
-Download: | Main Files - JK's Temple of the Divines
-
 ## JK's Temple of Dibella
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56371) | Version: `1.0` | Author: `jkrojmal` | 
@@ -1818,7 +1842,7 @@ Download: | Main Files - JK's The Bards College
 
 ## JK's College of Winterhold (Immersive and Obscure) Combo Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.10` | Author: `Czasior and Janquel` | ![BSA]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.10` | Author: `Czasior and Janquel` | ![BSA] ![Merged]
 Download: | Main Files - JK's College of Winterhold (Immersive and Obscure)
 
 ![FOMOD]
@@ -1839,7 +1863,7 @@ Deactivate all patches from Obscure's College of Winterhold
    OCW_AMM_FEPatch.esp
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 Make sure BSAs are extracted (Mainland Staves)
 
@@ -1875,7 +1899,7 @@ JKs CoW - OCW - WACCF Patch.esp
 
 ## JK's Guild HQ Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.28` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61416) | Version: `1.28` | Author: `Janquel` | ![Merged]
 Download: | Main Files - JKs Guild HQ Interiors Patch Collection
 
 ![FOMOD]
@@ -1883,7 +1907,7 @@ Download: | Main Files - JKs Guild HQ Interiors Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The relevant patches from this page are merged into the appropriate Project Arch files.  If you are installing
 additional mods, you may need additional patches from this installer.
@@ -1940,7 +1964,7 @@ Distribution method tbd
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.26` | Author: `Janquel`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.26` | Author: `Janquel` | ![Merged]
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -1948,7 +1972,7 @@ Download: | Main Files - JKs Interiors Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The relevant patches from this page are merged into the appropriate Project Arch files.  If you are installing
 additional mods, you may need additional patches from this installer.
@@ -1956,7 +1980,7 @@ additional mods, you may need additional patches from this installer.
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.0` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.2` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -1978,7 +2002,7 @@ Pack the mod with CAO.
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.2` | Author: `czasior gutmaw GGUNIT`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.2` | Author: `czasior gutmaw GGUNIT` | ![Merged]
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
@@ -1986,7 +2010,7 @@ Download: | Main Files - Snazzy Interiors Patch Collection
 Allow autoselected.
 ~~~
 
-![Merged]
+![MergedLg]
 ~~~
 The following plugins are merged into Project Arch:
 (all except Lux-)
@@ -2004,27 +2028,27 @@ Add to end of previously installed mods: (important: below Lux Orbis Patch Hub)
 
 ## Capital Windhelm Expansion - Collision Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99599) | Version: `1.1` | Author: `gutmaw`
-Download: | Main Files - Capital Windhelm Expansion - Colission Fixes
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99599) | Version: `1.3` | Author: `gutmaw`
+Download: | Main Files - Capital Windhelm Expansion - Collision Fixes
+| Optional Files - CWE Colision Fixes - Windhelm Fence 3D Patch
 
 ![PostInstall]
 ~~~
 Delete meshes/architecture/windhelm/whtempletalos4.nif.
 ~~~
 
+## Simply Snowy Windhelm - Capital Windhelm Patch
 
+[![mod]](TBD) | Version: `1.0` | Author: `ra2phoenix` | ![Core] ![Visuals]
+Download: | TBD
 
 # Z02. SUP Conflict Resolution
 
-## Skyrim Unification Project - Conflict Resolution - Addons - Project Arch
+## Skyrim Unification Project - Project Arch
 
 [![mod]](temp) | Version: `` | Author: `` | 
 Download: | Main Files - 
 
-## Skyrim Unification Project - Replacement Plugins - Addons - Project Arch
-
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
 
 # Addons - Project Arch - Final Steps
 
@@ -2044,7 +2068,6 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 Plugin | Instructions |
 - | -
 Blue Palace Frescoes.esp | Apply ESMifier script
-Blue Palace Terrace.esp | Apply ESMifier script
 BUVARP SE RE - Chillridge Farm COTNed.esp | Apply ESMifier script
 ClefJ's Fort Dawnguard.esp | Apply ESMifier script
 ClefJ's Morthal.esp | Apply ESMifier script
@@ -2070,7 +2093,6 @@ JK's Belethor's General Goods.esp | Apply ESMifier script
 JK's Bits and Pieces.esp | Apply ESMifier script
 JK's Blue Palace Terrace.esp | Apply ESMifier script
 JK's Candlehearth Hall.esp | Apply ESMifier script
-JK's Castle Dour.esp | Apply ESMifier script
 JK's Castle Volkihar.esp | Apply ESMifier script
 JK's Dark Brotherhood Sanctuary.esp | Apply ESMifier script
 JK's Dragonsreach.esp | Apply ESMifier script
@@ -2093,7 +2115,6 @@ JK's Sinderion's Field Laboratory.esp | Apply ESMifier script
 JK's Sky Haven Temple.esp | Apply ESMifier script
 JK's Sleeping Giant Inn.esp | Apply ESMifier script
 JK's Solitude Outskirts.esp | Apply ESMifier script
-JK's Temple of the Divines.esp | Apply ESMifier script
 JK's Temple of Dibella.esp | Apply ESMifier script
 JK's Temple of Kynareth.esp | Apply ESMifier script
 JK's Temple of Mara.esp | Apply ESMifier script
@@ -2127,11 +2148,11 @@ Ryn's Farms.esp | Apply ESMifier script
 RynsWhiterunCityLimits.esp | Apply ESMifier script
 SB_WindhelmEntrance.esp | Compact formIDs, add ESL flag
 Settlements Expanded SE.esp | Apply ESMifier script
+Skyfalls BP Courtyard.esp | Apply ESMifier script
 SkyHavenTempleGarden.esp | Apply ESMifier script
 Snazzy JK's Dragonsreach.esp | Apply ESMifier script
 Snazzy JK's Palace of the Kings.esp | Apply ESMifier script
 Solitude Docks.esp | Apply ESMifier script
-Solitude Watchtower.esp | Apply ESMifier script
 SurWR.esp | Apply ESMifier script
 Tel Mithryn.esp | Apply ESMifier script
 TGCotN Winterhold.esp | Apply ESMifier script
@@ -2154,7 +2175,8 @@ Winterholddocks.esp | Apply ESMifier script (install the replacer from Core-Psyc
 [adventureslg]: https://img.shields.io/badge/Adventures-blueviolet?style=for-the-badge
 [corelg]: https://img.shields.io/badge/Core-006000?style=for-the-badge
 [optional]: https://img.shields.io/badge/Optional-AAAA00?style=flat-square
-[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[mergedlg]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=flat-square
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square

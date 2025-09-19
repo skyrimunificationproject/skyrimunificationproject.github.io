@@ -126,7 +126,7 @@ Project Arch is an optional add-on to Core and Adventures (both required).  It c
 
 Several addons are available in this section, with varying requirements on the other modules that will be stated in the description of each.
 
-![Merged]
+![MergedLg]
 
 These denote patches that have been merged into the main conflict resolution files.  If you are using the guide as written, you don't need them,
 but if you are doing your own additions or subtractions and can't use the CRs then you might want some or all of them, so the FOMODs still
@@ -155,8 +155,8 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.5-b143` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.5-b143
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b434` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.6-b434
 
 ![PostInstall]
 ~~~
@@ -342,8 +342,8 @@ Copy the files from the zip to the above Mod Organizer 2 folder you created's \p
 
 ## FOMOD Plus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.15.0` | Author: `aglowinthefield` | ![Core]
-Download: | Main Files - FOMOD Plus
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.170` | Author: `aglowinthefield` | ![Core]
+Download: | Main Files - FOMOD Plus for MO2 2.5.2
 
 ![PostInstall]
 ~~~
@@ -491,7 +491,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-194` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-196` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]
@@ -534,7 +534,8 @@ Manually extract d3dcompiler_46e.dll and d3d11.dll into your
 [optionalLg]: https://img.shields.io/badge/Optional-AAAA00?style=for-the-badge
 [ultrawide]: https://img.shields.io/badge/Ultrawide-AAAA00?style=flat-square
 [ultrawideLg]: https://img.shields.io/badge/Ultrawide-AAAA00?style=for-the-badge
-[merged]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[mergedlg]: https://img.shields.io/badge/Merged-AAAA00?style=for-the-badge
+[merged]: https://img.shields.io/badge/Merged-AAAA00?style=flat-square
 [esm]: https://img.shields.io/badge/ESM-blue?style=flat-square
 [esl]: https://img.shields.io/badge/ESL-orange?style=flat-square
 [esl-c]: https://img.shields.io/badge/ESL--C-red?style=flat-square
