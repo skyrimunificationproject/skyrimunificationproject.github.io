@@ -5,7 +5,7 @@ nav_order: 6
 description: Common Installation Issues
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 
 
@@ -77,7 +77,7 @@ Wabbajack cannot be run as an Admin.
 
 If you are not manually running the game as an Admin, check your windows UAC settings and make sure that UAC is not "off" as this will run everything as an admin.
 
-![](/Assets/UAC.png)
+![](/assets/UAC.png)
 
 Reboot your PC after making this change.
 
@@ -150,7 +150,7 @@ This is caused by your Nexus API tokoen expiring. It can be resolved by logging 
  3. Click the Nexus Mods `Log in` button.
  4. Restart Wabbajack and restart your installation.
 
-![](/Assets/wj_nexusrelog.png)
+![](/assets/wj_nexusrelog.png)
 
 
 # Wabbajack fails to download mods or hangs for a long time during installation.
@@ -204,7 +204,7 @@ Please follow the steps below if you are failing to download the Rare Curios fil
  5. Select the card titled `Rare Curios` and press **Download**.
  6. Once the download is finished, exit the game and rerun the Wabbajack installer.
 
-![](/Assets/skyrim_curios.png)
+![](/assets/skyrim_curios.png)
 
 {: .warning}
 > * **DO NOT** `Alt+Tab` during this process or it will fail to properly download these files. 
@@ -249,4 +249,4 @@ If you find yourself struggling to run Wabbajack without it crashing, freezing u
  3. Restart Wabbajack.
  4. Rerun the Wabbajack installer.
 
-![](/Assets/wj_resources.png)
+![](/assets/wj_resources.png)

@@ -16,12 +16,12 @@ To properly adjust your Resolution, please follow the steps below:
  2. Navigate to the `SSEDisplayTweaks.ini` file and open it in your preferred text editor (e.g., [Notepad++](https://notepad-plus-plus.org/)).
  3. Under the `[Render]` header, edit the `#Resolution=1920x1080` (line 66) and change it to your desired resolution.
 
-![](/Assets/ini_SSEDisplayTweaks01.png)
+![](/assets/ini_SSEDisplayTweaks01.png)
 
  4. **(Optional)** Adjust the `#ResolutionScale=0.75` (line 67) to your desired resolution scaling.
  5. Ensure that you remove the `#` before `Resolution=` and `ResolutionScale=` to uncomment those lines so that they take effect.
 
-![](/Assets/ini_SSEDisplayTweaks02.png)
+![](/assets/ini_SSEDisplayTweaks02.png)
 
 {: .highlight}
 Remember that these `.ini` files will be reset upon any list update and you will have to repeat this process.

@@ -5,7 +5,7 @@ nav_order: 3
 description: Frequently Asked Questions
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 ---
 

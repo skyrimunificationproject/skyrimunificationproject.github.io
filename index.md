@@ -7,7 +7,7 @@ permalink: /
 has_toc: true
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 Skyrim Unification Project is a modular modlist for *The Elder Scrolls V: Skyrim Special Edition* that allows the player to create their ideal experience. Whether with a framework to build upon, choosing between the different modules offered, or installing everything, the experience will be engaging, consistent, challenging, rewarding, and hassle-free.
 

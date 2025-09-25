@@ -5,7 +5,7 @@ nav_order: 1
 description: Important Information
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 ---
 

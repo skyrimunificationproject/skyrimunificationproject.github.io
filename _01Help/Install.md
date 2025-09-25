@@ -5,7 +5,7 @@ nav_order: 2
 description: Installation Guide
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 
 # Installation Guide
@@ -129,7 +129,7 @@ Please follow the steps below if you are failing to download the Rare Curios fil
  5. Select the card titled `Rare Curios` and press **Download**.
  6. Once the download is finished, exit the game and rerun the Wabbajack installer.
 
-![](/Assets/skyrim_curios.png)
+![](/assets/skyrim_curios.png)
 
 
 {: .warning}

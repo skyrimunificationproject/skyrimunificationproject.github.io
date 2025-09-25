@@ -5,7 +5,7 @@ nav_order: 5
 description: Common Crashes
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 ---
 

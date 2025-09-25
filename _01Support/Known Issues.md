@@ -5,7 +5,7 @@ nav_order: 4
 description: Known Issues & Workarounds
 ---
 
-![image](/Assets/images/banner.png)
+![image](/assets/images/banner.png)
 
 ---
 
