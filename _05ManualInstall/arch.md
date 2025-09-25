@@ -1,10 +1,23 @@
 ---
-layout: default
-title: "Skyrim Unification Project"
-category: "Arch"
+layout: home
+title: Project Arch
+nav_order: 5
+description: Project Arch
 ---
 
-# Please Read
+## Table of contents
+{: .no_toc }
+<details markdown="block">
+  <summary>
+     Expand to view
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
+# Important Notes
 
 Install these categories between "Addons - Adventures" and "Conflict Resolution".
 
@@ -146,7 +159,7 @@ Download: | Optional Files - Settlements Expanded SE - RS Children Overhaul Patc
 
 ## Snazzy Location Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.02` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.10` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Location Resources
 
 ![FOMOD]
@@ -288,6 +301,20 @@ Download: | Dropbox - COTN Falkreath Unique Texture Paths SUP Edition.7z
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105050) | Version: `1.0b` | Author: `sethnorris23` 
 Download: | Main Files - The Lone Whale - Bsa
 
+## Ships and Boats of Tamriel (Texture Overwrite)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41653) | Version: `1.2` | Author: `ThatShipGuy`
+Download: | Main Files - Ships and Boats of Tamriel 1.2
+
+![PostInstall]
+~~~
+Delete all files except for:
+textures/bstamriel/dungeons/ships/breticships/shipbretic*.dds
+textures/bstamriel/dungeons/ships/clutter/shipbbsails01.dds
+textures/bstamriel/dungeons/ships/clutter/shiphullweed01.dds
+textures/bstamriel/dungeons/ships/cyrodilicships/anvbronzetiles01.dds and _n.dds
+textures/bstamriel/dungeons/ships/cyrodilicships/shipcyrodilic*.dds
+~~~
 
 ## The Great Cities - Resources
 
@@ -838,7 +865,7 @@ Download: | Main Files - Solitude Docks Updated
 
 ## Snazzy Solitude AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.0.1` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.1` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Solitude AIO
 
 ![FOMOD]
@@ -1962,6 +1989,29 @@ Distribution method tbd
 
 # C21. Addons - Project Arch - Late Loaders
 
+## Blary's Booksets - Optimized
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159303) | Version: `1.1` | Author: `gutmaw`
+Download: | Main Files - Blary's Booksets - Optimized
+
+## Selectively Unvarying Firewood
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159768) | Version: `1.0` | Author: `DrMonops` | ![Merged]
+Download: | Main Files - Selectively Unvarying Firewood
+
+![FOMOD]
+~~~
+ETAC Complete:
+   * Harvestable Firewood
+Grand Solitude:
+   * Harvestable Firewood
+~~~
+
+![MergedLg]
+~~~
+The patches are merged into Project Arch.
+~~~
+
 ## JK's Interiors Patch Collection
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.26` | Author: `Janquel` | ![Merged]
@@ -1980,7 +2030,7 @@ additional mods, you may need additional patches from this installer.
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.2` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.3` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -1988,6 +2038,7 @@ Download: | Main Files - Snazzy Misc Locations
 Misc Locations:
    * Black Briar Lodge
    * Drelas' Cottage
+   * Grand Solitude
    * Honningbrew Meadery
    * JK's Dragonsreach
    * JK's Palace of the Kings

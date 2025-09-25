@@ -540,8 +540,8 @@ Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 
 ## Xelzaz
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.1` | Author: `BluePwnsU` | ![QAC] ![ESM] 
-Download: | Main Files - Xelzaz Follower Core 1.13.0
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![QAC] ![ESM] 
+Download: | Main Files - Xelzaz Follower Core 1.13.2
 
 ## Xelzaz - Wyrmstooth Patch
 
@@ -654,7 +654,7 @@ Download: | Main Files - Embershard Overhaul - ESL Version
 
 ## Fort Greymoor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.02` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.03` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Fort Greymoor
 | Optional Files - Lux - Fort Greymoor Patch
 | Optional Files - Lux Orbis - Fort Greymoor Patch

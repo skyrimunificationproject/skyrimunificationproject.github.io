@@ -1,10 +1,23 @@
 ---
-layout: default
-title: "Skyrim Unification Project"
-category: "Adventures"
+layout: home
+title: Adventures
+nav_order: 4
+description: Adventures
 ---
 
-# Please Read:
+## Table of contents
+{: .no_toc }
+<details markdown="block">
+  <summary>
+     Expand to view
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+
+# Important Notes
 
 Install these categories between "Utilities" and "Conflict Resolution".
 
@@ -485,7 +498,7 @@ Download: | Optional Files - Mystic Condenser 2.3 UCE
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.12.0` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.1` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]

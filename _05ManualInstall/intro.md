@@ -1,11 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
-title: "Skyrim Unification Project"
-category: "Intro"
+layout: home
+title: Introduction
+nav_order: 1
+description: Introduction
 ---
+
+## Table of contents
+{: .no_toc }
+<details markdown="block">
+  <summary>
+     Expand to view
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 
 # Introduction
 
@@ -291,7 +301,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.35.0 | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.35.0` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -425,7 +435,7 @@ Configure the settings as specified below.  If an option is not mentioned, it ca
 	+ Save on Wait: Unchecked
 	+ Save on Rest: Unchecked
 
-+ ** Gameplay Tab**
++ **Gameplay Tab**
   + Always Drive Ragdoll: Checked
   + NPCs Use Ammo: Checked
   + Tutorials: Unchecked
@@ -433,31 +443,31 @@ Configure the settings as specified below.  If an option is not mentioned, it ca
   + Over-Encumbered Reminder: 300
   + Landscape Friction: 32
 
-+ ** Interface Tab**
++ **Interface Tab**
   + Bethesda Modding Platform: Unchecked
   + Mod Manager Menu: Unchecked
 
-+ ** Environment Tab **
-  + ** Trees **
++ **Environment Tab**
+  + **Trees**
     + Move the four sliders all the way to the right.
-  + ** Water**
+  + **Water**
     + Reflect Trees: Unchecked
 	+ Reflect Land: Unchecked
 	+ Reflect Objects: Unchecked
     + Reflect Sky: Checked
 	
-+ ** Shadows Tab **
++ **Shadows Tab**
   + Ambient Occlusion: Unchecked
   
-+ ** Visuals Tab **
-  + ** Effects**
++ **Visuals Tab**
+  + **Effects**
     + Particles: 7500
 	+ Lens Flare: Unchecked
 
-+ ** View Distance Tab **
-  + ** Near Details **
++ **View Distance Tab**
+  + **Near Details**
     + Flickering Light Distance: 8192
-  + ** Distant Details **
+  + **Distant Details**
     + Level 4 Block Distance: 131072
 	+ Level 8 Block Distance: 212144
 	+ Level 16 Block Distance: 524288
