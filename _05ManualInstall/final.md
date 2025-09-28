@@ -341,11 +341,11 @@ Check only Terrain LOD. (uncheck others)
 
 For the dropdown box that says LOD4, enter the settings below for LOD4, LOD8, LOD16, and LOD32.
 
-![](/assets/images/lod4.PNG)
+![](/assets/images/lod4.png)
 
-![](/assets/images/lod8.PNG)
+![](/assets/images/lod8.png)
 
-![](/assets/images/lod16.PNG)
+![](/assets/images/lod16.png)
 
 ![](/assets/images/lod32_FWMF.PNG)
 
@@ -406,7 +406,7 @@ Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_S
 
 Launch DynDOLOD, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
-![](/assets/images/dyndolod.PNG)
+![](/assets/images/dyndolod.png)
 
 Additionally, if you are generating Grass LOD, check that box.
 
