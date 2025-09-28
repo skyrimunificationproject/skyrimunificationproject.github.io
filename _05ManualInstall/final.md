@@ -341,13 +341,13 @@ Check only Terrain LOD. (uncheck others)
 
 For the dropdown box that says LOD4, enter the settings below for LOD4, LOD8, LOD16, and LOD32.
 
-![](./assets/img/lod4.PNG)
+![](./assets/images/lod4.PNG)
 
-![](./assets/img/lod8.PNG)
+![](./assets/images/lod8.PNG)
 
-![](./assets/img/lod16.PNG)
+![](./assets/images/lod16.PNG)
 
-![](./assets/img/lod32_FWMF.PNG)
+![](./assets/images/lod32_FWMF.PNG)
 
 Note: LOD32 settings assume that Flat World Map Framework is being used.
 
@@ -396,7 +396,7 @@ IMPORTANT: If you disabled texture mods for Grass Cache, turn them back on!
 
 Launch Texgen from Mod Organizer 2, and configure it as shown:
 
-![](./assets/img/texgen.png)
+![](./assets/images/texgen.png)
 
 Additionally, if you are generating Grass LOD, check the Grass box. (Direct 186, Ambient 11)
 
@@ -406,7 +406,7 @@ Open your DynDOLOD install directory, and edit \Edit Scripts\DynDOLOD\DynDOLOD_S
 
 Launch DynDOLOD, right click in worldspaces and select all, click 'High' button at right, configure remaining checkboxes as seen below.
 
-![](./assets/img/dyndolod.PNG)
+![](./assets/images/dyndolod.PNG)
 
 Additionally, if you are generating Grass LOD, check that box.
 
