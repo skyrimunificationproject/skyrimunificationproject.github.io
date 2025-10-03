@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How Do I Start the Thieves Guid?
+title: How Do I Start the Thieves Guild?
 nav_order: 9
 has_children: false
 description: How Do I Start the Thieves Guild?

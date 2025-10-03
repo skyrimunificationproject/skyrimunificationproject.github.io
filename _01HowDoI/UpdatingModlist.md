@@ -44,13 +44,4 @@ Versioning for this modlist will generally adhere to the following format: `MAJO
  - `MINOR`: Generally indicates that the modlist has received a multitude of bug fixes, minor mod changes, and/or has had LODs regenerated. These updates will not be Save-Safe unless otherwise specified.
  - `PATCH`: Generally indicates that the modlist has received only minor bug fixes or mod updates. These updates will always be Save-Safe.
 
-The [Changelog](/06ModlistVersions/CHANGELOG) will contain more detailed information for any given modlist update and will indicate whether an update is Save-Safe with one of the tags below:
-
-Save-Safe 
-{: .label .label-green}
-
-Save-Safe, with exception or conditions
-{: .label .label-yellow}
-
-Not Save-Safe. New Game Needed 
-{: .label .label-red }
+The [Changelog](/06ModlistVersions/CHANGELOG) will contain more detailed information for any given modlist update if it does not follow the above  rules.

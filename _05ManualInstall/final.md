@@ -192,10 +192,12 @@ Launch EasyNPC from MO2. Click OK to confirm the load order.
 Once all plugins have loaded and the Profile window appears, click the open folder icon at the far right.  Select the EasyNPC txt file from the Skyrim Unification Project - Conflict Resolution folder. There will not be a visual confirmation, but the profile will be loaded.
 
 Click Build at the top of the window. Some warnings (npc conflict, suspicious masters) are expected due to the way the mods are organized.
+Deselect packing into archives as this can cause some corruption on large outputs.
 Click the large Build button at right.
 
 Allow the build process to complete.  Close EasyNPC, refresh MO2, and enable the new mod.  Completely disable all mods in NPC - Retextures other than RS Children/Realistic RS Children, RS Children/RRSC patches, and Project ja-Kha'jay and associated direct patches.
 
+Pack the output with CAO.
 
 Edit the NPC Appearances Merged.esp file in xEdit and set the header version to 1.71.
 

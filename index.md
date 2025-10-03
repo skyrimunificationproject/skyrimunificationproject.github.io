@@ -17,7 +17,7 @@ Skyrim Unification Project is built around Skyrim Unification Project - Gameplay
 
 The list may be overwhelming at first, so I highly recommend skimming through this wiki. Start with the [Recommended Reading](/02RecommendedReading/Introduction) section and work your way down.
 
-<p style="text-align: center"><a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Installation Guide</a> <a class="btn btn-indigo" href="/02ModlistBasics/RequirementsInstall/" target="blank" rel="noopener noreferrer">System Requirements</a></p>
+<p style="text-align: center"><a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Installation Guide</a></p>
 
 ---
 ## Modlist Assistance & Support

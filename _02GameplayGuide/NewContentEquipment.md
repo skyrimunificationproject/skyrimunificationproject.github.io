@@ -5,7 +5,7 @@ has_toc: true
 nav_order: 4
 ---
 
-# New Armors and Weapons
+## New Armors and Weapons
 
  - Bandolier
  - Cloaks and Capes, Cloaks of Skyrim, Winter is Coming
