@@ -19,21 +19,12 @@ description: Introduction
 
 # Introduction
 
-Skyrim Unification Project is a modular modlist for *The Elder Scrolls V: Skyrim Special Edition* that allows the player to create their ideal experience. Whether with a framework to build upon, choosing between the different modules offered, or installing everything, the experience will be engaging, consistent, challenging, rewarding, and hassle-free.
-
-Consistency is an essential mission for Skyrim Unification Project, which sets it apart from other modlists on top of its large scope. Skyrim Unification Project includes thousands of mods that countless talented mod authors provide. These mods are patched and tweaked to ensure a seamless, consistent, and bug-free experience.
-
-Skyrim Unification Project is built around Skyrim Unification Project - Gameplay Overhaul, which was developed alongside the modlist to ensure every mod, whether it is new armor, weapons, clothing, items, quests, enemies, and much more, are patched to create a unified and ultimately cohesive experience.
-
-
+See ![Main Website Introduction](https://skyrimunificationproject.github.io/) for the basic modlist information.
 
 Note that many compatibility patches have already been included in the Conflict Resolution patches installed at the end of the guide.  If you see a FOMOD option that you think should be installed and we don't specify it, it's probably handled.
 
-The version listed in each mod entry is the last version of the 'main' plugin download that the guide was checked against.  Only the files listed are required.  If the mod maintains both SE and AE versions, this may not be the same as the version listed on Nexus/MO2.
-
 
 # Guide Tags
-
 
 
 ![Core]
