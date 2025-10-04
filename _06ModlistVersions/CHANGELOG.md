@@ -57,9 +57,11 @@ Core - Multiple 'TBD' downloads updated to new Nexus page.
 Core - SUP High Poly Head Facegen consolidated across modules, moved to Autoselecting.
 
 Adventures - Wyrmstooth updated to 1.20.3.
+Adventures - QW's Wyrmstooth Unique Grasses updated to 1.1.
 Adventures - Multiple 'TBD' downloads updated to new Nexus page.
 
 Addons - Survival - Andrealletius' Jobs Overhaul updated to 1.5.3.
+Addons - Vanilla Locations - Snozz's Resource Pack updated to 1.11.
 
 Arch - Snazzy Location Resources updated to 2.2.
 Arch - Grand Solitude Patch Collection updated to 1.3.

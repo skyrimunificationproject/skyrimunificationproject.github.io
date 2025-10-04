@@ -646,7 +646,7 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.10` | Author: `snozz2004` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.11` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
 
 ![PostInstall]

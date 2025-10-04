@@ -273,7 +273,7 @@ Download: | Main Files - Wyrmstooth - Dragons SE
 
 ## Wyrmstooth - QW's Unique Grasses
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/152984) | Version: `1.0` | Author: `QuagaarWarrior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/152984) | Version: `1.1` | Author: `QuagaarWarrior`
 Download: | Main Files - QW's Unique Grasses - Wyrmstooth (50)
 
 ## Wyrmstooth - Stonehollow Overhaul

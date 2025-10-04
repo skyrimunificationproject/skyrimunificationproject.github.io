@@ -40,7 +40,7 @@ Users installing the guide can stop there and use it as a base, or continue to a
 ### SUP Optional Modules
 
 Immersion and Survival module:
-- SunHelm, Campfire, Footprints, Simple Hunting Overhaul, Dirt and Blood, Books of Power, Stress and Fear, and more
+- SunHelm, Campfire, Footprints, Simple Hunting Overhaul, Dirt and Blood, Books of Power, Stress and Fear, and more. While this is installed in the full list, SunHelm can be easily disabled in its MCM, and the rest are opt-in or fairly unintrusive.
 
 Followers module:
 - Fully independent patches so you can pick and choose which to add
@@ -52,18 +52,19 @@ Armor and Accessories module:
 Vanilla Location Overhauls module:
 - A selection of specific locational overhauls from Snozz and Ryn and others (currently covering Whiterun Hold)
 - Skyrim-wide overhauls with Ryn's Dragon Mounds and Standing Stones, and Fuzzbeed's Children of the North Wind, Deadly Dragon Lairs, and Gorgeous Giant Camps.
-- All mods patched onto landscape and navmesh of Adventures
+- All mods patched into landscape and navmesh of Adventures
 
 ### SUP Project Arch
 
 Building on all of the above, finally the module that is my modding life's work: "Project Arch"
 - A vast set of city and town overhauls combined with consolidated and in many cases custom patching, organized by region  - 15 master patches take the place of 1500+ individual ones
 - Many many hours spent in Creation Kit removing Northern Road holes, ditches, or bumps and removing seams
-- Including but not limited to: Expanded Towns and Cities, JK's Skyrim AIO, Cities of the North - Dawnstar, Falkreath, TGCOTN Winterhold; Drengin's Blue Palace Terrace (+JK) and Grand Solitude, Capital Whiterun and Windhelm, JK-Ryn Whiterun Outskirts, JK's Windhelm Outskirts, GG's Markarth Outskirts, ClefJ-JK Fort Dawnguardd, JK's Quaint Raven Rock, ETAC-ClefJ Morthal, The Great Town of Ivarstead, nearly every JK interior, every Snazzy interior
+- Including but not limited to: Expanded Towns and Cities, JK's Skyrim AIO, Cities of the North - Dawnstar, Falkreath, TGCOTN Winterhold; Drengin's Blue Palace Terrace (+JK) and Grand Solitude, Capital Whiterun and Windhelm, JK-Ryn Whiterun Outskirts, JK's Windhelm Outskirts, GG's Markarth Outskirts, ClefJ-JK Fort Dawnguard, JK's Quaint Raven Rock, ETAC-ClefJ Morthal, The Great Town of Ivarstead, nearly every JK interior, every Snazzy interior
+- Patched against Core, Adventures, Vanilla Locations so that it Just Works(tm).
 
 ### Future Plans
 
-FUTURE PLANS include more quests, more locations, more craftable armor and items.
+Future plans include more quests, more locations, more craftable armor and items.
 
 The list is constantly updated with mod maintenance, bugfixes, and small additions - following semantic versioning with save-safe information provided for updates.
 
