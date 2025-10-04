@@ -41,7 +41,7 @@ Download: | Optional Files - Lucien - Moon and Star Patch
 
 ## Missives - Worldspace Additions [Addons - Adventures]
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.05` | Author: `AndrealphusVIII` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26788) | Version: `2.05` | Author: `AndrealletiusVIII` | ![Core]
 Download: | Main Files - Missives - Wyrmstooth patch
  | Main Files - Missives - Gray Cowl Patch
 
@@ -235,7 +235,7 @@ Pack the mod with CAO.
 
 ## Wyrmstooth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.20.2` | Author: `Jonx0r` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45565) | Version: `1.20.3` | Author: `Jonx0r` 
 Download: | Main Files - Wyrmstooth
 
 ## Wyrmstooth - Assorted Patches
@@ -426,9 +426,6 @@ Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 Pack the mod with CAO.
 ~~~
 
-## Skyrim Unification Project - HPH Facegen
-
-Distribution method TBD
 
 # B06. Addons - Adventures - Late Loaders - Misc
 
@@ -950,8 +947,8 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.dropbox.com/s/lriyh1gkydcqwiv/Skyrim%20Unification%20Project%20-%20Gameplay%20Overhaul%20-%20Consistency%20Patches.7z?dl=0) | Version: `1.0.0.0b` | Author: `rev` | ![Core] |
-Download: | Skyrim Unification Project - Gameplay Overhaul - Consistency Patches.7z
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `rev` | ![Core] |
+Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
 ~~~
@@ -966,13 +963,13 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons - Adventures
 
-[![mod]](https://www.dropbox.com/s/3ccj2zyke42pldy/Skyrim%20Unification%20Project%20-%20Conflict%20Resolution%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0A` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
-Download: | Skyrim Unification Project - Conflict Resolution - Addon - Adventures.7z
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
 
-[![mod]](https://www.dropbox.com/s/p31h6w7pi44tx0y/Skyrim%20Unification%20Project%20-%20Replacement%20Plugins%20-%20Addon%20-%20Adventures.7z?dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
-Download: | Skyrim Unification Project - Repacement Plugins - Addon - Adventures.7z
+[![mod]](https://www.dropbox.com/scl/fi/v7r7826qdl28wfyiugzbb/Skyrim-Unification-Project-Replacement-Plugins-Addons-Adventures.7z?rlkey=2v2zal7wu22kr3ns0xkz0zal0&dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
+Download: | Skyrim Unification Project - Repacement Plugins - Addons - Adventures.7z
 
 ![FOMOD]
 ~~~

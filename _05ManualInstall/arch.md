@@ -97,26 +97,20 @@ Download: | Main Files - JK's Skyrim all in one
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63379) | Version: `4.0` | Author: `robertgk2017` | ![ESM]
 Download: | Main Files - Rob's Bug Fixes - JK's Skyrim
 
-## JK's Skyrim - Blubbos Apple Tree Replacer
+## KR2's Apple Trees
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132893) | Version: `1.0` | Author: `BlubboDE`
-Download: | Main Files - Blubbo_Apple_Trees_for_JK_Skyrim_and_Outskirts.zip
-| Optional Files - Blubbos_apple_trees_for_CACO.zip
-| Optional Files - Blubbos_Apple_trees_JK_3D_Lods.zip
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159846) | Version: `1.0` | Author: `knightradiant2`
+Download: | Main Files - KR2's Apple Trees and Apple Cider
 
-![PostInstall]
+![FOMOD]
 ~~~
-Change the filepaths below:
-
-Old:
-meshes/ccor/byohcitsgreenappletree.nif
-meshes/ccor/plants/citsgreenappletree.nif
-meshes/ccor/plants/citsredappletree.nif
-
-New:
-meshes/ccor/plants/byohcitsgreenappletree.nif
-meshes/ccor/plants/harvestables/citsgreenappletree.nif
-meshes/ccor/plants/harvestables/citsredappletree.nif
+Options:
+   * Apple Trees
+Trees:
+   * DynDOLOD
+Mesh Options:
+   * CACO
+   * JK's Skyrim and Outskirts   
 ~~~
 
 ## JK's Skyrim - Better Cranes
@@ -159,7 +153,7 @@ Download: | Optional Files - Settlements Expanded SE - RS Children Overhaul Patc
 
 ## Snazzy Location Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.10` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.2` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Location Resources
 
 ![FOMOD]
@@ -732,7 +726,7 @@ Majestic Mountains:
 
 ## Grand Solitude Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.2` | Author: `Czasior`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.3` | Author: `Czasior`
 Download: | Main Files - Grand Solitude Patch Collection
 
 ![FOMOD]
@@ -865,7 +859,7 @@ Download: | Main Files - Solitude Docks Updated
 
 ## Snazzy Solitude AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.1` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.2` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Solitude AIO
 
 ![FOMOD]
@@ -1081,7 +1075,7 @@ Download: | Main Files - Ryn's Whiterun City Limits
 
 ## Whiterun Exteriors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.5` | Author: `Janquel` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.6` | Author: `Janquel` | ![ESM] ![Merged]
 Download: | Main Files - Whiterun Exteriors Patch Collection
 
 ![FOMOD]
@@ -1215,7 +1209,7 @@ Download: | Main Files - JK's Fort Dawnguard
 
 ## JK's - ClefJ's Fort Dawnguard
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131123) | Version: `1.0.1` | Author: `Czasior` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131123) | Version: `1.1` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - JK's - ClefJ's Fort Dawnguard
 
 ![FOMOD]
@@ -1237,6 +1231,8 @@ JKs-ClefJs Fort Dawnguard - Embers XD patch.esp
 JKs-ClefJs Fort Dawnguard - Immersive Patrols II patch.esp
 JKs-ClefJs Fort Dawnguard - LFfGM patch.esp
 JKs-ClefJs Fort Dawnguard - LOTD patch.esp
+JKs-ClefJs Fort Dawnguard - Nature of the Wild Lands patch.esp
+JKs-ClefJs Fort Dawnguard - Praedys Dawnguard Doors patch.esp
 JKs-ClefJs Fort Dawnguard - RDO patch.esp
 JKs-ClefJs Fort Dawnguard - SDA patch.esp
 JKs-ClefJs Fort Dawnguard - USSEP patch.esp
@@ -1345,7 +1341,7 @@ Download: | Main Files - BUVARP - Chillridge COTN Addon
 
 ## ClefJ's Morthal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.2` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.3` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
 Download: | Main Files - ClefJ's Morthal
 | Update Files - Farmhouse Mesh Update
 
@@ -1610,7 +1606,7 @@ Installation type:
 
 ## Snazzy Towns and Settlements
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147761) | Version: `2.0` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147761) | Version: `2.1` | Author: `gutmaw`
 Download: | Main Files - Snazzy Towns and Settlements
 
 ![FOMOD]
@@ -1636,7 +1632,7 @@ Pack the mod with CAO.
 
 ## The Great Town of Ivarstead Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.2` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.3` | Author: `Janquel` | ![Merged]
 Download: | Main Files - Great Town of Ivarstead Patch Collection
 
 ![FOMOD]
@@ -1982,10 +1978,6 @@ Rob's bugfixes:
    * None
 ~~~
 
-## Skyrim Unification Project - HPH Facegen
-
-Distribution method tbd
-
 
 # C21. Addons - Project Arch - Late Loaders
 
@@ -2030,7 +2022,7 @@ additional mods, you may need additional patches from this installer.
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.3` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.31` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -2053,12 +2045,15 @@ Pack the mod with CAO.
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.2` | Author: `czasior gutmaw GGUNIT` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.3` | Author: `czasior gutmaw GGUNIT` | ![Merged]
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
 ~~~
 Allow autoselected.
+
+If you are installing following this guide, you can select the Project Arch box and it will deselect the plugins that are merged.
+If you are going to customize your install and not use the Project Arch files, then you want to unselect it and install the patches.
 ~~~
 
 ![MergedLg]
@@ -2090,15 +2085,15 @@ Delete meshes/architecture/windhelm/whtempletalos4.nif.
 
 ## Simply Snowy Windhelm - Capital Windhelm Patch
 
-[![mod]](TBD) | Version: `1.0` | Author: `ra2phoenix` | ![Core] ![Visuals]
-Download: | TBD
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `ra2phoenix` 
+Download: | Optional Files - Simply Snowy Windhelm - Capital Windhelm
 
 # Z02. SUP Conflict Resolution
 
 ## Skyrim Unification Project - Project Arch
 
-[![mod]](temp) | Version: `` | Author: `` | 
-Download: | Main Files - 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `ra2phoenix` | 
+Download: | Main Files - Skyrim Unification Project - Project Arch
 
 
 # Addons - Project Arch - Final Steps

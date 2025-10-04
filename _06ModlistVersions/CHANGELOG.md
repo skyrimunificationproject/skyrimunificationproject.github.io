@@ -17,6 +17,63 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.0.0.0 - 2025-10-03
+
+![Added]
+~~~
+Core - Mat's Vaermina's Torpor
+Core - Hagraven - New Models and Textures
+Arch - KR2's Apple Trees
+~~~
+
+![Removed]
+~~~
+Core - Blades Armors and Weapons Retexture SE (merged into Steel)
+Core - Carved Nordic Armors and Weapons Retexture SE (merged into Steel)
+Core - Relationship Dialogue Overhaul Visual Makeover
+Arch - JK's Skyrim Blubbos Apple Tree Replacer
+~~~
+
+![Updated]
+~~~
+All instances of AndrealphusVIII renamed to AndrealletiusVIII.
+All instances of pavelk renamed to Caites.
+Core - ENB Extender and Helper Skyrim updated to 1.4.2.
+Core - Spell Perk Item Distributor updated to 7.2.0RC24.
+Core - Helmet Toggle 2 updated to 3.5.2.
+Core - Magic Fixes and Tweaks SKSE updated to 2.3.0.
+Core - SSE Engine Fixes updated to 7.0.19.
+Core - Quest Journal Overhaul More Mod Support updated to 1.4.
+Core - Flat World Map Framework updated to 1.9.97.
+Core - Assorted Mesh Fixes updated to 0.25.1.
+Core - Vanaheimr Landscapes AIO updated to 4.5.
+Core - Unique Armors and Weapons Retexture SE updated to 1.3.0.
+Core - Steel Armors and Weapons Retexture SE updated to 2.1.1.
+Core - Racial Skin Variance SPID updated to 3.0.9.
+Core - Enhanced Rocks and Mountains Addon updated to 4.0.
+Core - lilebonymace's Patches updated to 2.49.
+Core - Northern Roads Patch Collection updated to 1.37.
+Core - Multiple 'TBD' downloads updated to new Nexus page.
+Core - SUP High Poly Head Facegen consolidated across modules, moved to Autoselecting.
+
+Adventures - Wyrmstooth updated to 1.20.3.
+Adventures - Multiple 'TBD' downloads updated to new Nexus page.
+
+Addons - Survival - Andrealletius' Jobs Overhaul updated to 1.5.3.
+
+Arch - Snazzy Location Resources updated to 2.2.
+Arch - Grand Solitude Patch Collection updated to 1.3.
+Arch - Snazzy Solitude AIO updated to 2.2.
+Arch - Whiterun Exteriors Patch Collection updated to 1.6.
+Arch - JK's ClefJ's Fort Dawnguard updated to 1.1.
+Arch - ClefJ's Morthal updated to 1.2.3.
+Arch - Snazzy Towns and Settlements updated to 2.1.
+Arch - The Great Town of Ivarstead Patch Collection updated to 3.3.
+Arch - Snazzy Misc Locations updated to 2.31.
+Arch - Snazzy Interiors Patch Collection updated to 2.3.
+Arch - Multiple 'TBD' downloads updated to new Nexus page
+~~~
+
 # 1.0.0.0 RC 15 - 2025-09-24
 
    ![Added]

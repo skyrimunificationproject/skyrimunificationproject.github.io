@@ -72,10 +72,10 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 
 # A02. Addons - Immersion and Survival (Immersion)
 
-## Andrealphus' Jobs Overhaul
+## Andrealletius' Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.2` | Author: `AndrealphusVIII` | ![CAO]
-Download: | Main Files - AJO - Andrealphus Jobs Overhaul
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.3` | Author: `AndrealletiusVIII` | ![CAO]
+Download: | Main Files - AJO - Andrealletius Jobs Overhaul
 
 ![PostInstall]
 ~~~
@@ -276,8 +276,8 @@ Pack the mod with CAO.
 
 ## Speechcraft Randomization
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.2` | Author: `AndrealphusVIII` | ![Optional]
-Download: | Main Files - Andrealphus Tweaks - Speechcraft Randomization
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/46752) | Version: `1.2` | Author: `AndrealletiusVIII` | ![Optional]
+Download: | Main Files - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
