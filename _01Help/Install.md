@@ -38,7 +38,11 @@ This Wabbajack contains the "Full" install with every available module already e
 
 # System Requirements
 
-Based on both internal performance testing and user feedback, the section below outlines my *recommended* system specifications for the list. Please keep in mind that every PC is different, and these recommendations are an estimate based on available data and firsthand reports. Individual performance may vary depending on specific hardware and software configurations, as well as other system optimizations. **Troubleshooting & support for hardware related issues will not be provided.**
+Recommended specs TBD based on user feedback.  Please note that Project Arch in particular can be visually demanding and requires both a reasonably current CPU and GPU.
+
+My specs: 5700x, 7900GRE (16gb), 32GB ram, NVME drive for installed list files.
+
+The list is designed for at least 8GB of VRAM.  Having less than this will result in a poor experience.
 
 {: .warning}
 >
@@ -46,12 +50,14 @@ Based on both internal performance testing and user feedback, the section below 
 >- Only Windows 10 or 11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.** Linux installations also **WILL NOT WORK**.
 
 
+
+
 Before proceeding with the Installation Guide, please ensure that you have the following:
 
-* **Windows 10** (service pack 22H2 or later) or **Windows 11** (service pack 24H2 or later).
-* At least **400 GB** of free space on your PC. The size of the installation on disk is approximately **215 GB**, with an additional **175 GB** needed for mod downloads. Some additional temp space is required for the installation process itself.
-* **The latest version** of ***Skyrim Special Edition***, in **English**, on <a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noopener noreferrer"> Steam</a>. This is **required**, other methods of game ownership <strong><a href="/01Support/FAQs/#why-steam-i-have-skyrim-from-another-source-and-it-wont-let-me-install" target="_blank" rel="noopener noreferrer">are not compatible</a></strong>.
-* A <a href="https://users.nexusmods.com/register" target="_blank" rel="noopener noreferrer">Nexus Mods</a> account.
+- **Windows 10** (service pack 22H2 or later) or **Windows 11** (service pack 24H2 or later).
+- Please see the current list metadata in Wabbajack for the install space requirements.  Additional space is required for Wabbajack to unpack temporary files.
+- **The latest version** of ***Skyrim Special Edition***, in **English**, on <a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noopener noreferrer"> Steam</a>. This is **required**, other methods of game ownership <strong><a href="/01Support/FAQs/#why-steam-i-have-skyrim-from-another-source-and-it-wont-let-me-install" target="_blank" rel="noopener noreferrer">are not compatible</a></strong>.
+- A <a href="https://users.nexusmods.com/register" target="_blank" rel="noopener noreferrer">Nexus Mods</a> account.
 
 We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 

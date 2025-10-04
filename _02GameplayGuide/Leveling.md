@@ -19,6 +19,6 @@ description: Leveling and Progression
  - At Your Own Pace and Don't Rush Me
  - The Choice is Yours
  
- ## Suggested Starter Content
+## Suggested Starter Content
  
  WIP
