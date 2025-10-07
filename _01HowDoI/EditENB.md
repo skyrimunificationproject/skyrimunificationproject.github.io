@@ -12,7 +12,7 @@ The list of ENB shortcuts can be seen below:
  1. `Shift + Enter` to open the ENB menu/GUI.
  2. `Shift + F12` to disable/enable the ENB.
  3. `Shift + F6` to toggle ENB's Depth of Field shader.
- 4. `F4` to toggle ENB's FPS Counter.
+ 4. `PgUp` to toggle ENB's FPS Counter.
 
 ---
 
