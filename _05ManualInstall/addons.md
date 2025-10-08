@@ -656,7 +656,7 @@ Pack the mod with CAO.
 
 ## Bleak Falls Barrow Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.0` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.02` | Author: `snozz2004`
 Download: | Main Files - Bleak Falls Barrow Overhaul V2
 
 ## Bleak Falls Tower

@@ -26,9 +26,9 @@ description: Known Issues & Workarounds
 
 This is due to Books of Power scaling the spells as you train with them.  In the first few uses, it may do literally zero damage or effect but as you train it will rise to 100% of its expected value.
 
-# Shouting at the Greybeards doesn't work.
+# Shouting at the Greybeards doesn't work / I can't murder neutral NPCs like I want to.
 
-Due to a mod preventing friendly fire from triggering, you need to crouch to enter stealth before shouting.
+Due to a mod preventing friendly fire from triggering, you need to crouch to enter "stealth" (whether detected or not) before shouting or attacking.
 
 # Elisif's Court are all standing around in the throne room.
 
