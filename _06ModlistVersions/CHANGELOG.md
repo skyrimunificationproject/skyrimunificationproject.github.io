@@ -17,6 +17,53 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.0.1 - 2025-10-07
+
+Save-safe.
+
+![Added]
+~~~
+Core - Best In Class - SKSE Remake
+Core - SMP-NPC Crash Fix
+Core - Richochet - Arrow Physics Framework
+Core - Broken Feathers (Full Skyrim Arrow Pack)
+~~~
+
+![Updated]
+~~~
+Core - Crash Logger SSE AE VR PDB updated to 1.16.0.
+Core - Object Categorization Framework Some KID Patches updated to 2.9.
+Core - No Grass In Objects updated to 1.5.9.
+Core - Robber's Gorge Fixes updated to 2.0.
+Core - After the Civil War updated to 2.6.4.
+COre - Gleaming Glaciers updated to 1.2.
+Core - Nature of the Wild Lands 3D Hybrid LOD updated to 1.2.1.
+Core - Natural Waterfalls updated to 3.4.
+Core - Missing Follower Dialogue Edit updated to 2.4.6.
+Core - NPC Spell Variance updated to 2.5.0.
+Core - lilebonymace's Patches updated to 2.50.
+
+Addons - Vanilla Locations - Bleak Falls Barrow Overhaul updated to 2.02.
+
+Arch - KR2's Apple Trees updated to 1.0.1.
+Arch - Snazzy Solitude AIO updated to 2.2.1.
+Arch - Snazzy Interiors Patch Collection updated to 2.3.1.
+~~~
+
+![Bugfixes]
+~~~
+SUP Conflict Resolution 1.0.1 - Removed ICAIO's added candlelight spell injected to Farengar to avoid breaking lights
+                              - Updated some worldspace settings
+							  - Landscape fixes
+SUP Addons - Adventures 1.0.1 - Updated some worldspace settings
+SUP Addons - Survival 1.0.1 - Updated some worldspace settings
+SUP Project Arch 1.0.1 - Added no-havok to some Jorrvaskr porch objects
+                       - Attempt to fix Windhelm puking ice head
+					   - Landscape fixes
+					   - Fix light leaks in Blue Palace
+					   - Fix draperies in Temple of the Divines
+~~~
+
 # 1.0.0.0 - 2025-10-03
 
 ![Added]

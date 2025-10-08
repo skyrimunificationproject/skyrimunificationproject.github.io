@@ -86,7 +86,7 @@ Download: | Main Files - Core Impact Framework - Latest Version
 
 ## Crash Logger SSE AE VR - PDB Support
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59818) | Version: `1.15.0` | Author: `alandtse` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/59818) | Version: `1.16.0` | Author: `alandtse` | ![Core]
 Download: | Main Files - CrashLogger
 
 ## Currency Swapper
@@ -199,7 +199,7 @@ Mod Dependent:
 
 ## Object Categorization Framework - Some KID Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99726) | Version: `2.8` | Author: `monkeyangie` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99726) | Version: `2.9` | Author: `monkeyangie` | ![Core]
 Download: | Main Files - OCF - Some KID Patches FOMOD
 
 ![FOMOD]
@@ -370,6 +370,10 @@ Download: | Main Files - Behavior Data Injector
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78159) | Version: `0.13.0.1` | Author: `doodlum` | ![Core]
 Download: | Main Files - Behavior Data Injector Universal Support
 
+## Best In Class - SKSE Remake
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147942) | Version: `2.0.3` | Author: `Shekhinaga` | ![Core]
+Download: | Main Files - Best in Class - SKSE Remake
 
 ## Better Combat Escape - NG
 
@@ -790,7 +794,7 @@ Download: | Main Files - No Furniture Camera
 
 ## No Grass In Objects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42161) | Version: `1.5.8` | Author: `meh321` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42161) | Version: `1.5.9` | Author: `meh321` | ![Core] |
 Download: | Main Files - NGIO - NG (1.5.8)
 | Optional Files - Grass Generation MO2 Plugin v3.2
 
@@ -974,6 +978,11 @@ Download: | Main Files - Simple Offense Suppression SE
 DLL:
    * SSE v1.6+ ("Anniversary Edition")
 ~~~
+
+## SMP-NPC Crash Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91616) | Version: `1` | Author: `jg1` | ![Core]
+Download: | Main Files - SMP-NPC crash fix
 
 ## Soaking Wet - Character Wetness Effect
 
@@ -1485,7 +1494,7 @@ Download: | Main Files - Optimized USSEP Valdr Quest
 
 ## Robber's Gorge Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81495) | Version: `1.4` | Author: `lilebonymace` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81495) | Version: `2.0` | Author: `lilebonymace` | ![Core]
 Download: | Main Files - Robber's Gorge Fixes
 
 ![FOMOD]
@@ -3986,7 +3995,7 @@ Download: | Main Files - The Choice is Yours
 
 ## After the Civil War - Siege Damage Repairs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20668) | Version: `2.6.3` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/20668) | Version: `2.6.4` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - AtCW - Siege Damage Repairs
 
 ![FOMOD]
@@ -6492,9 +6501,13 @@ Patches:
 
 ## Gleaming Glaciers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156970) | Version: `1.1` | Author: `fadingsignal` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156970) | Version: `1.2` | Author: `fadingsignal` | ![Core] ![Visuals]
 Download: | Main Files - Gleaming Glaciers
 
+![PostInstall]
+~~~
+Delete GleamingGlaciers.esp. (we do not need its fixes)
+~~~
 
 ## Slightly Better Nordic Burial Cairns
 
@@ -6621,7 +6634,7 @@ Delete /meshes/landscape/plants/treepineforeststump*.nif.
 
 ## Nature of the Wild Lands - 3D Hybrid LOD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133619) | Version: `1.2` | Author: `Ylikollikas` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133619) | Version: `1.2.1` | Author: `Ylikollikas` | ![Core]
 Download: | Main Files - Nature of the Wild Lands 3.0 - 3D hybrid LOD
 
 ## Ulvenwald Lite - Vanilla Replacer
@@ -10062,7 +10075,7 @@ iNeed:
 
 ## Natural Waterfalls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87261) | Version: `3.3` | Author: `clofas and ToosTruus` | ![Core] ![Visuals] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87261) | Version: `3.4` | Author: `clofas and ToosTruus` | ![Core] ![Visuals] ![Merged]
 Download: | Main Files - Natural Waterfalls
 
 ![FOMOD]
@@ -12236,7 +12249,7 @@ Vampires:
 Saints_Seducers:
    * Yes
 Tweaks:
-   * None
+   * Black Eyelashes
 ~~~
 
 
@@ -12478,6 +12491,16 @@ Download: | Main Files - Official Creature Asset Pack - Latest Version
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135254) | Version: `1.4.0` | Author: `Seb263` | ![Core]
 Download: | Main Files - Next-Gen Decapitations - Latest Version
+
+## Richochet - Arrow Physics Framework
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160603) | Version: `1.0.1` | Author: `Seb263` | ![Core]
+Download: | Main Files - Richochet Framework - Latest Version
+
+## Broken Feathers (Full Skyrim Arrow Pack)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160798) | Version: `1.0.0` | Author: `Seb263` | ![Core]
+Download: | Main Files - Broken Feathers - Latest Version
 
 ## True Directional Movement 
 
@@ -13523,7 +13546,7 @@ Patches:
 
 ## Missing Follower Dialogue Edit
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56115) | Version: `2.4.4` | Author: `AndrealletiusVIII` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56115) | Version: `2.4.6` | Author: `AndrealletiusVIII` | ![Core]
 Download: | Main Files - MFMD - Missing Follower Dialogue Edit
 
 ## More Dialogue Options 
@@ -14196,7 +14219,7 @@ The Enable Enemy Crafting patch is merged into SUP Conflict Resolution.
 
 ## NPC Spell Variance - Spell Variety AI
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132097) | Version: `2.4.9` | Author: `LeoneKingzz` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132097) | Version: `2.5.0` | Author: `LeoneKingzz` | ![Core]
 Download: | Main Files - NPC Spell Variance
 
 ## NPC Spell Variance - Spell Variety AI - KID - Vanilla Spells
@@ -16451,7 +16474,7 @@ Models:
 
 ## lilebonymace's Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36042) | Version: `2.49` | Author: `lilebonymace` | ![Core] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36042) | Version: `2.50` | Author: `lilebonymace` | ![Core] ![Merged]
 Download: | Main Files - lilebonymace patches
 
 ![FOMOD]

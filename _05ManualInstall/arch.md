@@ -99,7 +99,7 @@ Download: | Main Files - Rob's Bug Fixes - JK's Skyrim
 
 ## KR2's Apple Trees
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159846) | Version: `1.0` | Author: `knightradiant2`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159846) | Version: `1.0.1` | Author: `knightradiant2`
 Download: | Main Files - KR2's Apple Trees and Apple Cider
 
 ![FOMOD]
@@ -859,7 +859,7 @@ Download: | Main Files - Solitude Docks Updated
 
 ## Snazzy Solitude AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.2` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.2.1` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Solitude AIO
 
 ![FOMOD]
@@ -2045,7 +2045,7 @@ Pack the mod with CAO.
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.3` | Author: `czasior gutmaw GGUNIT` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.3.1` | Author: `czasior gutmaw GGUNIT` | ![Merged]
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
