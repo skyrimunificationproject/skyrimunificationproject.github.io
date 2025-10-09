@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Addundum
+title: Addendum
 has_toc: true
 nav_order: 10
 description: General Information
