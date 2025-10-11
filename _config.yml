@@ -138,10 +138,10 @@ just_the_docs:
       nav_hasparent: true
     02RecommendedReading: # Section 2.A
       name: Recommended Reading
-      nav_hasparent: true
+      nav_fold: false
     02GameplayGuide: # Section 2.B
       name: Gameplay Guide
-      nav_hasparent: true
+      nav_fold: false
     05ManualInstall: # Section 5
       name: Manual Installation and Modlist Details
       nav_fold: false

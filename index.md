@@ -69,7 +69,8 @@ Future plans include more quests, more locations, more craftable armor and items
 The list is constantly updated with mod maintenance, bugfixes, and small additions - following semantic versioning with save-safe information provided for updates.
 
 
-<p style="text-align: center"><a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Installation Guide</a></p>
+<p style="text-align: center"><a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Installation Guide</a>
+<a class="btn btn-indigo" href="/02RecommendedReading/GettingStarted/" target="blank" rel="noopener noreferrer">Getting Started</a></p>
 
 ---
 ## Modlist Assistance & Support
