@@ -71,24 +71,28 @@ The Books of Power mod changes the way that spell tomes work.  Instead of being 
 
 ## Subclasses of Skyrim
 
-Destiny - Access subclass perk tree and spend points
+***Destiny*** - Access subclass perk tree and spend points
 
 ## HearthFire (Multi-Kid Adoption)
 
-Bless Home - Use to designate a home to send kids to
+***Bless Home*** - Use to designate a home to send kids to
 
 ## Campfire
 
-Build Campfire
-Create Item - Allows basic "survival" crafting without a workbench
-Harvest Wood
-Instincts - Highlights harvestable items in the world
+***Build Campfire***
+
+***Create Item*** - Allows basic "survival" crafting without a workbench
+
+***Harvest Wood***
+
+***Instincts*** - Highlights harvestable items in the world
 
 ## Dirt and Blood
 
-Wash and Rinse
+***Wash and Rinse***
 
 ## SunHelm 
 
-Fill Bottles
-Continuance - Allows you to see your current need statistics in the notification window
+***Fill Bottles***
+
+***Continuance*** - Allows you to see your current need statistics in the notification window
