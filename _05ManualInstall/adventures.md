@@ -609,15 +609,13 @@ Pack the mod with CAO.
 
 ## Legacy of the Dragonborn - Additional Display Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `2.0.6` | Author: `Spacedroner` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `2.0.7` | Author: `Spacedroner` 
 Download: | Main Files - LOTD - Additional Display Patches
 
 ![FOMOD]
 ~~~
 Unofficial Patches:
    * Your Choices Matter DB
-Fall of the Space Core Vol 1:
-   * None
 The Brotherhood of Old:
    * None
 Serana:
@@ -947,7 +945,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev` | ![Core] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -963,7 +961,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons - Adventures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures

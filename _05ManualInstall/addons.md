@@ -416,6 +416,11 @@ Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75319) | Version: `1.1` | Author: `IWantATardis`
 Download: | Main Files - 2K Sunhelm
 
+## SunHelm Survival and Needs - Simple Weather Icons
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75863) | Version: `1.0` | Author: `urbon`
+Download: | Main Files - Sunhelm - Simple weather icons
+
 ## Go To Bed - Settings Loader
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56286) | Version: `2.2.0` | Author: `MaskedRPGFan`

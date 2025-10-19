@@ -597,7 +597,7 @@ Download: | Main Files - RYFTEN DOWN - 1B Performence
 
 ## Snazzy Riften AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.11` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.1.2` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Riften AIO
 
 ![FOMOD]
@@ -2092,7 +2092,7 @@ Download: | Optional Files - Simply Snowy Windhelm - Capital Windhelm
 
 ## Skyrim Unification Project - Project Arch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `ra2phoenix` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `ra2phoenix` | 
 Download: | Main Files - Skyrim Unification Project - Project Arch
 
 

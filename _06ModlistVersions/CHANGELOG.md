@@ -17,6 +17,94 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.0.2 - 2025-10-18
+
+Save-safe.
+
+![Added]
+~~~
+Prerequisites - Crash Log Tools (was already in WJ, adding documentation)
+
+Core - Loading Screen Truce AE
+Core - Modlist Update Checker
+Core - 710s Any Axe Will Do
+Core - Skyrim SE Skill Interface Re-Texture
+Core - Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos
+Core - Sassy Salt and Wind Hair Retexture - Pandorable's Patches
+Core - Draugr Dagger Animation Fix
+Core - XP32 True Ragdoll Physics
+
+Addons - Survival - SunHelm Survival and Needs - Simple Weather Icons
+~~~
+
+![Removed]
+~~~
+Core - Mu Skeleton Error
+Core - Female Equipment Scale Fix
+Core - Photo Mode - Untarnished UI Patch
+Core - KS Hairdos - Salt and Wind
+Core - KS Hairdos - Salt and Wind - Update
+Core - KS Hairdos - Salt and Wind - Pandorable's NPCs
+Core - KS Hairdos - Salt and Wind - Pandorable's NPCs - Dawnguard
+Core - KS Hairdos - Salt and Wind - Pandorable's NPCs - Dragonborn
+Core - KS Hairdos - Salt and Wind - Pandorable's Males
+Core - KS Hairdos - Salt and Wind - Vanilla Hair
+Core - XPMSSE Spazzing Skeleton and Corpse Fix
+~~~
+
+![Updated]
+~~~
+Prerequisites - Synthesis updated to 5.2.
+
+Core - ConsolePlusPlus updated to 1.5.0.
+Core - Enhanced Invisibility updated to 1.3.1.
+Core - Favorites Menu Effects Description updated to 1.1.
+Core - Helmet Toggle 2 updated to 3.5.3.
+Core - NPCs Use Potions updated to 4.1.1.
+Core - Robber's Gorge Fixes updated to 2.2.
+Core - Follower Stats updated to 1.0.6.
+Core - Quest Journal Overhaul More Mod Support updated to 1.5.
+Core - Slightly Better Nordic Henges Base Object Swapper updated to 1.2.
+Core - After the Civil War Siege Damage Repairs updated to 2.6.5.
+Core - Assorted Mesh Fixes updated to 0.130.0.
+Core - Gleaming Glaciers updated to 1.3.
+Core - Nature of the Wild Lands 3D Hybrid LOD updated to 1.2.2.
+Core - JS Purses and Septims SE - added Wintersun patch.
+Core - Children of Dawn's Beauty updated to 1.06.
+Core - Children of the Ash updated to 1.04.2.
+Core - Children of the First upddated to 1.05.
+Core - Children of the Green updated to 1.09.1.
+Core - eeekie's Resources updated to 1.0.5.
+Core - KS Hairdos Salt and Wind Foamimi's Retexture Hub - changed files to download
+Core - Odin updated to 3.1.3.
+Core - NPC Spell Variance updated to 2.5.2.
+Core - Ordinator updated to 9.35.0.
+Core - Ordinator Optimized Scripts updated to 1.3.0.
+
+Adventures - Legacy of the Dragonborn Additional Display Patches upated to 2.0.7.
+
+Arch - Snazzy Riften AIO updated to 2.1.2.
+~~~
+
+![Bugfixes]
+~~~
+SUP Consistency Patches 1.0.2 - Updated KID and SPID files
+SUP Conflict Resolution 1.0.2 - Disabled ICAIO control power from distribution.
+                              - Updated Notification Filter exclusions
+                              - Updated some forwarded records
+                              - Removed ICAIO magelight package from Farengar
+SUP Gameplay Overhaul 1.0.2   - Updated KID and SPID files
+SUP Addons - Adventures 1.0.2 - Disabled BGCollectables note from distribution.
+                              - Updated some forwarded records
+                              - Updated KID and SPID files
+SUP Addons - Vanilla Locations 1.0.2 - Remove erroneous Breezehome edit thanks CK
+                                     - Refinalize some navmesh in Graymoor
+SUP Project Arch 1.0.2 - Fixed practice marker in Hall of Elements.
+                       - Fixed occlusion issues in windows between floors in Arcaneum.
+                       - Forwarded some records for conflict resolution purposes only
+                       - Forwarded scripts to resolve MS14 conflict
+~~~
+
 # 1.0.1 - 2025-10-07
 
 Save-safe.

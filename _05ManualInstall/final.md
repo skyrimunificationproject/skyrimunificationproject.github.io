@@ -319,6 +319,7 @@ Select:
 'Animation Teleport Bug Fix',
 'USSEP Behavior Patch'
 'Weapons Switch Animations Compleate' (sic)
+'Fix Draugr Dagger Animation'
 
 Click 'Update Engine'
 

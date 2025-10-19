@@ -292,7 +292,7 @@ Manually extract 00_Persistentify_Those_Plugins.pas
 
 ## Synthesis
 
-[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.35.0` | Author: `Noggog` | ![Core] |
+[![mod]](https://github.com/Mutagen-Modding/Synthesis/releases/) | Version: `0.35.2` | Author: `Noggog` | ![Core] |
 Download: | Assets - Synthesis.zip
 
 ![PostInstall]
@@ -349,6 +349,16 @@ Download: | Main Files - FOMOD Plus for MO2 2.5.2
 ![PostInstall]
 ~~~
 Copy the files from the zip to the above Mod Organizer 2 folder you created (root MO2 directory).
+~~~
+
+## Crash Log Tools
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113668) | Version: `1.1.1` | Author: `Parapets - MissCorruption` | ![Core]
+Download: | Main Files - Crashlog Tools - Updated
+
+![PostInstall]
+~~~
+Copy the files from the zip to the above Mod Organizer 2 folder you created's \plugins directory.
 ~~~
 
 ## Adding Executables in MO2
