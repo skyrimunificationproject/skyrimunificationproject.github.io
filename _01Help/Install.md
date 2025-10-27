@@ -183,19 +183,19 @@ Once the Wabbajack app is installed, you will be able to download Skyrim Unifica
 
  1. Click on the **Browse lists** button on the left-hand side of the Wabbajack app.
 
-
- 2. Type "Skyrim Unification Project" into the search bar.
- 3. Click on the image card for Skyrim Unification Project.
-
-
- 4. Click the **Download & Install** button.
+ 2. Make sure the **Non-Featured** box is checked.
+ 3. Type "Skyrim Unification Project" into the search bar.
+ 4. Click on the image card for Skyrim Unification Project.
 
 
- 5. Wabbajack will then download the Skyrim Unification Project wabbajack file and manifest and bring you to the installation page.
- 6. Once on the installation page, point Wabbajack to your desired `Installation Location` (red) and `Download Location` (green).
+ 5. Click the **Download & Install** button.
 
 
- 7. Click on the **Install** button located at the bottom right.
+ 6. Wabbajack will then download the Skyrim Unification Project wabbajack file and manifest and bring you to the installation page.
+ 7. Once on the installation page, point Wabbajack to your desired `Installation Location` (red) and `Download Location` (green).
+
+
+ 8. Click on the **Install** button located at the bottom right.
 
 <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium</a> users will experience a mostly automated installation process. Non-premium users will need to manually download files as Wabbajack goes through the required files for the modlist. Downloading Skyrim Unification Project will take anywhere from two to twelve plus hours based on your Premium status, ISP & internet speeds, and hardware. It is highly recommended that you go and do something else while the process is taking place, ensuring that your PC does not fall asleep during the process.
 
