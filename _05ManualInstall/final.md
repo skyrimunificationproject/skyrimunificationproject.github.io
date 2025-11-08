@@ -45,7 +45,6 @@ Plugin |
 - | -
 AHZBetterDGEntranceSE.esp |
 Black Briar Banners.esp |
-CitizensComplete.esp |
 EasierRidersDungeonPackSSE.esp |
 HearthfireMultiKid.esp |
 Inigo.esp |
@@ -53,7 +52,6 @@ LessPipesForLucien.esp |
 middenexpanded.esp |
 MorrowindUsesDrams.esp |
 OCW_LotD_FEPatch.esp |
-Skyking Signs - Interesting NPCs Patch.esp |
 Windhelm Lighthouse.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -67,9 +65,7 @@ AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
 Aspens Ablaze.esp | Compact formIDs, add ESL flag, apply ESMifier script
 AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
-Babette has Fangs.esp | Compact formIDs, add ESL flag
 BarbarianPaints.esp | Add ESL flag
-BlubboPines_V3.esp | Add ESM, ESL flag
 BosmerHeadresses.esp | Compact formIDs, add ESL flag
 BSMBonemoldSet.esp | Compact formIDs, add ESL flag (ensure PvtI_BSBonemold is loaded)
 Butterflies.esp | Apply ESMifier script
@@ -81,10 +77,7 @@ CommunityOverlays2_31T50.esp | Add ESL flag
 CommunityOverlays3.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
-DESL_ISL.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
-DragonbornShoutPerksOrdinator.esp | Add ESL flag
-DungeonsRevisited.esp | Apply ESMifier script
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | Compact formIDs, add ESL flag
 Environs - The Ruined Tundra Farmhouse.esp | Apply ESMifier script
@@ -95,8 +88,6 @@ FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
-gildergreen regrown.esp | Compact formIDs, add ESL flag
-HappyLittleTrees.esp | Compact formIDs, add ESL flag
 HoldBorderBanners.esp | Compact formIDs, add ESL flag
 IcyFixes.esp | Add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
@@ -117,7 +108,6 @@ man_dibella.esp | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | Compact formIDs, add ESL flag
 Nature of the Wild Lands.esp | Apply ESMifier script
-Nature of the Wild Lands - Northern Roads Patch.esp | Add ESL flag
 NoGrassINCaves.esp | Compact formIDs, add ESL flag
 Northern Marsh Bridges SE.esp | Apply ESMifier script
 Northern Roads.esp | Apply ESMifier script
@@ -129,9 +119,7 @@ RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
 ReadingImprovesSpeech.esp | Add ESL flag
-RealRainSE.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
-Ruins Clutter Improved.esp | Add ESM flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
@@ -140,11 +128,9 @@ SFO_SkinFeatureOverlays.esp | Add ESL flag
 Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
-Smooth Weapon.esm | Add ESL flag
-Snazzy Furniture and Clutter Overhaul.esp | Apply ESMifier script
 SolitudeTempleFrescoes.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
-Sunstarved_Tanlines.esp | Add ESL flag
+Sunstarved_Tanlines.esp | Add Skyrim.esm as master, Add ESL flag
 TheStumblingSabrecat.esp | Apply ESMifier script
 Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
 ThugsNotAssassins.esp | Add ESL flag
@@ -155,13 +141,12 @@ Unique Border Gates - Fixes.esp | Apply ESMifier script
 Unmarked Locations Pack - All In One.esp | Apply ESMifier script
 Unofficial Material Fix.esp | Apply ESMifier script
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
-Veydosebrom Regions.esp | Compact formIDs, add ESL flag
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Windhelm Bridge Revived.esp | Apply ESMifier script
 Windhelm Lighthouse.esp | Apply ESMifier script
 Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
-WNB_WeatheredNordicBodypaints.esp | Add ESL flag
-Wolfpaint_Face.esp | Add ESL flag
+WNB_WeatheredNordicBodypaints.esp | Add Skyrim.esm as master, add ESL flag
+Wolfpaint_Face.esp | Add Skyrim.esm as master, add ESL flag
 
 
 # LOOT
