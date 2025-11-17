@@ -117,7 +117,7 @@ Download: | Main Files - Contraband Confiscation v1
 
 ## Dirt and Blood - Dynamic Visual Effects
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.37` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38886) | Version: `2.38` | Author: `jayserpa` | ![CAO]
 Download: | Main Files: Dirt and Blood
 
 ![PostInstall]
@@ -247,6 +247,33 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99867) | Version: `1.0` | Author: `Elsawirr` 
 Download: | Main Files - ICC - Simple Hunting Overhaul
 
+## Immersive Diseases 2.0
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/158221) | Version: `1.2` | Author: `HanShotFirst`
+Download: | Main Files - Immersive Diseases
+
+![FOMOD]
+~~~
+Animations:
+   * Yes
+Select A Mod Adding Diseases:
+   * Sunhelm
+Additional Sunhelm Options:
+   * Water-Borne Diseases for SunHelm
+RM Overlays:
+   * None
+Afflicted Animations:
+   * Yes
+NPC Diseases:
+   * Overlays
+   * Disease Distribution
+~~~
+
+## Immersive Diseases - NPC Module Tweaks
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/158889) |  Version: `1.0` | Author: `PixieBomb`
+Download: | Main Files - Immersive Diseases - NPC Module Tweaks
+
 ## Immersive Hunting Animations
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96961) | Version: `2.3.1` | Author: `Elsawirr` | ![CAO]
@@ -281,7 +308,7 @@ Download: | Main Files - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.04` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.05` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -406,6 +433,11 @@ Addon Options Sunhelm:
    * Sunhelm and Widget Addon
 ~~~
 
+## Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74779) | Version: `1.0` | Author: `Torllay`
+Download: | Main Files - Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
+
 ## SunHelm Survival and Needs - CCARA DAR - Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62133) | Version: `1.0` | Author: `Isquras`
@@ -448,7 +480,6 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
-DEST_ISL.esp | Add ESL flag
 SunHelmWyrmstoothPatch.esp | Compact formIDs, add ESL flag, Create SEQ File
 
 # A10. Addons - Followers
@@ -495,11 +526,12 @@ Bodyslide Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.3` | Author: `robbobert` | ![ESM]
 Download: | Main Files - Khajiit Will Follow
+| Update Files - Khajiit Will Follow 4_7_3 Hotfix
 
 ## Khajiit Will Follow - Forgotten City Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![QAC] ![ESM]
-Download: | Main Files - Patch - The Forgotten City
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![QAC] ![ESM] ![Optional]
+Download: | Main Files - Patch - The Forgotten City (if using Adventures)
 
 ## Khajiit Will Follow - eeekie's Replacer
 
@@ -523,7 +555,7 @@ Main File:
 Banter Patch - Thogra:
    * None
 Commentary Patches - Legacy of the Dragonborn:
-   * ESPFE
+   * ESPFE (if using Adventures)
 Commentary Patches - Beyond Reach:
    * None
 Commentary Patches - The Timelost Dwemer:
@@ -559,21 +591,27 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85903) | Version: `1.0` | Author: `megaman2k`
 Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 
-
 ## Xelzaz
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![QAC] ![ESM] 
 Download: | Main Files - Xelzaz Follower Core 1.13.2
 
+## Xelzaz - Sirenroot Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` 
+Download: | Optional Files - Xelzaz Sirenroot Patch
+
 ## Xelzaz - Wyrmstooth Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.9.0` | Author: `BluePwnsU` | ![CAO]
-Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![CAO] ![Optional]
+Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch (if using Adventures)
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
+
+
 
 ## Zoldyg's Xelzaz - Visual Replacer
 
@@ -590,7 +628,9 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
+BPUFXelzazFollower.esp |
 HLIORemi.esp |
+KWFPatch_FC.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -600,7 +640,6 @@ Plugin | Instructions |
 BPUFXelzazFollower.esp | Apply ESMifier script
 HLIORemi.esp | Apply ESMifier script
 KhajiitWillFollow.esp | Apply ESMifier script
-SDA Campfire Patch.esp | Compact formIDs, add ESL flag
 SeranaDialogueAddon.esp | Apply ESMifier script
 
 
@@ -794,6 +833,16 @@ The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Over
 Download: | Main Files - Snozz's and Ryn's White River Watch Patch
 | Optional Files - Lux Orbis Patch
 
+## FuzzBeed's Fabulous Resource Repository
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `9.0` | Author: `FuzzBeed` | ![CAO]
+Download: | Main Files - FuzzBeed's Resources
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Children of the North Wind - Nordic Ruin Diversity
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.8.1` | Author: `FuzzBeed` | ![CAO] ![Merged]
@@ -852,6 +901,33 @@ Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
 | Optional Files - Embers XD Patch
 | Optional Files - Magical Purple Glow Effect Addon
 | Optional Files - Xelzaz - Argonian Follower - Patch (if using Followers)
+
+# Z01. Conflict Resolution
+
+Reinstall or update/merge:
+
+## Skyrim Unification Project - Consistency Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev` | ![Core] |
+Download: | Main Files - Skyrim Unification Project - Consistency Patches
+
+![FOMOD]
+~~~
+Install Type:
+   * All In One
+Select AIO Install Type: (choose which options you have installed)
+   * Core (automatic)
+   * Addons - Survival
+   * Addons - Followers
+   * Addons - Armor and Accessories
+~~~
+
+Place these after the existing Core CR mods.
+
+## Skyrim Unification Project - Conflict Resolution - Addons
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square

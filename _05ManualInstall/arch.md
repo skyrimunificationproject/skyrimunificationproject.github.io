@@ -99,7 +99,7 @@ Download: | Main Files - Rob's Bug Fixes - JK's Skyrim
 
 ## KR2's Apple Trees
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159846) | Version: `1.0.1` | Author: `knightradiant2`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159846) | Version: `1.0.2` | Author: `knightradiant2`
 Download: | Main Files - KR2's Apple Trees and Apple Cider
 
 ![FOMOD]
@@ -178,6 +178,39 @@ Pack the mod with CAO.
 
 # C03. Addons - Project Arch - Cities of the North
 
+## Snazzy Dawnstar AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147758) | Version: `2.2` | Author: `gutmaw`
+Download: | Main Files - Snazzy Dawnstar AIO
+
+![FOMOD]
+~~~
+Installation type:
+   * All-in-One
+~~~
+
+## Snazzy Falkreath AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147671) | Version: `2.0` | Author: `gutmaw`
+Download: | Main Files - Snazzy Falkreath AIO
+
+![FOMOD]
+~~~
+Installation type:
+   * All-in-One
+~~~
+
+## Snazzy Winterhold AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150194) | Version: `2.0` | Author: `gutmaw`
+Download: | Main Files - Snazzy Winterhold AIO
+
+![FOMOD]
+~~~
+Installation type:
+   * All-in-One
+~~~
+
 ## Cities of the North - Dawnstar
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/28952) | Version: `1.4` | Author: `JPSteel2` | ![ESM]
@@ -222,13 +255,13 @@ COTN Dawnstar - Wintersun Patch.esp
 
 ## Cities of the North - Falkreath
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56731) | Version: `1.2` | Author: `JPSteel2` |  ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56731) | Version: `1.3` | Author: `JPSteel2` |  ![ESM]
 Download: | Main Files - Cities of the North - Falkreath
 
 
 ## Cities of the North - Falkreath Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.27` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.28` | Author: `Janquel` | ![Merged]
 Download: | Main Files - COTN Falkreath Patch Collection
 
 ![FOMOD]
@@ -327,7 +360,7 @@ Pack the mod with CAO.
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.9.2` | Author: `Czasior` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.10` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
@@ -388,38 +421,7 @@ CotN Dawnstar - Patches:
    * Simplicity of Snow
 ~~~
 
-## Snazzy Dawnstar AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147758) | Version: `2.2` | Author: `gutmaw`
-Download: | Main Files - Snazzy Dawnstar AIO
-
-![FOMOD]
-~~~
-Installation type:
-   * All-in-One
-~~~
-
-## Snazzy Falkreath AIO
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147671) | Version: `2.0` | Author: `gutmaw`
-Download: | Main Files - Snazzy Falkreath AIO
-
-![FOMOD]
-~~~
-Installation type:
-   * All-in-One
-~~~
-
-## Snazzy Winterhold AIO
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150194) | Version: `2.0` | Author: `gutmaw`
-Download: | Main Files - Snazzy Winterhold AIO
-
-![FOMOD]
-~~~
-Installation type:
-   * All-in-One
-~~~
 
 ## Winterhold Docks
 
@@ -448,6 +450,7 @@ Download: | Main Files - JK's Thieves Guild
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64018) | Version: `1.3` | Author: `GGUNIT` | ![ESM]
 Download: | Main Files - GG's Thieves Guild Headquarters
+| Update Files - Updated main plugin
 
 ## GG's Thieves Guild HQ Patch Collection
 
@@ -480,7 +483,7 @@ Download: | Main Files - JK's Riften Outskirts
 
 ## JK's Riften Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.7` | Author: `Czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91642) | Version: `1.7.1` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Riften Outskirts Patch Collection
 
 ![FOMOD]
@@ -629,7 +632,7 @@ LOD Pack for DynDOLOD 3.0:
 
 ## Drengin's Blue Palace Terrace - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2a` | Author: `Drengin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2b` | Author: `Drengin` 
 Download: | Optional Files - BluePalaceTerrace-Renewed-Patches
 
 ![FOMOD]
@@ -649,7 +652,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.2.1` | Author: `jkrojmal and czasior` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.2.1` | Author: `jkrojmal and czasior` |  ![Merged]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -711,7 +714,7 @@ The JK's Blue Palace Terrace patch is merged into Project Arch - Solitude.
 
 ## Grand Solitude - The Walls of High King Erling
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157506) | Version: `1.1` | Author: `Drengin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157506) | Version: `1.2` | Author: `Drengin` 
 Download: | Main Files - Grand Solitude - The Walls of High King Erling
 
 ![FOMOD]
@@ -803,7 +806,7 @@ Download: | Main Files - Rodryk's DB Mesh Optimization - No Window Iron
 ## Rodryk's DB Mesh Optimization - Walkway Mesh Collision Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157700) | Version: `1.0` | Author: `Matchm149`
-Download: | Main Files - Rodryn's DB Collision Fix
+Download: | Main Files - Rodryk's DB Collision Fix
 
 ## Rodryk's Dragon Bridge Retexture
 
@@ -1040,11 +1043,14 @@ Allow autoselected.
 ~~~
 The following plugins are merged into Project Arch - Windhelm:
 JKs Windhelm Outskirts - 3DNPC patch.esp
+JKs Windhelm Outskirts - 3DNPC + Ryns Farms patch.esp
 JKs Windhelm Outskirts - BUVARP patch.esp
 JKs Windhelm Outskirts - Capital Windhelm patch.esp
 JKs Windhelm Outskirts - Farmhouse Chimneys patch.esp
+JKs Windhelm Outskirts - Immersive Citizens patch.esp
 JKs Windhelm Outskirts - Lux Via patch.esp
 JKs Windhelm Outskirts - Ryns Farms patch.esp
+JKs Windhelm Outskirts - Ryns Farms + BUVARP patch.esp
 JKs Windhelm Outskirts - Skyrim Sewers patch.esp
 JKs Windhelm Outskirts - USSEP patch.esp
 JKs Windhelm Outskirts - Windhelm Bridge Revived patch.esp
@@ -1180,7 +1186,7 @@ Download: | Main Files - JK's Tel Mithryn
 
 ## JK's Tel Mithryn Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154109) | Version: `1.1` | Author: `czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154109) | Version: `1.2` | Author: `czasior` | ![Merged]
 Download: | Main Files - JK's Tel Mithryn Patch Collection
 
 ![FOMOD]
@@ -1242,7 +1248,7 @@ JKs-ClefJs Fort Dawnguard - WACCF patch.esp
 ## Skyfall's Fort Dawnguard Roofs
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157501) | Version: `1.0` | Author: `skyfall515`
-Download: | Main Files - Skyfalls Fort Dawnguard Roofs
+Download: | Main Files - Skyfalls Fort Dawnguard Roofs (non parallax)
 
 ## Skyfall's Fort Dawnguard Roofs - Custom Texture
 
@@ -1253,6 +1259,22 @@ Download: | Optional Files - TBD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157501) | Version: `1.0` | Author: `skyfall515`
 Download: | Optional Files - Dawnguard Roofs - JK and ClefJ Combo patch
+
+## Snazzy Raven Rock AIO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147623) | Version: `2.0` | Author: `gutmaw` | ![CAO]
+Download: | Main Files - Snazzy Raven Rock AIO
+
+![FOMOD]
+~~~
+Installation type:
+   * All-in-One
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Quaint Raven Rock
 
@@ -1288,27 +1310,15 @@ JKs Raven Rock - Missives patch.esp
 JKs Raven Rock - Morrowind Mint (QRR) patch.esp
 JKs Raven Rock - Nature of the Wild Lands patch.esp
 JKs Raven Rock - Outlaws Refuges (QRR) patch.esp
+JKs Raven Rock - Snazzy Raven Rock AIO patch.esp
+JKs Raven Rock - Snazzy Raven Rock AIO (QRR) patch.esp
 JKs Raven Rock - Sunhelm patch.esp
 JKs Raven Rock - TSR patch.esp
 JKs Raven Rock - Unmarked Locations Pack AIO patch.esp
 JKs Raven Rock - USSEP patch.esp
 ~~~
 
-## Snazzy Raven Rock AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147623) | Version: `2.0` | Author: `gutmaw` | ![CAO]
-Download: | Main Files - Snazzy Raven Rock AIO
-
-![FOMOD]
-~~~
-Installation type:
-   * All-in-One
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 # C08. Addons - Project Arch - Towns and Villages
 
@@ -1553,30 +1563,10 @@ Half-Moon Mill COTNed - Radiance Locations patch.esp
 Half-Moon Mill COTNed - SUT Patch.esp
 ~~~
 
-## Nightgate Inn Revived
+## JK's Nightgate Inn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121244) | Version: `1.6` | Author: `miliyx` | ![ESM] ![Merged]
-Download: | Main Files - Nightgate Inn Revived - Main File
-
-![MergedLg]
-~~~
-All required patches have been merged into Project Arch - Windhelm or Project Arch - Followers Patch.
-If you have installed additional mods you may require some additional patches
-from Main Files - Nightgate Inn Revived - Patches and Addons.
-
-Merged patches include:
-Lux - Nightgate Inn Revived patch.esp
-Nightgate Inn Revived - 3DNPC.esp
-Nightgate Inn Revived - Alternate Start.esp
-Nightgate Inn Revived - Cheesemod.esp
-Nightgate Inn Revived - Embers XD.esp
-Nightgate Inn Revived - Immersive Citizens.esp
-Nightgate Inn Revived - Legacy of the Dragonborn.esp
-Nightgate Inn Revived - Lux Orbis.esp
-Nightgate Inn Revived - Skyrims Unique Treasures.esp
-Nightgate Inn Revived - Xelzaz.esp.
-~~~
-
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/161218) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
+Download: | Main Files - JK's Nightgate Inn
 
 ## Old Hroldan Ruins SE
 
@@ -1651,6 +1641,7 @@ Great Town of Ivarstead - CACO patch.esp
 Great Town of Ivarstead - Cheesemod Patch.esp
 Great Town of Ivarstead - Embers XD Patch.esp
 Great Town of Ivarstead - Farmhouse Chimneys patch.esp
+Great Town of Ivarstead - Immersive Citizens patch.esp
 Great Town of Ivarstead - JK - TNOTT Patch.esp
 Great Town of Ivarstead - LOTD Patch.esp
 Great Town of Ivarstead - Nature of the Wild Lands patch.esp
@@ -1671,27 +1662,27 @@ Download: | Main Files - TGT Ivarstead - SMIM
 
 ## JK's Angeline's Aromatics
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44482) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44482) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Angeline's Aromatics
 
 ## JK's Arcadia's Cauldron
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33565) | Version: `1.01` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33565) | Version: `1.01` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Arcadia's Cauldron
 
 ## JK's Arnleif and Sons Trading Company
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54166) | Version: `1.0.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Arnleif and Sons Trading Company
 
 ## JK's Belethor's General Goods
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33636) | Version: `1.1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33636) | Version: `1.1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Belethor's General Goods
 
 ## JK's Bits and Pieces
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44642) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44642) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Bits and Pieces
 
 ## JK's Candlehearth Hall
@@ -1701,12 +1692,12 @@ Download: | Main Files - JK's Candlehearth Hall
 
 ## JK's Elgrims Elixirs
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49934) | Version: `1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49934) | Version: `1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Elgrims Elixirs
 
 ## JK's Haelga's Bunkhouse
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60085) | Version: `1.1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60085) | Version: `1.1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Haelga's Bunkhouse
 
 ## JK's New Gnisis Cornerclub
@@ -1716,17 +1707,17 @@ Download: | Main Files - JK's New Gnisis Cornerclub
 
 ## JK's Radiant Raiment
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44858) | Version: `1.0.4` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44858) | Version: `1.0.4` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Radiant Raiment
 
 ## JK's Sadri's Used Wares
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47942) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47942) | Version: `1.0.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Sadri's Used Wares
 
 ## JK's Silver-Blood Inn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53554) | Version: `1.0.2` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53554) | Version: `1.0.2` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Silver-Blood Inn
 
 ## JK's The Bannered Mare
@@ -1736,7 +1727,7 @@ Download: | Main Files - JK's The Bannered Mare
 
 ## JK's The Bee and Barb
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49516) | Version: `1.1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49516) | Version: `1.1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Bee and Barb
 
 
@@ -1747,12 +1738,12 @@ Download: | Main Files - JK's The Drunken Huntsman
 
 ## JK's The Hag's Cure
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54587) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54587) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Hag's Cure
 
 ## JK's The Pawned Prawn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50135) | Version: `1.0.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/50135) | Version: `1.0.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Pawned Prawn
 
 ## JK's The Ragged Flagon
@@ -1767,12 +1758,12 @@ Download: | Main Files - JK's The Winking Skeever
 
 ## JK's Warmaiden's
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Version: `1.3.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33685) | Version: `1.3.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Warmaiden's
 
 ## JK's White Phial
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47713) | Version: `1.1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47713) | Version: `1.1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's White Phial
 
 
@@ -1783,12 +1774,12 @@ Download: | Main Files - JK's White Phial
 
 ## JK's Dragonsreach
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Version: `1.1.3` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34000) | Version: `1.1.3` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Dragonsreach
 
 ## JK's Mistveil Keep
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52462) | Version: `1.0.2` | Author: `jkrojmal` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52462) | Version: `1.0.2` | Author: `jkrojmal` | ![CAO] ![ESM]
 Download: | Main Files - JK's Mistveil Keep
 
 ![PostInstall]
@@ -1798,27 +1789,27 @@ Pack the mod with CAO.
 
 ## JK's Palace of the Kings
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48902) | Version: `1.2.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/48902) | Version: `1.2.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Palace of the Kings
 
 ## JK's Temple of Dibella
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56371) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56371) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Temple of Dibella
 
 ## JK's Temple of Kynareth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56737) | Version: `1.0` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56737) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Temple of Kynareth
 
 ## JK's Temple of Mara
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52724) | Version: `1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52724) | Version: `1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Temple of Mara
 
 ## JK's Temple of Talos
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56971) | Version: `1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56971) | Version: `1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Temple of Talos
 
 
@@ -1838,34 +1829,34 @@ Download: | Main Files - JK's College of Winterhold
 
 ## JK's Dark Brotherhood Sanctuaries
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121950) | Version: `1.1.0` | Author: `jkrojmal`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121950) | Version: `1.1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Dark Brotherhood Sanctuaries
 
 ## JK's High Hrothgar
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62219) | Version: `1.0.2` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62219) | Version: `1.0.2` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's High Hrothgar
 
 ## JK's Jorrvaskr
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60738) | Version: `1.1.4` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60738) | Version: `1.1.4` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Jorrvaskr
 
 ## JK's Nightingale Hall
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128116) | Version: `1.0` | Author: `jkrojmal`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128116) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Nightingale Hall
 
 
 
 ## JK's The Bards College
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71054) | Version: `1.0.3` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71054) | Version: `1.0.3` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's The Bards College
 
 ## JK's College of Winterhold (Immersive and Obscure) Combo Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.10` | Author: `Czasior and Janquel` | ![BSA] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/67820) | Version: `2.10.2` | Author: `Czasior and Janquel` | ![Merged]
 Download: | Main Files - JK's College of Winterhold (Immersive and Obscure)
 
 ![FOMOD]
@@ -1875,8 +1866,6 @@ Allow autoselected.
 
 ![PostInstall]
 ~~~
-Extract the BSAs after installing.
-
 Deactivate all patches from Obscure's College of Winterhold
    except for:
    OCW_RudyHQ_Silverware Patch.esp
@@ -1888,8 +1877,6 @@ Deactivate all patches from Obscure's College of Winterhold
 
 ![MergedLg]
 ~~~
-Make sure BSAs are extracted (Mainland Staves)
-
 The following patches have been merged into Project Arch - Winterhold:
 JKs CoW - OCW - 3DNPC Patch.esp
 JKs CoW - OCW - ACE Patch.esp
@@ -1941,22 +1928,22 @@ The mesh edits from this patch collection remain active.
 
 ## JK's Riverwood Trader
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55959) | Version: `1.1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/55959) | Version: `1.1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Riverwood Trader
 
 ## JK's Septimus Signus's Outpost
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66915) | Version: `1.0.2` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66915) | Version: `1.0.2` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Septimus Signus's Outpost
 
 ## JK's Sinderion's Field Laboratory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.3` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.3` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Sinderion's Field Laboratory
 
 ## JK's Sleeping Giant Inn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35806) | Version: `1.1.1` | Author: `jkrojmal` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35806) | Version: `1.1.1` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Sleeping Giant Inn
 
 
@@ -1966,7 +1953,7 @@ Download: | Main Files - JK's Sleeping Giant Inn
 ## The Great Town Series - NPC Replacer
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135907) | Version: `1.3` | Author: `araviss` | 
-Download: | Main Files - The Great Town series NPC replacer
+Download: | Main Files - TGC series NPC replacer
 
 ![FOMOD]
 ~~~
@@ -2006,7 +1993,7 @@ The patches are merged into Project Arch.
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.26` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.28.1` | Author: `Janquel` | ![Merged]
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -2059,7 +2046,16 @@ If you are going to customize your install and not use the Project Arch files, t
 ![MergedLg]
 ~~~
 The following plugins are merged into Project Arch:
-(all except Lux-)
+All *except for*:
+   Snazzy Grand Solitude - Lux patch.esp
+   Snazzy Interiors - JKs Dragonsreach - Lux patch.esp
+   Snazzy Interiors - JKs Palace of the Kings - Lux patch.esp
+   Snazzy Interiors - Markarth AIO - Lux patch.esp
+   Snazzy Interiors - Raven Rock AIO - Lux patch.esp
+   Snazzy Interiors - Riften AIO - Lux patch.esp
+   Snazzy Interiors - Solitude AIO - Lux patch.esp
+   Snazzy Interiors - Whiterun AIO - Lux patch.esp
+   Snazzy Interiors - Windhelm AIO - Lux patch.esp
 ~~~
 
 ## Modder's Resource Pack - The Witcher
@@ -2127,17 +2123,14 @@ Environs - Abandoned Abodes.esp | Apply ESMifier script
 Environs - Hroggar's House.esp | Apply ESMifier script
 Environs - Kolseggr.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
-Fortified ramp to the Castle Dour.esp | Apply ESMifier script
 GG's Thieves Guild Headquarters.esp | Apply ESMifier script
 Gonz - Stonehills ReRe-imagined.esp | Apply ESMifier script
 Half-Moon Mill - COTNed.esp | Apply ESMifier script
+JK's Angelines Aromatics.esp | Apply ESMifier script
 JK's Arcadia's Cauldron.esp | Apply ESMifier script
 JK's Arnleif and Sons Trading Company.esp | Apply ESMifier script
-JK's Angelines Aromatics.esp | Apply ESMifier script
-JK's Bee and Barb.esp | Apply ESMifier script
 JK's Belethor's General Goods.esp | Apply ESMifier script
 JK's Bits and Pieces.esp | Apply ESMifier script
-JK's Blue Palace Terrace.esp | Apply ESMifier script
 JK's Candlehearth Hall.esp | Apply ESMifier script
 JK's Castle Volkihar.esp | Apply ESMifier script
 JK's Dark Brotherhood Sanctuary.esp | Apply ESMifier script
@@ -2150,6 +2143,7 @@ JK's Jorrvaskr.esp | Apply ESMifier script
 JK's Mistveil Keep.esp | Apply ESMifier script
 JK's New Gnisis Cornerclub.esp | Apply ESMifier script
 JK's Nightingale Hall.esp | Apply ESMifier script
+JK's Nightgate Inn.esp | Apply ESMifier script
 JK's Palace of the Kings.esp | Apply ESMifier script
 JK's Radiant Raiment.esp | Apply ESMifier script
 JK's Riften Outskirts.esp | Apply ESMifier script
@@ -2167,6 +2161,7 @@ JK's Temple of Mara.esp | Apply ESMifier script
 JK's Temple of Talos.esp | Apply ESMifier script
 JK's The Bannered Mare.esp | Apply ESMifier script
 JK's The Bards College.esp | Apply ESMifier script
+JK's The Bee and Barb.esp | Apply ESMifier script
 JK's The Hag's Cure.esp | Apply ESMifier script
 JK's The Pawned Prawn.esp | Apply ESMifier script
 JK's The Ragged Flagon.esp | Apply ESMifier script
@@ -2182,7 +2177,6 @@ JKs Skyrim - Rob's Bug Fixes.esp | Apply ESMifier script
 JKs-ClefJs Fort Dawnguard.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 Markarth - City of Stone.esp | Apply ESMifier script
-Nightgate Inn Revived.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
 Resources - The Great Cities.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
@@ -2205,7 +2199,7 @@ TGCotN Winterhold.esp | Apply ESMifier script
 The Great City of Winterhold v4.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
-Winterholddocks.esp | Apply ESMifier script (install the replacer from Core-Psychopatchist Purgatory first)
+Winterhold docks.esp | Apply ESMifier script (install the replacer from Core-Psychopatchist Purgatory first)
 
 
 

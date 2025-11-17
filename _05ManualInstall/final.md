@@ -49,7 +49,7 @@ EasierRidersDungeonPackSSE.esp |
 HearthfireMultiKid.esp |
 Inigo.esp |
 LessPipesForLucien.esp |
-middenexpanded.esp |
+middenexpandedSSE.esp |
 MorrowindUsesDrams.esp |
 OCW_LotD_FEPatch.esp |
 Windhelm Lighthouse.esp |
@@ -126,6 +126,7 @@ SaveTheIcerunner.esp | Add ESL flag
 Semi-Open Guard Helmets SE.esp | Compact formIDs, add ESL flag
 SFO_SkinFeatureOverlays.esp | Add ESL flag
 Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
+Skyrim Bandit Expansion.esp | Apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SolitudeTempleFrescoes.esp | Apply ESMifier script

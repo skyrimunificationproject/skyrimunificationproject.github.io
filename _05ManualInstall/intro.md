@@ -156,8 +156,8 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b434` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.6-b434
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b477` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.6-b477
 
 ![PostInstall]
 ~~~
@@ -438,7 +438,7 @@ Configure the settings as specified below.  If an option is not mentioned, it ca
 
 + **Gameplay Tab**
   + Always Drive Ragdoll: Checked
-  + NPCs Use Ammo: Checked
+  + NPCs Use Ammo: Unchecked
   + Tutorials: Unchecked
   + Weapon Charge Clear Time: 0.25
   + Over-Encumbered Reminder: 300

@@ -205,7 +205,7 @@ Download: | Main Files - The Gray Cowl of Nocturnal
 
 ## The Grey Cowl of Nocturnal - Alikr Flora Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM] ![ESL-C]
 Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
 
 ## The Tools of Kagrenac
@@ -442,10 +442,13 @@ Auto Grab Amulets:
 
 ## Dynamic Treasure Map Journal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78681) | Version: `2.0` | Author: `DrMabuse`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78681) | Version: `2.0` | Author: `DrMabuse` | ![ESL]
 Download: | https://drive.google.com/file/d/1iCSFqX581X3y6E3VSxDdPNORbpIMpw25/view
 
-
+![PostInstall]
+~~~
+Remove the 'v6' from the esp and bsa names.
+~~~
 
 ## Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
 
@@ -539,7 +542,7 @@ Delete meshes/dbm resources/museumsign.nif.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.11` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.12` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
@@ -586,7 +589,7 @@ Download: | Main Files - Legacy of the Dragonborn - Player Homes Displays
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.7` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.8` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn - The Curators Companion
 
 ![FOMOD]
@@ -672,6 +675,18 @@ Delete /meshes.
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36445) | Version: `1.1` | Author: `ElSopa`
 Download: | Main Files - ElSopa - HD Big Backpack
+
+![FOMOD]
+~~~
+Legacy of the Dragonborn - Diffuse:
+   * Diffuse 2k
+Legacy of the Dragonborn - Normal:
+   * 2k
+Wet and Cold - Diffuse:
+   * None
+Wet and Cold - Normal:
+   * None
+~~~
 
 ## Falmer Overhaul - My Patches
 
@@ -795,8 +810,7 @@ Download: | Main Files - Legacy of the Dragonborn - Snazzy Excavation Tent
 ## Legacy of the Dragonborn - Tweaks and Options
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58517) | Version: `2.0` | Author: `gutmaw`
-Download: | Optional Files - Legacy of the Dragonborn - Hall of Wonders Main Staircase Fix
-| Optional Files - LotD Tweaks - Display Glass
+Download: | Optional Files - LotD Tweaks - Display Glass
 | Optional Files - LotD Tweaks - Wood Textures
 
 ## Legacy of the Dragonborn - Visage of the Dragonborn
@@ -819,7 +833,7 @@ Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
 
 ## The Gray Cowl of Nocturnal - HD Retexture
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![CAO] ![ESL-C]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7644) | Version: `1.2` | Author: `Salchichen` | ![CAO] 
 Download: | Main Files - The Grey Cowl of Nocturnal SE - HD Texture pack
 
 ![PostInstall]
@@ -870,14 +884,9 @@ Delete textures/terrain/.
 
 ## Wyrmstooth - Vulom - Skeleton Replacer HD Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.2` | Author: `ChildofDragons` | ![Visuals]
-Download: | Main Files - Wyrmstooth - Skeleton Replacer HD - Vulom Fix
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.2.1` | Author: `ChildofDragons` | ![Visuals]
+Download: | Main Files - Wyrmstooth - Skeleton Replacer HD (2K)
 
-![FOMOD]
-~~~
-Texture Resolution:
-   * 2K
-~~~
 
 ## Wyrmstooth - Unique Weapons Reforged
 
@@ -937,43 +946,44 @@ Download: | Optional Files - Ancient Dwemer Metal - My Patches - The Forgotten C
 Download: | Optional Files - Ancient Dwemer Metal - My Patches - The Tools of Kagenrac
 
 
-# Z01. Conflict Resolution
-
-
+# Z02. Conflict Resolution
 
 Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
 ~~~
 Install Type:
    * All In One
-Select AIO Install Type:
+Select AIO Install Type: (choose which options you have installed)
    * Core (automatic)
+   * Addons - Survival
+   * Addons - Followers
+   * Addons - Armor and Accessories
    * Addons - Adventures
 ~~~
 
 Place these after the existing Core CR mods.
 
-## Skyrim Unification Project - Conflict Resolution - Addons - Adventures
+## Skyrim Unification Project - Addons - Adventures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
-Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
+Download: | Main Files - Skyrim Unification Project - Addons - Adventures
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
 
-[![mod]](https://www.dropbox.com/scl/fi/v7r7826qdl28wfyiugzbb/Skyrim-Unification-Project-Replacement-Plugins-Addons-Adventures.7z?rlkey=2v2zal7wu22kr3ns0xkz0zal0&dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core]
-Download: | Skyrim Unification Project - Repacement Plugins - Addons - Adventures.7z
+[![mod]](https://www.dropbox.com/scl/fi/v7r7826qdl28wfyiugzbb/Skyrim-Unification-Project-Replacement-Plugins-Addons-Adventures.7z?rlkey=2v2zal7wu22kr3ns0xkz0zal0&dl=0) | Version: `1.0.0.0` | Author: `rev, ra2` | ![Core] ![Adventures]
+Download: | Skyrim Unification Project - Replacement Plugins - Addons - Adventures.7z
 
 ![FOMOD]
 ~~~
 Replacement Plugins:
+   * DBM_CloaksOfSkyrim_Patch
    * DBM_RoyalArmory_Patch
-   * Moon and Star
 ~~~
 
 
@@ -993,9 +1003,8 @@ ForgottenCity.esp |
 Gray Fox Cowl.esp |
 konahrik_accoutrements.esp |
 ktWeaponPackSE.esp |
-RSC HR Patch.esp |
 yumcheese.esp |
-WZOblivionArtifacts.esp
+WZOblivionArtifacts.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
@@ -1007,10 +1016,8 @@ AetheriumSwordsnArmor.esp | Apply ESMifier script
 ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Apply ESMifier script
 DynamicTreasureMapJournal - DBM.esp | Add ESL flag
-FarmhouseChimneysHelgenReborn | Compact formIDs, add ESL flag
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
-Fossilsyum.esp | Apply ESMifier script
 Gray Fox Flora Overhaul.esp | Compact formIDs, add ESL flag, apply ESMifier script
 Helgen Reborn.esp | Apply ESMifier script
 icebladeofthemonarch.esp | Apply ESMifier script

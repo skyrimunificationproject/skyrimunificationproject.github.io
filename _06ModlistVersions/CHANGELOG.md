@@ -17,6 +17,169 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.1.0 - 2025-??
+
+NOT save-safe.
+
+![Added]
+~~~
+Core - Oxygen Meter 2
+Core - Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.
+Core - Smart Talk (Dialogue Menu Enhancer)
+Core - Unequip Quiver NG
+Core - Untarnished UI - Oxygen Meter 2 Patch
+Core - Untarnished UI - TrueHUD and Inventory Injector
+Core - Quest Journal Overhaul - Unofficial Mods Support
+Core - SIRENROOT - Deluge of Deceit
+Core - SIRENROOT - Deluge of Deceit - HD Texture Pack
+Core - Showcases of Skyrim - A Display Case Replacer
+Core - Military Camps Begone
+Core - Reinforced Civil War Camps
+Core - Mine Drawbridge Improved
+Core - Dragons - True Ragdoll Physics
+Core - Sirene Wispmother - A SIRENROOT Replacer
+Core - Skyrim Bandit Expansion
+Core - No Ugly Skinny Offset for Males
+Core - SIGMA - Battleaxe Animations - 1st Person
+Core - SIGMA - Greatsword Animations - 1st Person
+Core - SIGMA - Mace Animations - 1st Person
+Core - SIGMA - Shield Animations - 1st Person
+Core - SIGMA - Sword Animations - 1st Person
+Core - SIGMA - Waraxe Animations - 1st Person
+Core - SIGMA - Warhammer Animations - 1st Person
+Core - Smart NPC Potions - Enemies Use Potions and Poisons
+Core - Drain Magic VFX Edit
+
+Addons - Survival - Immersive Diseases 2.0
+Addons - Survival - Immersive Diseases - NPC Module Tweaks
+Addons - Survival - Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
+Addons - Followers - Xelzaz - Sirenroot Patch
+Addons - Vanilla Locations - FuzzBeed's Fabulous Resource Repository
+
+Arch - JK's Nightgate Inn
+~~~
+
+![Removed]
+~~~
+Core - Equipment Toggle
+Core - NPCs Use Potions
+Core - CritterSpawn Congestion Fix (redundant)
+Core - Children of the Pariah - CoDB Addon
+Core - Pandorable's Wicked Witches
+Core - Salt and Wind - KS Hairdos - Kalilies NPCs
+Core - Comprehensive First Person Animation Overhaul - CFPAO
+
+Arch - Nightgate Inn Revived
+~~~
+
+![Updated]
+~~~
+Prerequisites - Creation Kit Platform Extended updated to 0.6-b477.
+Prerequisites - Changed BethINI settings: unchecked NPCs Use Ammo
+
+Core - Object Categorization Framework Some KID Patches updated to 3.0.
+Core - powerofthree's Papyrus Extender updated to 6.2.0.
+Core - Auto Name Enchantments updated to 1.0.2.
+Core - Helmet Toggle 2 updated to 3.5.4.
+Core - Magic Fixes and Tweaks SKSE updated to 2.4.0.
+Core - Papyrus Tweaks NG updated to 4.1.1.
+Core - Navigator updated to 1.8.0.
+Core - CritterSpawn Congestion Fix Script Call Reduction updated to 2.0.
+Core - Universal Unwanted Effects Clearer updated to 0.4.2.
+Core - Follower Stats  updated to 1.0.10.
+Core - Ivy's Stendarr's Beacon Overhaul updated to 1.0.4.
+Core - Handcarts Base Object Swapper updated to 1.2.
+Core - Utenlands Nordic Tents updated to 1.2.7.
+Core - Don't Rush Me updated to 1.3.
+Core - Skyrim Extended Cut Saints and Seducers updated to 6.1.7.
+Core - Heavy Armory updated to  6.1.7, instructions changed
+Core - New Armory Series Ash Spawn Weapons updated to 1.41.
+Core - Assorted Mesh Fixes updated to 0.131.
+Core - Simplicity of Snow updated to 0.26.
+Core - Vanaheimr Northern Roads updated to 2.6.
+Core - Aspens Ablaze updated to 2.39.
+Core - Water for ENB updated to 2.16.
+Core - Natural Waterfalls updated to 3.5.
+Core - Better Argonian Horns updated to 2.3.
+Core - Children of Dawn's Beauty updated to 1.07.1.
+Core - Children of the Ash updated to 1.05.1.
+Core - Children of the First updated to 1.06.1.
+Core - Children of the Green updated to 1.10.1.
+Core - Children of the Hist updated to 2.01.
+Core - Children of the Hist Fishing CC updated to 2.01.
+Core - Racial Skin Variance SPID updated to 3.2.1.
+Core - Sassy Salt and Wind Hair Retexture - files to download changed
+Core - Sassy Salt and Wind Hair Retexture Pandorable's Patches - files to download changed
+Core - Next-Gen Decapitation updated to 1.4.3.
+Core - Dynamic Female Wall Leaning updated to 1.2.
+Core - XP32 True Ragdoll Physics updated to 5.06.12.
+Core - Immersive First Person Messages updated to 1.3.2.
+Core - NPC Spell Variance updated to 2.5.5.
+Core - Experience updated to 3.7.3.
+Core - Simple Dual Sheath - position changed
+Core - Simple Dual Sheath XPMSSE Rotation Fix - position changed
+Core - 3D Junipers Retexture Mari's Flora updated to 1.1.
+Core - Enhanced Rocks and Mountains Addon updated to 4.5.
+Core - Fixed Meshes for Rugnarok updated to 1.6.
+Core - KittyVFX ENBHands updated to 2.1.
+Core - Extravagant Blue Palace Base Object Swapper updated to 1.1.
+Core - First Person Interactions updated to 1.7.2.
+Core - Lux Patch Hub - added update files
+Core - Lux Orbis Patch Hub - added update files
+Core - Navigator Patch Collection updated to 1.04.
+Core - Northern Roads Patch Collection updated to 1.38.
+Core - FPS Boost for Quest Mods updated to 1.11.0.
+Core - Psychopatchist Purgatory updated to 0.13.1.
+Core - SFCO3 Patch Collection updated to 1.19.
+Core - The Dragonborn's Bestiary Quest Patch Compendium AIO updated to 1.23.
+Core - Final - Added Skyrim Bandit Expansion ESM instruction
+
+Addons - Survival - Dirt and Blood updated to 2.38.
+Addons - Survival - Stress and Fear updated to 2.05.
+Addons - Followers - Xelzaz Wyrmstooth Patch updated to 1.13.2.
+Addons - Followers - Final Steps - Added QAC instructions to Xelzaz and KWF FC Patch.
+
+Adventures - Legacy of the Dragonborn Patches Creation Club updated to 6.0.12.
+Adventures - Legacy of the Dragonborn The Curator's Companion updated to 7.0.8.
+Adventures - Wyrmstooth Vulom Skeleton Replacer HD Patch updated to 2.2.1.
+
+Arch - KR2's Apple Trees updated to 1.0.2.
+Arch - Snazzy Dawnstar AIO position changed
+Arch - Snazzy Falkreath AIO position changed
+Arch - Snazzy Winterhold AIO position changed
+Arch - Cities of the North Falkreath updated to 1.3.
+Arch - Cities of the North Falkreath Patch Collection updated to 1.28.
+Arch - The Great City of Winterhold Patch Collection updated to 2.10.
+Arch - GG's Thieves Guild Headquarters - added update file
+Arch - JK's Riften Outskirts Patch Collection updated to 1.7.1.
+Arch - Drengin's Blue Palace Terrace Patches updated to 2.2.b.
+Arch - Grand Solitude updated to 1.2.
+Arch - JK's Tel Mithryn Patch Collection updated to 1.2.
+Arch - Snazzy Raven Rock AIO position changed
+Arch - JK's College of Winterhold Combo Patches updated to 2.10.2.
+Arch - JK's Interiors Patch Collection updated to 5.28.1.
+Arch - Final - Added JK's Nightgate Inn ESM instruction
+~~~
+
+![Bugfixes]
+~~~
+SUP HPH Facegen 1.1 - Added Skyrim Bandit Expansion, packed each replacer into BSA
+SUP Consistency Patches 1.1 - Changed Heavy Armory from a replacer to new/updated
+                              consistency patches
+                            - Small updates to Bandit War
+SUP Conflict Resolution 1.1 - Updated records for Heavy Armory update
+                            - Navigator patching
+                            - Added CR for Sirenroot and Skyrim Bandit Expansion
+                            - Landscape edits around Nightgate area
+SUP Addons - Adventures 1.1 - Navigator patching
+SUP Addons - Followers 1.1  - Small consistency edits
+SUP Addons - Vanilla Locations 1.1 - Navigator patching
+                                   - Updates for adjustment of landscape around Nightgate
+SUP Project Arch 1.1 - Updated merged patches
+                     - Navigator patching
+                     - Updates for JK Nightgate Inn
+~~~
+
 # 1.0.2 - 2025-10-18
 
 Save-safe.
