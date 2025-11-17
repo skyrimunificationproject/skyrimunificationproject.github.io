@@ -17,7 +17,7 @@ description: Changelog and Version History
 {:toc}
 </details>
 
-# 1.1.0 - 2025-??
+# 1.1.0 - 2025-11-16
 
 NOT save-safe.
 
