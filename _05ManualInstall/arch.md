@@ -425,7 +425,7 @@ CotN Dawnstar - Patches:
 
 ## Winterhold Docks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.1` | Author: `CarpeNihil`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.2.1` | Author: `CarpeNihil`
 Download: | Main Files - Winterhold Docks
 
 # C04. Addons - Project Arch - Markarth and Riften
@@ -2009,7 +2009,7 @@ additional mods, you may need additional patches from this installer.
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.31` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.32` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -2199,7 +2199,7 @@ TGCotN Winterhold.esp | Apply ESMifier script
 The Great City of Winterhold v4.esp | Apply ESMifier script
 Undriel_QuaintRavenRock.esp | Apply ESMifier script
 WindhelmSSE.esp | Apply ESMifier script
-Winterhold docks.esp | Apply ESMifier script (install the replacer from Core-Psychopatchist Purgatory first)
+Winterhold docks.esp | Apply ESMifier script
 
 
 

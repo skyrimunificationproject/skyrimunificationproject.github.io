@@ -364,6 +364,11 @@ Download: | Main Files - Behavior Data Injector Universal Support
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147942) | Version: `2.0.3` | Author: `Shekhinaga` | ![Core]
 Download: | Main Files - Best in Class - SKSE Remake
 
+## Better Combat Escape - SSE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43936) | Version: `0.83` | Author: `Maxsu` | ![Core]
+Download: | Main Files - Better Combat Escape - SSE V0.83
+
 ## Better Combat Escape - NG
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72901) | Version: `1.01` | Author: `Maxsu - doodlum` | ![Core] |
@@ -469,6 +474,10 @@ DLL:
    * SSE v1.6.1130+ ("Anniversary Edition")
 ~~~
 
+## Dual Wield Parrying SKSE
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85505) | Version:  `1.7.0` | Author: `Borgut1337` | ![Core]
+Download: | Main Files - Dual Wield Parrying SKSE 1.6.1130 and above
 
 ## Dynamic Collision Adjustment
 
@@ -814,6 +823,11 @@ Download: | Main Files - NPC AI Process Position Fix - NG
 Patches:
    * Immersive Citizens
 ~~~
+
+## One Click Power Attack NG
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60878) | Version: `NG-v1.11` | Author: `jarari` | ![Core]
+Download: | Main Files - One Click Power Attack NG
 
 ## Oxygen Meter 2
 
@@ -1456,17 +1470,6 @@ Options:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/58862) | Version: `1.0` | Author: `ReDragon2013` | ![Core] |
 Download: | Main Files - MageArmorScriptFix
 
-## MagicAttachAshPileOnDeath Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/88273) | Version: `2.0.1` | Author: `tarlazo` | ![Core]
-Download: | Main Files - magicAttachAshPileOnDeath and Disintegrate Perk
-
-![FOMOD]
-~~~
-Disintegrate Perk:
-   * None
-~~~
-
 ## Magic Student Quest Fix
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80676) | Version: `0.1` | Author: `wSkeever` | ![Core]
@@ -1654,15 +1657,13 @@ Download: | Main Files - Bard Instrumentals Only - Sing Upon Request - USKP Vers
 
 ## Dwemer Gates Don't Reset
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.3.7` | Author: `tarlazo` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/26331) | Version: `1.4.0` | Author: `tarlazo` | ![Core] 
 Download: | Main Files - Dwemer Gates Don't Reset
 
 ![FOMOD]
 ~~~
-Version:     
-   * Complete
-Plugin Type: 
-   * ESL
+Plugin version:    
+   * Complete - ESP-FE
 ~~~
 
 ## Hawk Patch - Base Object Swapper Remake
@@ -1962,11 +1963,6 @@ Download: | Main Files - Cooking Categories Improvement (2.0.0)
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/81787) | Version: `1.0.0` | Author: `murrayj` | ![Core]
 Download: | Main Files - Constructible Object Custom Keyword System - Seperate Weapon and Armor
 
-## Dragonborn Reskin - SkyUI Active Effects Icons
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/130536) | Version: `1.0` | Author: `borokoshow` | ![Core]
-Download: | Main Files - 
-
 ## Dynamic Activation Key
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96273) | Version: `1.12` | Author: `jayserpa` | ![Core]
@@ -1986,6 +1982,11 @@ Download: | Main Files - Dynamic Activation Key - Addons Collection
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159406) | Version: `1.0.10` | Author: `shazdeh2` | ![Core]
 Download: | Main Files - Follower Stats
+
+## Gamepad Plus Plus
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/27007) | Version: `1.2.1` | Author: `dunc001` | ![Optional]
+Download: | Main Files - Gamepad Plus Plus
 
 ## Hotkey Reminder
 
@@ -2112,6 +2113,38 @@ Download: | Main Files - A. Tween Menu Overhaul - Classic
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/158716) | Version: `1.0.1` | Author: `shazdeh2` | ![Optional]
 Download: | Main Files - Virtual Keyboard
+
+## Complete Controller Setup
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99978) | Version: `5.3.5` | Author: `ROYGBIVx420` | ![Optional]
+Download: |  Main Files - Complete Controller Setup
+
+![FOMOD]
+~~~
+The below is our recommended setup for the guide.  You may customize it however you wish,
+but TK Dodge is overridden in the guide CR files to "tap sprint" and this should be removed
+if you are binding TK Dodge to a dedicated button.
+
+Page 1:
+   * A = ACTIVATE/INTERACT
+Page 2:
+   * SELECT = TWEEN MENU
+Page 3:
+   * TRIGGERS = ATTACK BUTTONS
+Page 4:
+   * HOLD B = SPRINT
+Page 5:
+   * LB  = SHOUT/POWER
+Page 6:
+   * STEP DODGE
+   
+Note: The guide does not use Wheeler.  In the provided controlmap override, X has been rebound to Unsheath Weapon.
+~~~
+
+![PostInstall]
+~~~
+Delete ControlMap_Custom.txt.  If this is in a mod, it causes conflicts with the version present in the Data folder.
+~~~
 
 # 09. User Interface - HUD
 
@@ -2527,7 +2560,7 @@ Download: | Main Files - Widescreen version
 
 ## Quest Journal Overhaul - More Mod Support
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159332) | Version: `1.5` | Author: `mirage5600` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159332) | Version: `1.6` | Author: `mirage5600` | ![Core]
 Download: | Main Files - Quest Journal Overhaul - More Mod Support
 
 ## Quest Journal Overhaul - Unofficial Mods Support
@@ -4924,13 +4957,13 @@ Delete Lore Weapon Expansion - Relics of the Crusader.esp.
 
 ## New Armory Series - Ash Spawn Weapons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72728) | Version: `1.41` | Author: `PrivateEye` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72728) | Version: `1.42` | Author: `PrivateEye` | ![Core]
 Download: | Main Files - New Armory Series - Ashen Weapons
 
 ![FOMOD]
 ~~~
 Extra Weapons:
-   * Extra Weapons Addon
+   * None (handled in SUP Consistency patches)
 WACCF and CCOR patches:
    * None
 Sound Patches:
@@ -4938,10 +4971,6 @@ Sound Patches:
    * ISC
 ~~~
 
-![PostInstall]
-~~~
-Delete Prvtl_AshenArmory_Addon.esp if you are using the SUP Consistency Patches.
-~~~
 
 ## New Armory Series - Dragon Cult Weapons
 
@@ -5090,7 +5119,7 @@ Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Mistveil Keep
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150551) | Version: `0.9` | Author: `mbucki` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150551) | Version: `1.3` | Author: `mbucki` | ![Visuals]
 Download: | Main Files - Better Mistveil Keep
 
 ## Dragonsreach 3D Trellis Alternative Style
@@ -5545,7 +5574,10 @@ Choose your version:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42613) | Version: `1.1` | Author: `Plangkye` | ![Core] ![Visuals]|
 Download: | Main Files - Extravagant Interiors 4K - Solitude Blue Palace
 
+## Imperial Stone Door UV Fix
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150926) | Version: `1.0` | Author: `Riton` | ![Core]
+Download: | Main Files - Imperial stone door uv fix
 
 ## Improved Theater
 
@@ -5560,7 +5592,7 @@ Download: | Main Files - Inveterate Imperium - 2k Textures
 
 ## Nordic Stonewall Terraces
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/115210) | Version: `2.10` | Author: `mindflux` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/115210) | Version: `2.11` | Author: `mindflux` | ![Core]
 Download: | Main Files - Nordic Stonewall Terraces
 
 ![FOMOD]
@@ -6602,7 +6634,7 @@ Download: | Main Files - slightly Better Nordic Burial Cairns - Van No Para
 
 ## Cathedral - 3D Grass Library
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80687) | Version: `16.52` | Author: `DrJacopo` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80687) | Version: `16.53` | Author: `DrJacopo` | ![Core]
 Download: | Main Files - Cathedral - 3D Grass Library - Meshes
 
 ## Witchy Wilderness
@@ -8423,7 +8455,7 @@ Lightning:
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `3.1.7` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `3.1.9` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -8445,6 +8477,8 @@ Torches Add-On:
 Lava Craters Add-On:
    * Install Lava Craters Add-On
 Further Customization: (select only)
+   * Glow Maps for ENB
+   * More Transparent Smoke (50%)
    * Minimize Light Leaks
    * No Burnt Wood Glow
 Compatibility Patches:
@@ -8458,10 +8492,6 @@ Compatibility Patches:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134219) | Version: `1.2` | Author: `Kittytail` | ![Visuals]
 Download: | Main Files - Embers XD Torch Edit
 
-## Embers XD - Glow Maps for ENB
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `3.1.3` | Author: `mindflux` | ![Core] ![Visuals]|
-Download: | Optional Files - Glow Maps for ENB
 
 ## FYX - Sparks Of Fire React To The Wind
 
@@ -9826,16 +9856,6 @@ Download: | Main Files - Horker
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/155115) | Version: `1.0` | Author: `chilloucik` | ![Visuals]
 Download: | Main Files - Husky 2K - Black
 
-## Iconic's Vampire Lord Retexture
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89905) | Version: `1.1` | Author: `Iconic` | ![Visuals]
-Download: | Main Files - Vampire Lord 2K
-
-![FOMOD]
-~~~
-Options:
-   * Mashup Retexture
-~~~
 
 ## Iconic's Werewolf and Werebear Retexture
 
@@ -10035,6 +10055,29 @@ Red Wolf Eye Color Options:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/17540) | Version: `1.0` | Author: `FrankFamily aka Borx25` | ![Visuals] ![ESL]
 Download: | Main Files - Unique Barbas_SSE_1.0
+
+## Vampire Lord Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89538) | Version: `1.4.3` | Author: `RundeL` | ![Visuals] ![Core]
+Download: | Main Files - Vampire Lord Overhaul
+
+![FOMOD]
+~~~
+Armor:
+   * Hulking Draugr armor (or your choice)
+Ahzidal Armor:
+   * None
+New Hair Types:
+   * New Hair
+Skin Retexture:
+   * 8K Skin Retexture (this is seen very rarely and is extremely detailed, but you can install 4K if needed)
+Wing Size:
+   * 15% Larger (important: if you change this, change it also in XP32 True Ragdoll later)
+Base Armor Color:
+   * Black with red details (or your choice)
+Daedric Runes:
+   * No
+~~~
 
 ## Divergence - Compendium of Beasts - Ash Guardian
 
@@ -12792,7 +12835,7 @@ Download: | Optional Files - Neutral stance only
 
 ## SIGMA  - Warhammer Animations - 1st Person
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164549) | Version: `1.0` | Author: `Sigerious` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164549) | Version: `1.0.1` | Author: `Sigerious` | ![Core]
 Download: | Optional Files - Neutral stance only
 
 ## Slow Sprint Bug Fix
@@ -13492,7 +13535,9 @@ Beast Race Patches:
 Conditional Patches:
    * Left Hand Sheath Rotation Fix
 Minor Patches:
-   * None   
+   * Vampire Lord Overhaul   
+Vampire Lord Overhaul:
+   * 15% Larger Wings
 ~~~
 
 
@@ -14456,8 +14501,14 @@ Download: | Main Files - Subclasses of Skyrim 2
 
 ## Dynamic Things Alternative - Base Object Swapper
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60741) | Version: `0.3` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60741) | Version: `0.4` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Dynamic Things Alternative - Base Object Swapper
+
+![FOMOD]
+~~~
+Fishing Creation:
+   * Fishing Creation
+~~~
 
 ![PostInstall]
 ~~~
@@ -15830,6 +15881,7 @@ Download: | Main Files - Metallury - Ingot Collision Fix
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89205) | Version: `1.2` | Author: `FrankBlack` | ![Visuals]
 Download: | Main Files - a) More Realistic Fur and Antlers for Elk Trophies
 | Main Files - b) More Realistic Mounted Antlers (Skull)
+| Optional Files - More Realistic Fur and Antlers - DTA patch
 | Optional Files - More Realistic Mounted Antlers - Skull - DTA Patch
 
 ## More Realistic Fur And Antlers For Hagraven Clutter
@@ -16773,12 +16825,12 @@ Download: | Main Files - Psychopatchist Purgatory
 Skyrim Unification Project installation:
 Select the modules you installed before returning to this section, unless you are modifying the install.
 
-Allow autoselected.
+Allow autoselected.  Temp instructions: Do not install Winterhold docks.esp replacer (Arch)
 ~~~
 
 ![MergedLg]
 ~~~
-All plugins are merged into relevant SUP CR files except for Winterhold docks.esp.
+All plugins are merged into relevant SUP CR files.
 ~~~
 
 ## SFCO3 Patch Collection

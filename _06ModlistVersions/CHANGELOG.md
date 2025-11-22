@@ -17,6 +17,57 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.1.1 - 2025-11-21
+
+Save-safe.
+
+![Added]
+~~~
+Core - Better Combat Escape - SSE (was missing as prereq for NG)
+Core - Dual Wield Parrying SKSE (for controllers)
+Core - One Click Power Attack NG (for controllers)
+Core - Gamepad Plus Plus
+Core - Complete Controller Setup
+Core - Imperial Stone Door UV Fix
+Core - Vampire Lord Overhaul
+~~~
+
+![Removed]
+~~~
+Core - MagicAttachAshPileOnDeath Fix
+Core - Dragonborn Reskin - SkyUI Active Effects Icons
+Core - Embers XD - Glow Maps for ENB (folded into main mod)
+Core - Iconic's Vampire Lord Retexture
+~~~
+
+![Updated]
+~~~
+Core - Dwemer Gates Don't Reset updated to 1.4.0.
+Core - Quest Journal Overhaul More Mod Support updated to 1.6.
+Core - New Armory Series Ash Spawn Weapons updated to 1.42.
+Core - Better Mistveil Keep updated to 1.3.
+Core - Nordic Stonewall Terraces updated to 2.11.
+Core - Cathedral 3D Grass Library updated to 16.53.
+Core - Embers XD updated to 3.1.9.
+Core - SIGMA Warhammer Animations updated to 1.0.1.
+Core - XP32 True Ragdoll - updated instructions for Vampire Lord Overhaul
+Core - Dynamic Things Alternative updated to 0.4.
+Core - More Realistic Fur and Antlers - added missing DTA patch
+Core - Psychopatchist Purgatory - add temp instruction to not install Winterhold Docks (Arch)
+
+Arch - Winterhold Docks updated  to 1.2.1.
+Arch - Snazzy Misc Locations  updated to 2.32.
+Arch - Final Steps - removed reference to Winterhold docks.esp from Psychopatchist
+~~~
+
+![Bugfixes]
+~~~
+SUP Conflict Resolution 1.1.1 - Forwarded some Bandit Expansion records to resolve possible load order problem.
+                              - Updated some mammoth skulls to not be lootable with DTA.
+							  - Updated Assets for Controller Setup
+SUP Addons - Adventures 1.1.1 - Changed DBM_ButterChurn recipe to use CACO ingredents.
+~~~
+
 # 1.1.0 - 2025-11-16
 
 NOT save-safe.
