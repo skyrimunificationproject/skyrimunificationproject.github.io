@@ -146,11 +146,6 @@ Download: | Main Files - Ryn's Farms
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.3` | Author: `Urtho` | ![ESM]
 Download: | Main Files - Settlements Expanded SE
 
-## Settlements Expanded - RS Children Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.0` | Author: `Urtho` 
-Download: | Optional Files - Settlements Expanded SE - RS Children Overhaul Patch
-
 ## Snazzy Location Resources
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.2` | Author: `gutmaw` | ![CAO]
@@ -261,7 +256,7 @@ Download: | Main Files - Cities of the North - Falkreath
 
 ## Cities of the North - Falkreath Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.28` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56734) | Version: `1.29` | Author: `Janquel` | ![Merged]
 Download: | Main Files - COTN Falkreath Patch Collection
 
 ![FOMOD]
@@ -425,7 +420,7 @@ CotN Dawnstar - Patches:
 
 ## Winterhold Docks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.2.1` | Author: `CarpeNihil`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100889) | Version: `1.2.1` | Author: `CarpeNihil` | ![ESM]
 Download: | Main Files - Winterhold Docks
 
 # C04. Addons - Project Arch - Markarth and Riften
@@ -652,7 +647,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.2.1` | Author: `jkrojmal and czasior` |  ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.3` | Author: `jkrojmal and czasior` |  ![Merged]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -687,6 +682,16 @@ Download: | Main Files - Skyfalls Blue Palace Courtyard
 ![MergedLg]
 ~~~
 The JK's BPT patch has been merged into Project Arch - Solitude.
+~~~
+
+## Skyfall's Blue Palace Courtyard - JKs BPT Patch - Window Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168278) | Version: `1.0` | AUthor: `Magink666` | ![Merged]
+Download: | Main Files - Skyfall's BP Courtyard - JKs BPT Patch - WindowFix
+
+![MergedLg]
+~~~
+The patch has been merged into Project Arch - Solitude.  The mesh override remains active.
 ~~~
 
 ## LOTD Museum Dress-Up for Blue Palace Terrace
@@ -855,11 +860,6 @@ Download: | Main Files - Solitude Docks
 Pack the mod with CAO.
 ~~~
 
-## Solitude Docks Updated - Realistic RS Children Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70579) | Version: `1.0` | Author: `Domenicus7`
-Download: | Main Files - Solitude Docks Updated
-
 ## Snazzy Solitude AIO
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147618) | Version: `2.2.1` | Author: `gutmaw` | ![CAO]
@@ -883,13 +883,17 @@ Pack the mod with CAO.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37982) | Version: `1.3` | Author: `Surjamte`
 Download: | Main Files - A. Whiterun Expansion 1.5 Normal Version
 
+![PostInstall]
+~~~
+Delete meshes/actors.
+Delete textures/actors.
+(We will replace these with our own HPH)
+~~~
 
 ## Capital Whiterun Expansion - More Accurate Collision
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66063) | Version: `1.0` | Author: `Korodic` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66063) | Version: `1.0` | Author: `Korodic`  
 Download: | Main Files - Capital Whiterun Expansion - More Accurate Collision
-
-
 
 ## Capital Whiterun Expansion - NPC Sleep Fixes
 
@@ -931,8 +935,6 @@ Note: The CapitalWindhelmExpansion - JK patch from this mod page is included in 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65492) | Version: `1.1` | Author: `twizz0r` | 
 Download: | Main Files - Windhelm Fence 3D-Capital Windhelm Expansion Mesh Patch
 
-
-
 ## Capital Windhelm Expansion - Rob's Bug Fixes
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64740) | Version: `2.0` | Author: `robertgk2017` | ![ESM]
@@ -943,7 +945,6 @@ Download: | Main Files - Rob's Bug Fixes - Capital Windhelm Expansion
 Patches:
    * None
 ~~~
-
 
 ## GG's Capital JK's Whiterun
 
@@ -1074,6 +1075,17 @@ Patches:
 The Lux Orbis patch is merged into Project Arch - Windhelm.
 ~~~
 
+## Palace of the Kings - West Wing
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164457) | Version: `1.2.4` | Author: `JJerem` | ![ESM] ![Merged]
+Download: | Main Files - Palace of The Kings - West Wing
+
+![MergedLg]
+~~~
+Several patches from this page are merged into the Project Arch files where not conflicting with the patch collection.
+(JK's, Lux, Lux-JK's)
+~~~
+
 ## Ryn's Whiterun City Limits
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65661) | Version: `2.6` | Author: `Ryn` | ![ESM]
@@ -1081,7 +1093,7 @@ Download: | Main Files - Ryn's Whiterun City Limits
 
 ## Whiterun Exteriors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.6` | Author: `Janquel` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78920) | Version: `1.6.1` | Author: `Janquel` | ![ESM] ![Merged]
 Download: | Main Files - Whiterun Exteriors Patch Collection
 
 ![FOMOD]
@@ -1150,34 +1162,32 @@ Patches:
    * None
 ~~~
 
-
-
 ## Sowables of Skyrim - Grow Tomatoes SSE
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86921) | Version: `1.0` | Author: `ICFur`
 Download: | Main Files - 1k SOS Tomatoes Textures
 | Main Files - SOS Tomatoes - Meshes
 
+## The Green Den - A Drunken Huntsman Overhaul
 
-## Capital Whiterun Expansion - Realistic RS Children Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
-Download: | Optional Files - RRSC - Capital Whiterun Expansion Patch
-
-## Capital Windhelm Expansion - Realistic RS Children Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45321) | Version: `1.1a` | Author: `Xyloritus` 
-Download: | Main Files - CapitalWindhelmExpansion-RRSC
-
-
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/165520) | Version: `1.2` | Author: `fadingsignal`
+Download: | Main Files - The Green Den - A Drunken Huntsman Overhaul
+| Optional Files - The Green Den - ENB Light Sunlight AddOn
+| Optional Files - The Green Den - Exterior AddOn
+| Optional Files - The Green Den - JK's Drunken Huntsman Patch
 
 # C07. Addons - Project Arch - Dawnguard and Dragonborn
 
 ## Better Tel Mithryn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/643) | Version: `1.0` | Author: `YsCordelan` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/643) | Version: `1.0` | Author: `YsCordelan` | ![ESM] ![CAO]
 Download: | Main Files - Better Tel Mithryn
 | Update Files - Better Tel Mithryn - Spongeman131 Update
+
+![PostInstall]
+~~~
+Pack the mod with CAO. (second BSA created to remove loose facegen)
+~~~
 
 ## JK's Tel Mithryn
 
@@ -1284,12 +1294,12 @@ Download: | Main Files - Quaint Raven Rock
 
 ## JK's Raven Rock
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141070) | Version: `1.0.3` | Author: `jkrojmal`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141070) | Version: `1.0.4` | Author: `jkrojmal`
 Download: | Main Files - JK's Raven Rock
 
 ## JK's Raven Rock Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/143840) | Version: `1.3.2` | Author: `Czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/143840) | Version: `1.4` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Raven Rock Patch Collection
 
 ![FOMOD]
@@ -1351,7 +1361,7 @@ Download: | Main Files - BUVARP - Chillridge COTN Addon
 
 ## ClefJ's Morthal
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.3` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.4` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
 Download: | Main Files - ClefJ's Morthal
 | Update Files - Farmhouse Mesh Update
 
@@ -1439,7 +1449,20 @@ Delete meshes/../Hearthfires.esm/ and Skyrim.esm/.
 Delete textures/../Hearthfires.esm/ and Skyrim.esm/.
 ~~~
 
+## Docks of Riverwood
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141169) | Version: `1.1.5` | Author: `MissileMann` | ![ESM] ![Merged]
+Download: | Main Files - Docks of Riverwood
+
+![FOMOD]
+~~~
+Allow autoselected.
+~~~
+
+![MergedLg]
+~~~
+The patches are merged into Project Arch files.
+~~~
 
 ## Environs - Abandoned Abodes
 
@@ -1573,6 +1596,37 @@ Download: | Main Files - JK's Nightgate Inn
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10134) | Version: `3.6` | Author: `sa547` | ![ESM]
 Download: | Main Files - Old Hroldan Ruins -- SE Enhanced
 
+## Riverwood Falls - Waterfall Additions for Riverwood
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150380) | Version: `1.2.1` | Author: `otisimo212` | ![ESM] ![Merged]
+Download: | Main Files - Riverwood Falls 1.2.1
+
+![FOMOD]
+~~~
+Patches:
+   * LFFGM
+   * JK's Skyrim
+   * Ryn's Anise's Cabin
+   * Ryn's Bleak Falls Tower
+   * Fallen Trees SSE
+   * Natural Waterfalls
+Ryn's Extra Patch:
+   * None
+Tree Mods Patches:
+   * Nature of the Wildlands  
+Northern Roads:
+   * None (these conflict too heavily to not just patch manually)
+Optional Addons:
+   * None
+LOD:
+   * None
+~~~
+
+![MergedLg]
+~~~
+All of the patches are merged into Project Arch.
+~~~
+
 ## JK's Sky Haven Temple
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63039) | Version: `1.0.1` | Author: `jkrojmal` | ![ESM]
@@ -1622,7 +1676,7 @@ Pack the mod with CAO.
 
 ## The Great Town of Ivarstead Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.3` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36380) | Version: `3.4` | Author: `Janquel` | ![Merged]
 Download: | Main Files - Great Town of Ivarstead Patch Collection
 
 ![FOMOD]
@@ -1950,6 +2004,36 @@ Download: | Main Files - JK's Sleeping Giant Inn
 
 # C20. Addons - Project Arch - NPC Overhauls
 
+![PostInstall]
+~~~
+All of the mods in this section can be disabled.  They will be loaded during NPC Plugin Chooser processing.
+~~~
+
+## Capital Whiterun Expansion - Realistic RS Children Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
+Download: | Optional Files - RRSC - Capital Whiterun Expansion Patch
+
+## Capital Windhelm Expansion - Realistic RS Children Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45321) | Version: `1.1a` | Author: `Xyloritus` 
+Download: | Main Files - CapitalWindhelmExpansion-RRSC
+
+## Settlements Expanded - RS Children Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/7777) | Version: `1.0` | Author: `Urtho` 
+Download: | Optional Files - Settlements Expanded SE - RS Children Overhaul Patch
+
+## Skyrim Unification Project - RSC Facegen - ETaC Complete
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0` | Author: `ra2phoenix`
+Download: | Optional Files - Skyrim Unification Project - RSC - ETaC Complete
+
+## Solitude Docks Updated - Realistic RS Children Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70579) | Version: `1.0` | Author: `Domenicus7`
+Download: | Main Files - Solitude Docks Updated
+
 ## The Great Town Series - NPC Replacer
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135907) | Version: `1.3` | Author: `araviss` | 
@@ -1973,6 +2057,12 @@ Rob's bugfixes:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159303) | Version: `1.1` | Author: `gutmaw`
 Download: | Main Files - Blary's Booksets - Optimized
 
+## ClefJ LOD Meshes for DynDOLOD
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/165138) | Version: `1.01` | Author: `Kulharin`
+Download: | Main Files - ClefJ's Dawnguard LODs
+| Main Files - ClefJ's Morthal LODs
+
 ## Selectively Unvarying Firewood
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159768) | Version: `1.0` | Author: `DrMonops` | ![Merged]
@@ -1993,7 +2083,7 @@ The patches are merged into Project Arch.
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.28.1` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.29.1` | Author: `Janquel` | ![Merged]
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -2058,6 +2148,42 @@ All *except for*:
    Snazzy Interiors - Windhelm AIO - Lux patch.esp
 ~~~
 
+## Palace of the Kings - West Wing Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/165286) | Version: `1.0` | Author: `Czasior` | ![Merged]
+Download: | Main Files - Palace of the Kings - West Wing Patch Collection
+
+![FOMOD]
+~~~
+Allow autoselected.
+~~~
+
+![MergedLg]
+~~~
+The .esp files from this mod are merged into Project Arch files. The swap ini remains active.
+~~~
+
+## So This Aint Right (S.T.A.R.)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.15` | Author: `MissileMann` 
+Download: | Main Files - So This Aint Right (STAR) - Patches by Missile
+
+![FOMOD]
+~~~
+CFTO - CDAA Patches:
+   * None on this tab
+Khajiit Has Tents:
+   * None
+Wormpie Hagraven Tweaks:
+   * None
+Farmhouses Variants Addon (Manual Select):
+   * None
+Other Patches: (select only)
+   * Riverwood Falls - ETAC Patch: ETAC Complete Patch
+   * COMAP Addons: Ryn's City Limits
+~~~
+
+
 ## Modder's Resource Pack - The Witcher
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/137706) | Version: `1.0` | Author: `Oaristys` | ![Optional]
@@ -2088,12 +2214,17 @@ Download: | Optional Files - Simply Snowy Windhelm - Capital Windhelm
 
 ## Skyrim Unification Project - Project Arch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `ra2phoenix` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `ra2phoenix` | 
 Download: | Main Files - Skyrim Unification Project - Project Arch
 
 
 # Addons - Project Arch - Final Steps
 
+## Reinstallation of LOTD Patches
+
+Since LOTD does not let us select patches for mods that are not installed, if you are installing the guide for
+the first time, please return to Adventures and reinstall the Legacy of the Dragonborn - Patches so that
+the city mods can be patched.
 
 ## xEdit
 
@@ -2102,6 +2233,7 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
+Riverwood Falls.esp |
 RodryksDragonBridge.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
@@ -2177,9 +2309,12 @@ JKs Skyrim - Rob's Bug Fixes.esp | Apply ESMifier script
 JKs-ClefJs Fort Dawnguard.esp | Apply ESMifier script
 Lux Via - Markarth Farm overhaul.esp | Apply ESMifier script
 Markarth - City of Stone.esp | Apply ESMifier script
+Missile Riverwood Dock Addon.esp | Apply ESMifier script
 OldHroldanRuins.esp | Apply ESMifier script
+Palace of The Kings - West Wing.esp | Apply ESMifier script
 Resources - The Great Cities.esp | Apply ESMifier script
 Riften Docks Overhaul.esp | Apply ESMifier script
+Riverwood Falls.esp | Apply ESMifier script
 RodryksDragonBridge.esp | Apply ESMifier script
 RRSC-SurWR-Patch.esp | Add ESL flag
 RYFTEN - Consistency of windows in Riften.esp | Apply ESMifier script

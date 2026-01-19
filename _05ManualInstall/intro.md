@@ -343,7 +343,7 @@ Copy the files from the zip to the above Mod Organizer 2 folder you created's \p
 
 ## FOMOD Plus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.170` | Author: `aglowinthefield` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.18.1` | Author: `aglowinthefield` | ![Core]
 Download: | Main Files - FOMOD Plus for MO2 2.5.2
 
 ![PostInstall]
@@ -483,8 +483,8 @@ Select File->Save, confirm all, and exit.
 
 ## xLODGEN
 
-[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen/) | Version: `Beta 130 | Author: `Sheson` | ![Core] |
-Download: | xLODGen beta 130
+[![mod]](https://stepmodifications.org/forum/topic/13451-xlodgen/) | Version: `Beta 132 | Author: `Sheson` | ![Core] |
+Download: | xLODGen beta 132
 
 ![PostInstall]
 ~~~
@@ -502,7 +502,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-196` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-198` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

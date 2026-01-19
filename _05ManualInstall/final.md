@@ -22,7 +22,7 @@ description: Final Steps
 
 ## Compacting FormIDs
 
-Placeholder
+Placeholder (ESLifier)
 
 ## Adding ESL flag
 
@@ -62,12 +62,13 @@ Plugin | Instructions |
 018Auri.esp | Apply ESMifier script
 3DNPC.esp | Apply ESMifier script
 AHZBetterDGEntranceSE.esp | Apply ESMifier script
-Apocalypse - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
-Aspens Ablaze.esp | Compact formIDs, add ESL flag, apply ESMifier script
-AVExpansion_ICFH Add-on.esp | Compact formIDs, add ESL flag
+Apocalypse - Ordinator Compatibility Patch.esp | ESLify (compact)
+Artful Dodger - Dynamic Pickpocket Cap.esp | ESLify (compact)
+Aspens Ablaze.esp | ESLify (compact), apply ESMifier script
+AVExpansion_ICFH Add-on.esp | ESLify (compact)
 BarbarianPaints.esp | Add ESL flag
-BosmerHeadresses.esp | Compact formIDs, add ESL flag
-BSMBonemoldSet.esp | Compact formIDs, add ESL flag (ensure PvtI_BSBonemold is loaded)
+BosmerHeadresses.esp | ESLify (compact)
+BSMBonemoldSet.esp | ESLify (compact)
 Butterflies.esp | Apply ESMifier script
 BUVARP SE RE.esp | Apply ESMifier script
 Cidhna Mine Expanded.esp | Apply ESMifier script
@@ -79,26 +80,26 @@ CompanionsTweaks.esp | Add ESL flag
 DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
-ENB Light.esp | Compact formIDs, add ESL flag
+ENB Light.esp | ESLify (compact)
 Environs - The Ruined Tundra Farmhouse.esp | Apply ESMifier script
 Environs - Western Watchtower.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
-Faction Crossbows.esp | Compact formIDs, add ESL flag
+Faction Crossbows.esp | ESLify (compact)
 FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
-FWMF for Fantasy Paper Maps.esp | Compact formIDs, add ESL flag
-HoldBorderBanners.esp | Compact formIDs, add ESL flag
+FWMF for Fantasy Paper Maps.esp | ESLify (compact)
+HoldBorderBanners.esp | ESLify (compact)
 IcyFixes.esp | Add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
 Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
 Imperial Castles of Skyrim.esp | Apply ESMifier script
 Inigo.esp | Apply ESMifier script
 Ivy Stendarrs Beacon Overhaul.esp | Apply ESMifier script
-KALA_BEAST RACE EYES.esp | Compact formIDs, add ESL flag
-KeeperCarcetteSurvives.esp | Compact formIDs, add ESL flag
-Koralina's Eyebrows.esp | Compact formIDs, add ESL flag
-KrittaKittyHorsesforSSE.esp | Compact formIDs, add ESL flag
+KALA_BEAST RACE EYES.esp | ESLify (compact)
+KeeperCarcetteSurvives.esp | ESLify (compact)
+Koralina's Eyebrows.esp | ESLify (compact)
+KrittaKittyHorsesforSSE.esp | ESLify (compact)
 Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
 Lucien.esp | Apply ESMifier script
@@ -106,15 +107,15 @@ Lupine_YyvengarBodypaints.esp | Add ESL flag
 Lupine_ZiovendianBodypaints.esp | Add ESL flag
 man_dibella.esp | Add ESL flag
 middenexpandedSSE.esp | Apply ESMifier script
-MoreWerewolves.esp | Compact formIDs, add ESL flag
+MoreWerewolves.esp | ESLify (compact)
 Nature of the Wild Lands.esp | Apply ESMifier script
-NoGrassINCaves.esp | Compact formIDs, add ESL flag
+Nemesis PCEA.esp | ESLify (comapct)
 Northern Marsh Bridges SE.esp | Apply ESMifier script
 Northern Roads.esp | Apply ESMifier script
 OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
-Odin - Ordinator Compatibility Patch.esp | Compact formIDs, add ESL flag
+Odin - Ordinator Compatibility Patch.esp | ESLify (compact)
 OutlawsRefuges.esp | Apply ESMifier script
-OutlawsRefugesProgressionPatch.esp | Compact formIDs, add ESL flag
+OutlawsRefugesProgressionPatch.esp | ESLify (compact)
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
@@ -123,17 +124,17 @@ RSChildren.esp | Add ESL flag
 s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
 s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
-Semi-Open Guard Helmets SE.esp | Compact formIDs, add ESL flag
+Semi-Open Guard Helmets SE.esp | ESLify (compact)
 SFO_SkinFeatureOverlays.esp | Add ESL flag
-Skyking Signs - Interesting NPCs Patch.esp | Compact formIDs, add ESL flag
+Simple Bandit Camps.esp | Apply ESMifier script
+Skyking Signs - Interesting NPCs Patch.esp | ESLify (compact)
 Skyrim Bandit Expansion.esp | Apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
 SolitudeTempleFrescoes.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
 Sunstarved_Tanlines.esp | Add Skyrim.esm as master, Add ESL flag
-TheStumblingSabrecat.esp | Apply ESMifier script
-Thief Skills Rebalance for Ordinator.esp | Compact formIDs, add ESL flag
+Thief Skills Rebalance for Ordinator.esp | ESLify (compact)
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
 UlvenwaldLite.esp | Apply ESMifier script
@@ -141,6 +142,7 @@ UniqueBarbas.esp | Add ESL flag
 Unique Border Gates - Fixes.esp | Apply ESMifier script
 Unmarked Locations Pack - All In One.esp | Apply ESMifier script
 Unofficial Material Fix.esp | Apply ESMifier script
+Valhalla Northern Bridges.esp | Apply ESMifier script
 VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Windhelm Bridge Revived.esp | Apply ESMifier script
@@ -162,7 +164,7 @@ Sort your mods with the LOOT executable shortcut from MO2.
 
 Add mods/Dynamic Interface Patcher/DIP/DIP.exe as an executable in MO2 and run it.
 
-It should automatically detect the game virtual data folder and the path to the DDDM RaceMenu patch in the data folder.  If not, select them.
+It should automatically detect the game virtual data folder and the path to the Norden UI RaceMenu patch in the data folder.  If not, select them.
 
 Click Patch. When the popup appears, click Close DIP.
 
@@ -201,6 +203,7 @@ If the patcher shows a red dot for an error, make sure a Project is selected, an
 
 Do the same for:
 ~~~
+High Poly Head Patcher
 Khajiitearsshow (if you choose)
 NoDragonLods
 ~~~
@@ -293,6 +296,8 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select: 
+'Assorted Behavior Fixes v3.2',
+'Precision - NPC Combat Fix',
 'Barstool Exit Animation Fix',
 'Centurion OAR',
 'Precision',
@@ -346,7 +351,25 @@ When xLODGEN finishes generating deactivate SSE-Terrain-Tamriel-Extend.esm.
 
 Move SSE_LODGEN folder to your MO2’s mod folder and activate it as a mod.
 
-If you are using Flat World Map Framework, delete meshes/terrain/tamriel/tamriel.32.0.0.btr.
+If you are using Flat World Map Framework, delete: (or examine the output for these conflicts and hide in MO2)
+
+meshes/terrain/tamriel/tamriel.32.0.0.btr
+meshes/terrain/blackreach/blackreach.32-23.9.btr
+meshes/terrain/DeepwoodRedoubtWorld/deepwoodredoubtworld.32.-39.-1.btr
+meshes/terrain/dlc01falmervalley/dlc01falmervalley.32.-16.-13.btr
+meshes/terrain/dlc01soulcairn.32.12.13.btr
+meshes/terrain/DLC1HunterHQWorld/dlc1hunterhqworld.32.-1.-9.btr
+meshes/terrain/dlc2apocryphaworld.32.14.14.btr
+meshes/terrain/dlc2solstheimworld.32.0.0.btr
+meshes/terrain/ecssshiveringisles/ecssshiveringisles.32.0.0.btr
+meshes/terrain/SkuldafnWorld/skuldafnworld.32.32.-21.btr
+meshes/terrain/sovngarde/sovngardde.32.8.0.btr
+
+(Adventures)
+meshes/terrain/mannygfdesert/mannygfdesert.32.0.0.btr
+meshes/terrain/wyrmstoothworld/wyrmstoothworld.32.0.0.btr
+
+
 
 # Grass Cache (Optional)
 

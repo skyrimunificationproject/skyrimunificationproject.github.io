@@ -74,7 +74,7 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 
 ## Andrealletius' Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.3` | Author: `AndrealletiusVIII` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.6` | Author: `AndrealletiusVIII` | ![CAO]
 Download: | Main Files - AJO - Andrealletius Jobs Overhaul
 
 ![PostInstall]
@@ -207,33 +207,9 @@ Download: | Main Files - Footprints Bright SNow fix - Disabled particles
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36411) | Version: `1.0` | Author: `Monops`
 Download: | Main Files - Give Me Shelter - Sacrilege
 
-## Go To Bed
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
-Download: | Main Files: Gotobed (Skyrim SE 1.6.629+)
-
-## Go To Bed - Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4224) | Version: `2.0.7` | Author: `Andrelo`
-Download: | Optional Files: Patches
-
-![FOMOD]
-~~~
-Base Game:
-   * Skyrim
-DLC:
-   * Hearthfire
-   * Dragonborn
-Mods:
-   * Campfire
-Misc:
-   * None
-~~~
-
-
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.9` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.10` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
@@ -265,14 +241,8 @@ RM Overlays:
 Afflicted Animations:
    * Yes
 NPC Diseases:
-   * Overlays
-   * Disease Distribution
+   * None
 ~~~
-
-## Immersive Diseases - NPC Module Tweaks
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/158889) |  Version: `1.0` | Author: `PixieBomb`
-Download: | Main Files - Immersive Diseases - NPC Module Tweaks
 
 ## Immersive Hunting Animations
 
@@ -293,7 +263,7 @@ Pack the mod with CAO.
 
 ## Simple Hunting Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.15` | Author: `jayserpa` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/95943) | Version: `1.16` | Author: `jayserpa` | ![CAO]
 Download: | Main Files - Simple Hunting Overhaul
 
 ![PostInstall]
@@ -308,7 +278,7 @@ Download: | Main Files - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.05` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.06` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]
@@ -379,7 +349,6 @@ Install optional plugin?:
    * No
 ~~~
 
-
 ## Dirt and Blood - Dynamic Visual Effects - New Dirt Textures
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56596) | Version: `1.6b` | Author: `MoonMods`
@@ -393,51 +362,6 @@ MCM Menu:
    * None
 ~~~
 
-## Dirt and Blood - Dynamic Visual Effects - Widget Addon
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/34502) | Version: `1.7.2` | Author: `AubeD`
-Download: | Main Files: Widget Addon - Keep It Clean - Bathing In Skyrim - Dirt and Blood (FOMOD)
-
-![FOMOD]
-~~~
-Needs Mods Integration:
-   * None of the above
-~~~
-
-## Dirt and Blood - Dynamic Visual Effects - Widget Addon - SunHelm Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79048) | Version: `1.2` | Author: `MariusF`
-Download: | Main Files: Widget Addon patch for SunHelm
-
-## Dirt and Blood - Dynamic Visual Effects - Widget Addon - Settings Loader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64721) | Version: `2.0.0` | Author: `MaskedRPGFan`
-Download: | Optional Files - Widget Addon patch for SunHelm - Settings Loader
-
-## Go To Bed - DAR patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43714) | Version: `1.3` | Author: `Xtudo`
-Download: | Main Files: Go To Bed - DAR patch AE - PLAYER and NPCs
-| Optional Files - Go To Bed - DAR Sleeping Expanded - PLAYER NPCs
-
-## Nordic UI Icons for Sunhelm and iNeed Widgets
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/61823) | Version: `1.1` | Author: `Robton`
-Download: | Main Files - Nordic UI Icons for Sunhelm and iNeed - Widget Addon support - FOMOD
-
-![FOMOD]
-~~~
-Needs Mod:
-   * Sunhelm
-Addon Options Sunhelm:
-   * Sunhelm and Widget Addon
-~~~
-
-## Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74779) | Version: `1.0` | Author: `Torllay`
-Download: | Main Files - Nordic UI Icons for Sunhelm - Nordic...ish UI TrueHUD Color Matched
-
 ## SunHelm Survival and Needs - CCARA DAR - Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62133) | Version: `1.0` | Author: `Isquras`
@@ -447,16 +371,6 @@ Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75319) | Version: `1.1` | Author: `IWantATardis`
 Download: | Main Files - 2K Sunhelm
-
-## SunHelm Survival and Needs - Simple Weather Icons
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75863) | Version: `1.0` | Author: `urbon`
-Download: | Main Files - Sunhelm - Simple weather icons
-
-## Go To Bed - Settings Loader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56286) | Version: `2.2.0` | Author: `MaskedRPGFan`
-Download: | Main Files - Go to bed - Settings Loader
 
 ## Survival Control Panel - Settings Loader
 
@@ -480,15 +394,15 @@ Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to
 |--
 Plugin | Instructions |
 - | -
-SunHelmWyrmstoothPatch.esp | Compact formIDs, add ESL flag, Create SEQ File
+SunHelmCampfireSkill.esp | ESLify (compact)
+SunHelmWyrmstoothPatch.esp | ESLify (compact), Create SEQ File
 
 # A10. Addons - Followers
 
 ## Serana Dialogue Add-On
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.2.2` | Author: `Martimius` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.3.0` | Author: `Martimius` | ![ESM]
 Download: | Main Files - Serana Dialogue Add-On SE
-| Update Files - SDA 4.2.2 Hotfix
 
 ## Serana Dialogue Add-On - Patch Hub
 
@@ -524,14 +438,18 @@ Bodyslide Patches:
 
 ## Khajiit Will Follow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.3` | Author: `robbobert` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.4c` | Author: `robbobert` | ![ESM] ![QAC]
 Download: | Main Files - Khajiit Will Follow
-| Update Files - Khajiit Will Follow 4_7_3 Hotfix
 
 ## Khajiit Will Follow - Forgotten City Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![QAC] ![ESM] ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![Optional]
 Download: | Main Files - Patch - The Forgotten City (if using Adventures)
+
+## Khajiit Will Follow - Vigilant Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![Optional]
+Download: | Main Files - Patch - Vigilant (if using Adventures)
 
 ## Khajiit Will Follow - eeekie's Replacer
 
@@ -542,6 +460,12 @@ Download: | Main Files - eeekie's KWF Replacer 4k
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Redcap the Riekling
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73441) | Version: `1.4.20` | Author: `PixieBomb` | ![ESM]
+Download: | Main Files - Redcap
+| Optional Files - Redcap Description Framework Addon
 
 ## Remiel
 
@@ -629,6 +553,7 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 Plugin |
 - | -
 BPUFXelzazFollower.esp |
+FA01RedcapFollower.esp |
 HLIORemi.esp |
 KWFPatch_FC.esp |
 
@@ -690,7 +615,7 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.11` | Author: `snozz2004` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.13` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
 
 ![PostInstall]
@@ -708,14 +633,44 @@ Download: | Main Files - Bleak Falls Barrow Overhaul V2
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.01` | Author: `snozz2004`
 Download: | Main Files - Bleak Falls Tower Overhaul 2.0
 
+## Brittleshin
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83869) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Brittleshin Pass Overhaul
+| Optional Files - Brittleshin - 3DNPC Patch
+| Optional Files - Helgen Reborn Patch
+
+![MergedLg]
+~~~
+The 3DNPC, and Helgen Reborn patches on this page have been merged into SUP CR Vanilla Location Overhauls.
+~~~
+
+## Broken Fang
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133337) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Broken Fang
+| Optional Files - Lux - Broken Fang Patch
+
+![MergedLg]
+~~~
+The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
+~~~
+
 ## Embershard
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `1.1` | Author: `snozz2004`
 Download: | Main Files - Embershard Overhaul - ESL Version
 
+## Fort Dunstad
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144471) | Version: `1.01` | Author: `snozz2004`
+Download: | Main Files - Fort Dunstad (ESL)
+| Optional Files - Lux - Fort Dunstead Patch (ESL)
+| Optional Files - Lux Orbis - Fort Dunstead Patch (ESL)
+
 ## Fort Greymoor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.03` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.04` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Fort Greymoor
 | Optional Files - Lux - Fort Greymoor Patch
 | Optional Files - Lux Orbis - Fort Greymoor Patch
@@ -748,6 +703,19 @@ Download: | Main Files - Redoran's Retreat
 The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 ~~~
 
+## Robber's Gorge
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/145380) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Robber's Gorge
+| Optional Files - Lux - Robber's Gorge Patch
+| Optional Files - Lux Orbis - Robber's Gorge Patch
+| Optional Files - Lux Via - Robber's Gorge Patch
+
+![MergedLg]
+~~~
+The Lux/Orbis/Via patches have been merged into SUP CR Vanilla Location Overhauls.
+~~~
+
 ## Silent Moons Camp
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004`
@@ -760,14 +728,9 @@ Download: | Main Files - Swindlers Den (ESL)
 
 ## Valtheim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.01` | Author: `snozz2004` 
 Download: | Main Files - Valtheim 2.0 (ESL)
-| Optional Files - Lux - Valtheim Patch (ESL)
 
-![MergedLg]
-~~~
-The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
-~~~
 
 ## White River Watch
 
@@ -784,6 +747,16 @@ Download: | Main Files - Northern Scenery - Bleak Falls Barrow
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94476) | Version: `1.3.9` | Author: `HeilingerKrest`
 Download: | Main Files - Northern Scenery - Whiterun's Tundra
+
+## Ryn's Alchemist's Shack
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71485) | Versionn: `1.5` | Author: `Ryn`
+Download: | Main Files - Ryn's Alchemist's Shack
+
+## Ryn's Anise's Cabin
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75056) | Version: `1.5` | Author: `Ryn`
+Download: | Main Files - Ryn's Anise's Cabin
 
 ## Ryn's Bleak Falls Barrow
 
@@ -845,8 +818,9 @@ Pack the mod with CAO.
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.8.1` | Author: `FuzzBeed` | ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.9.1` | Author: `FuzzBeed` | ![CAO] ![Merged]
 Download: | Main Files - Children of the North Wind
+| Update Files - COTNW 6.9.1
 
 ![FOMOD]
 ~~~
@@ -902,13 +876,18 @@ Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
 | Optional Files - Magical Purple Glow Effect Addon
 | Optional Files - Xelzaz - Argonian Follower - Patch (if using Followers)
 
+## Skyfall's Sleeping Hist Tree Overhaul - DynDOLOD Add-On
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169984) | Version: `1.0` | Author: `omgliterallyme`
+Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul - LOD
+
 # Z01. Conflict Resolution
 
 Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev` | ![Core] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -926,8 +905,10 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.0.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
+
+
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square
 [core]: https://img.shields.io/badge/Core-006000?style=flat-square
