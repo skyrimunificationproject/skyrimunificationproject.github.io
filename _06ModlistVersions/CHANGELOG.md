@@ -236,7 +236,7 @@ Addons - Dirt and Blood Widget Addon - SunHelm Patch
 Addons - Dirt and Blood Widget Addon - Settings Loader
 Addons - Nordic UI Icons for Sunhelm and iNeed Widgets
 Addons - Nordic UI Icons for Sunhelm - Nordich...ish UI TrueHUD Color Matched
-Addons - SunHelm Survival and Needs - Simple WEather Icons
+Addons - SunHelm Survival and Needs - Simple Weather Icons
 Addons - Go To Bed - Settings Loader
 ~~~
 
@@ -402,14 +402,23 @@ Edits made as required for added quest mods.
 HPH file updated for new added facegen.  
 Elwaps SpeedTree updated with fixed LOD trunk model and brightness adjustments.
 
-Skyrim Unification Project - Gameplay Overhaul   - Added vampire racemenu fix to race tweaks
-                                                 - Adjusted position of templated armor in Riften jarl case
-                                                 - Major rework of consistency patches with records moved to _Resources
-                                                 - Fixed incorrect guard armor on Riften guards
-Skyrim Unification Project - Consistency Patches - Removed some unnecessary Survival food edits (not used by SunHelm)
-                                                 - Major rework of consistency patches, merges simplified
-Skyrim Unification Project - Conflict Resolution - Fixed some Core level landscape issues around Whiterun
-                                                 - Many object and terrain bugfixes
+SUP Gameplay Overhaul 1.2   
+   - Added vampire racemenu fix to race tweaks
+   - Adjusted position of templated armor in Riften jarl case
+   - Major rework of consistency patches with records moved to _Resources
+   - Fixed incorrect guard armor on Riften guards
+SUP Consistency Patches 1.2
+   - Removed some unnecessary Survival food edits (not used by SunHelm)
+   - Major rework of consistency patches, merges simplified
+SUP Conflict Resolution 1.2 
+   - Fixed some Core level landscape issues around Whiterun
+   - Many object and terrain bugfixes
+SUP Addons Survival/Followers/Armor/Vanilla Locations 1.2
+   - Updates for consistency patches, changes related to new mods
+SUP Addons Adventures 1.2   
+   - Updates for consistency patches, changes related to new mods
+SUP Project Arch 1.2
+   - Bug fixes, updates for new mods
 ~~~
 
 # 1.1.1 - 2025-11-21
@@ -457,10 +466,12 @@ Arch - Final Steps - removed reference to Winterhold docks.esp from Psychopatchi
 
 ![Bugfixes]
 ~~~
-SUP Conflict Resolution 1.1.1 - Forwarded some Bandit Expansion records to resolve possible load order problem.
-                              - Updated some mammoth skulls to not be lootable with DTA.
-                              - Updated Assets for Controller Setup
-SUP Addons - Adventures 1.1.1 - Changed DBM_ButterChurn recipe to use CACO ingredents.
+SUP Conflict Resolution 1.1.1 
+   - Forwarded some Bandit Expansion records to resolve possible load order problem.
+   - Updated some mammoth skulls to not be lootable with DTA.
+   - Updated Assets for Controller Setup
+SUP Addons - Adventures 1.1.1 
+   - Changed DBM_ButterChurn recipe to use CACO ingredents.
 ~~~
 
 # 1.1.0 - 2025-11-16
@@ -610,20 +621,25 @@ Arch - Final - Added JK's Nightgate Inn ESM instruction
 ![Bugfixes]
 ~~~
 SUP HPH Facegen 1.1 - Added Skyrim Bandit Expansion, packed each replacer into BSA
-SUP Consistency Patches 1.1 - Changed Heavy Armory from a replacer to new/updated
-                              consistency patches
-                            - Small updates to Bandit War
-SUP Conflict Resolution 1.1 - Updated records for Heavy Armory update
-                            - Navigator patching
-                            - Added CR for Sirenroot and Skyrim Bandit Expansion
-                            - Landscape edits around Nightgate area
-SUP Addons - Adventures 1.1 - Navigator patching
-SUP Addons - Followers 1.1  - Small consistency edits
-SUP Addons - Vanilla Locations 1.1 - Navigator patching
-                                   - Updates for adjustment of landscape around Nightgate
-SUP Project Arch 1.1 - Updated merged patches
-                     - Navigator patching
-                     - Updates for JK Nightgate Inn
+SUP Consistency Patches 1.1 
+   - Changed Heavy Armory from a replacer to new/updated consistency patches
+   - Small updates to Bandit War
+SUP Conflict Resolution 1.1 
+   - Updated records for Heavy Armory update
+   - Navigator patching
+   - Added CR for Sirenroot and Skyrim Bandit Expansion
+   - Landscape edits around Nightgate area
+SUP Addons - Adventures 1.1 
+   - Navigator patching
+SUP Addons - Followers 1.1  
+   - Small consistency edits
+SUP Addons - Vanilla Locations 1.1 
+   - Navigator patching
+   - Updates for adjustment of landscape around Nightgate
+SUP Project Arch 1.1 
+   - Updated merged patches
+   - Navigator patching
+   - Updates for JK Nightgate Inn
 ~~~
 
 # 1.0.2 - 2025-10-18
@@ -697,21 +713,27 @@ Arch - Snazzy Riften AIO updated to 2.1.2.
 
 ![Bugfixes]
 ~~~
-SUP Consistency Patches 1.0.2 - Updated KID and SPID files
-SUP Conflict Resolution 1.0.2 - Disabled ICAIO control power from distribution.
-                              - Updated Notification Filter exclusions
-                              - Updated some forwarded records
-                              - Removed ICAIO magelight package from Farengar
-SUP Gameplay Overhaul 1.0.2   - Updated KID and SPID files
-SUP Addons - Adventures 1.0.2 - Disabled BGCollectables note from distribution.
-                              - Updated some forwarded records
-                              - Updated KID and SPID files
-SUP Addons - Vanilla Locations 1.0.2 - Remove erroneous Breezehome edit thanks CK
-                                     - Refinalize some navmesh in Graymoor
-SUP Project Arch 1.0.2 - Fixed practice marker in Hall of Elements.
-                       - Fixed occlusion issues in windows between floors in Arcaneum.
-                       - Forwarded some records for conflict resolution purposes only
-                       - Forwarded scripts to resolve MS14 conflict
+SUP Consistency Patches 1.0.2 
+   - Updated KID and SPID files
+SUP Conflict Resolution 1.0.2 
+   - Disabled ICAIO control power from distribution.
+   - Updated Notification Filter exclusions
+   - Updated some forwarded records
+   - Removed ICAIO magelight package from Farengar
+SUP Gameplay Overhaul 1.0.2   
+   - Updated KID and SPID files
+SUP Addons - Adventures 1.0.2 
+   - Disabled BGCollectables note from distribution.
+   - Updated some forwarded records
+   - Updated KID and SPID files
+SUP Addons - Vanilla Locations 1.0.2 
+   - Remove erroneous Breezehome edit thanks CK
+   - Refinalize some navmesh in Graymoor
+SUP Project Arch 1.0.2 
+   - Fixed practice marker in Hall of Elements.
+   - Fixed occlusion issues in windows between floors in Arcaneum.
+   - Forwarded some records for conflict resolution purposes only
+   - Forwarded scripts to resolve MS14 conflict
 ~~~
 
 # 1.0.1 - 2025-10-07
@@ -749,16 +771,20 @@ Arch - Snazzy Interiors Patch Collection updated to 2.3.1.
 
 ![Bugfixes]
 ~~~
-SUP Conflict Resolution 1.0.1 - Removed ICAIO's added candlelight spell injected to Farengar to avoid breaking lights
-                              - Updated some worldspace settings
-                              - Landscape fixes
-SUP Addons - Adventures 1.0.1 - Updated some worldspace settings
-SUP Addons - Survival 1.0.1 - Updated some worldspace settings
-SUP Project Arch 1.0.1 - Added no-havok to some Jorrvaskr porch objects
-                       - Attempt to fix Windhelm puking ice head
-                       - Landscape fixes
-                       - Fix light leaks in Blue Palace
-                       - Fix draperies in Temple of the Divines
+SUP Conflict Resolution 1.0.1 
+   - Removed ICAIO's added candlelight spell injected to Farengar to avoid breaking lights
+   - Updated some worldspace settings
+   - Landscape fixes
+SUP Addons - Adventures 1.0.1 
+   - Updated some worldspace settings
+SUP Addons - Survival 1.0.1 
+   - Updated some worldspace settings
+SUP Project Arch 1.0.1 
+   - Added no-havok to some Jorrvaskr porch objects
+   - Attempt to fix Windhelm puking ice head
+   - Landscape fixes
+   - Fix light leaks in Blue Palace
+   - Fix draperies in Temple of the Divines
 ~~~
 
 # 1.0.0.0 - 2025-10-03
