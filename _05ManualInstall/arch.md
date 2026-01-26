@@ -647,7 +647,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.3` | Author: `jkrojmal and czasior` |  ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.3.2` | Author: `jkrojmal and czasior` |  ![Merged]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -756,7 +756,7 @@ Download: | Main Files - JK's Solitude Outskirts
 
 ## JK's Solitude Outskirts Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.11` | Author: `Czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103927) | Version: `1.13` | Author: `Czasior` | ![Merged]
 Download: | Main Files - JK's Solitude Outskirts Patch Collection
 | Update Files - JKs Solitude Outskirts - Grand Solitude patch
 

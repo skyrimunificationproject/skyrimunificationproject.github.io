@@ -430,7 +430,7 @@ Download: | Main Files - Considerate Followers
 
 ## Death Drop Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/151590) | Version: `1.2.3` | Author: `Seb263` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/151590) | Version: `1.2.4` | Author: `Seb263` | ![Core]
 Download: | Main Files - Death Drop Overhaul - Latest Version
 
 ## Death Idle Fix
@@ -648,7 +648,7 @@ Download: | Main Files - Alpha Blood Blending Bug (NG) - Latest Version
 
 ## Helmet Toggle 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100617) | Version: `3.5.7` | Author: `GiraPomba` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/100617) | Version: `3.5.8` | Author: `GiraPomba` | ![Core]
 Download: | Main Files - Helmet Toggle 2
 
 ![FOMOD]
@@ -1702,7 +1702,7 @@ Download: | Main Files - Alchemical Appraisal Services
 
 ## Andrealletius' Summoning Tweaks (ASUT)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168120) | Version: `1.1.1` | Author: `AndrealletiusVIII` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168120) | Version: `1.3` | Author: `AndrealletiusVIII` | ![Core]
 Download: | Main Files - Andrealletius Summoning Tweaks (ASUT)
 | Optional Files - ASUT - First Person Messages
 
@@ -1713,7 +1713,7 @@ Download: | Main Files - ARTFUL DODGER - Dynamic Pickpocket Cap
 
 ## Auto Read Notes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105598) | Version: `0.7` | Author: `wSkeever` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/105598) | Version: `0.8` | Author: `wSkeever` | ![Core]
 Download: | Main Files - Auto Read Notes
 
 ## Bard Instrumentals Only - Sing Upon Request
@@ -2430,7 +2430,7 @@ Download: | Main Files - Quest Journal Overhaul
 
 ## Quest Journal Overhaul - More Mod Support
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159332) | Version: `1.9` | Author: `mirage5600` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159332) | Version: `2.0` | Author: `mirage5600` | ![Core]
 Download: | Main Files - Quest Journal Overhaul - More Mod Support
 
 ## Quest Journal Overhaul - Unofficial Mods Support
@@ -4452,8 +4452,13 @@ Download: | Main Files - Cidhna Mine Expanded 2.3a
 
 ## Caught Red Handed - Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Version: `1.04` | Author: `JaySerpa` | ![Core] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65708) | Version: `1.07` | Author: `JaySerpa` | ![Core] ![CAO] ![Merged]
 Download: | Main Files - Caught Red Handed - Quest Expansion
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ![MergedLg]
 ~~~
@@ -4531,7 +4536,7 @@ Pack the mod with CAO.
 
 ## Missives - Voice and Quest Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/166094) | Version: `1.5` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/166094) | Version: `1.6` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - Missives - Voice and Quest Expansion
 
 ![PostInstall]
@@ -4710,12 +4715,12 @@ Patches:
 
 ## Extended Encounters
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | Version: `1.6.9` | Author: `Jonx0r` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/44810) | Version: `1.7.0` | Author: `Jonx0r` | ![Core] |
 Download: | Main Files - Extended Encounters ESL
 
 ## Headhunter - Bounties Redone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.59` | Author: `JaySerpa` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51847) | Version: `1.60` | Author: `JaySerpa` | ![Core] |
 Download: | Main Files - Headhunter - Bounties Redone
 
 ![FOMOD]
@@ -5210,7 +5215,7 @@ Download: | Main Files - 3D Solitude Market Trellis Expansion
 
 ## Assorted Mesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.137` | Author: `wSkeever` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32117) | Version: `0.139` | Author: `wSkeever` | ![Core] |
 Download: | Main Files - Assorted Mesh Fixes
 
 ## Better Mistveil Keep
@@ -8656,7 +8661,7 @@ Delete *.esp.
 
 ## JS Unique Utopia SE - Rings
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/102226) | Version: `1.21` | Author: `johnskyrim` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/102226) | Version: `1.22` | Author: `johnskyrim` | ![Core] ![Visuals]
 Download: | Main Files - JS Unique Utopia SE - Rings - 2k Textures
 
 ## JS Vanilla Circlets SE
@@ -10208,7 +10213,7 @@ Plume Textures:
 
 ## Water for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `2.17` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37061) | Version: `2.18` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Water for ENB
 
 ![FOMOD]
@@ -10244,7 +10249,7 @@ iNeed:
 
 ## Natural Waterfalls
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87261) | Version: `3.5` | Author: `clofas and ToosTruus` | ![Core] ![Visuals] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87261) | Version: `3.7` | Author: `clofas and ToosTruus` | ![Core] ![Visuals] ![Merged]
 Download: | Main Files - Natural Waterfalls
 
 ![FOMOD]
@@ -12845,6 +12850,34 @@ Death Animations:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68177) | Version: `1.0` | Author: `raiserfx` | ![Visuals]
 Download: | Main Files - Unique Animations Reworked
 
+## Unlocked 1st Person Combat
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164095) | Version: `1.2` | Author: `Beefclot` | ![Core] ![Nemesis]
+Download: | Main Files - Unlocked 1st Person Combat
+
+![FOMOD]
+~~~
+Behaviors:
+   * Base
+Slowdown Plugin + Script:
+   * None
+~~~
+
+![PostInstall]
+~~~
+Rerun Nemesis after installing or updating this mod.
+~~~
+
+## Vanilla Attack Annotation Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/123805) | Version: `0.61` | Author: `Xing` | ![Core] ![Nemesis]
+Download: | Main Files - Vanilla Attack Annotation Fix
+
+![PostInstall]
+~~~
+Rerun Nemesis after installing or updating this mod.
+~~~
+
 ## Weapon Styles - Draw-Sheathe Animations for IED
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85085) | Version: `3.0.1` | Author: `GiraPomba` | ![Visuals] ![Nemesis]
@@ -14109,7 +14142,7 @@ Compatibility:
 
 ## Precision - NPC Combat Fix
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169711) | Version: `1.0.7` | Author: `JerryYOJ` | ![Core] ![Nemesis]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169711) | Version: `1.0.8` | Author: `JerryYOJ` | ![Core] ![Nemesis]
 Download: | Main Files - Precision - NPC Combat Fix
 
 ![PostInstall]
@@ -16558,7 +16591,7 @@ The JK's Blue Palace patch is merged into Project Arch - Solitude.
 
 ## First Person Interactions
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/123129) | Version: `1.7.3` | Author: `GiraPomba` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/123129) | Version: `1.7.4` | Author: `GiraPomba` | ![Visuals]
 Download: | Main Files - First Person Interactions
 
 ![FOMOD]

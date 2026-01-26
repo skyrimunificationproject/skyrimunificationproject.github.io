@@ -301,6 +301,7 @@ Select:
 'Barstool Exit Animation Fix',
 'Centurion OAR',
 'Precision',
+'Fix Vanilla Attack Annotation',
 'GP Offset Movement Animation', 
 'Ice skating fixed for real', 
 'Some Creature Behavior Bug Fixes', 
@@ -308,6 +309,7 @@ Select:
 'True Directional Movement - Headtracking',
 'TK Dodge RE / Ultimate Combat',
 'Animation Teleport Bug Fix',
+'Unlocked First Person Combat A',
 'USSEP Behavior Patch'
 'Weapons Switch Animations Compleate' (sic)
 'Fix Draugr Dagger Animation'

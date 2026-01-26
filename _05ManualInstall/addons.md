@@ -278,7 +278,7 @@ Download: | Main Files - Speechcraft Randomization
 
 ## Stress and Fear - A Dynamic Sanity System
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.06` | Author: `jayserpa` | ![Optional] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116522) | Version: `2.07` | Author: `jayserpa` | ![Optional] ![CAO]
 Download: | Main Files - Stress and Fear
 
 ![PostInstall]

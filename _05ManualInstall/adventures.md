@@ -1006,6 +1006,7 @@ Download: | Main Files - VIGILANT - By Xtudo SE - Elite Vigilant Hood fix
 | Main Files - VIGILANT - By Xtudo SE - Hi-poly Sand Runner Eggs
 | Main Files - VIGILANT - By Xtudo SE - Immersive text edit
 | Main Files - VIGILANT - By Xtudo SE - M'que robes fix
+| Main Files - VIGILANT - By Xtudo SE - Nocturnal Statue patch
 | Main Files - VIGILANT - By Xtudo SE - Stendarr Statue Replacer
 
 ## VIGILANT - Praedy's Elder Scrolls

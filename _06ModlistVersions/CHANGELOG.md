@@ -17,6 +17,62 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.2.1 - 2026-01-26
+
+Save-safe.
+
+![Added]
+~~~
+Core - Unlocked 1st Person Combat
+Core - Vanilla Attack Annotation Fix
+~~~
+
+![Updated]
+~~~
+Core - Death Drop Overhaul updated to 1.2.4.
+Core - Helmet Toggle 2 updated to 3.5.8.
+Core - Andrealletius' Summoning Tweaks updated to 1.3.
+Core - Auto Read Notes updated to 0.8.
+Core - Quest Journal Overhaul More Mod Support updated to 2.0.
+Core - Caught Red Handed Quest Expansion updated to 1.07.
+Core - Missives Voice and Quest Expansion updated to 1.6.
+Core - Extended Encounters updated to 1.7.0.
+Core - Headhunters Bounties Redone updated to 1.60.
+Core - Assorted Mesh Fixes updated to 0.139.
+Core - JS Unique Utopia SE Rings updated to 1.22.
+Core - Water for ENB updated to 2.18.
+Core - Natural Waterfalls updated to 3.7.
+Core - Precision NPC Combat Fix updated to 1.0.8.
+Core - First Person Interactions updated to 1.7.4.
+
+Adventures - VIGILANT Patches by Xtudo - added Nocturnal Statue Patch
+
+Addons - Stress and Fear updated to 2.07.
+
+Arch - JK's Blue Palace Terrace updated to 2.3.2.
+Arch - JK's Solitude Outskirts Patch Collect updated to 1.13.
+
+Final - Nemesis instructions updated.
+~~~
+
+![BugFixes]
+~~~
+SUP Gameplay Overhaul 1.2.1:
+   - Reduced skeever and mudcrab hit points
+SUP Conflict Resolution 1.2.1:
+   - Disabled Coherent Fight Reactions' effects pending removal in future version
+   - Disabled Andrealletius' Summoning Tweaks misfire chance
+   - Readded modified control map to fix sprint on shift
+   - Optimize Ratway Vaults chained door
+   - Add override for Imperious string distributor file to remove SUP edited items
+   - Add override ini for Ultimate NPC Dodging to remove reactive dodge
+SUP Addons Vanilla Locations 1.2.1:
+   - Fixed misplaced objects in various places
+SUP Project Arch 1.2.1:
+   - Fixed some landscape issues
+   - Add complex material parallax enabled version of some SurWR meshes
+~~~
+
 # 1.2.0 - 2026-01-19
 
 Absolutely not save-safe.
