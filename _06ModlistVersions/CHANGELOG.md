@@ -17,9 +17,48 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.2.2 - 2026-01-29
+
+Save-save from 1.2.0.
+
+![Added]
+~~~
+Core - Power Attack Key NG
+~~~
+
+![Removed]
+~~~
+Core - One Click Power Attack NG
+~~~
+
+![Updated]
+~~~
+Core - Andrealletius' Summoning Tweaks updated to 1.3.2.
+Core - B612 Shazdeh's UI Components updated to 1.0.21.
+Core - Why I Came To Skyrim updated to 1.10.
+Core - Gleaming Glaciers - ENB parallax file added
+Core - Daedric Armors and Weapons Retexture SE updated to 2.0.1.
+Core - Orcish Armors and Weapons Retexture SE updated to 2.0.2.
+Core - ENB Light instructions updated (delete meshes/dlc02/dungeons)
+~~~
+
+![Bugfixes]
+~~~
+SUP Conflict Resolution 1.2.2:
+   - Added OAR override condition for Bloodskal Blade
+   - Many landscape and item fixes
+SUP Addons Adventures 1.2.2:
+   - Landscape and item fixes
+   - Fixed some quests not starting (may require new game)
+SUP Addons Vanilla Locations 1.2.2:
+   - Landscape and item fixes
+SUP Project Arch 1.2.2:
+   - Landscape and item fixes
+~~~
+
 # 1.2.1 - 2026-01-26
 
-Save-safe.
+Save-safe from 1.2.0.
 
 ![Added]
 ~~~

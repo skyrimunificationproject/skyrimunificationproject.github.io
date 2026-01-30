@@ -866,11 +866,6 @@ Patches:
    * Immersive Citizens
 ~~~
 
-## One Click Power Attack NG
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/60878) | Version: `NG-v1.11` | Author: `jarari` | ![Core]
-Download: | Main Files - One Click Power Attack NG
-
 ## Oxygen Meter 2
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64532) | Version: `1.0.7` | Author: `OsmosisWrench` | ![Core]
@@ -912,6 +907,11 @@ Download: | Main Files - Photo Mode
 DLL:
    * SSE v1.6.1130+ ("Anniversary Edition")
 ~~~
+
+## Power Attack Key NG
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86467) | Version: `2.1.3` | Author: `Edryu` | ![Core]
+Download: | Main Files - Power Attack Key NG
 
 ## powerofthree's Tweaks
 
@@ -1702,9 +1702,8 @@ Download: | Main Files - Alchemical Appraisal Services
 
 ## Andrealletius' Summoning Tweaks (ASUT)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168120) | Version: `1.3` | Author: `AndrealletiusVIII` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168120) | Version: `1.3.2` | Author: `AndrealletiusVIII` | ![Core]
 Download: | Main Files - Andrealletius Summoning Tweaks (ASUT)
-| Optional Files - ASUT - First Person Messages
 
 ## ARTFUL DODGER - Dynamic Pickpocket Cap
 
@@ -2033,7 +2032,7 @@ Download: | Main Files - 2k Textures
 
 ## B612 - Shazdeh's UI Components
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/127701) | Version: `1.0.20` | Author: `shazdeh2` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/127701) | Version: `1.0.21` | Author: `shazdeh2` | ![Core]
 Download: | Main Files - B612 - little asteroid of useful UI components
 
 ## Constructible Object Custom Keyword System
@@ -4420,13 +4419,13 @@ Download: | Main Files - The White Phial -- Tweaks and Enhancements
 
 ## Why I Came To Skyrim - Origin Stories
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167166) | Version: `1.0.4` | Author: `JaySerpa` | ![Core] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167166) | Version: `1.10` | Author: `JaySerpa` | ![Core] ![CAO]
 Download: | Main Files - Why I Came to Skyrim - Origin Stories
 
 ![FOMOD]
 ~~~
 Rewards:
-   * Enable Rewards / Debuffs
+   * Disabled
 Start Mod:
    * Alternate Start
 Addons:
@@ -6715,6 +6714,7 @@ Patches:
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156970) | Version: `1.3` | Author: `fadingsignal` | ![Core] ![Visuals]
 Download: | Main Files - Gleaming Glaciers
+| Optional Files - ENB Complex Material Parallax
 
 ![PostInstall]
 ~~~
@@ -6725,8 +6725,6 @@ Delete GleamingGlaciers.esp. (we do not need its fixes)
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113184) | Version: `1.1` | Author: `FrankBlack` | ![Visuals]
 Download: | Main Files - slightly Better Nordic Burial Cairns - Van No Para
-
-
 
 
 # 34. Meshes and Textures - Trees and Grasses
@@ -9080,7 +9078,7 @@ Vanilla Items:
 
 ## Daedric Armors and Weapons Retexture SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84151) | Version: `2.0` | Author: `Xavbio` | ![Visuals] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84151) | Version: `2.0.1` | Author: `Xavbio` | ![Visuals] 
 Download: | Main Files - Daedric Armors and Weapons Retexture SE
 
 ![FOMOD]
@@ -9552,7 +9550,7 @@ Rough Leather Armor:
 
 ## Orcish Armors and Weapons Retexture SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84607) | Version: `2.0.1` | Author: `Xavbio` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/84607) | Version: `2.0.2` | Author: `Xavbio` | ![Visuals]
 Download: | Main Files - Orcish Armors and Weapons Retexture SE
 
 ![FOMOD]
@@ -15968,6 +15966,7 @@ Select 'Install anyway'.
 ~~~
 Delete meshes/actors/atronarchflame/.
 Delete meshes/critters.
+Delete meshes/dlc02/dungeons/.
 Delete meshes/dlc02/landscape/dlc2firecrater*.
 Delete meshes/dlc02/landscape/dlc2fxflamingrockdebris*.
 Delete meshes/dlc02/landscape/trees/.

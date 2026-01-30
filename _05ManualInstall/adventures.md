@@ -730,7 +730,7 @@ Pack the mod with CAO.
 
 ## Memorable Bounties
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99311) | Version: `1.0.1` | Author: `nimwraith` | ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99311) | Version: `1.0.1` | Author: `nimwraith` | ![CAO] ![Merged] ![ESM]
 Download: | Main Files - Memorable Bountes - 1.0.4
 | Optional Files - COTN Falkreath Patch (if using Project Arch)
 | Optional Files - Memorable Bounties - Great City of Winterhold (if using Project Arch)
@@ -785,7 +785,7 @@ Pack the mod with CAO.
 
 ## Painted Torment
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113177) | Version: `1.0` | Author: `nimwraith` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113177) | Version: `1.0` | Author: `nimwraith` | ![CAO] ![ESM]
 Download: | Main Files - Painted Torment - 1.0.5
 
 ![PostInstall]
@@ -805,7 +805,7 @@ Pack the mod with CAO.
 
 ## The Devil's in the Details
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146620) | Version: `1.0.7` | Author: `nimwraith` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146620) | Version: `1.0.7` | Author: `nimwraith` | ![CAO] ![ESM]
 Download: | Main Files - The Devils in the Details - 1.0.6 - HDT-SMP
 
 ![PostInstall]
