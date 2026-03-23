@@ -74,7 +74,7 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 
 ## Andrealletius' Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.5.6` | Author: `AndrealletiusVIII` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.6` | Author: `AndrealletiusVIII` | ![CAO]
 Download: | Main Files - AJO - Andrealletius Jobs Overhaul
 
 ![PostInstall]
@@ -97,17 +97,6 @@ Option:
 ~~~
 Delete *_KID.ini.
 ~~~
-
-## Books of Power - Immersive Spell Learning
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/143499) | Version: `1.8` | Author: `SkyrimThiago` | ![Optional]
-Download: | Main Files - Books Of Power
-
-## Books of Power - Immersive Spell Learning - 3rd Person Book Holding OAR
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144768) | Version: `1.0` | Author: `Cosmo4596` | ![Optional]
-Download: | Main Files - books of Power(3rdperson)(OAR)
-| Optional Files - No book behind back(IED preset)
 
 ## Contraband Confiscation
 
@@ -209,12 +198,14 @@ Download: | Main Files - Give Me Shelter - Sacrilege
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.10` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.18` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
 ~~~
-Options:
+Optional Modules:
+   * None
+Which armor slots to check?:
    * All, Exclude Stormcloak Gauntlets and Boots
 ~~~
 
@@ -260,6 +251,24 @@ Optional Files:
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Immersive Spell Learning - DESTified
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45514) | Version: `2.0.0` | Author: `Hackfield` | ![Optional] 
+Download: | Optional Files - ISL - DESTified 2.0 RC3
+
+![FOMOD]
+~~~
+Game:
+   * Skyrim Anniversary Edition
+Choose MCM:
+   * MCM Helper Support
+~~~
+
+## Immersive Spell Learning - DESTified Study Icon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/174815) | Version: `1.0` | Author: `HiggsBp` | ![Optional]
+Download: | Main Files - Immersive Spell Learning - DESTified Study Icon
 
 ## Simple Hunting Overhaul
 
@@ -399,43 +408,6 @@ SunHelmWyrmstoothPatch.esp | ESLify (compact), Create SEQ File
 
 # A10. Addons - Followers
 
-## Serana Dialogue Add-On
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32161) | Version: `4.3.0` | Author: `Martimius` | ![ESM]
-Download: | Main Files - Serana Dialogue Add-On SE
-
-## Serana Dialogue Add-On - Patch Hub
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70782) | Version: `2.9.6` | Author: `Martimius`
-Download: | Main Files - SDA Patch Hub
-
-![FOMOD]
-~~~
-Animation Framework Patches:
-   * None
-Awareness Patches - Gameplay Mods:
-   * Wintersun (CACO Version)
-Awareness Patches - Crimson Blood Armor:
-   * None
-Awareness Patches - Lustmord Armor:
-   * None
-Awareness Patches - Follower Mods:
-   * None
-Awareness Patches - Quest Mods:
-   * House of Horrors Quest Expansion
-Awareness Patches - Misc Mods:
-   * None
-Compatibility Patches:
-   * Nether's Follower Framework
-   * NPCs Wear Amulets of Mara
-   * Relationship Dialogue Overhaul
-   * Remiel
-Feature Preference Patches:
-   * None
-Bodyslide Patches:
-   * CBBE
-~~~
-
 ## Khajiit Will Follow
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.4c` | Author: `robbobert` | ![ESM] ![QAC]
@@ -553,7 +525,6 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 Plugin |
 - | -
 BPUFXelzazFollower.esp |
-FA01RedcapFollower.esp |
 HLIORemi.esp |
 KWFPatch_FC.esp |
 
@@ -565,6 +536,7 @@ Plugin | Instructions |
 BPUFXelzazFollower.esp | Apply ESMifier script
 HLIORemi.esp | Apply ESMifier script
 KhajiitWillFollow.esp | Apply ESMifier script
+FA01RedcapFollower.esp | Apply ESMifier script
 SeranaDialogueAddon.esp | Apply ESMifier script
 
 
@@ -623,6 +595,11 @@ Download: | Main Files - Snozz's Resources
 Pack the mod with CAO.
 ~~~
 
+## Bannermist
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75262) | Version: `2.01` | Author: `snozz2004`
+Download: | Main Files - Bannermist Tower Overhaul 2.0
+
 ## Bleak Falls Barrow Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.02` | Author: `snozz2004`
@@ -630,7 +607,7 @@ Download: | Main Files - Bleak Falls Barrow Overhaul V2
 
 ## Bleak Falls Tower
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.01` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.02` | Author: `snozz2004`
 Download: | Main Files - Bleak Falls Tower Overhaul 2.0
 
 ## Brittleshin
@@ -668,6 +645,17 @@ Download: | Main Files - Fort Dunstad (ESL)
 | Optional Files - Lux - Fort Dunstead Patch (ESL)
 | Optional Files - Lux Orbis - Fort Dunstead Patch (ESL)
 
+## Fort Fellhammer
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168082) | Veersion: `1.0` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Fort Fellhammer
+| Optional Files - Lux - Fort Fellhammer Patch
+
+![MergedLg]
+~~~
+The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
+~~~
+
 ## Fort Greymoor
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.04` | Author: `snozz2004` | ![Merged]
@@ -678,6 +666,18 @@ Download: | Main Files - Fort Greymoor
 ![MergedLg]
 ~~~
 The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Overhauls.
+~~~
+
+## Graywinter
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83152) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Graywinter
+| Optional Files - Graywinter - 3DNPC Patch
+| Optional Files - Lost Passages - Graywinter Patch (ESL)
+
+![MergedLg]
+~~~
+The optional files are merged into SUP CR Vanilla Location Overhauls.
 ~~~
 
 ## Halted Stream
@@ -705,7 +705,7 @@ The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 
 ## Robber's Gorge
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/145380) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/145380) | Version: `1.0.1` | Author: `snozz2004` | ![Merged]
 Download: | Main Files - Robber's Gorge
 | Optional Files - Lux - Robber's Gorge Patch
 | Optional Files - Lux Orbis - Robber's Gorge Patch
@@ -721,6 +721,43 @@ The Lux/Orbis/Via patches have been merged into SUP CR Vanilla Location Overhaul
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004`
 Download: | Main Files - Silent Moons Camp (ESL)
 
+## Skybound
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167698) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Skybound
+| Optional Files - Helgen Reborn - Skybound Patch
+| Optional Files - Lux - Skybound Patch
+| Optional Files - Lux Orbis - Skybound Patch
+
+![MergedLg]
+~~~
+The optional files are merged into SUP CR Vanilla Location Overhauls.
+~~~
+
+## Snowpoint
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146533) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - SnowPoint Beacon (ESL)
+| Optional Files - Inigo Patch (ESL)
+| Optional Files - Lux Orbis - Snowpoint Patch (ESL)
+
+![MergedLg]
+~~~
+The optional files are merged into SUP CR Vanilla Location Overhauls.
+~~~
+
+## Sunderstone
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135078) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+Download: | Main Files - Sunderstone
+| Optional Files - Lux - Sunderstone Patch
+| Optional Files - Lux Orbis - Sunderstone Patch (ESL)
+
+![MergedLg]
+~~~
+The optional files are merged into SUP CR Vanilla Location Overhauls.
+~~~
+
 ## Swindlers Den
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.03` | Author: `snozz2004`
@@ -728,15 +765,13 @@ Download: | Main Files - Swindlers Den (ESL)
 
 ## Valtheim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.01` | Author: `snozz2004` 
-Download: | Main Files - Valtheim 2.0 (ESL)
-
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.03` | Author: `snozz2004` 
+Download: | Main Files - Valtheim
 
 ## White River Watch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82794) | Version: `1.11` | Author: `snozz2004`
 Download: | Main Files - White River Watch Overhaul
-
 
 ## Northern Scenery - Bleak Falls Barrow
 
@@ -792,7 +827,7 @@ Download: | Main Files - Snozz and Ryn's Bleak Falls Overhaul Patch
 
 ## Combo Patch - Snozz and Ryn's - Bleak Falls Tower
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121785) | Version: `1.0` | Author: `ChickenMike` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121785) | Version: `1.2.1` | Author: `ChickenMike` | ![Merged]
 Download: | Main Files - Snozz Ryn Bleak Falls Tower mashup patch
 
 ![MergedLg]
@@ -802,50 +837,31 @@ The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Over
 
 ## Combo Patch - Snozz and Ryn's - White River Watch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135032) | Version: `1.0.1` | Author: `MissileMann`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135032) | Version: `1.0.1` | Author: `MissileMann` | ![Merged]
 Download: | Main Files - Snozz's and Ryn's White River Watch Patch
-| Optional Files - Lux Orbis Patch
+
+![MergedLg]
+~~~
+The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Overhauls.
+~~~
 
 ## FuzzBeed's Fabulous Resource Repository
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `9.0` | Author: `FuzzBeed` | ![CAO]
-Download: | Main Files - FuzzBeed's Resources
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `11.3` | Author: `FuzzBeed` 
+Download: | Main Files - FuzzBeed's Resources AIO
 
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.9.1` | Author: `FuzzBeed` | ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.2` | Author: `FuzzBeed` | ![Merged]
 Download: | Main Files - Children of the North Wind
-| Update Files - COTNW 6.9.1
-
-![FOMOD]
-~~~
-Base Object Swapper:
-   * Dragon Cult Metal
-Nordic Totems:
-   * Nordic Totems - Dragon Cult Metal
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
+| Optional Files - Dragon Totem Legacy Version
 
 ![MergedLg]
 ~~~
 Any required patches have been merged into Vanilla Locations Overhaul CR. For modifying the list, you
 may need to download the Patch Collection and relevant patches.
 ~~~
-
-## Children of the North Wind - Nordic Ruin Diversity - Complex Material Addon
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `6.3.4` | Author: `FuzzBeed`
-Download: | Optional Files - Complex Material Texture Addon
-
 
 ## Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
 
@@ -887,7 +903,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev` | ![Core] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -905,9 +921,18 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
+![FOMOD]
+~~~
+Conflict Resolution:
+   * Survival
+   * Followers
+   * Vanilla  Locations Overhauls
+Other Files:
+   * None
+~~~
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

@@ -343,7 +343,7 @@ Copy the files from the zip to the above Mod Organizer 2 folder you created's \p
 
 ## FOMOD Plus
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.18.1` | Author: `aglowinthefield` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141001) | Version: `1.20.1` | Author: `aglowinthefield` | ![Core]
 Download: | Main Files - FOMOD Plus for MO2 2.5.2
 
 ![PostInstall]

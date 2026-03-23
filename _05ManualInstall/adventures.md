@@ -80,6 +80,56 @@ Delete textures/praedythxvi/Staves/AetherialStaff/.
 
 # B02. Addons - Adventures - New Lands and Quests
 
+## Clockwork
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4155) | Version: `1.0` | Author: `antistar` | ![ESM] ![QAC]
+Download: | Main Files - Clockwork_SSE_v1-0
+
+## Additional Clockwork
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47087) | Version: `3.0.5` | Author: `BellCube`
+Download: | Main Files - Additional Clockwork
+
+![FOMOD]
+~~~
+SKSE:
+   * Enable SKSE Modules
+Reccomendations:
+   * None
+Bug Fixes:
+   * Bug Fixes
+Marked Shadows:
+   * None
+Woodworker's Whim:
+   * None
+Minor Fixes and Changes:
+   * None (the title remover was merged into the Adventures CR)   
+Superior Sorting:
+   * None (optional, but expected users are more likely to use LOTD safehouse)
+High Poly Project:
+   * None
+Ingredients:
+   * None (see above)
+Food:
+   * None (see above)
+Interesting Inhabitants:
+   * Merged
+~~~
+
+## Faldenthz
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86042) | Version: `1.0` | Author: `tarlazo`
+Download: | Main Files - Faldenthz
+
+## Heart of the Reach
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76494) | Version: `1.0.7` | Author: `TheLootist` | ![CAO] ![ESM]
+Download: | Main Files - Heart of the Reach - High Resolution Textures
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ## Helgen Reborn
 
@@ -109,7 +159,7 @@ Download: | Main Files - Main File
 
 ## Konahrik's Accoutrements
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22206) | Version: `5.5.3` | Author: `Edhelsereg` | ![CAO] ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22206) | Version: `5.5.3` | Author: `Edhelsereg` | ![CAO]
 Download: | Main Files - Konarik's Accoutrements - Dragon Priest Armory
 
 ![PostInstall]
@@ -127,9 +177,19 @@ Download: | Main Files - Konahrik's Accoutrements - Fixed Esp
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/148368) | Version: `1.0` | Author: `SwagsterMcEpic`
 Download: | Main Files - Xavbio Meshes Konarik's Accoutrements - CBBE Patch
 
+## Legends of Aetherium
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69807) | Version: `1.1.3` | Author: `TheLootist` | ![CAO] ![ESM] ![QAC]
+Download: | Main Files - Legends of Aetherium - High Res Textures
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
 ## Midnight Sun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163295) | Version: `1.7` | Author: `Kittytail`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163295) | Version: `1.72` | Author: `Kittytail` | ![QAC]
 Download: | Main Files - Midnight Sun
 | Update Files - Midnight Sun - Update
 
@@ -165,10 +225,41 @@ Options:
    * Extended with TCIY and Wintersun
 ~~~
 
+## Project AHO
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/15996) | Version: `2.0` | Author: `HaemProjects` | ![ESM] ![QAC]
+Download: | Main Files - Project AHO (EN)
+
+## Project AHO - Ancient Dwemer Metal Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `ProjectAHO-v1` | Author: `Xtudo`
+Download: | Optional Files - Ancient Dwemer Metal - My patches - Project AHO
+
+## Project AHO - Sadrith Kegan ENB Fix
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69035) | Version: `1.0` | Author: `Mrdrewlego`
+Download: | Main Files - ProjectAHOSporeENBFix
+
+## Project AHO - Start When You Want
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/21386) | Version: `2.0` | Author: `FireOogle`
+Download: | Optional Files - Project AHOPatch SE - ESL Flagged File
+
+## Project AHO - Security Overhaul Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/63150) | Version: `1.1.0` |  Author: `Milo49`
+Download: | Main Files - Project AHO Locks
+
+## Project AHO - Unofficial Bugfix and Improvement Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/41751) | Version: `1.7.1` | Author: `Strange1884`
+Download: | Main Files - Project AHO Bugfix and Improvement Patch
+| Update Files - Table Mesh Fix
+
 ## Siege at Icemoth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109541) | Version: `1.4.2` | Author: `RoastGorilla439`
-Download: | Main Files - Siege at Icemoth v1.4 (ESM)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109541) | Version: `1.4.4` | Author: `RoastGorilla439`
+Download: | Main Files - Siege at Icemoth v1.4.4 (ESM)
 
 ## Siege at Icemoth - Metallurgy Patch
 
@@ -217,7 +308,7 @@ Download: | Main Files - The Forgotten City
 
 ## The Frozen Heart
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.6.3` | Author: `wSkeever and Kreiste` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.7` | Author: `wSkeever and Kreiste` | ![CAO]
 Download: | Main Files - The Frozen Heart - Main File
 
 ![FOMOD]
@@ -252,15 +343,17 @@ Download: | Main Files - Frozen Heart Paper Map for FWMF (With Clouds)
 The .esp is merged into SUP Addons - Adventures.
 ~~~
 
-## The Gray Cowl of Nocturnal
+## The Gray Cowl of Nocturnal - 10th Anniversary
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/4509) | Version: `1.3` | Author: `MannyGT` | ![QAC]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141327) | Version: `1.4` | Author: `mannygt`
 Download: | Main Files - The Gray Cowl of Nocturnal
+| Optional Files - House of the Thief
+| Optional Files - Map Markers
 
-## The Grey Cowl of Nocturnal - Alikr Flora Overhaul
+## The Gray Cowl of Nocturnal - Flora Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/10141) | Version: `1.7se` | Author: `sa547` | ![ESM] ![ESL-C]
-Download: | Main Files - Gray Cowl of Nocturnal - Alikr Flora Overhaul (PACKED)
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141997) | Version: `1.3` | Author: `sa547` | ![ESM]
+Download: | Main Files - The Gray Cowl of Nocturnal Flora Overhaul
 
 ## The Gray Cowl of Nocturnal - HD Retexture
 
@@ -291,10 +384,57 @@ Decals:
 Download: | Main Files - Gray Cowl of Nocturnal - Misc Item Description
 | Main Files - Gray Cowl of Nocturnal - The Dragonborn's Bestiary
 
+## The Gray Cowl of Nocturnal - Betalille's Hammerfell Quests Bundle
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89977) | Version: `1.0.4` | Author: `Betalille` | ![Merged]
+Download: | Main Files - Betalille's Hammerfell Quests Bundle
+| Main Files - Patch for the 10th Anniversary Version
+
+![MergedLg]
+~~~
+The 10th Anniversary Patch is merged into SUP CR Adventures.
+~~~
+
+## Unmarked Locations Pack - The Grey Cowl of Nocturnal Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159443) | Version: `1.1` | Author: `GeraldMods`
+Download: | Main Files - ULP - The Gray Cowl of Nocturnal Addon
+
+
 ## The Tools of Kagrenac
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.62` | Author: `Titansbane and PrivateEye` | ![ESM]
 Download: | Main Files - The Tools of Kagrenac V1.61a SSE
+
+## The Wheels of Lull
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `5.3.2.1` | Author: `trainwiz`
+Download: | Main Files - The Wheels of Lull SE
+
+![FOMOD]
+~~~
+Old Voice Acting:
+   * None
+Compatibility Patches:
+   * None
+Additional Patches:
+   * None (we already have a mesh for the roots)  
+~~~
+
+## The Wheels of Lull - Ancient Dwemer Metal Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38845) | Version: `Lull-v1` | Author: `Xtudo`
+Download: | Optional Files - Ancient Dwemer Metal - My patches - The Wheels of Lull SE
+
+## The Wheels of Lull - My Lux Patches
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71841) | Version: `1.0` | Author: `chosti`
+Download: | Main Files - Wheels of Lull Lux Patch
+
+## The Wheels of Lull - TrueHUD Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54119) | Version: `1.1` | Author: `kpvw`
+Download: | Main Files - TrueHUD - Wheels of Lull
 
 ## There Is No Umbra - Chapter III
 
@@ -424,7 +564,7 @@ The LOTD patch on this page is merged into SUP Conflict Resolution - Adventures.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169188) | Version: `1.0` | Author: `GeraldMods`
 Download: | Main Files - Unmarked Locations Pack - Wyrmstooth Addon
 
-# B04. Addons - Adventures - Treasures and World Expansions
+# B03. Addons - Adventures - Treasures and World Expansions
 
 ## Additional Hearthfire Dolls
 
@@ -502,6 +642,11 @@ Download: | Main Files - Cheesemod for Everyone - Archived
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/36553) | Version: `1.1` | Author: `malicious`
 Download: | Main Files - Cheesemod - CACO
+
+## Dwemer Spectres Special Edition
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/8016) | Version: `4.1.2a` | Author: `trainwiz` | ![ESM]
+Download: | Main Files - Dwemer Spectres Special Edition
 
 ## JaySuS Swords
 
@@ -640,7 +785,7 @@ Pack the mod with CAO.
 
 ## Bark and Bite
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135087) | Version: `1.0.2` | Author: `nimwraith` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135087) | Version: `1.0.2` | Author: `nimwraith` | ![CAO] ![QAC]
 Download: | Main Files - Bark and Bite - ESL - 1.0.4
 
 ![PostInstall]
@@ -650,7 +795,7 @@ Pack the mod with CAO.
 
 ## Before the End
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/142238) | Version: `1.0` | Author: `nimwraith` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/142238) | Version: `1.0` | Author: `nimwraith` | ![CAO] ![QAC]
 Download: | Main Files - Before the End - ESL - 1.0.2
 
 ![PostInstall]
@@ -785,7 +930,7 @@ Pack the mod with CAO.
 
 ## Painted Torment
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113177) | Version: `1.0` | Author: `nimwraith` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113177) | Version: `1.0` | Author: `nimwraith` | ![CAO] ![QAC] ![ESM]
 Download: | Main Files - Painted Torment - 1.0.5
 
 ![PostInstall]
@@ -870,6 +1015,11 @@ Download: | Main Files - The Serpent's Covenant - ESL - 1.0.4
 Pack the mod with CAO.
 ~~~
 
+## Unleashed - Radiant Story Quest
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131384) | Version: `1.0` | Author: `SarthesArai` | ![ESM]
+Download: | Main Files - Unleashed 1 0
+
 ## War's Folly
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/165699) | Version: `1.0` | Author: `nimwraith` | ![CAO]
@@ -894,8 +1044,8 @@ Pack the mod with CAO.
 
 ## VIGILANT SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11849) | Version: `1.8.0` | Author: `Vicn` | ![CAO]
-Download: | Main Files - VIGILANT SE v180
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11849) | Version: `1.8.1.b` | Author: `Vicn` | ![CAO]
+Download: | Main Files - VIGILANT SE v181
 | Misc Files - (FLM) WorldSpace Patches for Vigilant
 
 ![FOMOD]
@@ -911,9 +1061,14 @@ Silent Voice:
 Pack the mod with CAO. (to remove loose facegen, it will create a new dummy plugin)
 ~~~
 
+## VIGILANT - WorldSpace Patches (FLM)
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11849) | Version: `1.7.x` | Author: `Vicn` | ![CAO]
+Download: | Misc Files - (FLM) WorldSpace Patches for Vigilant
+
 ## VIGILANT - English Translation (Plus Voiced Addon)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11894) | Version: `1.8.0` | Author: `Aelarr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11894) | Version: `1.8.1b` | Author: `Aelarr`
 Download: | Main Files - VIGILANT - English Translation SE (Voiced)
 
 ## VIGILANT - Delayed Start
@@ -967,6 +1122,11 @@ Download: | Main Files - Vigilant - Coldharbor Landscape and Architecture Retext
 Downscale the textures to 2k max with CAO.
 ~~~
 
+## VIGILANT - CoMAP Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/174712) | Version: `1.0` | Author: `JarlSputnik`
+Download: | Main Files - VIGILANT Map Markers
+
 ## VIGILANT - DeadPile Flesh Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/56089) | Version: `1.0` | Author: `PraedythXVI`
@@ -1004,7 +1164,6 @@ Download: | Main Files - VIGILANT - By Xtudo SE - Elite Vigilant Hood fix
 | Main Files - VIGILANT - By Xtudo SE - HD Stendarr Banner
 | Main Files - VIGILANT - By Xtudo SE - Heart of Order fix
 | Main Files - VIGILANT - By Xtudo SE - Hi-poly Sand Runner Eggs
-| Main Files - VIGILANT - By Xtudo SE - Immersive text edit
 | Main Files - VIGILANT - By Xtudo SE - M'que robes fix
 | Main Files - VIGILANT - By Xtudo SE - Nocturnal Statue patch
 | Main Files - VIGILANT - By Xtudo SE - Stendarr Statue Replacer
@@ -1016,8 +1175,13 @@ Download: | Main Files - VIGILANT - Praedy's Elder Scrolls
 
 ## VIGILANT - Rare Curios Consistency
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103543) | Version: `1.0` | Author: `monkeyangie`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103543) | Version: `1.0` | Author: `monkeyangie` | ![Merged]
 Download: | Main Files - Vigilant - Rare Curios Consistency
+
+![MergedLg]
+~~~
+The esp is merged into SUP CR - Adventures.
+~~~
 
 ## VIGILANT - Saint Alessia Statue Replacer
 
@@ -1059,13 +1223,13 @@ Pack the mod with CAO.
 
 ## Stacks of Septims - My Patches SE by Xtudo - VIGILANT
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `3.4` | Author: `Xtudo`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `3.4` | Author: `Xtudo` | ![Merged]
 Download: | Optional Files - 3D Coin Piles - SE by Xtudo - VIGILANT - JS - Lux
 
-## TrueHUD - Vigilant Boss Bars ini
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/53708) | Version: `1.2` | Author: `XenoShard`
-Download: | Main Files - TDM Vigilant Boss ini
+![MergedLg]
+~~~
+The plugin is merged into SUP CR - Adventures.
+~~~
 
 ## Vigilant Armors and Weapons Retexture SE
 
@@ -1081,6 +1245,11 @@ Download: | Main Files - Vigilant Paper Map for FWMF By Limon
 ~~~
 The .esp is merged into SUP Addons - Adventures.
 ~~~
+
+## Vigilant SE - TrueHUD Boss Bar
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/172172) | Version: `1.1` | Author: `VX09`
+Download: | Main Files - Vigilant SE - TrueHUD Boss Bar
 
 # B06. Addons - Adventures - Legacy of the Dragonborn
 
@@ -1214,6 +1383,11 @@ Delete meshes/dbm resources/.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104676) | Version: `1` | Author: `wSkeever and Rick7`
 Download: | Main Files - Fate Cards New Style 2023
 
+## Legacy of the Dragonborn - Fossil Mining Digsite - Vanaheimr Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/172822) | Version: `1.0` | Author: `Bectile`
+Download: | Main Files - Fossil Digsite darker - Vanaheimr Alt - 2k
+
 ## Legacy of the Dragonborn - Interesting NPCs Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39834) | Version: `1.40` | Author: `gutmaw` | ![CAO]
@@ -1223,6 +1397,11 @@ Download: | Main Files - Legacy of the Dragonborn - Interesting NPCs Patch
 ~~~
 Pack the mod with CAO.
 ~~~
+
+## Legacy of the Dragonborn - Inventory Icons
+
+[!mod]](https://www.nexusmods.com/skyrimspecialedition/mods/174601) | Version: `1.0` | Author: `JerryYOJ`
+Download: | Main Files - LoTD Inventory Icons
 
 ## Legacy of the Dragonborn - Item Descriptions
 
@@ -1276,7 +1455,6 @@ Additional Patches A-M: (select only)
 Additional Patches N-Z: (select only)
    * Obscure's College of Winterhold (only if you are not installing Project Arch)
    * Reliquary of Myth - Artifact Overhaul
-   * RS Children
    * Thieves Guild Requirements
    * Weapon Armor Clothing Clutter Fixes
 Manually Selectable Patches:
@@ -1317,7 +1495,7 @@ Synergy Patches: (select only)
 
 ## Legacy of the Dragonborn - Patches - Followers
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.12` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40816) | Version: `4.0.13` | Author: `gutmaw`
 Download: | Main Files - Legacy of the Dragonborn - Follower Room Patches
 
 ![FOMOD]
@@ -1397,6 +1575,11 @@ Download: | Main Files - Visage of the Dragonborn (Gifts of Akatosh) Upscaled 4k
 All of the mods in this section can be disabled.  They will be loaded during NPC Plugin Chooser processing.
 ~~~
 
+## Betalille's Hammerfell Quests - Familiar Faces
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `1.1` | Author: `Axarien` 
+Download: | Misc Files - Betalille's Hammerfell Quests - Familiar Faces
+
 ## Legacy of the Dragonborn Visual Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64477) | Version: `1.4` | Author: `mocia` | ![CAO]
@@ -1408,10 +1591,20 @@ Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 Pack the mod with CAO.
 ~~~
 
+## Project AHO - Familiar Faces
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `1.1` | Author: `Axarien` 
+Download: | Misc Files - Project AHO - Familiar Faces
+
+## Realistic RS Children Overhaul - Legacy of the Dragonborn Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `1.0` | Author: `Muffloid` 
+Download: | Misc Files - RRSC - Helgen Reborn Patch
+
 ## Realistic RS Children Overhaul - Helgen Reborn Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `4.5` | Author: `Muffloid` | ![ESL]
-Download: | Optional Files - RRSC - Helgen Reborn Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/39359) | Version: `1.0` | Author: `Muffloid` 
+Download: | Misc Files - RRSC - Helgen Reborn Patch
 
 ## RS Children Overhaul - Patch Compendium [Addons - Adventures]
 
@@ -1436,6 +1629,11 @@ Download: | Main Files - RS Children - Sleepwalking into a Nightmare
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112177) | Version: `1.0` | Author: `monkeyangie`
 Download: | Main Files - RS Children - Memorable Bounties
 
+## The Gray Cowl of Nocturnal - Familiar Faces
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `1.1` | Author: `Axarien` 
+Download: | Misc Files - The Gray Cowl of Nocturnal - Familiar Faces
+
 ## VIGILANT - Alessia Replacer
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/76961) | Version: `1.2` | Author: `SassiestAssassin`
@@ -1446,7 +1644,7 @@ Download: | Main Files - Vigilant - Alessia - HPH Version
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/98608) | Version: `1.1` | Author: `SassiestAssassin`
 Download: | Main Files - Vigilant - Lamae Bal HPH Replacer
 
-# B06. Addons - Adventures - Late Loaders
+# B08. Addons - Adventures - Late Loaders
 
 ## Ancient Dwemer Metal - Patches - Kthonia's Unique Weapon Pack
 
@@ -1523,6 +1721,21 @@ Download: | Main Files - Falmer Overhaul - My patches SE by Xtudo - LOTD patch
 Delete /textures/dbm resources/.
 ~~~
 
+## Ghostblade - Truly Unique
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/162964) | Version: `1.0` | Author: `FunkyGandalfCat`
+Download: | Main Files - Ghostblade - Truly Unique ESL 1024x4096
+
+## Ghostblade - Truly Unique - My Patches by Xtudo
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163048) | Version: `1.1` | Author: `Xtudo` | ![Merged]
+Download: | Main Files - Ghostblade - SE by Xtudo - LOTD patch
+
+![MergedLg]
+~~~
+The plugin is merged into SUP CR Adventures.
+~~~
+
 ## Mannequin Management
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38221) | Version: `4.1` | Author: `icecreamassassin`
@@ -1539,6 +1752,15 @@ Download: | Main Files - Snazzy Skyrim Unique Treasures
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/113152) | Version: `1.8` | Author: `Xtudo` | ![Visuals]
 Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
 
+## Steel Battleaxe of Fiery Souls - Truly Unique
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154943) | Version: `1.0` | Author: `FunkyGandalfCat` 
+Download: | Main Files - Steel Battleaxe of Fiery Souls Truly Unique ESL 2K
+
+## Steel Battleaxe of Fiery Souls - Truly Unique - My Patches SE by Xtudo
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/155304) | Version: `1.0` | Author: `Xtudo`
+Download: | Main Files - Fiery Souls - SE by Xtudo - LOTD patch
 
 # Z02. Conflict Resolution
 
@@ -1546,7 +1768,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -1565,7 +1787,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Addons - Adventures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.2.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Addons - Adventures
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
@@ -1593,10 +1815,11 @@ Use the Quick Auto Clean shortcut to clean the following plugins one by one:
 |--
 Plugin |
 - | -
+Clockwork.esp |
+Dwarfsphere.esp |
 ForgottenCity.esp |
-Gray Fox Cowl.esp |
-konahrik_accoutrements.esp |
 ktWeaponPackSE.esp |
+LegendsOfAetherium.esp |
 Midnight Sun.esm |
 Painted Torment Final.esp |
 PrisonerMod.esp |
@@ -1613,23 +1836,27 @@ AdditionalHearthfireDolls.esp | Apply ESMifier script
 AetheriumSwordsnArmor.esp | Apply ESMifier script
 ArtifactsOfBoethiah.esp | Apply ESMifier script
 BGCollectables.esp | Add ESL flag, Apply ESMifier script
+Clockwork.esp | Apply ESMifier script
+Dwarfsphere.esp | Apply ESMifier script
+DwemerSpectresLegendary.esp | Apply ESMifier script
 DynamicTreasureMapJournal - DBM.esp | Add ESL flag
 FloatingSwordFollower.esp | Apply ESMifier script
 ForgottenCity.esp | Apply ESMifier script
-Gray Fox Flora Overhaul.esp | ESLify (compact), apply ESMifier script
+Gray Fox Cowl Flora Overhaul.esp | Apply ESMifier script
+HeartOfTheReach.esp | Apply ESMifier script
 Helgen Reborn.esp | Apply ESMifier script
 icebladeofthemonarch.esp | Apply ESMifier script
-konahrik_accoutrements.esp | Apply ESMifier script
 LegacyoftheDragonborn.esm | Apply ESMifier script (some missing)
+LegendsOfAetherium.esp | Apply ESMifier script
 Memorable Bounties - Witcher Inspired Quests.esp | Apply ESMifier script
 MoonAndStar_MAS.esp | Apply ESMifier script
 Painted Torment Final.esp | Apply ESMfier script
-RRSC-HelgenReborn-Patch.esp | Add ESL flag
 SkyrimsUniqueTreasures.esp | Apply ESMifier script
 SL01AmuletsSkyrim.esp | Apply ESMifier script
 The Devil's in the Details - Final.esp | Apply ESMifier script
 Tools of Kagrenac.esp | Apply ESMifier script
 TSR_TeldrynSerious.esp | Apply ESMifier script
+Unleashed.esp | Apply ESMifier script
 WZOblivionArtifacts.esp | Apply ESMifier script
 yumcheese.esp | Apply ESMifier script
 

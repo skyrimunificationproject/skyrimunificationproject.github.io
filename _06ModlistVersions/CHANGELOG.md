@@ -17,6 +17,338 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.3.0 - 2026-03-22
+
+Not save safe.
+
+![Added]
+~~~
+Core - Dynamic Inventory Icon Injector
+Core - SKSE Menu Framework
+Core - Difficulty MCM
+Core - Glow Be Gone Redone - NG
+Core - Lingering Subtitles Fix
+Core - Particle Wind - SKSE Plugin
+Core - Pickpocket Everyone SKSE - Steal from Any Creature
+Core - Saving on Steed - Horse Save Load Fix SKSE
+Core - Seamless Saving - Skyrim Save Accelerator
+Core - Smart Optimal Salves - Optimal Potion Hotkey MCM
+Core - Smart Optimal Salves - SKSE
+Core - Steal Off Scoundrels - Pickpocketing Criminals is Not Stealing
+Core - Stuck Underwater Visuals  and Sounds Fix SKSE
+Core - No Load Door NPC Fade
+Core - RaceMenu Player Rotation
+Core - Character Menu SE
+Core - Enchanted Icon Overhaul
+Core - Icons for Skill Books
+Core - Press E To Heal Followers SKSE
+Core - Quest Item Icon
+Core - Legendary Map - CoMAP Support and Some Improvements
+Core - Nirnroot Is Soothing
+Core - Message Boards for Inns
+Core - Lost Passages - New Dungeons for Skyrim
+Core - Luftahraan Dungeon Pack
+Core - Locally Made Planters - Planter Diversity - Base Object Swapper
+Core - Faction Ranks
+Core - Respectful Ravyn
+Core - Revealing Rune
+Core - Search and Seizure - Quest Expansion
+Core - The Taste of Death - Quest Addon
+Core - Unmasking Sybille
+Core - A Cabbage Plant
+Core - A Leek Plant
+Core - A Potato Plant
+Core - ValArt Hanging Moss
+Core - Dark Brotherhood Door
+Core - SpiderWIP - Updated
+Core - Yuril's Textures Repository - SpiderWIP
+Core - Bloodskal SE
+Core - Bristleback Boars of Skyrim
+Core - Foxes of SKyrim
+Core - Evigheden - SerketHetyt's Serana Overhaul
+Core - Likeable Lucien
+Core - Dynamic Bloodpool Framework
+Core - EVG Animated Traversal
+Core - HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+Core - SkyParkour v3 - Parkour Framework
+Core - OAR Integration For Vanilla Sneak Animations
+Core - SIGMA - Archery Animations - 1st Person
+Core - Dynamic Relaxed Sneak OAR
+Core - Honed Metal - Complete Crafting Overhaul Remastered (FLM)
+Core - Honed Thaumaturgy (FLM)
+Core - Settling of Squad - Set Follower Home
+Core - Wait Your Turn - Enemy Circling Behavior
+Core - Better Storm Call
+Core - Handy Crafting and Spells - Crafting Storage and Travel Enhancements
+Core - Frost Atronarch SE
+Core - Sabrecats of Skyrim
+Core - DynDOLOD TexGen Fixes
+
+Adventures - Clockwork
+Adventures - Additional Clockwork
+Adventures - Faldenthz
+Adventures - Heart of the Reach
+Adventures - Legends of Aetherium
+Adventures - Project AHO
+Adventures - Project AHO - Ancient Dwemer Metal Patch
+Adventures - Project AHO - Sadrith Kegan ENB Fix
+Adventures - Project AHO - Start When You Want
+Adventures - Project AHO - Security Overhaul Skyrim
+Adventures - Project AHO - Unofficial Bugfix and Improvement Patch
+Adventures - The Gray Cowl of Nocturnal - 10th Anniversary
+Adventures - The Gray Cowl of Nocturnal - Flora Overhaul
+Adventures - The Gray Cowl of Nocturnal - Betalille's Hammerfell Quests Bundle
+Adventures - Unmarked Locations Pack - The Gray Cowl of Nocturnal Addon
+Adventures - The Wheels of Lull
+Adventures - The Wheels of Lull - Ancient Dwemer Metal Patch
+Adventures - The Wheels of Lull - My Lux Patches
+Adventures - The Wheels of Lull - TrueHUD Patch
+Adventures - Dwemer Spectres Special Edition
+Adventures - Unleashed - Radiant Story Quest
+Adventures - VIGILANT - WorldSpace Patches (FLM)
+Adventures - VIGILANT - CoMAP Addon
+Adventures - Vigilant SE - TrueHUD Boss Bar
+Adventures - Legacy of the Dragonborn - Fossil Mining Digsite - Vanaheimr Patch
+Adventures - Betalille's Hammerfell Quests - Familiar Faces
+Adventures - Project AHO - Familiar Faces
+Adventures - The Gray Cowl of Nocturnal - Familiar Faces
+Adventures - Ghostblade - Truly Unique
+Adventures - Ghostblade - Truly Unique - My Patches by Xtudo
+Adventures - Steel Battleaxe of Fiery Souls - Truly Unique
+Adventures - Steel Battleaxe of Fiery Souls - Truly Unique - My Patches SE by Xtudo
+
+Survival - Immersive Spell Learning - DESTified
+
+Vanilla Locations - Bannermist
+Vanilla Locations - Fort Fellhammer
+Vanilla Locations - Graywinter
+Vanilla Locations - Skybound
+Vanilla Locations - Snowpoint
+Vanilla Locations - Sunderstone
+
+Arch - Dynamic Boats at Docks
+Arch - Environs - The Shrines of Talos
+Arch - Environs - Riften Warehouse
+Arch - The City of Crossed Daggers - Riften Expansion
+Arch - The City of Crossed Daggers - Riften Expansion - Patches and Addons
+Arch - Windhelm - Temple of Talos Redone
+Arch - FYX - Windhelm Graveyard
+Arch - Heljarchen Creek - A Nightgate Inn Overhaul
+Arch - Heljarchen Creek - A Nightgate Inn Overhaul - Patch Collection
+Arch - Lund's Hamlet - An Overhaul
+Arch - RedBag's Shor's Stone
+Arch - RedBag's Shor's Stone - Some Useful Patches
+Arch - FabiRai's Karthwasten VCO - Vanilla City Overhaul
+Arch - The Walls of Karthwasten
+Arch - The Great Town of Karthwasten SSE
+Arch - The Great Town of Karthwasten - Farmhouse Textures
+Arch - The Great Town of Karthwasten Patch Collection
+Arch - Heljarchen Creek - A Nightgate Inn Overhaul - RS Children Patch
+Arch - Statics of Skyrim - Improved Resources for Mods (SMIMed - HD - Optimized)
+~~~
+
+![Removed]
+~~~
+Core - Best In Class - SKSE Remake
+Core - Coherent Fight Reactions
+Core - Ultimate NPC Dodging
+Core - Universal Rim Lighting Fix
+Core - Butterflies Unchained
+Core - Andrealletius' Summoning Tweaks (ASUT)
+Core - Arch-Curate Vyrthur Revoiced
+Core - General Falx Carius Enhanced Voice
+Core - Ghostly Helgi Voice
+Core - Hermaeus Mora - Voice Renewal
+Core - Hircine Revoiced
+Core - Hrothmund the Red Enhanced Voice
+Core - Lu'ah Al-Skaven Enhanced Voice
+Core - Magical Nirnroot Audio
+Core - Mephala Revoiced
+Core - Meridia Revised - A New Voice
+Core - Nocturnal Revoiced
+Core - Peryite Revoiced
+Core - Potema Revoiced
+Core - The Black Door Revoiced
+Core - The Night Mother Revoiced
+Core - At Your Own Pace - Main Quest
+Core - At Your Own Pace - College of Winterhold
+Core - Mrf's Solitude
+Core - Cabbage - A Cabbage Mod
+Core - Scallions of Skyrim - High Polygon Leeks
+Core - Sowables of Skyrim - Potatoes
+Core - Sowables of Skyrim - Scrumptious Cabbages
+Core - Dark Brotherhood Sanctuary Decor - The Blackest Door
+Core - FYX - Sparks of Fire React To The Wind
+Core - SABRECAT
+Core - DIVERSE SKYRIM
+Core - Simply Knock
+Core - Simply Knock - SKSE Update
+Core - Simply Knock - Dynamic Activation Key Patch
+Core - Wildcat
+Core - Wildcat - SPID
+Core - Wildcat - Settings Loader
+
+Adventures - The Gray Cowl of Nocturnal (see above)
+Adventures - The Gray Cowl of Nocturnal - Alikr Flora Overhaul (see above)
+Adventures - TrueHUD - Vigilant Boss Bars ini
+
+Survival - Books of Power
+Survival - Books of Power - 3rd Person Book Holding OAR
+
+Followers - Serana Dialogue Add-On
+Followers - Serana Dialogue Add-On - Patch Hub
+
+Vanilla Locations - Children of the North Wind Complex Material Addon
+
+Arch - Distinct Interiors - FPS Fix
+Arch - Ships and Boats of Tamriel (Texture Overwrite)
+Arch - Capital Whiterun Expansion - NPC Sleep Fixes
+Arch - Capital Whiterun Expansion - Bucket Fix
+Arch - Capital Windhelm Expansion - 3D Windhelm Fence Patch
+Arch - GG's Capital JK's Whiterun
+Arch - Whiterun Horse Statue - Retexture
+Arch - JK's The Drunken Huntsman
+Arch - Capital Whiterun Expansion - Realistic RS Children Patch
+Arch - Capital Windhelm Expansion - Realistic RS Children Patch
+Arch - The Great Town Series - NPC Replacer
+Arch - Capital Windhelm Expansion - Collision Fixes
+~~~
+
+![Updated]
+~~~
+Prerequisites - FOMOD Plus updated to 1.20.1.
+
+Core - Core Impact Framework updated to 1.2.8.
+Core - Crash Logger SSE AE PDB updated to 1.20.1.
+Core - ENB Extender updated to 1.4.3.
+Core - Object Categorization Framework Some KID Patches updated to 3.5,
+       moved to Autoselecting Patch Hubs.
+Core - Open Animation Replacer updated to 3.0.2.
+Core - Sound Record Distributor updated to 1.5.3.
+Core - Comprehensive Attack Rate Patch updated to 1.1.2.15.
+Core - Debug Menu updated to 3.0.1.
+Core - Floating Subtitles updated to 3.2.0.
+Core - Helmet Toggle 2 updated to 3.6.0.
+Core - KreatE updated to 1.5.
+Core - No Grass In Objects updated to 1.6.1.
+Core - Photo Mode updated to 2.0.3.
+Core - SSE Engine Fixes updated to 7.0.20.
+Core - Unofficial Skyrim Special Edition Patch updated to 4.3.8a.
+Core - CritterSpawn Congestion Fix updated to 5.0, position adjusted.
+Core - Robber's Gorge Fixes updated to 2.3.
+Core - Neutral Whiterun Guards updated to 4.6.
+Core - Quest Fixes updated to 1.6.
+Core - Stormcloaks Fight With Thalmor updated to 4.0.
+Core - True Hunter updated to 6.1.
+Core - Racemenu OverlayFix updated to 1.53.
+Core - SmoothCam updated to 1.7.1.
+Core - B612 updated to 1.0.22.
+Core - Dynamic Activation Key Addons Collection updated to 2.3.0.
+Core - Knotwork updated to 2.1.0.
+Core - Quest Journal Overhaul More Mod Support updated to 2.2.
+Core - STB Widgets updated to 2.2.
+Core - STB Active Effects updated to 1.4.
+Core - Norden UI updated to 1.2.0.
+Core - Ivy's Stendarr Beacon Overhaul updated to 1.0.9.
+Core - Rustic Repose updated to 1.0.8.
+Core - Sleipnir Beds updated to 1.1.1.
+Core - After the Civil War updated to 2.6.7.
+Core - Alternate Start Live Another Life updated to 4.2.6a.
+Core - Why I Came To Skyrim updated to 2.0.
+Core - LOD Model Library for DynDOLOD updated to 1.7.
+Core - Assorted Mesh Fixes updated to 0.139.1.
+Core - Softly Obscuring Snowfall updated to 1.5, moved to Autoselecting Patch Hubs.
+Core - Illustrious Whiterun updated to 4.0, Alt Stonefloor removed, 
+       Optional Moss Alpha added, Complex Materials Parallax moved sections
+Core - Skyrim Object SMIMed Noble Furniture position adjusted.
+Core - Familiar Faces updated to 1.1.
+Core - Children of the Hist updated to 2.02.2.
+Core - Racial Skin Variance SPID updated to 3.4.2.
+Core - Beards of Power - added update file
+Core - SIGMA Battleaxe Animations updated to 1.0.1.
+Core - SIGMA Greatsword Animations updated to 1.0.3.
+Core - SIGMA Mace Animations updated to 1.0.4.
+Core - SIGMA Sword Animations updated to 2.0.
+Core - SIGMA Warhammer Animations updated to 1.0.2.
+Core - Gesture Animation Remix updated to 2.3.0.
+Core - HSF Male Furniture Idles updated to 2.0.
+Core - NPC Animation Remix updated to 2.2.0.
+Core - Riding Animation Overhaul updated to 2.0.
+Core - Immersive First Person Messages updated to 1.4.0.
+Core - Odin updated to 3.1.5.
+Core - Sanguine Symphony updated to 1.2.1.
+Core - Smart NPC Potions updated to 1.30.
+Core - Mainland Staff Enchanters updated to 1.3.0.
+Core - NPC Spell Variance updated to 2.6.2.
+Core - Growl updated to 3.6.0.
+Core - ImmersiveHUD SKSE updated to 3.2.0.
+Core - Imperial Thalmor Stormcloak Patrols Fixes updated to 1.3.
+Core - Missile's IED Preset updated to 3.2.0.
+Core - Vanaheimr Mines and Caves updated to 5.0.
+Core - Vanaheimr Mines and Caves CPM Lux Patch renamed.
+Core - Windhelm Bridge Revived updated to 1.7.
+Core - Windhelm Bridge Revived Patches updated to 1.7.1.
+Core - Mfg Fix NG updated to 1.0.7a.
+Core - First Person Interactions updated to 1.7.6.
+Core - FPS Boost for Quest Mods updated to 1.12.1, position adjusted.
+Core - lilebonymace's Patches updated to 2.56.
+Core - Navigator Patch Collection updated to 1.05.
+Core - Northern Roads Patch Collection updated to 1.40.
+
+Adventures - Midnight Sun updated to 1.72.
+Adventures - Siege at Icemoth updated to 1.4.4.
+Adventures - The Frozen Heart updated to 0.7.
+Adventures - VIGILANT SE updated to 1.8.1.b.
+Adventures - Legacy of the Dragonborn Patches Followers updated to 4.0.13.
+Adventures - Removed QAC instructions for Gray Fox Cowl, Konahrik's Accoutrements.
+			 Removed instructions for Konahrik's Accoutrements, RRSC Helgen Reborn.
+			 
+Survival - Andrealletius' Jobs Overhaul updated to 1.6.
+Survival - Immersive Aggressive Opponents updated to 1.18.
+
+Vanilla Locations - Bleak Falls Tower updated to 2.02.
+Vanilla Locations - Robber's Gorge updated to 1.0.1.
+Vanilla Locations - Valtheim updated to 2.03.
+Vanilla Locations - Combo Patch Snozz and Ryn's Bleak Falls Tower updated to 1.2.1.
+Vanilla Locations - FuzzBeed's Fabulous Resource Repository updated to 11.3.
+Vanilla Locations - Children of the North Wind upated to 7.2.
+
+Arch - KR2's Apple Trees updated to 1.0.3.
+Arch - Settlements Expanded updated to 1.4.
+Arch - Cities of the North Dawnstar Patch Collection updated to 5.9.
+Arch - GG's Thieves Guild HQ Patch Collection updated to 1.11.
+Arch - RYFTEN DOWN updated to 1.1.4.1.
+Arch - JK's Raven Rock updated to 1.0.5.
+Arch - The Great Town of Ivarstead Patch Collection updated to 3.5.
+Arch - Snazzy Misc Locations updated to 2.3.4.
+Arch - Snazzy Interiors Patch Collection updated to 2.4.
+Arch - So This Aint Right updated to 1.0.17.
+
+Final - Updated Nemesis instructions.
+~~~
+
+![Bugfixes]
+~~~
+SUP Consistency Patches 1.3
+   - Removed Diverse Skyrim
+   - Restored some vanilla Odin values for spells, simplified edits
+SUP Conflict Resolution 1.3 
+   - Many object and terrain bugfixes
+   - List-specific edits and overrides for added/updated mods
+SUP Addons Survival/Followers/Armor/Vanilla Locations 1.3
+   - Updates for changes related to new mods
+   - Moved SDA to optional folder
+SUP Addons Adventures 1.3  
+   - Updates for changes related to new mods
+   - Added Message Boards CDF json for Adv mods
+SUP Project Arch 1.3
+   - Bug fixes, updates for new mods
+   - Remove some asset fixes now redundant
+   - Add textureset edits for TGT Karthwasten houses
+   - Split Ivarstead and Karthwasten into their own plugins
+   - Major reworks of Capital Whiterun and Windhelm affecting interior cityspace
+~~~
+
 # 1.2.2 - 2026-01-29
 
 Save-save from 1.2.0.

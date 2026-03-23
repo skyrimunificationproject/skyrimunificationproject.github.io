@@ -49,6 +49,7 @@ EasierRidersDungeonPackSSE.esp |
 HearthfireMultiKid.esp |
 Inigo.esp |
 LessPipesForLucien.esp |
+LuftahraanDungeonPackSSE.esp |
 middenexpandedSSE.esp |
 MorrowindUsesDrams.esp |
 OCW_LotD_FEPatch.esp |
@@ -81,14 +82,15 @@ DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
 EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | ESLify (compact)
-Environs - The Ruined Tundra Farmhouse.esp | Apply ESMifier script
-Environs - Western Watchtower.esp | Apply ESMifier script
+Environs - Tundra Farmhouse.esp | Apply ESMifier script
+Environs - Whiterun Watchtower.esp | Apply ESMifier script
 Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | ESLify (compact)
 FarmhouseChimneys.esp | Apply ESMifier script
 fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | ESLify (compact)
+HJ_LostPassages.esp | Apply ESMifier script
 HoldBorderBanners.esp | ESLify (compact)
 IcyFixes.esp | Add ESL flag
 IDDP Unique Border Gates Patch.esp | Apply ESMifier script
@@ -143,7 +145,6 @@ Unique Border Gates - Fixes.esp | Apply ESMifier script
 Unmarked Locations Pack - All In One.esp | Apply ESMifier script
 Unofficial Material Fix.esp | Apply ESMifier script
 Valhalla Northern Bridges.esp | Apply ESMifier script
-VanillaPlusWritingPurityPatch.esp | Apply ESMifier script
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
 Windhelm Bridge Revived.esp | Apply ESMifier script
 Windhelm Lighthouse.esp | Apply ESMifier script
@@ -303,9 +304,12 @@ Select:
 'Precision',
 'Fix Vanilla Attack Annotation',
 'GP Offset Movement Animation', 
+'Horsepower - Modernized Horse Riding',
 'Ice skating fixed for real', 
 'Some Creature Behavior Bug Fixes', 
 'Slow sprint bug fix', 
+'SkyParkour 1st Person',
+'SkyParkour 3rd Person',
 'True Directional Movement - Headtracking',
 'TK Dodge RE / Ultimate Combat',
 'Animation Teleport Bug Fix',
@@ -439,30 +443,6 @@ After it completes, choose "Save and Zip and Exit", then install the zip as a mo
 The following MCM menus will be auto-populated from files distributed with Skyrim Unification Project - Conflict Resolution, either by settings loader or direct globals editing.
 The specified configuration is listed here for your information.
 
-## A Matter of Time
-
-~~~
-General:
-   * Symbol 1
-      + Show Moon Phases: Enabled
-      + Show Seasons: Enabled
-Display:
-   * Symbol 1
-      + Scale: 60%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -50
-      + Vertical Offset: 0
-   * In-Game Clock
-      + Scale: 70%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -45
-      + Vertical Offset 48
-   * In-Game Date
-      + Scale: 70%
-      + Horizontal Anchor: RIGHT
-      + Horizontal Offset: -45
-      + Vertical Offset: 57
-~~~
 
 ## Complete Alchemy
 
@@ -540,25 +520,6 @@ Interaction
 System
    * Notifications
       + Startup Tasks Notification: Disabled
-~~~
-
-## Lock Overhaul
-
-~~~
-General
-   * General Settings
-      + Allow increasing skill: Enabled
-      + Enable the sound effect: Enabled
-      + Enable crime: Enabled
-      + Allow Auto Open When Unlocked: Disabled
-Smash Locks
-   * Smash Locks
-      + Activate Smash Locks: Enabled
-      + Allowed weapons: TWO + ONE HANDED
-Unlock with Magic
-   * Unlock Spell
-      + Enable Unlock Spell: Enabled
-      + Frost effect Required Skill malus -0 SKILL
 ~~~
 
 ## moreHUD
