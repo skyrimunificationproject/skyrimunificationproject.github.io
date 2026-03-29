@@ -124,26 +124,11 @@ Download: | Main Files: More Soaps for DnB with CACO recipes
 Pack the mod with CAO.
 ~~~
 
-
-
 ## Footprints
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/3808) | Version: `1.6.1` | Author: `hexabit`
 Download: | Main Files - Footprints 1.6.1
 | Optional Files - Footprints - ENB
-
-## Footprints - Heels Addon
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72854) | Version: `1.0.7` | Author: `SiweX92`
-Download: | Main Files - footprints-heelsAddon_SPID_v1.07
-
-![FOMOD]
-~~~
-Choose textures type:
-   * alternative
-Size of prints:
-   * feminine+kids patch
-~~~
 
 ## Footprints - Sand Patch
 
@@ -309,6 +294,11 @@ Download: | Main Files - More Realistic Antlers for Carry Your Carcasses
 ~~~
 Delete textures/.
 ~~~
+
+## Particle Wind - Footprints Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/175451) | Version: `1.0` | Author: `arsenije13`
+Download: | Main Files - Floating Lumps Fix
 
 # A03. Addons - Immersion and Survival (Late Loaders)
 

@@ -541,7 +541,7 @@ Installation type:
 
 ## Riften Docks Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7b` | Author: `agentw` |  ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40021) | Version: `2.5.7c` | Author: `agentw` |  ![ESM] ![Merged]
 Download: | Main Files - Riften Docks Overhaul
 
 ![FOMOD]
@@ -1687,7 +1687,7 @@ Pack the mod with CAO.
 
 ## Redbag's Shor's Stone - Some Useful Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163175) | Version: `1.7` | Author: `monkeyangie` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163175) | Version: `1.8` | Author: `monkeyangie` | ![Merged]
 Download: | Main Files - RedBag's Shor's Stone - FOMOD
 
 ![FOMOD]

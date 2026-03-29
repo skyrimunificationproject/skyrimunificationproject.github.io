@@ -17,6 +17,92 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.3.1 - 2026-03-29
+
+Save safe from 1.3.0 only.
+
+![Added]
+~~~
+Core - Icy Cave Reamster
+Core - Dogs of Skyrim
+Core - Masculine Argonian Textures
+Core - Sassy's Personal Argonian Texture Mashup
+Core - Kabu's Argonian Fins
+Core - Vanilla Item Descriptions
+Core - Experience - MCM
+
+Addons - Survival - Particle Wind - Footprints Patch
+~~~
+
+![Removed]
+~~~
+Core - Bonemold Armors and Weapons Retexture SE (folded into Chitin)
+Core - Falmer Armors and Weapons Retexture SE (folded into Chitin)
+Core - Forgotten Creatures
+Core - Chaurus HD
+Core - Feminine Argonian Textures
+Core - High Heels Condition Spell
+Core - Mythos of Skyrim
+Core - No More Glowy Effects
+
+Addons - Survival - Footprints - Heels Addon
+
+Adventures - Legacy of the Dragonborn - Perk Menus
+~~~
+
+![Updated]
+~~~
+Core - Andrealletius' Papyrus Functions updated to 1.7.2.
+Core - Dynamic Inventory Icon Injector updated to 1.0.7.1.
+Core - Main Menu Video updated to 1.3.1.
+Core - Particle Wind updated to 3.3.1.
+Core - Stones of Solitude updated to 0.3.
+Core - Skyrim Particle Patch updated to 1.4.1.
+Core - CritterSpawn Congestion Fix updated to 5.2.
+Core - B612 updated to 1.0.23.
+Core - Character Menu updated to 1.2.1.
+Core - Quest Journal Overhaul More Mod Support updated to 2.3.
+Core - Imperial Castles of Skyrim update dto 2.3.
+Core - Reclusive Respite updated to 2.0.2.
+Core - Sleipnir Beds updated to 1.1.2.
+Core - Why I Came To Skyrim updated to 2.0.1.
+Core - Missives Voice and Quest Expansion updated to 1.6.1.
+Core - Armory Extended Saints and Seducers updated to 1.03.
+Core - Heavy Armory updated to 6.2.
+Core - Assorted Mesh Fixes updated to 0.139.2.
+Core - Chitin Armors and Weapons Retexture updated to 2.0.
+Core - Iron Armors and Weapons Retexture updated to 2.1.1.
+Core - Bristleback Boars of Skyrim updated to 1.1.
+Core - Clofas Chaurus and Egg Sacs - updated instructions for chaurus
+Core - Foxes of Skyrim updated to 1.2.
+Core - Water for ENB updated to 2.19.
+Core - Sofia - added ESM instruction
+Core - HorsePower updated to 1.1.4.
+Core - Weapons Armor Clothing and Clutter Fixes updated to 2.10.1.
+Core - Fixed Mesh Lighting - updated instructions for canine meshes
+
+Adventures - Additional Clockwork updated to 3.0.6.
+Adventures - The Frozen Heart updated to 0.9.
+Adventures - The Gray Cowl of Nocturnal 10th Anniversary updated to 1.51.
+
+Arch - Riften Docks Overhaul updated to 2.5.7c.
+Arch - Redbag's Shor's Stone Some Useful Patches updated to 1.8.
+~~~
+
+![Bugfixes]
+~~~
+SUP Consistency Patches 1.3.1
+   - Updates for WACCF, slight overall cleanup
+SUP Gameplay Overhaul 1.3.1
+   - Updates for WACCF
+SUP Conflict Resolution 1.3.1
+   - Remove some records copied from Icy Cave Remaster
+   - Update Hotkey Reminder settings
+   - Fixed parallax on whiterun stone roads
+SUP Project Arch 1.3.1
+   - Fixes in Riften and Windhelm
+~~~
+
 # 1.3.0 - 2026-03-22
 
 Not save safe.

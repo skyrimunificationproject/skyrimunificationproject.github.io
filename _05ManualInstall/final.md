@@ -133,6 +133,7 @@ Skyking Signs - Interesting NPCs Patch.esp | ESLify (compact)
 Skyrim Bandit Expansion.esp | Apply ESMifier script
 SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
+SofiaFollower.esp | Apply ESMifier script
 SolitudeTempleFrescoes.esp | Apply ESMifier script
 Stendarr Rising.esp | Apply ESMifier script
 Sunstarved_Tanlines.esp | Add Skyrim.esm as master, Add ESL flag

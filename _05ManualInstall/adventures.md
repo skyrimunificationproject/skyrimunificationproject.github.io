@@ -87,7 +87,7 @@ Download: | Main Files - Clockwork_SSE_v1-0
 
 ## Additional Clockwork
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47087) | Version: `3.0.5` | Author: `BellCube`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47087) | Version: `3.0.6` | Author: `BellCube`
 Download: | Main Files - Additional Clockwork
 
 ![FOMOD]
@@ -308,7 +308,7 @@ Download: | Main Files - The Forgotten City
 
 ## The Frozen Heart
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.7` | Author: `wSkeever and Kreiste` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.9` | Author: `wSkeever and Kreiste` | ![CAO]
 Download: | Main Files - The Frozen Heart - Main File
 
 ![FOMOD]
@@ -345,7 +345,7 @@ The .esp is merged into SUP Addons - Adventures.
 
 ## The Gray Cowl of Nocturnal - 10th Anniversary
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141327) | Version: `1.4` | Author: `mannygt`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/141327) | Version: `1.51` | Author: `mannygt`
 Download: | Main Files - The Gray Cowl of Nocturnal
 | Optional Files - House of the Thief
 | Optional Files - Map Markers
@@ -1506,11 +1506,6 @@ Multiple Rooms:
 Guildhouse:
    * Allow autoselected
 ~~~
-
-## Legacy of the Dragonborn - Perk Menus
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47028) | Version: `2.0` | Author: `wSkeever`
-Download: | Main Files - Legacy of the Dragonborn Perk Menu
 
 ## Legacy of the Dragonborn - Plaques Retexture
 
