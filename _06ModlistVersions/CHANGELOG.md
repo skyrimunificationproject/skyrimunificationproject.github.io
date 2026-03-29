@@ -23,7 +23,7 @@ Save safe from 1.3.0 only.
 
 ![Added]
 ~~~
-Core - Icy Cave Reamster
+Core - Icy Cave Remaster
 Core - Dogs of Skyrim
 Core - Masculine Argonian Textures
 Core - Sassy's Personal Argonian Texture Mashup
