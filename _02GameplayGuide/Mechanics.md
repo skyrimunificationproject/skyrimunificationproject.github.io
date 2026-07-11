@@ -27,3 +27,9 @@ description: Difficulty and Mechanics
  - Honed Metal
  - Simply Knock
  - Trade and Barter
+
+## Handy Crafting
+
+[Handy Crafting and Spells](https://www.nexusmods.com/skyrimspecialedition/mods/64843) adds an auto-store feature for crafting materials and alchemy ingredients.  If activated, this will instantly move all gathered items to the storage so they will not appear in your inventory.  The stored items will be restored to your inventory when crafting at any station or in a safe location (player homes, Dragonborn Museum, etc.) or by using the option in the MCM to access the storage.
+
+This auto-store feature is turned off by default to avoid player confusion, but can be turned on as so: (placeholder for mcm)

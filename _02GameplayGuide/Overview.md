@@ -17,6 +17,7 @@ description: Overview and Basics
  - [Sacrilege](https://www.nexusmods.com/skyrimspecialedition/mods/42408/) and [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245) overhaul the Vampire and Werewolf systems.
  - Dragon War
  - Lawless
+ - Madmen
  - Reliquary of Myth
  - Imperious and Andromeda
  - Wintersun

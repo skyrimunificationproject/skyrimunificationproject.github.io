@@ -183,7 +183,7 @@ Download: | Main Files - Give Me Shelter - Sacrilege
 
 ## Immersive Aggressive Opponents
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.18` | Author: `lilebonymace` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70236) | Version: `1.19.1` | Author: `lilebonymace` | ![Optional]
 Download: | Main Files - Immersive Aggressive Opponents
 
 ![FOMOD]
@@ -280,6 +280,11 @@ Download: | Main Files - Stress and Fear
 Pack the mod with CAO.
 ~~~
 
+## Stress and Fear - Tweaked
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `1.0` | Author: `Blackspine18859` | ![Optional]
+Download: | Main Files - Stress and Fear Tweaks
+
 ## Stress and Fear - CACO Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/119815) | Version: `1.2` | Author: `jp1224` | ![Optional]
@@ -309,7 +314,7 @@ Download: | Main Files: Cuyi's Campfire Backpacks
 
 ## Campfire - Complete Camping System - Igniting Animation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.2` | Author: `Elsawirr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83142) | Version: `1.3` | Author: `Elsawirr`
 Download: | Main Files - Igniting Animation for Campfire
 
 ## Campfire - Complete Camping System - Hotkey Modded Menu Fix
@@ -400,8 +405,13 @@ SunHelmWyrmstoothPatch.esp | ESLify (compact), Create SEQ File
 
 ## Khajiit Will Follow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.4c` | Author: `robbobert` | ![ESM] ![QAC]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.5` | Author: `robbobert` | ![ESM] ![QAC]
 Download: | Main Files - Khajiit Will Follow
+
+## Khajiit Will Follow - Immersive Start
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.4` | Author: `robbobert` | ![ESM] ![QAC]
+Download: | Optional Files - Patch - Immersive Start
 
 ## Khajiit Will Follow - Forgotten City Patch
 
@@ -431,7 +441,7 @@ Download: | Main Files - Redcap
 
 ## Remiel
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.5` | Author: `Maplespice` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.6` | Author: `Maplespice` | ![QAC] ![ESM]
 Download: | Main Files - Remiel-Dwemer Specialist
 
 ![FOMOD]
@@ -482,22 +492,25 @@ Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![QAC] ![ESM] 
 Download: | Main Files - Xelzaz Follower Core 1.13.2
 
+## Xelzaz - Miasma Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.0` | Author: `BluePwnsU` 
+Download: | Optional Files - Xelzaz Miasma Patch (if using Adventures)
+
 ## Xelzaz - Sirenroot Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.2` | Author: `BluePwnsU` 
 Download: | Optional Files - Xelzaz Sirenroot Patch
 
 ## Xelzaz - Wyrmstooth Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![CAO] ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.0` | Author: `BluePwnsU` | ![CAO] ![Optional]
 Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch (if using Adventures)
 
 ![PostInstall]
 ~~~
 Pack the mod with CAO.
 ~~~
-
-
 
 ## Zoldyg's Xelzaz - Visual Replacer
 
@@ -520,14 +533,23 @@ KWFPatch_FC.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
+Use the Persistentify script to ESM flag the following plugins.  If a specified plugin is already ESM, then we run the script to repair some missing persistent references.
+
+|--
+Plugin |
+- | -
+BPUFXelzazFollower.esp | 
+HLIORemi.esp | 
+KhajiitWillFollow.esp | 
+FA01RedcapFollower.esp | 
+
+Perform the following additional actions:
+
+
 |--
 Plugin | Instructions |
 - | -
-BPUFXelzazFollower.esp | Apply ESMifier script
-HLIORemi.esp | Apply ESMifier script
-KhajiitWillFollow.esp | Apply ESMifier script
-FA01RedcapFollower.esp | Apply ESMifier script
-SeranaDialogueAddon.esp | Apply ESMifier script
+
 
 
 
@@ -571,7 +593,8 @@ Download: | Main Files - wilderness_witch
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40845) | Version: `2.0` | Author: `RaZzy3r`
 Download: | Main Files - Wilderness Witch CBBE 3BA Bodyslide
 
-# A30. Addons - Vanilla Location Overhauls
+
+# A30. Addons - Vanilla Location Overhauls - Snozz
 
 Note: Many patches for the below mods are included in the list's conflict resolution files.  If you are modifying the list to do your own conflict resolution, you may need patches provided by these mods along with other patch sources.
 
@@ -587,22 +610,22 @@ Pack the mod with CAO.
 
 ## Bannermist
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75262) | Version: `2.01` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75262) | Version: `2.01` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Bannermist Tower Overhaul 2.0
 
 ## Bleak Falls Barrow Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.02` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/131057) | Version: `2.02` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Bleak Falls Barrow Overhaul V2
 
 ## Bleak Falls Tower
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.02` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83466) | Version: `2.02` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Bleak Falls Tower Overhaul 2.0
 
 ## Brittleshin
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83869) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83869) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Brittleshin Pass Overhaul
 | Optional Files - Brittleshin - 3DNPC Patch
 | Optional Files - Helgen Reborn Patch
@@ -614,7 +637,7 @@ The 3DNPC, and Helgen Reborn patches on this page have been merged into SUP CR V
 
 ## Broken Fang
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133337) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133337) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Broken Fang
 | Optional Files - Lux - Broken Fang Patch
 
@@ -625,19 +648,19 @@ The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 
 ## Embershard
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `1.1` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `1.1` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Embershard Overhaul - ESL Version
 
 ## Fort Dunstad
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144471) | Version: `1.01` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144471) | Version: `1.01` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Fort Dunstad (ESL)
 | Optional Files - Lux - Fort Dunstead Patch (ESL)
 | Optional Files - Lux Orbis - Fort Dunstead Patch (ESL)
 
 ## Fort Fellhammer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168082) | Veersion: `1.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168082) | Veersion: `1.0` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Fort Fellhammer
 | Optional Files - Lux - Fort Fellhammer Patch
 
@@ -648,7 +671,7 @@ The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 
 ## Fort Greymoor
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.04` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/112771) | Version: `1.04` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Fort Greymoor
 | Optional Files - Lux - Fort Greymoor Patch
 | Optional Files - Lux Orbis - Fort Greymoor Patch
@@ -660,7 +683,7 @@ The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Over
 
 ## Graywinter
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83152) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/83152) | Version: `1.0` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Graywinter
 | Optional Files - Graywinter - 3DNPC Patch
 | Optional Files - Lost Passages - Graywinter Patch (ESL)
@@ -672,7 +695,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Halted Stream
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Halted Stream Camp
 | Optional Files - Lux - Halted Stream Patch
 | Optional Files - Lux Orbis - Halted Stream Patch
@@ -684,7 +707,7 @@ The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Over
 
 ## Redoran's Retreat
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80226) | Version: `2.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/80226) | Version: `2.0` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Redoran's Retreat
 | Optional Files - Lux - Redorans Retreat Patch
 
@@ -695,7 +718,7 @@ The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 
 ## Robber's Gorge
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/145380) | Version: `1.0.1` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/145380) | Version: `1.0.1` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Robber's Gorge
 | Optional Files - Lux - Robber's Gorge Patch
 | Optional Files - Lux Orbis - Robber's Gorge Patch
@@ -708,12 +731,12 @@ The Lux/Orbis/Via patches have been merged into SUP CR Vanilla Location Overhaul
 
 ## Silent Moons Camp
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Silent Moons Camp (ESL)
 
 ## Skybound
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167698) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167698) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Skybound
 | Optional Files - Helgen Reborn - Skybound Patch
 | Optional Files - Lux - Skybound Patch
@@ -726,7 +749,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Snowpoint
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146533) | Version: `1.01` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146533) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - SnowPoint Beacon (ESL)
 | Optional Files - Inigo Patch (ESL)
 | Optional Files - Lux Orbis - Snowpoint Patch (ESL)
@@ -738,7 +761,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Sunderstone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135078) | Version: `1.0` | Author: `snozz2004` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/135078) | Version: `1.0` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Sunderstone
 | Optional Files - Lux - Sunderstone Patch
 | Optional Files - Lux Orbis - Sunderstone Patch (ESL)
@@ -750,63 +773,75 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Swindlers Den
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.03` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.03` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Swindlers Den (ESL)
 
 ## Valtheim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.03` | Author: `snozz2004` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94539) | Version: `2.03` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Valtheim
 
 ## White River Watch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82794) | Version: `1.11` | Author: `snozz2004`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/82794) | Version: `1.11` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - White River Watch Overhaul
 
-## Northern Scenery - Bleak Falls Barrow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94647) | Version: `1.0.3` | Author: `HeilingerKrest`
-Download: | Main Files - Northern Scenery - Bleak Falls Barrow
-
-## Northern Scenery - Whiterun's Tundra
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94476) | Version: `1.3.9` | Author: `HeilingerKrest`
-Download: | Main Files - Northern Scenery - Whiterun's Tundra
+# A31. Addons - Vanilla Location Overhauls - Ryn
 
 ## Ryn's Alchemist's Shack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71485) | Versionn: `1.5` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71485) | Versionn: `1.5` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Alchemist's Shack
 
 ## Ryn's Anise's Cabin
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75056) | Version: `1.5` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75056) | Version: `1.5` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Anise's Cabin
 
 ## Ryn's Bleak Falls Barrow
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70984) | Version: `1.0` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70984) | Version: `1.0` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Bleak Falls Barrow
 
 ## Ryn's Bleak Falls Tower
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72659) | Version: `1.5` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72659) | Version: `1.5` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Bleak Falls Tower
+
+## Ryn's Crabber's Shanty and Titanclaw Lair
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72604) | Version: `2.0` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Crabber's Shanty and Titanclaw Lair
 
 ## Ryn's Dragon Mounds
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85647) | Version: `1.1.1` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85647) | Version: `1.1.1` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Dragon Mounds Collection ALL IN ONE
 
+## Ryn's Karthspire
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/77059) | Version: `1.6` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Karthspire
+
+## Ryn's Lost Valley Redoubt
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/102676) | Version: `2.0` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Lost Valley Redoubt
 
 ## Ryn's Standing Stones
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64969) | Version: `1.8` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/64969) | Version: `1.8` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's Standing Stones
+
+## Ryn's Ustengrav
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/86149) | Version: `1.0` | Author: `Ryn` | ![ESM]
+Download: | Main Files - Ryn's Ustengrav
 
 ## Ryn's White River Watch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74311) | Version: `1.6` | Author: `Ryn`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74311) | Version: `1.6` | Author: `Ryn` | ![ESM]
 Download: | Main Files - Ryn's White River Watch
 
 ## Combo Patch - Snozz and Ryn's - Bleak Falls Barrow
@@ -835,15 +870,109 @@ Download: | Main Files - Snozz's and Ryn's White River Watch Patch
 The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Overhauls.
 ~~~
 
-## FuzzBeed's Fabulous Resource Repository
+# A32. Addons - Vanilla Location Overhauls - JJerem
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `11.3` | Author: `FuzzBeed` 
+## HAG - Occult Cradle Stone Tower
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/148542) | Version: `1.0` | Author: `JJerem` | ![ESM]
+Download: | Main Files - HAG - Occult Cradle Stone Tower
+| Optional Files - Lux Orbis - HAG - Cradle Stone Tower Patch
+
+## Orc Exiles - Bilegulch Stronghold
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/130169) | Version: `1.7` | Author: `JJerem` | ![Merged] ![CAO] ![ESM]
+Download: | Main Files - Orc Exiles - Bilegulch Stronghold ESL
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+![MergedLg]
+~~~
+Several patches from this page are merged into the SUP CRs.
+~~~
+
+## Orc Exiles - The Cracked Tusk Keep
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/133489) | Version: `1.6` | Author: `JJerem` | ![Merged] ![CAO] ![ESM]
+Download: | Main Files - Orc Exiles - The Cracked Tusk Keep
+
+![MergedLg]
+~~~
+Several patches from this page are merged into the SUP CRs.
+~~~
+
+## Orc Strongholds - All In One
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150246) | Version: `1.2.1` | Author: `JJerem` | ![Merged] ![CAO]
+Download: | Main Files - Orc Strongholds - All In One
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+![MergedLg]
+~~~
+Several patches from this page are merged into the SUP CRs.
+~~~
+
+## Orc Strongholds - AIO - Patch Collection
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160944) | Version: `1.4.0` | Author: `Alaxouche` | ![Merged] ![ESM]
+Download: | Main Files - Orc Strongholds - AIO - Patches Collection
+
+![FOMOD]
+~~~
+Main Mod Files:
+   * Orc Strongholds AIO Fixes and Optimization
+Patches:
+   * 3DNPCs
+   * Aspens Ablaze
+   * Cultured Orc Furniture
+   * Landscape Fixes for Grass Mods
+   * Lux Orbis
+   * Nature of the Wild Lands
+   * The Cursed Tribe - Quest Expansion
+   * Unofficial Skyrim Special Edition Patch
+Skyshards:
+   * None
+Spice of Life:
+   * None
+~~~
+
+![MergedLg]
+~~~
+All of the above patches except for Lux Orbis are merged into the SUP CRs.
+~~~
+
+## Orcish Lanterns for Orc Strongholds - Base Object Swapper
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/124201) | Version: `1.2` | Author: `gutmaw`
+Download: | Main Files - Orcish Lanterns for Orc Strongholds by Jjerem - Ba
+
+# A33. Addons - Vanilla Location Overhauls - Other
+
+## Northern Scenery - Bleak Falls Barrow
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94647) | Version: `1.0.3` | Author: `HeilingerKrest` | ![ESM]
+Download: | Main Files - Northern Scenery - Bleak Falls Barrow
+
+## Northern Scenery - Whiterun's Tundra
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94476) | Version: `1.3.9` | Author: `HeilingerKrest` | ![ESM]
+Download: | Main Files - Northern Scenery - Whiterun's Tundra
+
+## FuzzBeed's Asset Library
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `12.9` | Author: `FuzzBeed` 
 Download: | Main Files - FuzzBeed's Resources AIO
 
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.2` | Author: `FuzzBeed` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.3` | Author: `FuzzBeed` | ![Merged]
 Download: | Main Files - Children of the North Wind
 | Optional Files - Dragon Totem Legacy Version
 
@@ -855,7 +984,7 @@ may need to download the Patch Collection and relevant patches.
 
 ## Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129681) | Version: `2.1.1` | Author: `FuzzBeed` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129681) | Version: `2.1.1` | Author: `FuzzBeed` | ![Merged] ![ESM]
 Download: | Main Files - Deadly Dragon Lair Locations
 
 ![MergedLg]
@@ -865,17 +994,33 @@ The Lux and Lux Orbis patches from this page are merged into SUP CR - Vanilla Lo
 
 ## Gorgeous Giant Camps Compilation - FuzzBeed's Giant Camps AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125327) | Version: `2.2` | Author: `FuzzBeed` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125327) | Version: `2.2` | Author: `FuzzBeed` | ![Merged] ![CAO] ![ESM]
 Download: | Main Files - Gorgeous Giant Camps Compilation
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
 
 ![MergedLg]
 ~~~
 The Lux Orbis - Embers XD - Three Way Patch on this page is merged into SUP CR - Vanilla Location Overhauls.
 ~~~
 
+## Mage Towers of Skyrim
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179965) | Version: `1.7` | Author: `sevnces` | ![ESM]
+Download: | Main Files - Mage Towers Of Skyrim
+
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
+
 ## Skyfall's Sleeping Hist Tree Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116792) | Version: `1.4` | Author: `Skyfall515`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/116792) | Version: `1.4` | Author: `Skyfall515` | ![ESM]
 Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
 | Optional Files - Dead Looking Sleeping Tree (Leafless)
 | Optional Files - Embers XD Patch
@@ -886,6 +1031,115 @@ Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169984) | Version: `1.0` | Author: `omgliterallyme`
 Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul - LOD
+
+## Fancy Skyfall's Sleeping Tree
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179330) | Version: `1.1` | Author: `Jeannetta182`
+Download: | Main Files - Fancy Skyfall's Sleeping Tree
+
+![FOMOD]
+~~~
+Base:
+   * None
+Extras:
+   * None
+Clutter Removal:
+   * None
+Version:
+   * Year-Round
+Year-Round Color:
+   * Violet
+YR Violet Variants:
+   * Falling Leaves
+YR Violet Falling Lighting:
+   * Low
+~~~
+
+## Tem's Dungeons - Liar's Retreat
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134288) | Version: `1.0` | Author: `Temryuu` | ![ESM]
+Download: | Main Files - Tem's Dungeons - Liar's Retreat
+
+## The Cursed Tribe - Quest Expansion
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/171220) | Version: `1.0.3` | Author: `AndrealletiusVIII` | ![CAO] ![ESM]
+Download: | Main Files - The Cursed Tribe - Quest Expansion
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
+~~~
+
+# Addons - Vanilla Location Overhauls - Final Steps
+
+## xEdit
+
+Use the Quick Auto Clean shortcut to clean the following plugins one by one:
+
+|--
+Plugin |
+- | -
+
+Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
+
+Use the Persistentify script to ESM flag the following plugins.  If a specified plugin is already ESM, then we run the script to repair some missing persistent references.
+
+|--
+Plugin |
+- | -
+Bannermist.esp |
+BleakFallsBarrow.esp |
+BleakFallsReCovered.esp |
+BleakTower.esp |
+Brittleshin.esp |
+BrokenFang.esp |
+Deadly Dragon Lair Locations.esp |
+Embershard.esp |
+Fort Dunstad.esp |
+Fort Fellhammer.esp |
+Fort Greymoor.esp
+Gorgeous Giant Camp Compilation - FuzzBeed's Giant Camps.esp |
+GraywinterWatch.esp |
+HAG - Occult Cradle Stone Tower.esp |
+HaltedStream.esp |
+Mage Towers of Skyrim.esp | 
+Northern Scenery - BleakFallBarrow.esp |
+Northern Scenery \_Tundra.esp |
+Orc Exiles - Bilegulch.esp | 
+Orc Exiles - The Cracked Tusk Keep.esp |
+Orc Strongholds - All In One.esp | 
+Redoran.esp |
+Robbers Gorge.esp |
+Ryn's Alchemist's Shack.esp |
+Ryn's Anise's Cabin.esp
+Ryn's Bleakfalls Tower.esp
+Ryn's Crabber's Shanty.esp |
+Ryn's Dragon Mounds AIO.esp |
+Ryn's Lost Valley Redoubt.esp |
+Ryn's Karthspire.esp |
+Ryn's Standing Stones.esp |
+Ryn's Ustengrav.esp |
+Ryn's White River Watch.esp |
+SilentMoons.esp |
+Skybound.esp |
+Skyfall Sleeping Tree Overhaul.esp
+Snowpoint.esp |
+Sunderstone.esp |
+Swindlers.esp |
+Tem's Dungeons - Liar's  Retreat.esp |
+The Cursed Tribe - Quest Expansion.esp |
+Valtheim.esp |
+WhiteRiverWatch.esp |
+
+Perform the following additional actions:
+
+
+|--
+Plugin | Instructions |
+- | -
+
+
+
 
 # Z01. Conflict Resolution
 

@@ -156,7 +156,7 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b477` | Author: `Nukem and perchik71` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b550` | Author: `Nukem and perchik71` | ![Core]
 Download: | CK Platform Extended 0.6-b477
 
 ![PostInstall]
@@ -233,14 +233,14 @@ Manually extract the folder into Modding\Skyrim\Tools\Nifskope
  (or to a folder where you will store your tools).
 ~~~
 
-## Easy NPC
+## NPC Plugin Chooser 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52313) | Version: `0.9.6` | Author: `focustense` | ![Core] |
-Download: | EasyNPC
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157055) | Version: `2.1.8` | Author: `Piranha91` | ![Core] |
+Download: | Main Files - NPC Plugin Chooser 2
 
 ![PostInstall]
 ~~~
-Manually extract the folder into Modding\Skyrim\Tools\EasyNPC
+Manually extract the folder into Modding\Skyrim\Tools\NPC Plugin Chooser 2
  (or to a folder where you will store your tools).
 ~~~
 
@@ -333,8 +333,8 @@ Download: | Main Files - Mod Organizer 2 (Archive)
 
 ## NIF Preview
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/137741) | Version: `0.4.3` | Author: `Parapets - GabonZ` | ![Core]
-Download: | Main Files - NIF Preview
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/137741) | Version: `0.5.1` | Author: `Parapets - GabonZ` | ![Core]
+Download: | Main Files - NIF Preview MO2-2.5.2
 
 ![PostInstall]
 ~~~
@@ -502,7 +502,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-198` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-205` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

@@ -46,6 +46,11 @@ Plugin |
 AHZBetterDGEntranceSE.esp |
 Black Briar Banners.esp |
 EasierRidersDungeonPackSSE.esp |
+Flow-TG00.esp |
+Flow-TG01.esp |
+Flow-TG02.esp |
+Flow-TG03.esp |
+Flow-TF04.esp |
 HearthfireMultiKid.esp |
 Inigo.esp |
 LessPipesForLucien.esp |
@@ -57,99 +62,110 @@ Windhelm Lighthouse.esp |
 
 Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
 
+Use the Persistentify script to ESM flag the following plugins.  If a specified plugin is already ESM, then we run the script to repair some missing persistent references.
+
+|--
+Plugin |
+- | -
+018Auri.esp | 
+3DNPC.esp | 
+AHZBetterDGEntranceSE.esp | 
+Aspens Ablaze.esp | 
+Butterflies.esp | 
+BUVARP SE RE.esp |
+Cidhna Mine Expanded.esp | 
+DawnguardArsenal.esp | 
+EasierRidersDungeonPackSSE.esp | 
+Environs - Greenwood Shack.esp | 
+Environs - Tundra Farmhouse.esp | 
+Environs - Whiterun Watchtower.esp | 
+Evolving Locations - Cliffside Retreat.esp | 
+Extravagant Blue Palace.esp | 
+FarmhouseChimneys.esp | 
+fallentreebridgesSSE.esp | 
+IDDP Unique Border Gates Patch.esp | 
+Immersive Citizens - AI Overhaul.esp | 
+Imperial Castles of Skyrim.esp | 
+Inigo.esp | 
+Ivy Stendarrs Beacon Overhaul.esp | 
+Granite Hill - Cut Content Restoration.esp | 
+HJ_LostPassages.esp | 
+Landscape Fixes for Grass Mods.esp | 
+Lucien.esp | 
+middenexpandedSSE.esp | 
+Nature of the Wild Lands.esp | 
+Northern Marsh Bridges SE.esp | 
+Northern Roads.esp | 
+OCW_Obscure's_CollegeofWinterhold.esp | 
+OutlawsRefuges.esp | 
+s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | 
+s6o6t Lore - Oblivion Gates.esp | 
+Simple Bandit Camps.esp | 
+Skyrim Bandit Expansion.esp | 
+SkyrimSewers.esp | 
+SolitudeTempleFrescoes.esp | 
+Stendarr Rising.esp | 
+UlvenwaldLite.esp | 
+Unique Border Gates - Fixes.esp | 
+Unmarked Locations Pack - All In One.esp | 
+Unofficial Material Fix.esp | 
+Valhalla Bridges.esp | 
+Windhelm Bridge Revived.esp | 
+Windhelm Lighthouse.esp | 
+Wintersun - Faiths of Skyrim.esp | 
+
+Perform the following additional actions:
+
 |--
 Plugin | Instructions |
 - | -
-018Auri.esp | Apply ESMifier script
-3DNPC.esp | Apply ESMifier script
-AHZBetterDGEntranceSE.esp | Apply ESMifier script
 Apocalypse - Ordinator Compatibility Patch.esp | ESLify (compact)
 Artful Dodger - Dynamic Pickpocket Cap.esp | ESLify (compact)
-Aspens Ablaze.esp | ESLify (compact), apply ESMifier script
+Aspens Ablaze.esp | ESLify (compact)
 AVExpansion_ICFH Add-on.esp | ESLify (compact)
 BarbarianPaints.esp | Add ESL flag
 BosmerHeadresses.esp | ESLify (compact)
 BSMBonemoldSet.esp | ESLify (compact)
-Butterflies.esp | Apply ESMifier script
-BUVARP SE RE.esp | Apply ESMifier script
-Cidhna Mine Expanded.esp | Apply ESMifier script
 CollegeEntry.esp | Add ESL flag
 CommunityOverlays1_0T30.esp | Add ESL flag
 CommunityOverlays2_31T50.esp | Add ESL flag
 CommunityOverlays3.esp | Add ESL flag
 CompanionsTweaks.esp | Add ESL flag
-DawnguardArsenal.esp | Apply ESMifier script
 DeadlySpellImpacts.esp | Add ESL flag
-EasierRidersDungeonPackSSE.esp | Apply ESMifier script
 ENB Light.esp | ESLify (compact)
-Environs - Tundra Farmhouse.esp | Apply ESMifier script
-Environs - Whiterun Watchtower.esp | Apply ESMifier script
-Extravagant Blue Palace.esp | Apply ESMifier script
 Faction Crossbows.esp | ESLify (compact)
-FarmhouseChimneys.esp | Apply ESMifier script
-fallentreebridgesSSE.esp | Apply ESMifier script
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | ESLify (compact)
-HJ_LostPassages.esp | Apply ESMifier script
 HoldBorderBanners.esp | ESLify (compact)
 IcyFixes.esp | Add ESL flag
-IDDP Unique Border Gates Patch.esp | Apply ESMifier script
-Immersive Citizens - AI Overhaul.esp | Apply ESMifier script
-Imperial Castles of Skyrim.esp | Apply ESMifier script
-Inigo.esp | Apply ESMifier script
-Ivy Stendarrs Beacon Overhaul.esp | Apply ESMifier script
 KALA_BEAST RACE EYES.esp | ESLify (compact)
 KeeperCarcetteSurvives.esp | ESLify (compact)
 Koralina's Eyebrows.esp | ESLify (compact)
 KrittaKittyHorsesforSSE.esp | ESLify (compact)
-Landscape Fixes for Grass Mods.esp | Apply ESMifier script
 LovelyLetter.esp | Add ESL flag
-Lucien.esp | Apply ESMifier script
 Lupine_YyvengarBodypaints.esp | Add ESL flag
 Lupine_ZiovendianBodypaints.esp | Add ESL flag
 man_dibella.esp | Add ESL flag
-middenexpandedSSE.esp | Apply ESMifier script
 MoreWerewolves.esp | ESLify (compact)
-Nature of the Wild Lands.esp | Apply ESMifier script
 Nemesis PCEA.esp | ESLify (comapct)
-Northern Marsh Bridges SE.esp | Apply ESMifier script
-Northern Roads.esp | Apply ESMifier script
-OCW_Obscure's_CollegeofWinterhold.esp | Apply ESMifier script
 Odin - Ordinator Compatibility Patch.esp | ESLify (compact)
-OutlawsRefuges.esp | Apply ESMifier script
 OutlawsRefugesProgressionPatch.esp | ESLify (compact)
 RaceMenu.esp | Add ESL flag
 RaceMenuMorphsCBBE.esp | Add ESL flag
 RaceMenuPlugin.esp | Add ESL flag
 ReadingImprovesSpeech.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
-s6o6t Lore - Dark Anchors Ruins and Dolmens.esp | Apply ESMifier script
-s6o6t Lore - Oblivion Gates.esp | Apply ESMifier script
 SaveTheIcerunner.esp | Add ESL flag
 Semi-Open Guard Helmets SE.esp | ESLify (compact)
 SFO_SkinFeatureOverlays.esp | Add ESL flag
-Simple Bandit Camps.esp | Apply ESMifier script
 Skyking Signs - Interesting NPCs Patch.esp | ESLify (compact)
-Skyrim Bandit Expansion.esp | Apply ESMifier script
-SkyrimSewers.esp | Apply ESMifier script
 SkyUI.esp | Add Skyrim.esm as a master
-SofiaFollower.esp | Apply ESMifier script
-SolitudeTempleFrescoes.esp | Apply ESMifier script
-Stendarr Rising.esp | Apply ESMifier script
 Sunstarved_Tanlines.esp | Add Skyrim.esm as master, Add ESL flag
 Thief Skills Rebalance for Ordinator.esp | ESLify (compact)
 ThugsNotAssassins.esp | Add ESL flag
 UIExtensions.esp | Add Skyrim.esm as a master
-UlvenwaldLite.esp | Apply ESMifier script
 UniqueBarbas.esp | Add ESL flag
-Unique Border Gates - Fixes.esp | Apply ESMifier script
-Unmarked Locations Pack - All In One.esp | Apply ESMifier script
-Unofficial Material Fix.esp | Apply ESMifier script
-Valhalla Northern Bridges.esp | Apply ESMifier script
 VWA_VanillaWarpaintsAbsolution.esp | Add ESL flag, add Skyrim.esm as master
-Windhelm Bridge Revived.esp | Apply ESMifier script
-Windhelm Lighthouse.esp | Apply ESMifier script
-Wintersun - Faiths of Skyrim.esp | Apply ESMifier script
 WNB_WeatheredNordicBodypaints.esp | Add Skyrim.esm as master, add ESL flag
 Wolfpaint_Face.esp | Add Skyrim.esm as master, add ESL flag
 
@@ -175,6 +191,9 @@ You can leave them there or put them in a new mod.
 
 # EasyNPC
 
+TODO: Replace this section with NPC2 instructions.
+
+--OBSOLETE--
 For this step, enable all mods in NPC - Retextures, and place the esps somewhere above Consistency Patches.
 
 Launch EasyNPC from MO2. Click OK to confirm the load order. 
@@ -205,9 +224,10 @@ If the patcher shows a red dot for an error, make sure a Project is selected, an
 
 Do the same for:
 ~~~
-High Poly Head Patcher
 Khajiitearsshow (if you choose)
 NoDragonLods
+Enchanted-Items-Value-Fixer
+HighPolyHead-RaceMenuPatcher
 ~~~
 
 Select the icon on the bottom left to run the patchers
@@ -229,13 +249,12 @@ Run Bodyslide from MO2.  You may have to select the Skyrim Special Edition direc
 
 Click Settings at bottom right, toggle Advanced, and make sure "Override Warning" is checked.
 
-Towards the top right corner, click on the magnifying glass and select 'Choose groups…'
+Towards the top right corner, click on the magnifying glass by the "Filter groups.." box and select 'Choose groups…'
 
 
 Check the following groups:
  ~~~
  3BA
- 3BA HDT GEMLING
  3BBB
  AVEOutfits-CBBE
  CBBE 3BA ACE (Physics)
@@ -243,13 +262,19 @@ Check the following groups:
  CBBE 3BA Creation Club (Im Physics)
  CBBE 3BA HDT Amulets
  CBBE 3BA HDT Gemling (CCOR)
- CBBE 3BA LOTD (if using Adventures)
- CBBE 3BA Vanilla (ImPhysics)
- CBBE 3BA WACCF (ImPhysics)
- CBBE 3BA Wyrmstooth (if using Adventures)
+ CBBE 3BA KCO - BRD
+ CBBE 3BA KSSSL - Dibella's Grace
+ CBBE 3BA KSSSL - High Priests of Skyrim
+ CBBE 3BA LOTD
+ CBBE 3BA Vanilla (Im Physics)
+ CBBE 3BA WACCF (Im Physics)
+ CBBE 3BA Wyrmstooth
+ CBBE KSA - KSWS07
+ Glenmoril CBBE
  Hands Redone
  Hands Redone - Clothes
  KS Hairdos SMP - Collisions (CBBE)
+ Vigilant
  [3BA] Volkihar Knight Armor
  Unassigned
  ~~~
@@ -266,7 +291,7 @@ Control+Click 'Batch Build...'
 !!! IMPORTANT !!!
 If you do not hold Control, you will overwrite all of your installed mods with the generated outfits.
 
-In the next window, right click and Select All. Disable all "HIMBO" sets.
+In the next window, right click and Select All.
 You can also disable any CC sets you do not own. (leave enabled: Golden Saints, Dark Seducers, Fishing Clothes)
 
 Click Build.  In the folder selection popup, select the MO2 overwrite folder. (or your Bodyslide Output if rebuilding)
@@ -298,15 +323,17 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select: 
-'Assorted Behavior Fixes v3.2',
+'Assorted Behavior Fixes v3.4',
 'Precision - NPC Combat Fix',
 'Barstool Exit Animation Fix',
 'Centurion OAR',
 'Precision',
+'First Person Motion Sickness Remover Regular Attacks',
 'Fix Vanilla Attack Annotation',
 'GP Offset Movement Animation', 
 'Horsepower - Modernized Horse Riding',
 'Ice skating fixed for real', 
+'Precision - Attack Collision Fixes',
 'Some Creature Behavior Bug Fixes', 
 'Slow sprint bug fix', 
 'SkyParkour 1st Person',
@@ -314,7 +341,7 @@ Select:
 'True Directional Movement - Headtracking',
 'TK Dodge RE / Ultimate Combat',
 'Animation Teleport Bug Fix',
-'Unlocked First Person Combat A',
+'Unlocked 1st Person Combat - Base',
 'USSEP Behavior Patch'
 'Weapons Switch Animations Compleate' (sic)
 'Fix Draugr Dagger Animation'

@@ -25,3 +25,14 @@ nav_order: 6
  - [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
  - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683)
  - [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
+ 
+ ## Quest Timing Changes - Vanilla
+ 
+ We use the following mods to change or delay the timing of vanilla quests and DLCs in the list:
+ 
+ - [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) is preset to delay the DLCs and some miscellaneous quests, and can be configured from its MCM.
+ The default preset is as follows:
+ 
+ - [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) adds dialogue boxes or optional conversation choices to begin patched quests instead of locking the player into them immediately.
+ 
+ - [Radiant Requirements MCM](https://www.nexusmods.com/skyrimspecialedition/mods/45427) allows you to delay radiant quests until you're a certain level.  The default preset is as follows:
