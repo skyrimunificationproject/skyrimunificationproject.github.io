@@ -1702,7 +1702,7 @@ Download: | Main Files - Unslaad Voiced - English Addon SE
 
 ## UNSLAAD - ElevenLabs Voiced
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/155073) | Version: `3.0.5-1` | Author: `KeinerGuy`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/155073) | Version: `3.0.6-1` | Author: `KeinerGuy`
 Download: | Main Files - UNSLAAD - ElevenLabsV3 Voiced
 
 ## Unslaad - Book Covers

@@ -225,8 +225,8 @@ Download: | Main Files - PAPER
 
 ## powerofthree's Papyrus Extender
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `6.4.0` | Author: `powerofthree` | ![Core]
-Download: | Main Files - Papyrus Extender SE
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/22854) | Version: `6.4.2` | Author: `powerofthree` | ![Core]
+Download: | Main Files - Papyrus Extender
 
 ![FOMOD]
 ~~~
@@ -433,7 +433,7 @@ Download: | Main Files - Copy Paste In Menus
 
 ## Death Drop Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/151590) | Version: `1.3.1` | Author: `Seb263` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/151590) | Version: `1.3.2` | Author: `Seb263` | ![Core]
 Download: | Main Files - Death Drop Overhaul - Latest Version
 
 ## Death Idle Fix
@@ -581,7 +581,7 @@ Download: | Main Files - Equip Enchantment Fix for 1.6.629 and newer
 
 ## Essential Favorites
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42997) | Version: `2.3.0` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42997) | Version: `2.4.1` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Essential Favorites
 
 ![FOMOD]
@@ -639,7 +639,7 @@ Download: | Main Files - First Person Height Fix SKSE
 
 ## Floating Subtitles
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154424) | Version: `3.3.3` | Author: `powerofthree` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/154424) | Version: `3.3.4` | Author: `powerofthree` | ![Core]
 Download: | Main Files - Floating Subtitles
 
 ![FOMOD]
@@ -685,7 +685,7 @@ Download: | Main Files - Hide Quest Items in Container Menu
 
 ## Horizon Fix - SKSE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/184607) | Version: `0.2.2` | Author: `hakasapl` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/184607) | Version: `0.3.3` | Author: `hakasapl` | ![Core]
 Download: | Main Files - Horizon Fix AE
 
 ## Horse Stamina HUD
@@ -966,7 +966,7 @@ Download: | Main Files - Power Attack Key NG
 
 ## powerofthree's Tweaks
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.15.1` | Author: `powerofthree` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51073) | Version: `1.16.0` | Author: `powerofthree` | ![Core] |
 Download: | Main Files - powerofthree's Tweaks SE
 
 ![FOMOD]
@@ -977,7 +977,7 @@ DLL:
 
 ## Project Bro He's There
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/175934) | Version: `1.7` | Author: `LeoneKingzz` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/175934) | Version: `1.9` | Author: `LeoneKingzz` | ![Core]
 Download: | Main Files - Project Bro Hes There
 
 ## Read Or Take
@@ -1431,7 +1431,7 @@ Download: | Main Files - Stones of Solitude - Better Blended Rock Piles
 
 ## Skyrim Particle Patch for ENB
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.4.2` | Author: `mindflux` | ![Core] 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65720) | Version: `1.4.3` | Author: `mindflux` | ![Core] 
 Download: | Main Files - Particle Patch
 
 ![FOMOD]
@@ -1489,7 +1489,7 @@ Download: | Main Files - Landscape Fixes For Grass Mods
 
 ## Navigator - Navmesh Fixes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.8.2` | Author: `tarlazo` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52641) | Version: `1.8.3` | Author: `tarlazo` | ![Core] |
 Download: | Main Files - Navigator - Navmesh Fixes
 
 ![FOMOD]
@@ -1515,8 +1515,6 @@ Mod fixes - Vigilant:
 Abandoned Prison:
    * None
 Quicksilver Mine:
-   * None
-Rift Watchtower:
    * None
 Broken Oar script tweak:
    * Broken Oar exit
@@ -1939,7 +1937,7 @@ Download: | Main Files - Safer Spikes
 
 ## Sanctified Stolen Goodds
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128597) | Version: `1.0.5` | Author: `Shazdeh2` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128597) | Version: `1.0.6` | Author: `Shazdeh2` | ![Core]
 Download: | Main Files - Sanctified Stolen Goods
 
 ## Sensible Bribes - Based on Speechcraft Not Level
@@ -2063,7 +2061,7 @@ Download: | Main Files - RaceMenu Anniversary Edition v0-4-20-0
 
 ## Racemenu Enhancer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182536) | Version: `2.0.0` | Author: `Fuzzlesz` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182536) | Version: `2.0.1` | Author: `Fuzzlesz` | ![Core]
 Download: | Main Files - Racemenu Enhancer for Skyrim 1.6
 
 ## RaceMenu OverlayFix and Various Mod Fixes
@@ -2173,7 +2171,7 @@ Download: | Main Files - 2k Textures
 
 ## B612 - Shazdeh's UI Components
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/127701) | Version: `1.0.25` | Author: `shazdeh2` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/127701) | Version: `1.0.26` | Author: `shazdeh2` | ![Core]
 Download: | Main Files - B612 - little asteroid of useful UI components
 
 ## Character Menu SE
@@ -2238,7 +2236,7 @@ Download: | Main Files - Gamepad Plus Plus
 
 ## Hotkey Reminder
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/115853) | Version: `1.0.6` | Author: `shazdeh2` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/115853) | Version: `1.0.8` | Author: `shazdeh2` | ![Core]
 Download: | Main Files - Hotkey Reminder
 
 ## I4 - MVV Forgotten Icons
@@ -2315,7 +2313,7 @@ Download: | Main Files - Show NPC Disposition Relationship Rank
 
 ## Show Player In Inventory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/178689) | Version: `1.3` | Author: `ItzIvy` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/178689) | Version: `1.4` | Author: `ItzIvy` | ![Core]
 Download: | Main Files - Show Player In Inventory
 
 ## Skyrim SE Skill Interface Re-Texture
@@ -2539,14 +2537,22 @@ Download: | Main Files - Knotwork
 ## Oblivion Interaction Icons
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52743) | Version: `2.60` | Author: `rbt` | ![Core]
-Download: | Main Files - Oblivion Interaction Icons - DSD
+Download: | Update Files - OII 3 Beta
 
 ![FOMOD]
 ~~~
-Main Files:
-   * Allow autoselected
+Config Files:
+   * Use or Take SKSE
+Font Replacer Patchers:
+   * None
 Options - Player Icon:
-   * None (or your choice)
+   * Human/Mer Male (or your choice)
+   
+Themes:
+   * None
+Misc:
+   * None
+   
 Options - Color Schemes [DSD]
    * Warm (For DDDM)
 Options - Tweaks:
@@ -3970,6 +3976,7 @@ Download: | Main Files - Diverse Campfires - FYX Campfire Reacts to Wind
 Download: | Main Files - Diverse Candles - Base Object Swapper
 | Main Files - Diverse Candles - BOS ESL flagged ESP
 | Update Files - Diverse Candles Rudy HQ ENB Complex Material
+| Optional Files - Optmized Meshes for Rudy's Complex Silver
 
 ## Diverse Farm Fences - Base Object Swapper
 
@@ -5416,7 +5423,7 @@ Delete Lore Weapon Expansion - Relics of the Crusader.esp.
 
 ## New Armory Series - Argonian Weapons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/178432) | Version: `1.4` | Author: `PrivateEye` | ![Core] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/178432) | Version: `1.5.1` | Author: `PrivateEye` | ![Core] ![Merged]
 Download: | Main Files - New Armory Series - Argonian Weapons
 
 ![FOMOD]
@@ -8489,6 +8496,10 @@ Download: | Main Files - Snazzy SMIM Common and Upper Chests Replacer
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/97820) | Version: `1.0` | Author: `Gutmaw` | ![Visuals]
 Download: | Main Files - Snazzy Strongbox Replacer
 
+## Static Mesh Improvement Mod (SMIM) - Missing Common Furniture
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/185414) | Version: `1.1` | Author: `Gutmaw` | ![Visuals]
+Download: | Main Files - SMIM - Missing Common Furniture - Rally's Version
 
 ## Stations of Sorcerers - Arcane Enchanters and Alchemy Labs Retexture
 
@@ -8838,7 +8849,7 @@ Lightning:
 
 ## Embers XD
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `3.2.4` | Author: `mindflux` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37085) | Version: `3.2.5` | Author: `mindflux` | ![Core] ![Visuals]|
 Download: | Main Files - Embers XD
 
 ![FOMOD]
@@ -8847,8 +8858,12 @@ Flames Customization:
    * Embers XD Flames
 Dynamic Lights:
    * Optimized Particle Lights (ENB/OS)
-Particle Lights - Intensity:
-   * Normal
+Particle Light Intensity:
+   * 100%
+Light Placer Intensity:
+   * 100% (this doesn't matter)
+Light Placer Coverage:
+   * All fires (this doesn't matter)
    
 Plugin Selection:
    * Lux Orbis
@@ -9075,11 +9090,27 @@ Left-Hand Meshes:
 
 ## aMidianBorn Content Addon
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `3.1.5` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35390) | Version: `3.1.6` | Author: `kryptopyr and CaBaL120` | ![Core] ![Visuals]|
 Download: | Main Files - aMidianBorn Content Addon SE
 
 ![FOMOD]
 ~~~
+Main File:
+   * aMidianBorn Content Addon
+HDT-SMP Vanilla Armors:
+   * None
+   
+Animated Armoury and Heavy Armory:
+   * None
+Crossbow Mods with AA and HA:
+   * None
+Heavy Armory:
+   * Heavy Armory
+Heavy Armory - Glaives Addon
+   * None
+Stealth Skills Rebalanced:
+   * Stealth Skills Rebalanced
+   
 Weapon Meshes (excluding bows):
    * LeanWolf's Better-Shaped Weapons with Greatsword Scabbards
 Bow Meshes:
@@ -9098,8 +9129,6 @@ Glass Weapons:
    * LeanWolf's Better-Shaped Weapons with Greatsword Scabbards
 Glass Weapons - Patches:
    * Heavy Armory
-Patches:
-   * None to all
 ~~~
 
 
@@ -9298,7 +9327,7 @@ Delete textures/dlc01/weapons/auriel/aurielsbow*.dds.
 
 ## Ancient Nord Armors and Weapons Retexture SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91136) | Version: `2.0.1` | Author: `Xavbio` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91136) | Version: `2.0.2` | Author: `Xavbio` | ![Visuals]
 Download: | Main Files - Ancient Nord Armors and Weapons Retexture SE
 
 ![FOMOD]
@@ -9918,7 +9947,7 @@ The patch esps are merged into SUP Conflict Resolution.
 
 ## Silver Armors and Weapons Retexture SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89109) | Version: `2.0.1` | Author: `Xavbio` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89109) | Version: `2.1.1` | Author: `Xavbio` | ![Visuals]
 Download: | Main Files - Silver Armors and Weapons Retexture SE
 
 ![FOMOD]
@@ -10448,7 +10477,7 @@ Download: | Main Files - 1) Higher Poly Vanilla Saddles
 
 ## Ashbound - Solstheim Revisited
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `2.0.2` | Author: `Rusey` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73278) | Version: `2.0.3` | Author: `Rusey` | ![Core] |
 Download: | Main Files - Ashbound - Solstheim Revisited
 
 ![FOMOD]
@@ -11826,7 +11855,7 @@ Pack the mod with CAO.
 
 ## The Younglings - High Poly - RS Children - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179853) | Version: `2.8.1` | Author: `monkeyangie` | ![Core] ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179853) | Version: `2.9` | Author: `monkeyangie` | ![Core] ![Visuals]
 Download: | Main Files - The Younglings - Patches
 
 ![FOMOD]
@@ -12281,14 +12310,14 @@ Move the ini files installed up to the main folder level of the mod.
 
 ## Feminine Khajiit Textures 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/183) | Version: `3.2` | Author: `MONSTERaider` | ![Core] ![Visuals] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/183) | Version: `4.0` | Author: `MONSTERaider` | ![Core] ![Visuals] |
 Download: | Main Files - Feminine Grey Cat and Leopard (CBBE) 2K
 
 ![FOMOD]
 ~~~
 Variations:
    * Grey Cat
-Chest Variations (2K):
+Chest Variations:
    * Furry
 ~~~
 
@@ -14062,7 +14091,7 @@ Download: | Main Files - Hearthfire Multiple Adoptions and Custom Home Support S
 
 ## Hearthfire Multiple Adoptions Expanded
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128768) | Version: `2.00f` | Author: `Sranger` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128768) | Version: `2.01` | Author: `Sranger` | ![Core]
 Download: | Main Files - Hearthfire Multi Adoption Expanded
 
 ![FOMOD]
@@ -14526,7 +14555,7 @@ Download: | Main Files - Armor and Clothing Extension
 
 ## Complete Alchemy and Cooking Overhaul 
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `3.0.0` | Author: `kryptopyr` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/19924) | Version: `3.0.1` | Author: `kryptopyr` | ![Core]
 Download: | Main Files - Complete Alchemy and Cooking Overhaul
 
 ![FOMOD]
@@ -14686,10 +14715,10 @@ Extras (Optional):
    * None
 ~~~
 
-## Wait Your Turn - Enemy Circling Behavior
+## Wait Your Turn Redux - Enemy Circling Behavior
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65091) | Version: `1.0.3` | Author: `Monitor221hz` | ![Core]
-Download: | Main Files - Wait Your Turn - Enemy Circling Behavior
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/185557) | Version: `1.0.1` | Author: `Monitor221hz` | ![Core]
+Download: | Main Files - Wait Your Turn Redux
 
 
 # 65. Gameplay - Stealth and Traps
@@ -14822,7 +14851,7 @@ Download: | Main Files - Natura
 
 ## NPC Spell Variance - Spell Variety AI
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132097) | Version: `2.6.3` | Author: `LeoneKingzz` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132097) | Version: `2.6.4` | Author: `LeoneKingzz` | ![Core]
 Download: | Main Files - NPC Spell Variance
 
 ## NPC Spell Variance - Spell Variety AI - KID - Vanilla Spells
@@ -15080,7 +15109,7 @@ Download: | Main Files - SIGMA - Stances Distributed
 
 ## Thieves Guild Plus Plus - A Questline Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182439) | Version: `1.15` | Author: `Flowrifto` | ![Core] ![QAC]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182439) | Version: `1.23` | Author: `Flowrifto` | ![Core] ![QAC]
 Download: | Main Files - Thieves Guild Plus Plus FOMOD
 
 ![FOMOD]
@@ -15088,10 +15117,10 @@ Download: | Main Files - Thieves Guild Plus Plus FOMOD
 Optional Files:
    * None
 Patches:
-   * Faction Ranks
    * More Dialogue Options MDO
-   * Missing Follower Dialogue Edit
+   * Relationship Dialogue Overhaul RDO
    * Thieves Guild Requirements
+   * Wintersun
 ~~~
 
 ## Unique Markarth Doors - Security Overhaul SKSE - Base Object Swapper
@@ -15459,7 +15488,7 @@ The esp is merged into SUP Conflict Resolution.
 
 ## aMidianBorn Content Addon - 3BA and HIMBO Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144952) | Version: `1.0.3` | Author: `Hishigami` | ![Core] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144952) | Version: `1.1.1` | Author: `Hishigami` | ![Core] ![Merged]
 Download: | Main Files - aMidian Content Addon - 3BA and HIMBO Patch
 
 ![FOMOD]
@@ -15505,7 +15534,7 @@ Male:
 
 ## Stalhrim Refrozen Patch Hub
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/126838) | Version: `2.3.6` | Author: `Hishigami` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/126838) | Version: `2.3.7` | Author: `Hishigami` | ![Core]
 Download: | Main Files - Stalhrim Refrozen Patch Hub (3BA - BHUNP - HIMBO)
 
 ![FOMOD]
@@ -17296,7 +17325,7 @@ All of the .esp plugins are merged into SUP CR Resources, SUP Adventures Resourc
 
 ## Object Categorization Framework - Some KID Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99726) | Version: `3.8` | Author: `monkeyangie` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/99726) | Version: `3.9` | Author: `monkeyangie` | ![Core]
 Download: | Main Files - OCF - Some KID Patches FOMOD
 
 ![FOMOD]
@@ -17413,7 +17442,7 @@ Softly Obscuring Snowfall - No Dirty Ruins Snow - Wyrmstooth.esp
 
 ## The Dragonborn's Bestiary - Quest Patch Compendium AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/138248) | Version: `1.25` | Author: `Patman023` | ![Core]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/138248) | Version: `1.26` | Author: `Patman023` | ![Core]
 Download: | Main Files - The Dragonborn's Bestiary - Patch Compendium AIO
 
 ![FOMOD]

@@ -17,7 +17,86 @@ description: Changelog and Version History
 {:toc}
 </details>
 
-# 1.4.0
+# 1.4.1 - 2026-07-18
+
+Not save-safe due to changes around Thieves Guild quests.
+
+![Added]
+~~~
+Core - Static Mesh Improvement Mod (SMIM) - Missing Common Furniture
+~~~
+
+![Updated]
+~~~
+Prereqs - NPC Plugin Chooser 2 updated to 2.2.2.
+Core - powerofthree's Papyrus Extender updated to 6.4.2.
+Core - Death Drop Overhaul updated to 1.3.2.
+Core - Essential Favorites updated to 2.4.1.
+Core - Floating Subtitles updated to 3.3.4.
+Core - Horizon Fix SKSE updated to 0.3.3.
+Core - powerofthree's Tweaks updated to 1.16.0.
+Core - Project Bro He's There updated to 1.9.
+Core - Skyrim Particle Patch for ENB updated to 1.4.3.
+Core - Navigator updated to 1.8.3.
+Core - Sanctified Stolen Goods updated to 1.0.6.
+Core - Racemenu Enhancer updated to 2.0.1.
+Core - B612 updated to 1.0.26.
+Core - Hotkey Reminder updated to 1.0.8.
+Core - Show Player In Inventory updated to 1.4.
+Core - Oblivion Interaction Icons updated to 3.0 Beta.
+Core - Diverse Candles - Optional file added.
+Core - New Armory Series Argonian Weapons updated to 1.5.1.
+Core - Embers XD updated to 3.2.5.
+Core - aMidianBorn Content Addon updated to 3.1.6.
+Core - Ancient Nord Armors and Weapons Retexture SE updated to 2.0.2.
+Core - Silver Armors and Weapons Retexture SE updated to 2.1.1.
+Core - Ashbound updated to 2.0.3.
+Core - The Younglings - Patches updated to 2.9.
+Core - Feminine Khajiit Textures updated to 4.0.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.01.
+Core - Complete Alchemy and Cooking Overhaul updated to 3.0.1.
+Core - Wait Your Turn changed to Wait Your Turn Redux.
+Core - NPC Spell Variance updated to 2.6.4.
+Core - Thieves Guild Plus Plus updated to 1.23.
+Core - aMidianBorn Content Addon 3BA Patch updated to 1.1.1.
+Core - Stalhrim Refrozen Patch Hub updated to 2.3.7.
+Core - Object Categorization Framework Some KID Patches updated to 3.9.
+Core - The Dragonborn's Bestiary Quest Patch Compendium AIO updated to 1.26.
+
+Adventures - UNSLAAD ElevenLabs Voiced updated to 3.0.6-1.
+
+Arch - More Capital Whiterun Expansion Patches updated to 1.8.
+~~~
+
+![BugFixes]
+~~~
+SUP Gameplay Overhaul 1.4.1
+   - Adjustments to Magic Tweaks addon
+
+SUP Consistency Patches 1.4.1
+   - More cleanup, removal of redundant records
+   - Added consistency patches for many quest mods
+
+SUP Conflict Resolution 1.4.1
+   - Removed character level based multipliers in Uncapper settings
+   - Fixed double health bars
+   - Added MCM Recorder for Predator Vision Delayed
+   - Disabled Precision hit recoil because it triggers on walls too often
+   - Disabled sound for Sanguine Symphony death effect
+   - Reduced Ghost Physical Damage Immunity to 50% total for better playability
+   - Small esp tweaks
+   
+SUP Conflict Resolution-Addons 1.4.1
+   - Tweaks to esps for Survival, Vanilla Locations, KWF
+   
+SUP Adventures 1.4.1
+   - Small esp tweaks
+   
+SUP Project Arch 1.4.1
+   - Cleaned up road from Riverwood to Guardian Stones
+~~~
+
+# 1.4.0 - 2026-07-10
 
 Requires new game.
 

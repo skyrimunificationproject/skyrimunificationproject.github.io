@@ -1143,7 +1143,7 @@ Pack the mod with CAO.
 
 ## More Capital Whiterun Expansion Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.7` | Author: `Jonado`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.8` | Author: `Jonado`
 Download: | Main Files - Capital Whiterun Expansion Patches
 
 ![FOMOD]
