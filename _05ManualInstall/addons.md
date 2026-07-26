@@ -660,7 +660,7 @@ Download: | Main Files - Fort Dunstad (ESL)
 
 ## Fort Fellhammer
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168082) | Veersion: `1.0` | Author: `snozz2004` | ![Merged] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168082) | Veersion: `1.1` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Fort Fellhammer
 | Optional Files - Lux - Fort Fellhammer Patch
 
@@ -736,7 +736,7 @@ Download: | Main Files - Silent Moons Camp (ESL)
 
 ## Skybound
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167698) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167698) | Version: `1.2` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Skybound
 | Optional Files - Helgen Reborn - Skybound Patch
 | Optional Files - Lux - Skybound Patch
@@ -1147,7 +1147,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev` | ![Core] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -1165,7 +1165,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
 ![FOMOD]

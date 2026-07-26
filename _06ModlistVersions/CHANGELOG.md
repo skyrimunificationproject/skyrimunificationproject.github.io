@@ -17,6 +17,64 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.4.2 - 2026-07-25
+
+Save-safe from 1.4.1 only, don't update if currently playing through TG03/Dampened Spirits.
+
+![Added]
+~~~
+Core - Dynamic Armor Physics
+Core - Nirn Necessities - SMP Accessories
+Core - HIMBO Lite SE - Refits
+~~~
+
+![Updated]
+~~~
+Prereq - DynDOLOD updated to Alpha-208.
+Core - Core Impact Framework updated to 2.0.1.
+Core - Fuzz's Legally Intelligible Core Kit updated to 1.3.0.
+Core - powerofthree's Papyrus Extender updated to 6.4.3.
+Core - Horizon Fix updated to 0.4.1.
+Core - Racemenu Enhancer updated to 2.0.2.
+Core - Embers XD updated to 3.2.6.
+Core - aMidianBorn Content Addon updated to 3.1.8.
+Core - Unique Armors and Weapons Retexture - options changed
+Core - Imperial Armors and Weapons Retexture - options changed
+Core - Iron Armors and Weapons Retexture - options changed
+Core - Leather Armors Retexture - options changed
+Core - Dynamic Bloodpool Framework updated to 1.1.0.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.03.
+Core - Sanguine Symphony updated to 1.3.0.
+Core - Wait Your Turn Redux updated to 1.0.3.
+Core - Wintersun Nordic Addon updated to 2.0.1.
+Core - Thieves Guild Plus Plus updated to 1.26.
+Core - kryptopyr's Patch Hub - options changed
+
+Addons - Fort Fellhammer updated to 1.1.
+Addons - Skybound updated to 1.2.
+
+Adventures - Voices Beyond Reach updated to 1.3.
+Adventures - DAc0da updated to 1.1.0.b.
+~~~
+
+![Bugfixes]
+~~~
+SUP Consistency Patches 1.4.2
+   - Fixed incorrect override of Perks swap file that could apply extra perks erroneously
+
+SUP Conflict Resolution 1.4.2
+   - Moved SSR patches back to patch hub files
+   - Fixes incorrect resolution of SSR and Ordinator for Lockpick and Pickpocket trees.
+   
+SUP Adventures 1.4.2
+   - Removed old edit of note at end of Ustengrav
+   - Made Hestra's Nest ineligible for TG radiants
+   
+SUP Project Arch 1.4.2
+   - Fixed misdirected door in Whiterun Guard Barracks (Ryn's)
+   - Made previously removed Capital Windhelm/Whiterun buildings ineligible for TG radiants
+~~~
+
 # 1.4.1 - 2026-07-18
 
 Not save-safe due to changes around Thieves Guild quests.

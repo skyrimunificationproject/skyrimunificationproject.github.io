@@ -2405,7 +2405,7 @@ Delete the .esp.  We are only using the meshes in combination with edits to Capi
 
 ## Skyrim Unification Project - Project Arch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `ra2phoenix` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `ra2phoenix` | 
 Download: | Main Files - Skyrim Unification Project - Project Arch
 
 

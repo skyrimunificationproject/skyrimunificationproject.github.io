@@ -153,7 +153,7 @@ Delete loose textures/ folder.
 
 ## Voices Beyond Reach - Audio Repair Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169082) | Version: `1.1` | Author: `spaghetters`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169082) | Version: `1.3` | Author: `spaghetters`
 Download: | Main Files - Beyond Reach Audio Repair Project
 
 ## Clockwork
@@ -1276,7 +1276,7 @@ Pack the mod with CAO.
 
 ## DAc0da
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134405) | Version: `1.1.0` | Author: `Vicn` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134405) | Version: `1.1.0.b` | Author: `Vicn` | ![CAO]
 Download: | Main Files - Dac0da v105
 
 ![FOMOD]
@@ -2233,7 +2233,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -2252,7 +2252,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Addons - Adventures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.3.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Addons - Adventures
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
