@@ -125,7 +125,7 @@ Download: | Main Files - Settlements Expanded SE
 
 ## Snazzy Location Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.3` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.40` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Location Resources
 
 ![FOMOD]
@@ -133,6 +133,9 @@ Download: | Main Files - Snazzy Location Resources
 Furniture:
    * Rally's Common Furniture
    * Rally's Upper Furniture
+   * Rally's Noble Furniture
+   * Peasant Dreams
+   * Rustic Repose
 Miscellaneous:
    * Ancient Pottery
 Rudy HQ Miscellaneous:
@@ -140,7 +143,7 @@ Rudy HQ Miscellaneous:
 Silverware:
    * Rudy's ENB Complex Material for Silverware
 Split meshes:
-   * Split meshes
+   * None
 ~~~
 
 ![PostInstall]
@@ -150,12 +153,13 @@ Pack the mod with CAO.
 
 ## Snazzy Player Homes
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182336) | Version: `1.01` | Author: `gutmaw`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182336) | Version: `1.12` | Author: `gutmaw`
 Download: | Main Files - Snazzy Player Homes
 
 ![FOMOD]
 ~~~
 Misc Locations:
+   * Honeyside
    * Proudspire Manor
 ~~~
 
@@ -569,7 +573,7 @@ Download: | Main Files - RYFTEN DOWN - 1B Performence
 
 ## Snazzy Riften AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.1.2` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.2.1` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Riften AIO
 
 ![FOMOD]
@@ -1063,21 +1067,6 @@ Patches:
 The Lux Orbis patch is merged into Project Arch - Windhelm.
 ~~~
 
-## FYX - Windhelm Graveyard
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/98260) | Version: `1.0.2` | Author: `Yuril`
-Download: | Main Files - FYX - Windhelm Graveyard
-| Optional Files - FYX - Windhelm Graveyard - JK's Patch
-
-![PostInstall]
-~~~
-Delete */whlanddead7.nif and whlanddead8.nif (using Better Vanilla Gravestones)
-Delete */whlanddead3-6.nif. (snow version incompatible with envmap mud)
-
-Run the meshes through SNIFF to remove vertex colors.
-In NifSkope, set the double-sided flag on whlanddead9.nif.
-~~~
-
 ## Ryn's Whiterun City Limits
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/65661) | Version: `2.6` | Author: `Ryn` | ![ESM]
@@ -1143,7 +1132,7 @@ Pack the mod with CAO.
 
 ## More Capital Whiterun Expansion Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.8` | Author: `Jonado`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85797) | Version: `1.8.1` | Author: `Jonado`
 Download: | Main Files - Capital Whiterun Expansion Patches
 
 ![FOMOD]
@@ -1353,7 +1342,6 @@ Download: | Main Files - BUVARP - Chillridge COTN Addon
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.2.4` | Author: `ClefJ` | ![ESM] ![CAO] ![Merged]
 Download: | Main Files - ClefJ's Morthal
-| Update Files - Farmhouse Mesh Update
 
 ![PostInstall]
 ~~~
@@ -1426,6 +1414,11 @@ ClefJ Morthal - ETaC - s606t Oblivion Gates patch.esp
 ClefJ Morthal - ETaC - USSEP patch.esp
 ClefJ Morthal - ETaC - Water for ENB (SoS) patch.esp
 ~~~
+
+## ClefJ's Morthal - Optimized Meshes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/49546) | Version: `1.3` | Author: `ClefJ` 
+Download: | Main Files - ClefJ's Morthal - Optimized Meshes
 
 ## Denizens of Morthal
 
@@ -2202,12 +2195,14 @@ with the new npcs are disabled in our list.
 
 ## Meshes Optimization Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.3` | Author: `ItzIvy`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.4.9` | Author: `ItzIvy`
 Download: | Main Files - Meshes Optimization Project
 
 ![FOMOD]
 ~~~
 Solitude:
+   * Bards College Rework
+   * Drengin's Blue Palace Terrace
    * Grand Solitude - The Walls of High King Erling
    * JK's Solitude Outskirts
 Whiterun:
@@ -2217,15 +2212,27 @@ Winterhold:
    * The Great City of Winterhold
    
 Cities of the North:
-   * None
+   * Cities of the North - Dawnstar
+   * Cities of the North - Falkreath
    
-Furniture:
-   * Publican's Perch
 Other Hamlets:
-   * None
+   * Northern Roads
+   * Valhalla Bridges (Valhalla Northern Bridges)
+Windhelm Bridge Revived:
+   * Windhelm Bridge Revived - Snowy Option
    
 Vanilla Mesh Fixes:
-   * None
+   * Imperial Stone Door Frame UV and Shadow Fix
+~~~
+
+![PostInstall]
+~~~
+Delete meshes/cotn/architecture/westskyrim/*.
+Delete meshes/cotn/architecture/winterhold/*.
+Delete meshes/cotn/landscape/bridges/cotn_bridge01.nif.
+Delete meshes/cotn/landscape/bridges/cotn_stone*.nif.
+Delete meshes/cotn/landscape/bridges/lod/cotn_bridge01_lod.nif.
+Delete meshes/cotn/landscape/bridges/lod/cotn_stone*.nif.
 ~~~
 
 ## Blary's Booksets - Optimized
@@ -2305,7 +2312,7 @@ Mesh Options:
 
 ## Snazzy Misc Locations
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.4.0` | Author: `gutmaw` | ![CAO] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147762) | Version: `2.50` | Author: `gutmaw` | ![CAO] ![ESM]
 Download: | Main Files - Snazzy Misc Locations
 
 ![FOMOD]
@@ -2328,7 +2335,7 @@ Pack the mod with CAO.
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.6.2` | Author: `czasior gutmaw GGUNIT` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.8` | Author: `czasior gutmaw GGUNIT` | ![Merged]
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
@@ -2405,7 +2412,7 @@ Delete the .esp.  We are only using the meshes in combination with edits to Capi
 
 ## Skyrim Unification Project - Project Arch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `ra2phoenix` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `ra2phoenix` | 
 Download: | Main Files - Skyrim Unification Project - Project Arch
 
 

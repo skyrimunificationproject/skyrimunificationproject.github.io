@@ -17,6 +17,287 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.5.0 - 2026-08-21
+
+![Added]
+~~~
+Core - Intellightent
+Core - Native Mesh Light Flicker Fix
+Core - State Globals Framework
+Core - LOD Refresh Bug Fix
+Core - Smooth Terrain
+Core - Zero Bounty Hostility Fix SKSE
+Core - Conversations Raise Speechcraft
+Core - Map Menu Extension
+Core - Fishing - Reduce Cut
+Core - Miscellaneous Plus Plus
+Core - SIGMA - Sword Dual Wield Animations - 1st Person
+Core - Vanargand Animations II - Sword Low Stance
+Core - Vanargand Animations II - Sword Non Combat Locomotion
+Core - Vanargand Animations II - Sword Normal Attacks
+Core - Simple Follower Framework
+Core - Accuracy (Localized Combat Damage)
+Core - Accurate Projectile Collision
+Core - Handy Perk Points
+Core - Obscure's College of Winterhold Meshes Optimized and Merged
+
+Adventures - The Tools of Kagrenac - Unofficial Patch
+Adventures - Sleepwalking Into A Nightmare - Tweaks and Fixes
+
+Arch - ClefJ's Morthal - Optimized Meshes
+~~~
+
+![Removed]
+~~~
+Core - Dynamic Wind Framework
+Core - Dynamic Wind - Skyrim
+Core - LOD Unloading Bug Fix
+Core - Zero Bounty Hostility Fix (old ver)
+Core - Andrealletius' Exploit Fixes
+Core - Thieves Guild Requirements
+Core - Bits and Pieces - RSV Patch
+Core - Bits and Pieces - Teeth Overhaul
+Core - Racial Skin Variance SPID
+Core - RSV SPID Patches for Consistency
+Core - Relationship Dialogue Overhaul
+Core - Relationship Dialogue Overhaul - Updated Scripts
+Core - Nether's Follower Framework
+Core - Improved Traps - Nether's Follower Framework Bear Trap Fix
+Core - Apocalypse - Magic of Skyrim - Optimized Scripts
+Core - Ordinator Perks of Skyrim - Optimized Scripts
+Core - Mesh Patches - Lux and Lux Orbis
+Core - Improved Solitude Windmill
+Core - Vanaheimr - Farmhouses - Lux Patch (merged into main install)
+Core - Dwemer Metals Retexture SE - Lux Patch
+Core - Nether's Follower Framework - Settings Loader
+Core - Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
+Core - Thieves Guild Requirements - Settings Loader
+
+Adventures - The Wheels of Lull - My Lux Patches
+
+Arch - FYX - Windhelm Graveyard
+~~~
+
+![Updated]
+~~~
+Prerequisites - Creation Kit Platform Extended updated to 0.6-b558.
+Prerequisites - NPC Plugin Chooser 2 updated to 2.2.4.
+Prerequisites - DynDOLOD updated to Alpha-210.
+
+Core - Address Library for SKSE Plugins updated to v12.
+Core - Andrealletius' Papyrus Functions updated to 1.7.3.
+Core - Core Impact Framework updated to 2.0.4.
+Core - ENB Extender and Helper updated to 1.5.1.
+Core - Open Animation Replacer updated to 3.2.0.
+Core - Scaleform Translation Plus Plus NG changed to original modpage 1.9.
+Core - Spell Perk Item Distributor updated to 7.3.2.
+Core - Death Drop Overhaul updated to 1.3.4.
+Core - Debug Menu updated to 4.0.2.
+Core - Dynamic Armor Physics updated to 1.0.3.
+Core - Glow Be Gone Redone NG updated to 1.5.1.
+Core - Horizon Fix SKSE updated to 0.5.1.
+Core - KreatE updated to 1.5.1.
+Core - No Grass In Objects updated to 1.6.10.
+Core - Photo Mode updated to 3.0.0.
+Core - Project Bro He's There updated to 2.0.
+Core - Save and Load Accelerator for SKSE Cosaves updated to 1.3.3.
+Core - Simple Offense Suppression updated to 2.3.0.
+Core - Skyrim Particle Patch for ENB updated to 1.4.6.
+Core - Motionless Rocks Killing People Fix updated to 1.3.
+Core - Alchemical Appraisal Services - added CAO instruction
+Core - B612 - added CAO instruction
+Core - Gamepad Plus Plus - added CAO instruction
+Core - STB Widgets updated to 2.8.
+Core - Simply Order Summons - added CAO instruction
+Core - Simply Order Squad - added CAO instruction
+Core - Vel'dun UI updated to 1.0.6.
+Core - Vel'dun UI Overhauls updated to 1.0.6.
+Core - Vel'dun UI Patches updated to 1.0.6.
+Core - SIRENROOT - added CAO instruction
+Core - Shores of Skyrim updated to 1.5.
+Core - Military Camps Begone updated to 1.4.0.
+Core - After The Civil War updated to 2.7.1.
+Core - Andrealletius' Scene Tweaks - added CAO instruction
+Core - Finding Helgi and Laelette - added CAO instruction
+Core - Granite Hill updated to 1.6.3.
+Core - Skyrim Cut Content Restoration updated to 2.4.4.
+Core - Faction Ranks - added CAO instruction
+Core - House of Horrors Quest Expansion updated to 1.14.
+Core - Revealing Rune - added CAO instruction
+Core - Skyrim Extended Cut Saints and Seducers updated to 1.1.2.
+Core - Nirn Necessities - added CAO instruction
+Core - Lunar Guard Armor moved here from Addons
+Core - Lunar Guard Armor CBBE 3BA Bodyslide moved here from Addons
+Core - Lunar Guard Arsenal Battleaxe moved here from Addons
+Core - New Armory Series Argonian Weapons updated to 1.5.2.
+Core - Practical Pirate Outfit moved here from Addons
+Core - Practical Pirate Outfit CBBE 3BA Bodyslide SMP moved here from Addons
+Core - Wilderness Witch Outfit moved here from addons
+Core - Wilderness Witch Outfit CBBE 3BA Bodyslide moved here from addons
+Core - Whiterun Objects SMIMed Dragonsreach Stairs moved sections
+Core - Vanaheimr Farmhouses moved sections
+Core - Daedric Shrines All In One - added ESM instruction
+Core - Daedric Shrines Jggalag My Patches by Xtudo - added ESM instruction
+Core - Stuff of Shadows - added delete instruction
+Core - SFCO3 updated to 3.50.
+Core - Embers XD updated to 3.2.7.
+Core - The Mists of Blackreach updated to 1.2.
+Core - Water for ENB updated to 2.21.
+Core - Lux - updated install instructions, added delete instructions
+Core - Khajiit Will Follow moved here from Addons
+Core - Khajiit Will Follow Immersive Start moved here from Addons
+Core - Khajiit Will Follow Forgotten City Patch moved here from Addons
+Core - Khajiit Will Follow Vigilant Patch moved here from Addons
+Core - Redcap the Riekling moved here from Addons
+Core - Remiel moved here from Addons
+Core - Remiel CBBE 3BA moved here from Addons
+Core - Xelzaz moved here from Addons
+core - Xelzaz Miasma Patch moved here from Addons
+Core - Xelzaz Sirenroot Patch moved here from Addons
+Core - Xelzaz Wyrmstooth Patch moved here from Addons
+Core - Khajiit Will Follow eeekie's Replacer moved here from Addons
+Core - Remiel BiR's Replacer moved here from Addons
+Core - Zoldyg's Xelzaz Visual Replacer moved here from Addons
+Core - The Younglings Patches updated to 2.10.
+Core - Ricochet updated to 1.1.2.
+Core - Ricochet Broken Feathers updated to 1.0.1.
+Core - SkyParkour updated to 3.6.2.
+Core - SIGMA Magic Animations updated to 1.0.3.
+Core - Conditional Expressions - added CAO instruction
+Core - New Creature Animation Dwarven Centurion updated to 1.522.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.04, added CAO instruction
+Core - Missing Follower Dialogue Edit - added CAO instruction
+Core - Sanguine Symphony updated to 1.3.3.
+Core - Smart NPC Potions - added CAO instruction
+Core - Seeking Out Sneaks - added CAO instruction
+Core - Thaumaturgy updated to 1.5.
+Core - Triumvirate Regalia updated to 1.0.4.
+Core - NPC Spell Variance updated to 2.7.0.
+Core - Wintersun Nordic Addon - added CAO instruction
+Core - Thieves Guild Plus Plus updated to 1.50, added CAO instruction
+Core - Handy Crafting and Spells - added CAO instruction
+Core - Water in Wells - changed install instruction
+Core - FYX Vanilla Table Replacers - changed to non LUX version
+Core - GG's High Hrothgar Fixed Stairs - changed to non split version
+Core - Illustrious Whiterun Complex Materials Parallax - moved position
+Core - Publican's Perch updated to 1.0.8.
+Core - Tel Mithryn Overhaul - removed optional files
+Core - Fixed Meshes For Rugnarok - removed optional file
+Core - FPS Boost for Quest Mods updated to 1.14.0.
+Core - Northern Roads Patch Collection updated to 1.41.
+Core - Object Categorization Framework Some KID Patches updated to 4.0.
+
+Addons - Stress and Fear Tweaked updated to 3.1.
+Addons - Snozz's Resource Pack updated to 1.14.
+Addons - Embershard updated to 2.2.
+Addons - Snowpoint updated to 1.21.
+Addons - Swindlers Den updated to 1.4.
+Addons - FuzzBeed's Asset Library updated to 12.11.
+Addons - Children of the North Wind updated to 7.3.3.
+
+Adventures - Beyond Reach Default Face NPCs Fixed updated to 1.25.
+Adventures - Additional Clockwork - added CAO instruction
+Adventures - Siege at Icemoth updated to 1.5.1.
+Adventures - Wyrmstooth Vulom Skeleton Replacer HD Patch updated to 2.3.
+Adventures - The Frozen Heart updated to 0.10.3.
+Adventures - Calling the Watchmaker updated to 1.0.5.
+Adventures - GLEN-MORIL SE updated to 0.96.80b.
+Adventures - GLEN-MORIL English Translation updated to 0.96.8b.
+Adventures - Legacy of the Dragonborn Additional Display Patches updated to 2.0.8.
+Adventures - Legacy of the Dragonborn Patches updated to 6.10.9.
+Adventures - Legacy of the Dragonborn The Curator's Companion updated to 7.0.9.
+
+Arch - Snazzy Location Resources updated to 2.40.
+Arch - Snazzy Player Homes updated to 1.12.
+Arch - Snazzy Riften AIO updated to 2.2.1.
+Arch - More Capital Whiterun Expansion Patches updated to 1.8.1.
+Arch - Meshes Optimization Project updated to 1.5.4.9, added delete instructions.
+Arch - Snazzy Misc Locations updated to 2.50.
+Arch - Snazzy Interiors Patch Collection updated to 2.8.
+~~~
+
+![Bugfixes]
+~~~
+SUP Consistency Patches 1.5.0
+   - Combined Followers and Armor and Accessories merged patches into Core
+
+SUP Conflict Resolution 1.5.0
+   - Moved many edits into ESM Resources to reduce temp ref count
+   - Merged in edits for NOTWL/treeless tundra
+   - Merged in edits for Followers/Armor
+   - Fixed boar model for Redcap and loadscreenriekling01 (mostly for LOTD)
+   - Fixed some missing lod models
+
+SUP Project Arch 1.5.0
+   - Merged some edits for Survival/Followers
+~~~
+
+# 1.4.3 - 2026-07-29
+
+New game required.
+
+![Added]
+~~~
+Core - State Globals Framework
+Core - Vanargand Animations II - Sword Non Combat Locomotion
+Core - Handy Perk Points
+~~~
+
+![Removed]
+~~~
+Core - Andrealletius' Exploit Fixes
+Core - Thieves Guild Requirements
+Core - Vanaheimr - Farmhouses - Lux Patch
+Core - Predator Vision - Night Eye and Thermal Vision Overhaul - Settings Loader
+Core - Thieves Guild Requirements - Settings Loader
+
+Adventures - The Wheels of Lull - My Lux Patches
+~~~
+
+![Updated]
+~~~
+Core - Open Animation Replacer updated to 3.2.0.
+Core - Spell Perk Item Distributor updated to 7.3.2
+Core - Dynamic Armor Physics updated to 1.0.2.
+Core - Glow Be Gone Redone NG updated to 1.5.
+Core - Skyrim Particle Patch for ENB updated to 1.4.4.
+Core - Skyrim Cut Content Restoration updated to 2.4.4.
+Core - Vanaheimr Farmhouses updated to 3.0, moved sections
+Core - Snazzy Furniture and Clutter Overhaul SFCO3 updated to 3.50.
+Core - SIGMA Magic Animations updated to 1.0.3.
+Core - New Creature Animation Dwarven Centurion updated to 1.522.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.04.
+Core - Sanguine Symphony updated to 1.3.1.
+Core - Triumvirate Regalia updated to 1.0.4.
+Core - NPC Spell Variance updated to 2.6.8.
+
+Addons - Snozz's Resource Pack updated to 1.14.
+Addons - Embershard updated to 2.0.
+
+Adventures - Siege at Icemoth updated to 1.5.1.
+Adventures - Wyrmstooth Vulom Skeleton Replacer HD Patch updated to 2.3.
+Adventures - Calling the Watchmaker updated to 1.0.5.
+
+Arch - More Capital Whiterun Expansion Patches updated to 1.8.1.
+~~~
+
+![Bugfixes]
+~~~
+SUP Conflict Resolution 1.4.3
+   - Fixed some bad conditions on npc line patching that made everyone Skyrim Grandpa
+   - Removed patching for Thieves Guild Requirements
+
+SUP Conflict Resolution - Addons 1.4.3
+   - Removed po3_tweaks override from Survival
+   - Added minor CR for Embershard update
+   
+SUP Adventures 1.4.3
+   - Removed patching for Thieves Guild Requirements
+
+SUP Project Arch 1.4.3
+   - Removed patching for Thieves Guild Requirements
+~~~
+
 # 1.4.2 - 2026-07-25
 
 Save-safe from 1.4.1 only, don't update if currently playing through TG03/Dampened Spirits.

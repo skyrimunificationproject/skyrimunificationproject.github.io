@@ -77,7 +77,7 @@ Download: | Main Files - Beyond Reach 4.8
 
 ## Beyond Reach - Default Face NPCs Fixed
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54515) | Version: `1.24.3` | Author: `AndrealletiusVIII`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/54515) | Version: `1.25` | Author: `AndrealletiusVIII`
 Download: | Main Files - DFNF - Default Face NPCs Fixed FOMOD
 
 ![FOMOD]
@@ -168,7 +168,7 @@ Download: | Main Files - Clockwork - Silent Shadow Siren
 
 ## Additional Clockwork
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47087) | Version: `3.0.6` | Author: `BellCube`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/47087) | Version: `3.0.6` | Author: `BellCube` | ![CAO]
 Download: | Main Files - Additional Clockwork
 
 ![FOMOD]
@@ -195,6 +195,11 @@ Food:
    * None (see above)
 Interesting Inhabitants:
    * Merged
+~~~
+
+![PostInstall]
+~~~
+Pack the mod with CAO.
 ~~~
 
 ## Helgen Reborn
@@ -339,7 +344,7 @@ Download: | Main Files - Project AHO Bugfix and Improvement Patch
 
 ## Siege at Icemoth
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109541) | Version: `1.5` | Author: `RoastGorilla439`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109541) | Version: `1.5.1` | Author: `RoastGorilla439`
 Download: | Main Files - Siege at Icemoth
 
 ## Siege at Icemoth - Metallurgy Patch
@@ -419,6 +424,19 @@ Download: | Main Files - ULP - The Gray Cowl of Nocturnal Addon
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/14168) | Version: `1.62` | Author: `Titansbane and PrivateEye` | ![ESM]
 Download: | Main Files - The Tools of Kagrenac V1.61a SSE
 
+## The Tools of Kagrenac - Unofficial Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/187672) | Version: `1.1` | Author: `ItzIvy`
+Download: | Main Files - The Tools of Kagrenac - Unofficial Patch
+
+![FOMOD]
+~~~
+Perfectly Valid Wards:
+   * Perfectly Valid Wards Patch
+Extras:
+   * Mesh Tweaks
+~~~
+
 ## The Tools of Kagrenac - Draugrs SE Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/123225) | Version: `4.6` | Author: `Xtudo`
@@ -439,10 +457,6 @@ Additional Patches:
    * None (we already have a mesh for the roots)  
 ~~~
 
-## The Wheels of Lull - My Lux Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71841) | Version: `1.0` | Author: `chosti`
-Download: | Main Files - Wheels of Lull Lux Patch
 
 ## The Wheels of Lull - TrueHUD Patch
 
@@ -533,7 +547,7 @@ Delete textures/terrain/.
 
 ## Wyrmstooth - Vulom - Skeleton Replacer HD Patch
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.2.1` | Author: `ChildofDragons` | ![Visuals]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108230) | Version: `2.3` | Author: `ChildofDragons` | ![Visuals]
 Download: | Main Files - Wyrmstooth - Skeleton Replacer HD (2K)
 
 ## Wyrmstooth - Unique Weapons Reforged
@@ -873,6 +887,11 @@ Download: | Main Files - Sleepwalking Into A Nightmare - ESM
 Pack the mod with CAO.
 ~~~
 
+## Sleepwalking Into A Nightmare - Tweaks and Fixes
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/188744) | Version: `1.1` | Author: `Slampire`
+Download: | Main Files - Sleepwalking Into A Nightmare - Tweaks and Fixes
+
 ## Temple of Kyne - Roots of Madness
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57275) | Version: `1.1.1` | Author: `SarthesArai` 
@@ -905,7 +924,7 @@ Download: | Main Files - The Forgotten City
 
 ## The Frozen Heart
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.10.0` | Author: `wSkeever and Kreiste` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.10.3` | Author: `wSkeever and Kreiste` | ![CAO]
 Download: | Main Files - The Frozen Heart - Main File
 
 ![FOMOD]
@@ -1032,8 +1051,8 @@ Pack the mod with CAO.
 
 ## Calling the Watchmaker
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96711) | Version: `1.0` | Author: `nimwraith` | ![CAO] ![ESM]
-Download: | Main Files - Calling the Watchmaker - 1.0.4
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96711) | Version: `1.0.5` | Author: `nimwraith` | ![CAO] ![ESM]
+Download: | Main Files - Calling the Watchmaker - 1.0.5
 
 ![PostInstall]
 ~~~
@@ -1559,7 +1578,7 @@ Download: | Main Files - Vigilant SE - TrueHUD Boss Bar
 
 ## GLEN-MORIL SE
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32998) | Version: `0.96.80` | Author: `Vicn` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/32998) | Version: `0.96.80b` | Author: `Vicn` | ![CAO]
 Download: | Main Files - GLENMORIL SE v0.96.80 Alpha
 
 ![FOMOD]
@@ -1625,7 +1644,7 @@ Download: | Main Files - GLEN-MORIL ElvenLabs Voiced
 
 ## GLEN-MORIL - English Translation
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33146 ) | Version: `0.96.8` | Author: `Aelarr`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/33146 ) | Version: `0.96.8b` | Author: `Aelarr`
 Download: | Main Files - Glenmoril - English Translation SE
 
 ## GLEN-MORIL - Tweaks
@@ -1765,7 +1784,7 @@ Download: | Main Files - Relic Hunter- Guildmaster Start
 
 ## Legacy of the Dragonborn - Additional Display Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `2.0.7` | Author: `Spacedroner` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38546) | Version: `2.0.8` | Author: `Spacedroner` 
 Download: | Main Files - LOTD - Additional Display Patches
 
 ![FOMOD]
@@ -1941,7 +1960,7 @@ Download: | Main Files - LOTD Paintings
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.8` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.9` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -1968,7 +1987,6 @@ Additional Patches A-M: (select only)
 Additional Patches N-Z: (select only)
    * Obscure's College of Winterhold (only if you are not installing Project Arch)
    * Reliquary of Myth - Artifact Overhaul
-   * Thieves Guild Requirements
    * Weapon Armor Clothing Clutter Fixes
 Manually Selectable Patches:
    * Cloaks of Skyrim - Retextured
@@ -2043,7 +2061,7 @@ Download: | Main Files - Legacy of the Dragonborn - Snazzy Excavation Tent
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.8` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.9` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn - The Curators Companion
 
 ![FOMOD]
@@ -2233,7 +2251,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev, ra2` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -2252,7 +2270,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Addons - Adventures
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - Addons - Adventures
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures

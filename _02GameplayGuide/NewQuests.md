@@ -29,11 +29,10 @@ description: New Quests
  - The Forgotten City
  - The Gray Cowl of Nocturnal
  - The Tools of Kagrenac
- - There Is No Umbra - Chapter III
  - Volkihar Knight - Vampire Armor
  - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
  
- ## Quest Timing Changes - New Quests
+## Quest Timing Changes - New Quests
  
  - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327) uses the optional "House of the Thief" delayed start.  The quest is triggered by touching the Gray Fox bust inside the added House of the Thief located along the river between Ivarstead and Riften.
  
@@ -88,7 +87,7 @@ You must do the following to start Glenmoril's dream visitor quest:
 - complete Sacred Anatomancer (requires Vigilant mod)
 - sleep
  
- - [UNSLAAD - Delayed STart](https://www.nexusmods.com/skyrimspecialedition/mods/57966) offers a variety of start options.  We have chosen the full immersion option below.
+ - [UNSLAAD - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57966) offers a variety of start options.  We have chosen the full immersion option below.
  
  You must do the following to start Unslaad:
 

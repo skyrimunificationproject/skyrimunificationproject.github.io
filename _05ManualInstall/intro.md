@@ -156,8 +156,8 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b550` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.6-b477
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b558` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.6-b558
 
 ![PostInstall]
 ~~~
@@ -235,7 +235,7 @@ Manually extract the folder into Modding\Skyrim\Tools\Nifskope
 
 ## NPC Plugin Chooser 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157055) | Version: `2.2.2` | Author: `Piranha91` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157055) | Version: `2.2.4` | Author: `Piranha91` | ![Core] |
 Download: | Main Files - NPC Plugin Chooser 2
 
 ![PostInstall]
@@ -502,7 +502,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-208` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-210` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

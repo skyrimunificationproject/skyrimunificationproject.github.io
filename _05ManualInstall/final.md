@@ -45,6 +45,7 @@ Plugin |
 - | -
 AHZBetterDGEntranceSE.esp |
 Black Briar Banners.esp |
+BPUFXelzazFollower.esp |
 EasierRidersDungeonPackSSE.esp |
 Flow-TG00.esp |
 Flow-TG01.esp |
@@ -52,7 +53,9 @@ Flow-TG02.esp |
 Flow-TG03.esp |
 Flow-TF04.esp |
 HearthfireMultiKid.esp |
+HLIORemi.esp |
 Inigo.esp |
+KWFPatch_FC.esp |
 LessPipesForLucien.esp |
 LuftahraanDungeonPackSSE.esp |
 middenexpandedSSE.esp |
@@ -71,6 +74,7 @@ Plugin |
 3DNPC.esp | 
 AHZBetterDGEntranceSE.esp | 
 Aspens Ablaze.esp | 
+BPUFXelzazFollower.esp | 
 Butterflies.esp | 
 BUVARP SE RE.esp |
 Cidhna Mine Expanded.esp | 
@@ -81,8 +85,11 @@ Environs - Tundra Farmhouse.esp |
 Environs - Whiterun Watchtower.esp | 
 Evolving Locations - Cliffside Retreat.esp | 
 Extravagant Blue Palace.esp | 
-FarmhouseChimneys.esp | 
+FA01RedcapFollower.esp | 
 fallentreebridgesSSE.esp | 
+FarmhouseChimneys.esp | 
+Finding_Helgi_and_Laelette.esp |
+HLIORemi.esp | 
 IDDP Unique Border Gates Patch.esp | 
 Immersive Citizens - AI Overhaul.esp | 
 Imperial Castles of Skyrim.esp | 
@@ -90,8 +97,11 @@ Inigo.esp |
 Ivy Stendarrs Beacon Overhaul.esp | 
 Granite Hill - Cut Content Restoration.esp | 
 HJ_LostPassages.esp | 
+KhajiitWillFollow.esp | 
 Landscape Fixes for Grass Mods.esp | 
 Lucien.esp | 
+man_DaedricShrines.esp |
+man_JyggalagShrine.esp |
 middenexpandedSSE.esp | 
 Nature of the Wild Lands.esp | 
 Northern Marsh Bridges SE.esp | 

@@ -282,7 +282,7 @@ Pack the mod with CAO.
 
 ## Stress and Fear - Tweaked
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `1.0` | Author: `Blackspine18859` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `3.1` | Author: `Blackspine18859` | ![Optional]
 Download: | Main Files - Stress and Fear Tweaks
 
 ## Stress and Fear - CACO Patch
@@ -401,198 +401,6 @@ Plugin | Instructions |
 SunHelmCampfireSkill.esp | ESLify (compact)
 SunHelmWyrmstoothPatch.esp | ESLify (compact), Create SEQ File
 
-# A10. Addons - Followers
-
-## Khajiit Will Follow
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.5` | Author: `robbobert` | ![ESM] ![QAC]
-Download: | Main Files - Khajiit Will Follow
-
-## Khajiit Will Follow - Immersive Start
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `4.7.4` | Author: `robbobert` | ![ESM] ![QAC]
-Download: | Optional Files - Patch - Immersive Start
-
-## Khajiit Will Follow - Forgotten City Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![Optional]
-Download: | Main Files - Patch - The Forgotten City (if using Adventures)
-
-## Khajiit Will Follow - Vigilant Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/2227) | Version: `2.1` | Author: `robbobert` | ![Optional]
-Download: | Main Files - Patch - Vigilant (if using Adventures)
-
-## Khajiit Will Follow - eeekie's Replacer
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79072) | Version: `1.2` | Author: `eeekie` | ![CAO]
-Download: | Main Files - eeekie's KWF Replacer 4k
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Redcap the Riekling
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/73441) | Version: `1.4.20` | Author: `PixieBomb` | ![ESM]
-Download: | Main Files - Redcap
-| Optional Files - Redcap Description Framework Addon
-
-## Remiel
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/51874) | Version: `1.7.6` | Author: `Maplespice` | ![QAC] ![ESM]
-Download: | Main Files - Remiel-Dwemer Specialist
-
-![FOMOD]
-~~~
-Main File:
-   * Custom Voiced
-Banter Patch - Thogra:
-   * None
-Commentary Patches - Legacy of the Dragonborn:
-   * ESPFE (if using Adventures)
-Commentary Patches - Beyond Reach:
-   * None
-Commentary Patches - The Timelost Dwemer:
-   * None
-Commentary Patches - Lost Races of Aetherius:
-   * None
-Misc Patches:
-   * None
-~~~
-
-## Remiel - BiR's Replacer
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85734) | Version: `1.2.0` | Author: `belladonnaisrunning` | ![CAO]
-Download: | Main Files - BiR Remiel Replacer
-
-![FOMOD]
-~~~
-Head:
-   * High Poly Head
-Skin:
-   * Custom Skin - CBBE Family
-Extras:
-   * Eyes - 2k
-~~~
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Remiel - CBBE 3BA
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/85903) | Version: `1.0` | Author: `megaman2k`
-Download: | Main Files - Remiel - Practical Pirate Outfit Bodyslides - CBBE 3BA
-
-## Xelzaz
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.13.2` | Author: `BluePwnsU` | ![QAC] ![ESM] 
-Download: | Main Files - Xelzaz Follower Core 1.13.2
-
-## Xelzaz - Miasma Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.0` | Author: `BluePwnsU` 
-Download: | Optional Files - Xelzaz Miasma Patch (if using Adventures)
-
-## Xelzaz - Sirenroot Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.2` | Author: `BluePwnsU` 
-Download: | Optional Files - Xelzaz Sirenroot Patch
-
-## Xelzaz - Wyrmstooth Patch
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/62893) | Version: `1.0.0` | Author: `BluePwnsU` | ![CAO] ![Optional]
-Download: | Optional Files - Xelzaz Follower Wyrmstooth Patch (if using Adventures)
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-## Zoldyg's Xelzaz - Visual Replacer
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/156570) | Version: `1.4` | Author: `ZoldyG`
-Download: | Main Files - Zoldyg's Xelzaz - Visual Replacer
-| Main Files - Bectile's edits
-
-# Addons - Followers - Final Steps
-
-## xEdit
-
-Use the Quick Auto Clean shortcut to clean the following plugins one by one:
-
-|--
-Plugin |
-- | -
-BPUFXelzazFollower.esp |
-HLIORemi.esp |
-KWFPatch_FC.esp |
-
-Launch xEdit from MO2 and load all plugins.  You can quickly find the plugins to edit below using the search filter bar at the bottom of the left side of the xEdit window, and/or also sort plugins by name.
-
-Use the Persistentify script to ESM flag the following plugins.  If a specified plugin is already ESM, then we run the script to repair some missing persistent references.
-
-|--
-Plugin |
-- | -
-BPUFXelzazFollower.esp | 
-HLIORemi.esp | 
-KhajiitWillFollow.esp | 
-FA01RedcapFollower.esp | 
-
-Perform the following additional actions:
-
-
-|--
-Plugin | Instructions |
-- | -
-
-
-
-
-
-# A20. Addons - Armors and Accessories
-
-Note: Many patches for the below mods are included in the list's conflict resolution files.  If you are modifying the list to do your own conflict resolution, you may need patches provided by these mods along with other patch sources.
-
-## Lunar Guard Armor
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75349) | Version: `1.3` | Author: `Deydranos`
-Download: | Main Files - Lunar Guard - 2k Textures
-
-## Lunar Guard Armor - CBBE 3BA Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75415) | Version: `0.1alpha` | Author: `pentapox`
-Download: | Main Files - Lunar Guard 3BA
-
-## Lunar Guard Arsenal - Battleaxe
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/79097) | Version: `1.1` | Author: `Deydranos`
-Download: | Main Files - Lunar Guard Battleaxe - 2k textures
-
-## Practical Pirate Outfit
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45244) | Version: `1.2` | Author: `QuarantineCouture`
-Download: | Main Files - practical_pirate
-
-## Practical Pirate Outfit - CBBE 3BA Bodyslide - SMP
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45284) | Version: `1.1` | Author: `RaZzy3r`
-Download: | Main Files - 1. Practical Pirate Outfit with Skirt Physics 3BAv2 Uniboob
-
-## Wilderness Witch Outfit
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40963) | Version: `1.0` | Author: `QuarantineCouture`
-Download: | Main Files - wilderness_witch
-
-## Wilderness Witch Outfit - CBBE 3BA Bodyslide
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40845) | Version: `2.0` | Author: `RaZzy3r`
-Download: | Main Files - Wilderness Witch CBBE 3BA Bodyslide
-
 
 # A30. Addons - Vanilla Location Overhauls - Snozz
 
@@ -600,7 +408,7 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.13` | Author: `snozz2004` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.14` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
 
 ![PostInstall]
@@ -648,8 +456,8 @@ The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
 
 ## Embershard
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `1.1` | Author: `snozz2004` | ![ESM]
-Download: | Main Files - Embershard Overhaul - ESL Version
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74824) | Version: `2.2` | Author: `snozz2004` | ![ESM]
+Download: | Main Files - Embershard Overhaul 2.0
 
 ## Fort Dunstad
 
@@ -749,7 +557,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Snowpoint
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146533) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/146533) | Version: `1.21` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - SnowPoint Beacon (ESL)
 | Optional Files - Inigo Patch (ESL)
 | Optional Files - Lux Orbis - Snowpoint Patch (ESL)
@@ -773,7 +581,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Swindlers Den
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.03` | Author: `snozz2004` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110737) | Version: `1.4` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Swindlers Den (ESL)
 
 ## Valtheim
@@ -966,13 +774,13 @@ Download: | Main Files - Northern Scenery - Whiterun's Tundra
 
 ## FuzzBeed's Asset Library
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `12.9` | Author: `FuzzBeed` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `12.11` | Author: `FuzzBeed` 
 Download: | Main Files - FuzzBeed's Resources AIO
 
 
 ## Children of the North Wind - Nordic Ruin Diversity
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.3` | Author: `FuzzBeed` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.3.3` | Author: `FuzzBeed` | ![Merged]
 Download: | Main Files - Children of the North Wind
 | Optional Files - Dragon Totem Legacy Version
 
@@ -1147,7 +955,7 @@ Reinstall or update/merge:
 
 ## Skyrim Unification Project - Consistency Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev, ra2` | ![Core] |
 Download: | Main Files - Skyrim Unification Project - Consistency Patches
 
 ![FOMOD]
@@ -1165,7 +973,7 @@ Place these after the existing Core CR mods.
 
 ## Skyrim Unification Project - Conflict Resolution - Addons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.4.2` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
 Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
 
 ![FOMOD]
