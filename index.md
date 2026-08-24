@@ -16,17 +16,19 @@ Skyrim Unification Project is in brief, a modular, multi-tiered modlist that all
 
 ### SUP CORE
 
-- WACCF/CACO/CCOR
-- Imperious/Ordinator/Odin/Apocalypse/Triumvirate
+- The list is balanced around the Kryptopyr suite of mods: WACCF, CACO, CCOR.
+- Gameplay overhauls by Enai: Imperious, Ordinator, Odin, Apocalypse, Triumvirate, Sacrilege.
 - Our custom Skyrim Unification Gameplay Overhaul, incorporating enemy and loot tiers similar to SRCEO and MLU, using a new leveled list system that may be familiar to OWL users but was developed independently in parallel.
 - Vanilla-lite combat with Valhalla and Wildcat for difficulty management
-- TrueHUD and Untarnished UI for a modern interface
+- TrueHUD and Vel'dun UI for a modern interface
 - A curated choice of graphic overhauls designed for consistency and reasonable performance.
 - A custom blend of Nature of the Wildlands, Ulvenwald Lite, and Aspens Ablaze.  Grass provided by Witchy Wilderness.
 - Painstakingly hand edited patching together of Northern Roads, Lux Via, and others
 - Vanilla quest overhauls and expansions
 - CBBE 3BA Nevernude outfits for a reasonable default figure, TNG Nevernude males (no bodyslides)
 - The usual varied bugfixes, tweaks, and QOL improvement mods
+- A selection of follower mods fully integrated into the list: Inigo, Song of the Green, Lucien, Remiel, Xelzaz, Redcap, Khajiit Will Follow.
+- Additional weapons and armors immersively included from PrivateEye's Armory Extended series and more.
 
 Users installing the guide can stop there and use it as a base, or continue to add modules that are fully integrated and patched against Core:
 
@@ -41,13 +43,6 @@ Users installing the guide can stop there and use it as a base, or continue to a
 
 Immersion and Survival module:
 - SunHelm, Campfire, Footprints, Simple Hunting Overhaul, Dirt and Blood, Books of Power, Stress and Fear, and more. While this is installed in the full list, SunHelm can be easily disabled in its MCM, and the rest are opt-in or fairly unintrusive.
-
-Followers module:
-- Fully independent patches so you can pick and choose which to add
-- Currently: Serana Dialogue Overhaul, Khajiit Will Follow, Remiel, Xelzaz
-
-Armor and Accessories module:
-- Currently: Lunar Guard Armor, Lunar Guard Arsenal, Practical Pirate, Wilderness Witch
 
 Vanilla Location Overhauls module:
 - A selection of specific locational overhauls from Snozz and Ryn and others (currently covering Whiterun Hold)

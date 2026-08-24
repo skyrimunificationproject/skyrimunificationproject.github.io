@@ -22,14 +22,6 @@ description: Known Issues & Workarounds
 {:toc}
 </details>
 
-# My spell tooltips say they do zero damage.
-
-This is due to Books of Power scaling the spells as you train with them.  In the first few uses, it may do literally zero damage or effect but as you train it will rise to 100% of its expected value.
-
-# Shouting at the Greybeards doesn't work / I can't murder neutral NPCs like I want to.
-
-Due to a mod preventing friendly fire from triggering, you need to crouch to enter "stealth" (whether detected or not) before shouting or attacking.
-
 # Elisif's Court are all standing around in the throne room.
 
 This is a vanilla issue from the Bards College questline.  You need to progress the quest so Elisif can stop waiting for you to deliver an item.
@@ -76,17 +68,3 @@ If you get a popup when attempting to launch Skyrim Unification Project through 
  1. Add <a href="/01Support/Install%20Issues/#antivirus-reports-a-virus-with-wabbajack-or-the-modlist" target="_blank" rel="noopener noreferrer">Anti-virus exclusions</a> to Skyrim Unification Project's Mod Organizer 2.
  2. Ensure that the file path is less than 260 characters.
 
-
-# Engine Fixes Warnings
-
-## "A total of {} textures failed to load in this session.
-
-This is typically an error caused by file corruption that occurs during a Wabbajack installation. Please submit your `EngineFixes.log` in the **#help-desk** channel of the <a href="https://discord.gg/UAhtyb2XuK" target="_blank" rel="noopener noreferrer">Skyrim Unification Project discord</a> server so that the support staff can help you resolve this error.
-
-Your `EngineFixes.log` should be located at `C:\Users\[user_name]\Documents\My Games\Skyrim Special Edition\SKSE\EngineFixes.log`.
-
-## A precomputed path had issues
-
-This occurs due to broken navmesh. While there should be none in the list, it is possible that it slipped through the QA/QC process. If you get this error, please submit your `EngineFixes.log` in the **#help-desk** channel of the <a href="https://discord.gg/UAhtyb2XuK" target="_blank" rel="noopener noreferrer">Skyrim Unification Project discord</a> server so that the support staff is aware of this error and it can be solved.
-
-Your `EngineFixes.log` should be located at `C:\Users\[user_name]\Documents\My Games\Skyrim Special Edition\SKSE\EngineFixes.log`.

@@ -37,12 +37,8 @@ In order to set up a page file follow the steps below.
 Your page file does not need to be on the same drive as your Skyrim Unification Project installation.
 
  8. Click `Custom Size:`.
- 9. In the box next to **Initial Size (MB)**, type `40960`.
- 10. In the box next to **Maximum Size (MB)**, type `40960`.
-
-{: .alternative}
-If you have 64GB of RAM or more, you can try setting these sizes to `20480` in order to save some space.
-
+ 9. In the box next to **Initial Size (MB)**, type `20480`.
+ 10. In the box next to **Maximum Size (MB)**, type `20480`.
  11. Click `Set`.
  12. Click `OK`.
  13. Click `Apply`.

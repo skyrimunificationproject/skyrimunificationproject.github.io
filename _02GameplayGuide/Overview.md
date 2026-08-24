@@ -6,9 +6,6 @@ nav_order: 1
 description: Overview and Basics
 ---
 
-# Overview and Basics
-
-
 ## Core Overhauls
 
 
@@ -21,7 +18,6 @@ description: Overview and Basics
  - Reliquary of Myth
  - Imperious and Andromeda
  - Wintersun
-
 
 ### Additional Edits
 

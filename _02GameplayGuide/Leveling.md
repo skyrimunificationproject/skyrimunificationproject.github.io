@@ -6,8 +6,6 @@ nav_order: 2
 description: Leveling and Progression
 ---
 
-# Leveling and Progression
-
 ## Changes to Leveling and Quests
 
  - Skyrim Unification Project uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) alongside Skyrim Skill Uncapper to handle leveling and progression.

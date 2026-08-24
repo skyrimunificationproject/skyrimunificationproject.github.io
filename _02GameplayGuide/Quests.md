@@ -7,7 +7,6 @@ nav_order: 6
 
 ## Vanilla Quest Expansions and Edits
 
-
  - [A Lovely Letter Alternate Routes](https://www.nexusmods.com/skyrimspecialedition/mods/21916)
  - After the Civil War - Siege Damage Repairs
  - Blood and Silver - Cidhna Mine Expanded
@@ -26,7 +25,7 @@ nav_order: 6
  - [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683)
  - [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
  
- ## Quest Timing Changes - Vanilla
+## Quest Timing Changes - Vanilla
  
  We use the following mods to change or delay the timing of vanilla quests and DLCs in the list:
  

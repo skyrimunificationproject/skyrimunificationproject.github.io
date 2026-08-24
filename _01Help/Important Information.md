@@ -39,10 +39,3 @@ description: Important Information
 > Every time you want to start a new character, you should be closing and reopening Skyrim in its entirety.
 >
 > Please ***DO NOT*** report bugs relating to this topic as its a flaw with the Creation Engine itself. There is nothing we can do to make this work!
-
----
-
-### Content not covered by the Wiki
-
-Below is the content that has yet to be covered by this wiki:
- - TBD

@@ -12,7 +12,7 @@ description: Installation Guide
 
 ## Table of contents
 {: .no_toc }
-<details markdown="block">
+<details open markdown="block">
   <summary>
      Expand to view
   </summary>

@@ -32,9 +32,18 @@ description: New Quests
  - Volkihar Knight - Vampire Armor
  - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
  
+## Quest Notices - Message Boards For Inns
+
+Using the Message Boards For Inns mod, various notices and letters appear as items inside a message board located in major inns, instead of on tables within.  Check the message board periodically for leads on new quests!
+ 
 ## Quest Timing Changes - New Quests
  
+### The Gray Cowl of Nocturnal 
+ 
  - [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/141327) uses the optional "House of the Thief" delayed start.  The quest is triggered by touching the Gray Fox bust inside the added House of the Thief located along the river between Ivarstead and Riften.
+ 
+--- 
+### DAc0da 
  
  - [DAc0da - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/136031) offers a variety of start options.  We have chosen the full immersion option below.
 
@@ -48,6 +57,9 @@ description: New Quests
 - complete Discerning the Transmundane
 - complete The Mind of Madness
 - not required, but recommended to play The Tools of Kagrenac before beginning this mod
+
+---
+### Vigilant
  
  - [VIGILANT - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57961) offers a variety of start options.  We have chosen the full immersion option below.
  
@@ -57,7 +69,10 @@ description: New Quests
 - complete The House of Horrors
 - complete Kindred Judgement (requires Dawnguard DLC)
 - complete Censored Fate (requires DAc0da)
- 
+
+---
+### Glenmoril
+
  - [GLEN-MORIL - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57963) offers a variety of start options.  We have chosen the full immersion option below.
  
  You must do the following to start Glenmoril's main questline:
@@ -86,6 +101,9 @@ You must do the following to start Glenmoril's dream visitor quest:
 - complete Act 4 of Vigilant (requires Vigilant mod)
 - complete Sacred Anatomancer (requires Vigilant mod)
 - sleep
+
+---
+### Unslaad
  
  - [UNSLAAD - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57966) offers a variety of start options.  We have chosen the full immersion option below.
  

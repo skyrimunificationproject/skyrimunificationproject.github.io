@@ -23,8 +23,6 @@ In Skyrim Unification Project, RaceMenu is set to use High Poly Head by default.
 {: .important}
 >Note: In some cases there may be a memory leak during RaceMenu.  It is recommended that once you finish your character creation, and finish the following Mod Menu step, you save the game, close the game completely, and then load that save, to clear any memory issues and avoid a crash.  This will also make sure you don't lose all your hard work creating the character appearance.
 
-{: .important}
->Note: There is a known issue when selecting Khajiit Male where the body texture is not loaded.  This can be fixed by changing gender to female and back to male.
 
 # Setting Up Mod Menus
 
@@ -54,18 +52,11 @@ If you do not want to use SunHelm's survival features, or only part of them, you
 
 # A Note on Brightness and Quick Light
 
-This list uses Lux for lighting, and may be darker than you are used to, especially in caves and dungeons.  In those locations you may wish to take advantage of Quick Light (hold E / L key) for a short-range light source on your character.  It is not recommended to use it in more populated interiors, as it could break the lighting on meshes.  Torches or light spells can be used for a larger light, but follow the same general restrictions.
+This list uses Lux for lighting, and may be darker than you are used to, especially in caves and dungeons.  In those locations you may wish to take advantage of Quick Light (hold E / L key) for a short-range light source on your character.  Torches or light spells can be used for a larger light.
 
 # Dynamic Activation Key
 
-Dynamic Activation Key allows many additional interactions when *holding* the Activate (E) key.
-
-# Books of Power
-
-The Books of Power mod changes the way that spell tomes work.  Instead of being immediately granted the spell, you must wield the tome in one hand and cast with the other to train the spell until you have mastered it and gain the spell as per usual.  The spell will be very weak initially and will progress up to its normal effect as you train.  After mastering it, wielding the spell tome will give an additional buff to the spell.
-
-{: .important}
-> There are some known issues with quests that attempt to give you spell tomes.  In the case of some Mage Guild quests, you may need to buy the tome from a wizard to be able to equip it and progress with the quest.
+Dynamic Activation Key allows many additional interactions when *holding* the Activate (E) key.  Some additional interactions are accessed by *Shift* + Activate such as Read/Take books.
 
 # Mod-Added Spells and Powers
 
