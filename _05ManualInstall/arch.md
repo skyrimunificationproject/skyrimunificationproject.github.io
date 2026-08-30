@@ -640,11 +640,6 @@ Riften Expansion - Solitude Temple Frescoes Patch.esp
 
 # C05. Addons - Project Arch - Solitude and Dragon Bridge
 
-## Bards College Rework
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/182641) | Version: `1.1` | Author: `Drengin` | ![ESM]
-Download: | Main Files - Bards College Rework
-
 ## Drengin's Blue Palace Terrace
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2` | Author: `Drengin` 
@@ -660,7 +655,7 @@ LOD Pack for DynDOLOD 3.0:
 
 ## Drengin's Blue Palace Terrace - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2b` | Author: `Drengin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35180) | Version: `2.2c` | Author: `Drengin` 
 Download: | Optional Files - BluePalaceTerrace-Renewed-Patches
 
 ![FOMOD]
@@ -773,7 +768,7 @@ The JK's Blue Palace Terrace patch is merged into Project Arch - Solitude.
 
 ## Grand Solitude - The Walls of High King Erling
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157506) | Version: `1.2` | Author: `Drengin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157506) | Version: `1.3.1` | Author: `Drengin` 
 Download: | Main Files - Grand Solitude - The Walls of High King Erling
 
 ![FOMOD]
@@ -788,7 +783,7 @@ Majestic Mountains:
 
 ## Grand Solitude Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.3` | Author: `Czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.5` | Author: `Czasior` | ![Merged]
 Download: | Main Files - Grand Solitude Patch Collection
 
 ![FOMOD]
@@ -802,11 +797,12 @@ Allow autoselected. (some will not be selected based on above option)
 ~~~
 All patches selected based on a guide install are merged into Project Arch - Solitude and will not be
 selected with the above option.  The patch assets remain installed.
+Grand Solitude - JKs Bards College patch.esp remains enabled.
 ~~~
 
 ## Grand Solitude - C.O.I.N. Bank Exchange
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157596) | Version: `1.1.0` | Author: `MissileMann`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157596) | Version: `1.1.1` | Author: `MissileMann`
 Download: | Main Files - Grand Solitude - COIN Bank Exchange
 
 ## Solitude Docks Updated
@@ -867,22 +863,6 @@ JKs Solitude Outskirts - Waymark patch.esp
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/42510) | Version: `1.04` | Author: `AlistairRodryk` | ![ESM]
 Download: | Main Files - Rodryk's Dragon Bridge (Non-Parallax)
-
-## Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/52963) | Version: `3.0` | Author: `InstantKor` | 
-Download: | Main Files - Rodryk's Meshes Partitioned and Non-Parallax
-
-## Rodryk's DB Mesh and Collision Optimization
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/87384) | Version: `1.4` | Author: `Lanif79`
-Download: | Main Files - Rodryk's DB Mesh Optimization - No Window Iron
-| Optional Files - Rodryk's DB Mesh Optimization - JK's Penitus
-
-## Rodryk's DB Mesh Optimization - Walkway Mesh Collision Fix
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157700) | Version: `1.0` | Author: `Matchm149`
-Download: | Main Files - Rodryk's DB Collision Fix
 
 ## Rodryk's Dragon Bridge Retexture
 
@@ -2079,8 +2059,6 @@ Download: | Main Files - JK's Jorrvaskr
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/128116) | Version: `1.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Nightingale Hall
 
-
-
 ## JK's The Bards College
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71054) | Version: `1.0.3` | Author: `jkrojmal` | ![ESM]
@@ -2195,13 +2173,12 @@ with the new npcs are disabled in our list.
 
 ## Meshes Optimization Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.4.9` | Author: `ItzIvy`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.5` | Author: `ItzIvy`
 Download: | Main Files - Meshes Optimization Project
 
 ![FOMOD]
 ~~~
 Solitude:
-   * Bards College Rework
    * Drengin's Blue Palace Terrace
    * Grand Solitude - The Walls of High King Erling
    * JK's Solitude Outskirts
@@ -2253,8 +2230,9 @@ The esp is merged into Project Arch - Whiterun.  The meshes are still used.
 ## ClefJ LOD Meshes for DynDOLOD
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/165138) | Version: `1.01` | Author: `Kulharin`
-Download: | Main Files - ClefJ's Dawnguard LODs
+Download: | Main Files - ClefJ's Dawnguard LODs and Optimizations
 | Main Files - ClefJ's Morthal LODs
+| Main Files - Rodryk's Dragonbridge Fixed LODs and Optimizations
 
 ## Selectively Unvarying Firewood
 
@@ -2363,7 +2341,7 @@ All *except for*:
 
 ## So This Aint Right (S.T.A.R.)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.18` | Author: `MissileMann` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.19` | Author: `MissileMann` 
 Download: | Main Files - So This Aint Right (STAR) - Patches by Missile
 
 ![FOMOD]
@@ -2441,7 +2419,6 @@ Use the Persistentify script to ESM flag the following plugins.  If a specified 
 |--
 Plugin |
 - | -
-Bards College Rework.esp | 
 Blue Palace Frescoes.esp | 
 BUVARP SE RE - Chillridge Farm COTNed.esp | 
 ClefJ's Fort Dawnguard.esp | 

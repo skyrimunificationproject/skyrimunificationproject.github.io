@@ -17,6 +17,183 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.5.1 - 2026-08-29
+
+New game required.
+Some areas will have flickering lights on meshes until a particular mod clears Nexus moderation queue.
+
+![Added]
+~~~
+Core - Auto Input Switch (you only need this enabled if you are using a gamepad)
+Core - Cached Recursive Directory Walk (installed in ACCELERATE mode - see modpage about caching)
+Core - Delayed Burial Plus Plus - A Dark Brotherhood Quest Overhaul
+~~~
+
+![Removed]
+~~~
+Core - State Globals Framework (it may return if it can prove to behave itself)
+Core - Diverse Werewolves Collection
+Core - Triumvirate Regalia (State Globals Framework knows what it did)
+
+Arch - Bards College Rework (all hail Grand-er Solitude)
+Arch - Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
+Arch - Rodryk's DB Mesh and Collision Optimization
+Arch - Rodryk's DB Mesh Optimization Walkway Mesh Collision Fix
+~~~
+
+![Updated]
+~~~
+Prereq - NPC Plugin Chooser 2 updated to 2.2.5.
+Core - Address Library for SKSE Plugins updated to v13.
+Core - Base Object Swapper updated to 3.5.0.
+Core - ConsoleUtilSSE NG updated to 1.6.1.
+Core - ConsolePlusPlus updated to 1.5.1.
+Core - Core Impact Framework updated to 2.0.5.
+Core - Crash Logger updated to 1.25.0.
+Core - Intellightent updated to 3.0.
+Core - Keyword Item Distributor updated to 4.1.0.
+Core - powerofthree's Papyrus Extender updated to 6.5.1.
+Core - Scaleform Translation Plus Plus NG updated to 1.10.
+Core - SKSE Mod Framework updated to 3.14.1.
+Core - Sound Record Distributor updated to 1.5.4.
+Core - Spell Perk Item Distributor updated to 7.3.3.
+Core - Alchemy Plus updated to 1.2.1.
+Core - Animated Static Reload Fix NG updated to 1.0.4.
+Core - Beard Mask Fix updated to 1.0.2.
+Core - Behavior Data Injector Universal Support updated to 0.13.0.4.
+Core - Better Combat Escape NG updated to 1.0.4.
+Core - Better Jumping updated to 1.9.4.
+Core - Classic Paralysis updated to 3.4.0.
+Core - Dual Casting Fix updated to 1.0.1.
+Core - ENB Anti-Aliasing updated to 1.2.4.
+Core - ENB Terrain Blending Fix updated to 1.1.1.
+Core - Enchantable Special Item Fix updated to 1.0.3.
+Core - Encounter Zones Unlocked updated to 1.6.1.
+Core - Essential Favorites updated to 2.4.2.
+Core - Faster HDT-SMP updated to 4.1.1.
+Core - Favorite Misc Items updated to 4.0.1.
+Core - First Person Height Fix SKSE updated to 2.0.
+Core - Glow Be Gone Redone NG updated to 1.6.
+Core - Helmet Toggle 2 updated to 3.6.2.
+Core - Horizon Fix SKSE updated to 0.6.0.
+Core - IFrame Generator RE AE Support updated to 1.03.2.
+Core - Inventory Interface Information Injector updated to 1.1.1.
+Core - LOD Refresh Bug Fix updated to 1.0.2.
+Core - Media Keys Fix SKSE updated to 1.0.2.
+Core - No Grass In Objects updated to 1.6.13.
+Core - NPC AI Process Position Fix NG updated to 1.1.3.
+Core - Photo Mode updated to 3.0.2.
+Core - Pickpocket Everyone SKSE updated to 0.2.1.
+Core - powerofthree's Tweaks updated to 1.17.1.
+Core - Save and Load Accelerator for SKSE Cosaves updated to 1.4.1.
+Core - Saving on Steed updated to 0.2.1.
+Core - Security Overhaul SKSE updated to 4.1.0.
+Core - Shazdeh Papyrus Utils updated to 1.0.8.
+Core - Simple Dual Sheath updated to 1.5.9.
+Core - Simple Offense Suppression updated to 2.3.1.
+Core - Smart Optimal Salves SKSE updated to 1.3.
+Core - Smooth Terrain updated to 0.6.0.
+Core - Soaking Wet updated to 1.2.2.
+Core - Splashes of SKyrim updated to 1.6.0.
+Core - Sprint Sneak Movement Speed Fix updated to 1.1.3.
+Core - Sprint Stuttering Fix updated to 1.0.1.
+Core - SSE Display Tweaks updated to 0.5.25.
+Core - Staff Enchanting Plus updated to 1.1.3.
+Core - Stay At The System Page NG updated to 1.7.
+Core - STB Quick Hotkey Cast updated to 1.1.
+Core - Steal Off Scoundrels updated to 0.2.1.
+Core - Stuck On Screen updated to 0.3.1.
+Core - Stuck Underwater Visuals and Sounds Fix updated to 0.2.1.
+Core - Terrain Helper for ENB updated to 1.1.0.
+Core - Whose Quest Is It Anyways NG updated to 1.6.
+Core - Zero Bounty Hostility Fix SKSE updtaed to 0.8.1.
+Core - dTry Plugin Updates updated to 1.0.4.
+Core - Unofficial Skyrim Special Edition Patch updated to 4.3.9. (note: not installed yet)
+Core - Robber's Gorge Fixes updated to 2.5.
+Core - B612 updated to 1.0.27.
+Core - Constructible Object Custom Keyword System updated to 1.2.0.
+Core - Press E To Heal Followers SKSE updated to 1.2.
+Core - Show Player In Inventory updated to 1.6.
+Core - moreHUD updated to 5.4.1.0.
+Core - moreHUD Inventory Edition updated to 2.2.1.0.
+Core - CoMAP updated to 4.5.0.
+Core - STB Widgets updated to 2.9.
+Core - STB Active Effects updated to 2.0.
+Core - Flat World Map Framework updated to 1.9.990.
+Core - Miscellaneous Plus Plus updated to 1.06.
+Core - Faction Ranks updated to 1.0.4.
+Core - Skyrim Extended Cut Saints and Seducers updated to 1.1.3.
+Core - Armory Extended Bonemold Weapon Pack updated to 1.4.
+Core - Heavy Armory updated to 6.3.
+Core - New Armory Series Ash Spawn Weapons updated to 1.5.
+Core - New Armory Series Dragon Cult Weapons updated to 1.7.
+Core - DynDOLOD DLL NG updated to Alpha-42.
+Core - aMidianBorn Content Addon updated to 3.1.9.
+Core - Serene Wispmothers updated to 2.0.2.
+Core - Storm Lightning updated to 1.4.25.
+Core - Moons and Stars updated to 2.1.0.
+Core - The Younglings Patches updated to 2.11.
+Core - SkyParkour updated to 3.6.3.
+Core - CBPC updated to 1.7.1.
+Core - SIGMA Spear Animations updated to 1.4.
+Core - Goeta Animations Conditional Shouts updated to 1.3.
+Core - Goeta Animations Enchanted Staves updated to 1.7.
+Core - Goeta Animations Magic Spell Casting updated to 1.5.
+Core - Goeta Animations Sneak Magic updated to 1.2.
+Core - Vanargand Animations II Sword Low Stance updated to 1.1b.
+Core - Vanargand Animations II Sword Non Combat Locomotion updated to 1.3b.
+Core - Vanargand Animations Crossbows updated to 1.1.
+Core - Vanargand Animations Dual Wield Sneak Strikes updated to 1.1.
+Core - Vanargand Animations Dual Wield Sneak Thrusts updated to 1.1.
+Core - Vanargand Animations One Handed Mid Stance updated to 1.3.
+Core - Vanargand Animations Sneak Archery updated to 1.5.
+Core - Vanargand Animations Sneak Crossbows updated to 1.1.
+Core - Vanargand Animations Sneak Idle Walk and Run updated to 1.2.
+Core - Vanargand Animations Sneak Thrust Attacks updated to 1.2.
+Core - Vanargand Animations Sneak Strike Attacks updated to 1.2.
+Core - Missing Follower Dialogue Edit updated to 2.6.
+Core - Immersive Interactions Ingredients and Poison updated to 1.5.
+Core - Simple Follower Framework updated to 2.0.1.
+Core - Odin updated to 3.2.0.
+Core - Apocalypse updated to 10.3.0.
+Core - Thieves Guild Plus Plus updated to 1.55.
+Core - lilebonymace's Patches updated to 2.58.
+Core - SFCO3 Patch Collection updated to 1.22.
+
+Addons - Snozz's Resource Pack updated to 1.15.
+Addons - Halted Stream updated to 1.2.
+Addons - Silent Moons Camp updated to 1.3.
+
+Adventures - Voices Beyond Reach position adjusted above Revoiced.
+Adventures - The Wheels of Lull updated to 6.0.0.2.
+Adventures - Relic Hunter updated to 3.0.1.
+
+Arch - Drengin's Blue Palace Terrace Patches updated to 2.2c.
+Arch - Grand Solitude updated to 1.3.1.
+Arch - Grand Solitude Patch Collection updated to 1.5.
+Arch - Grand Solitude C.O.I.N. Bank Exchange updated to 1.1.1.
+Arch - Meshes Optimization Project updated to 1.5.5.
+Arch - ClefJ LOD Meshes for DynDOLOD - Updated ClefJ Dawnguard, added Rodryk's DB
+Arch - So This Aint Right updated to 1.0.19.
+~~~
+
+![Bugfixes]
+~~~
+SUP Gameplay Overhaul 1.5.1
+   - Fixed several instances of ranged enemies having about 10x too many arrows
+
+SUP Conflict Resolution 1.5.1
+   - Disabled horse riding for Uthgerd to try and avoid related crashes
+   - Restored default Health/Stamina/Magicka 10 per levelup
+
+SUP Conflict Resolution - Addons 1.5.1
+   - Resaved many Location records to try to resolve issues with clearing locations
+
+SUP Project Arch 1.5.1
+   - Disabled Quintus from Whiterun since the CWE house for sale no longer exists
+   - Added exclusions for disabled Capital Whiterun/Windhelm npcs for Missives quests
+~~~
+
 # 1.5.0 - 2026-08-21
 
 ![Added]
@@ -29,7 +206,7 @@ Core - Smooth Terrain
 Core - Zero Bounty Hostility Fix SKSE
 Core - Conversations Raise Speechcraft
 Core - Map Menu Extension
-Core - Fishing - Reduce Cut
+Core - Fishing - Reduced Cut
 Core - Miscellaneous Plus Plus
 Core - SIGMA - Sword Dual Wield Animations - 1st Person
 Core - Vanargand Animations II - Sword Low Stance
@@ -152,7 +329,7 @@ Core - Redcap the Riekling moved here from Addons
 Core - Remiel moved here from Addons
 Core - Remiel CBBE 3BA moved here from Addons
 Core - Xelzaz moved here from Addons
-core - Xelzaz Miasma Patch moved here from Addons
+Core - Xelzaz Miasma Patch moved here from Addons
 Core - Xelzaz Sirenroot Patch moved here from Addons
 Core - Xelzaz Wyrmstooth Patch moved here from Addons
 Core - Khajiit Will Follow eeekie's Replacer moved here from Addons

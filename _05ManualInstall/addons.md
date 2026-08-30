@@ -408,7 +408,7 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.14` | Author: `snozz2004` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.15` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
 
 ![PostInstall]
@@ -503,7 +503,7 @@ The optional files are merged into SUP CR Vanilla Location Overhauls.
 
 ## Halted Stream
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.01` | Author: `snozz2004` | ![Merged] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/132119) | Version: `1.2` | Author: `snozz2004` | ![Merged] ![ESM]
 Download: | Main Files - Halted Stream Camp
 | Optional Files - Lux - Halted Stream Patch
 | Optional Files - Lux Orbis - Halted Stream Patch
@@ -539,7 +539,7 @@ The Lux/Orbis/Via patches have been merged into SUP CR Vanilla Location Overhaul
 
 ## Silent Moons Camp
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.02` | Author: `snozz2004` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/111465) | Version: `1.3` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Silent Moons Camp (ESL)
 
 ## Skybound

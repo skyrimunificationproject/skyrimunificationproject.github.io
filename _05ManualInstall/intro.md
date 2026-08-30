@@ -235,7 +235,7 @@ Manually extract the folder into Modding\Skyrim\Tools\Nifskope
 
 ## NPC Plugin Chooser 2
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157055) | Version: `2.2.4` | Author: `Piranha91` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157055) | Version: `2.2.5` | Author: `Piranha91` | ![Core] |
 Download: | Main Files - NPC Plugin Chooser 2
 
 ![PostInstall]

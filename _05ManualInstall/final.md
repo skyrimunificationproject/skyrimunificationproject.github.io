@@ -56,7 +56,6 @@ HearthfireMultiKid.esp |
 HLIORemi.esp |
 Inigo.esp |
 KWFPatch_FC.esp |
-LessPipesForLucien.esp |
 LuftahraanDungeonPackSSE.esp |
 middenexpandedSSE.esp |
 MorrowindUsesDrams.esp |

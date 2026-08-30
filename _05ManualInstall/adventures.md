@@ -101,6 +101,12 @@ Download: | Main Files - Beyond Reach - Expanded Map Markers
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/96752) | Version: `1.0` | Author: `Livelynightmare`
 Download: | Main Files - Lively's Moved Carriage for Beyond Reach
 
+## Voices Beyond Reach - Audio Repair Project
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169082) | Version: `1.3` | Author: `spaghetters`
+Download: | Main Files - Beyond Reach Audio Repair Project
+
+
 ## Beyond Reach - Revoiced
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/167579) | Version: `1.1` | Author: `KeinerGuy`
@@ -151,10 +157,6 @@ Download: | Main Files - Beyond Reach Missing Textures Pack 3
 Delete loose textures/ folder.
 ~~~
 
-## Voices Beyond Reach - Audio Repair Project
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/169082) | Version: `1.3` | Author: `spaghetters`
-Download: | Main Files - Beyond Reach Audio Repair Project
 
 ## Clockwork
 
@@ -444,7 +446,7 @@ Download: | Main Files - Draugrs - SE by Xtudo - Tools of Kagrenac 2K
 
 ## The Wheels of Lull
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `5.3.2.1` | Author: `trainwiz`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `6.0.0.2` | Author: `trainwiz`
 Download: | Main Files - The Wheels of Lull SE
 
 ![FOMOD]
@@ -1779,7 +1781,7 @@ Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 ## Relic Hunter - Guildmaster Start
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `3.0.0` | Author: `icecreamassassin` |  
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/12253) | Version: `3.0.1` | Author: `icecreamassassin` |  
 Download: | Main Files - Relic Hunter- Guildmaster Start
 
 ## Legacy of the Dragonborn - Additional Display Patches
