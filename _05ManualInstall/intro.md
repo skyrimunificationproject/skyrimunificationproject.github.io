@@ -156,8 +156,9 @@ To manage it in your Steam library, select "TOOLS" in addition to "GAMES".
 
 ## Creation Kit Platform Extended for Skyrim
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b558` | Author: `Nukem and perchik71` | ![Core]
-Download: | CK Platform Extended 0.6-b558
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/71371) | Version: `0.6-b701` | Author: `Nukem and perchik71` | ![Core]
+Download: | CK Platform Extended 0.6-b701
+Misc Files - CK Address Library for 1.6.1130.0
 
 ![PostInstall]
 ~~~
@@ -502,7 +503,7 @@ Add the following to the arguments field:
 
 ## DynDOLOD Standalone
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-210` | Author: `Sheson` | ![Core] |
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68518) | Version: `Alpha-211` | Author: `Sheson` | ![Core] |
 Download: | Miscellaneous Files - DynDOLOD 3.00
 
 ![PostInstall]

@@ -535,30 +535,6 @@ Mining & Materials
       + Mining Makes Noise: Enabled
 ~~~
 
-## Follower Framework
-
-~~~
-Activity
-   * Sandboxing
-      + Only Sandbox in Town: Enabled
-   * Catch Up (Teleport)
-      + Allow Teleport: Disabled
-Gameplay
-   * Regard System
-      + Allow Regard: Off
-Interaction
-   * Gold Expenditure
-      + Initial Weekly Follower Cost: 200.0 Gold
-   * Optional Companions
-      + Saadia: Enabled
-      + Ysolda: Enabled
-      + Winterhold Mages: Enabled
-      + Thieves Guild Members: Enabled
-System
-   * Notifications
-      + Startup Tasks Notification: Disabled
-~~~
-
 ## moreHUD
 
 ~~~
@@ -573,25 +549,6 @@ Enemy's Level
       + Show Health Numbers: Disabled
 ~~~
 
-## RDO
-
-~~~
-Other Options
-   * Toggle NPCs
-      + Allow RDO Added Followers: Disabled
-      + Allow Terek: Disabled
-~~~
-
-## Simply Knock
-
-~~~
-Settings
-   * Settings
-      + Base Success Chance: 30%
-      + Welcome Duration: 6 HOURS
-      + Failure Timeout: 12 HOURS
-~~~
-
 ## Sky UI
 
 ~~~
@@ -601,29 +558,8 @@ General
       + Category Icon Theme: Celtic
    * Active Effects HUD
       + Minimum Time Left: 0 S
-Controls
-   * Favorite Groups
-      + Group 5: F5
-      + Group 6: F6
-      + Group 7: F7
-      + Group 8: F8
-Advanced
-   * SWF Version Checking
-      + Map Menu: Disabled
-      + Favorites Menu: Disabled
-      + Inventory Menu: Disabled
-      + Barter Menu: Disabled
-      + Container Menu: Disabled
-      + Crafting Menu: Disabled
 ~~~
 
-## Sofia
-
-~~~
-Sofia Settings
-   * Sofia Config
-      + Comments Frequency: 4.0 Hours
-~~~
 
 ## Storm Lightning
 
@@ -636,22 +572,6 @@ Settings
       + Minimum Fork Distance: 1
 ~~~
 
-## Thieves Guild Req.
-
-~~~
-Requirements to Begin 3rd Quest
-   * Radiant Jobs Completed: 20
-   * Randomize: Enabled
-Requirements to Begin 4th Quest
-   * Radiant Jobs Completed: 30
-   * Randomize: Enabled
-City Influence Quests
-   * Markarth: 10
-   * Solitude: 10
-   * Whiterun: 10
-   * Windhelm: 10
-   * Randomize: Enabled
-~~~
 
 ## Timing is Everything
 

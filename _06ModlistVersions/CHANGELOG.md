@@ -17,6 +17,141 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+# 1.5.2 - 2026-09-04
+
+Save-safe from 1.5.1.
+
+![Added]
+~~~
+Core - Crash Logger - Skyrim PDBs
+Core - MCM Memory - Settings Backup and Restore
+Core - LOD Unloading Bug Fix (intentionally changing back)
+~~~
+
+![Removed]
+~~~
+Core - LOD Refresh Bug Fix
+~~~
+
+![Updated]
+~~~
+Prereq - Creation Kit Platform Extended updated to 0.6-b701.
+Prereq - DynDOLOD updated to Alpha-211.
+Core - Andrealletius' Papyrus Functions updated to 1.9.0.
+Core - Console Commands Extender download changed to Old Files.
+Core - Core Impact Framework updated to 2.0.6.
+Core - Custom Skills Framework updated to 3.2.0.
+Core - More Informative Console updated to 1.2.3.1.
+Core - Open Animation Replacer updated to 3.2.1.
+Core - Rogue's Gallery updated to 1.0.0.2.
+Core - Alchemy XP Fix updated to 1.0.1.
+Core - Animation Queue Fix updated to 1.0.2.
+Core - Barter Limit Fix updated to 1.0.2.
+Core - Better Combat Escape NG changed back to 1.0.1 (game breaking bugs on newest)
+Core - Comprehensive Attack Rate Patch updated to 1.1.3.1.
+Core - Copy Paste In Menus updated to 1.0.4.
+Core - Death Drop Overhaul updated to 1.3.5.
+Core - Death Idle Fix updated to 1.0.2.
+Core - Dynamic Armor Physics updated to 1.0.4.
+Core - Dynamic Collision Adjustment upated to 1.1.1.
+Core - Enhanced Invisibility updated to 1.4.2.
+Core - FYX - Alpha Blood Blending Bug NG updated to 1.0.1.
+Core - Horizon Fix SKSE updated to 0.7.1.
+Core - Horse Stamina HUD updated to 1.0.6.
+Core - Inertia updated to 1.1.1.
+Core - Ingredient Magnitudes updated to 1.0.2.
+Core - Invisible Rune Explosion Fix changed to old files.
+Core - Lingering Subtitles Fix updated to 1.2.5.
+Core - Magic Sneak Attacks updated to 1.3.1.
+Core - MCM Unlocked updated to 2.1.6.
+Core - Menu Zoom updated to 1.0.3.
+Core - Mum's The Word NG updated to 2.2.
+Core - No Furniture Camera update dto 1.0.1.
+Core - No Grass In Objects updated to 1.6.14.
+Core - Oxygen Meter 2 moved to archive link
+Core - Paired Animation Improvements updated to 1.0.3.
+Core - Photo Mode updated to 3.0.3.
+Core - Read Or Take updated to 1.5.1.
+Core - Reading Is Good updated to 1.2.0.
+Core - Remove Orphaned Hazards changed to Old Files.
+Core - Smart Talk updated to 1.0.6.
+Core - Stagger Effect Fix updated to 1.0.4.
+Core - STB Quick Hotkey Cast updated to 1.2.
+Core - Unpoisoned Blocking updated to 1.0.1.
+Core - Use Or Take updated to 1.3.2.
+Core - Widescreen Scale Removed updated to 1.1.0.
+Core - Unofficial Skyrim Special Edition Patch updated to 4.3.9a. (still not installed in current list)
+Core - Scripts Carefully Reworked Optimized and Tactfully Enhanced updated to 1.0.3.
+Core - Show Player In Inventory updated to 1.6.1.
+Core - moreHUD updated to 5.4.4.0.
+Core - moreHUD Inventory Edition updated to 2.2.3.0.
+Core - TrueHUD updated to 1.1.10.
+Core - Legendary Map CoMAP Support updated to 2.1.
+Core - Quest Journal Overhaul More Mod Support updated to 2.6.
+Core - STB Widgets updated to 3.0.
+Core - STB Active Effects updated to 2.1.
+Core - Delayed Burial Plus Plus updated to 1.06.
+Core - The Gildergreen Grows updated to 1.2.1.
+Core - Vanaheimr Landscapes AIO updated to 6.0, delete instructions added.
+Core - Real Rabbits HD changed to no shell version
+Core - The Younglings updated to 2.12.
+Core - Dismembering Framework updated to 1.2.3.
+Core - Dynamic Bloodpool Framework updated to 1.1.1.
+Core - Next-Gen Decapitations updated to 1.4.4.
+Core - Ricochet updated to 1.1.3.
+Core - SkyParkour updated to 3.6.4.
+Core - Smooth Arrow Trails updated to 1.0.3-NG. (no fixes or leanwolf patch)
+Core - True Directional movement updated to 2.3.1.
+Core - CBPC updated to 1.7.2.
+Core - Goetia Animations Conditional Shouts updated to 1.4.
+Core - Goetia Animations Enchanted Staves updated to 1.7b.
+Core - Goetia Animations Magic Spell Casting updated to 1.5b.
+Core - Leviathan Animations II Greatsword Non Combat Locomotion updated to 1.1.
+Core - Leviathan Animations Two-Handed High Stance updated to 1.5.
+Core - Leviathan Animations Two-Handed Normal Attacks updated to 1.4.
+Core - Leviathan Animations Two-Handed Power Attacks updated to 1.5.
+Core - Leviathan Animations II Greatsword Normal Attacks updated to 1.1.
+Core - Leviathan Animations II Greatsword Power and Sprint Attacks updated to 1.2.
+Core - Vanargand Animations II Unarmed Normal and Power Attacks updated to 1.1.
+Core - Vanargand Animations Archery updated to 1.1
+Core - Vanargand Animations Dual Wield Normal and Power Attacks updated to 1.1.
+Core - Vanargand Animations One Handed Mid Stance updated to 1.4b.
+Core - Vanargand Animations One Handed Normal Attacks updated to 1.2.
+Core - Vanargand Animations One Handed Power Attacks updated to 1.3.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.05.
+Core - Simple Follower Framework updated to 2.0.3.
+Core - Precision updated to 2.0.6.
+Core - Accuracy updated to 1.0.1.
+Core - Accurate Projectile Collision updated to 2.0.1.
+Core - Sanguine Symphony updated to 1.3.5.
+Core - Thieves Guild Plus Plus updated to 1.56.
+Core - Pleasing Polygon Increase Whiterun Farm Fences updated to 1.3.
+Core - Publican's Perch updated to 1.0.9.
+Core - Vanaheimr Landscapes AIO ERM Patch updated to 3.0.
+Core - JContainers changed to Old Files.
+
+Addons - Stress and Fear Tweaked updated to 3.3.
+Addons - Orc Strongholds AIO Patch Collection updated to 1.4.3.
+
+Adventures - The Wheels of Lull updated to 6.0.0.3.
+Adventures - Legacy of the Dragonborn updated to 6.10.2.
+
+Arch - So This Aint Right updated to 1.0.20.
+~~~
+
+![Bugfixes]
+~~~
+Patched in WJ file only this release.
+
+SUP Conflict Resolution 1.5.2
+   - Added config file for MCM Memory
+   - Removed unneeded cache file for ImmersiveHud
+   - Removed most MCM Recorder files, still required to be run manually for LOTD
+   
+SUP Project Arch 1.5.2
+   - Fixed SFCO paintings in Karthwasten inn
+~~~
+
 # 1.5.1 - 2026-08-29
 
 New game required.

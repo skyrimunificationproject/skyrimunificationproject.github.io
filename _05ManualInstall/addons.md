@@ -282,7 +282,7 @@ Pack the mod with CAO.
 
 ## Stress and Fear - Tweaked
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `3.1` | Author: `Blackspine18859` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `3.3` | Author: `Blackspine18859` | ![Optional]
 Download: | Main Files - Stress and Fear Tweaks
 
 ## Stress and Fear - CACO Patch
@@ -728,7 +728,7 @@ Several patches from this page are merged into the SUP CRs.
 
 ## Orc Strongholds - AIO - Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160944) | Version: `1.4.0` | Author: `Alaxouche` | ![Merged] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160944) | Version: `1.4.3` | Author: `Alaxouche` | ![Merged] ![ESM]
 Download: | Main Files - Orc Strongholds - AIO - Patches Collection
 
 ![FOMOD]

@@ -446,7 +446,7 @@ Download: | Main Files - Draugrs - SE by Xtudo - Tools of Kagrenac 2K
 
 ## The Wheels of Lull
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `6.0.0.2` | Author: `trainwiz`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `6.0.0.3` | Author: `trainwiz`
 Download: | Main Files - The Wheels of Lull SE
 
 ![FOMOD]
@@ -1776,7 +1776,7 @@ Download: | Main Files - Unslaad Weapons and Armors Retexture SE
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.10.1` | Author: `icecreamassassin` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.10.2` | Author: `icecreamassassin` | 
 Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
 
 ## Relic Hunter - Guildmaster Start

@@ -1658,7 +1658,6 @@ Mods:
    * Lux Orbis
    * Nature of the Wildlands
    * Northern Roads
-   * RS Children
    * Skyrim Unique Treasures
    * USSEP
 Optionals:
@@ -2341,7 +2340,7 @@ All *except for*:
 
 ## So This Aint Right (S.T.A.R.)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.19` | Author: `MissileMann` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.20` | Author: `MissileMann` 
 Download: | Main Files - So This Aint Right (STAR) - Patches by Missile
 
 ![FOMOD]
