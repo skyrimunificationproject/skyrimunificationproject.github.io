@@ -14,7 +14,7 @@ description: Important Information
  1. Make sure to read over the [installation guide](/01Help/Install).
  2. Search the [FAQs](/01Support/FAQs) in case your question has been previously asked.
  3. Check the [Known Issues](/01Support/Known%20Issues) page.
- 4. First-line Support is available primarily in the [Skyrim Unification Project Discord Server](hhttps://discord.gg/UAhtyb2XuK). 
+ 4. First-line Support is available primarily in the [Skyrim Unification Project Discord Server](https://discord.gg/UAhtyb2XuK). 
 
 **Support Guidelines**
 

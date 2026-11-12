@@ -88,6 +88,7 @@ FA01RedcapFollower.esp |
 fallentreebridgesSSE.esp | 
 FarmhouseChimneys.esp | 
 Finding_Helgi_and_Laelette.esp |
+HappyLittleTrees.esp |
 HLIORemi.esp | 
 IDDP Unique Border Gates Patch.esp | 
 Immersive Citizens - AI Overhaul.esp | 
@@ -135,16 +136,17 @@ AVExpansion_ICFH Add-on.esp | ESLify (compact)
 BarbarianPaints.esp | Add ESL flag
 BosmerHeadresses.esp | ESLify (compact)
 BSMBonemoldSet.esp | ESLify (compact)
+Cloaks&Capes.esp | ESLify (compact)
 CollegeEntry.esp | Add ESL flag
 CommunityOverlays1_0T30.esp | Add ESL flag
 CommunityOverlays2_31T50.esp | Add ESL flag
 CommunityOverlays3.esp | Add ESL flag
-CompanionsTweaks.esp | Add ESL flag
 DeadlySpellImpacts.esp | Add ESL flag
 ENB Light.esp | ESLify (compact)
 Faction Crossbows.esp | ESLify (compact)
 FMS_FemaleMakeupSuite.esp | Add ESL flag, add Skyrim.esm as master
 FWMF for Fantasy Paper Maps.esp | ESLify (compact)
+HappyLittleTrees.esp | ESLify (compact)
 HoldBorderBanners.esp | ESLify (compact)
 IcyFixes.esp | Add ESL flag
 KALA_BEAST RACE EYES.esp | ESLify (compact)
@@ -165,7 +167,6 @@ RaceMenuPlugin.esp | Add ESL flag
 ReadingImprovesSpeech.esp | Add ESL flag
 RSChildren.esp | Add ESL flag
 SaveTheIcerunner.esp | Add ESL flag
-Semi-Open Guard Helmets SE.esp | ESLify (compact)
 SFO_SkinFeatureOverlays.esp | Add ESL flag
 Skyking Signs - Interesting NPCs Patch.esp | ESLify (compact)
 SkyUI.esp | Add Skyrim.esm as a master
@@ -332,11 +333,13 @@ Select Ok and exit the menu
 Run Nemesis
 
 Select: 
+'1st Person Vertical Aim Fix',
 'Assorted Behavior Fixes v3.4',
 'Precision - NPC Combat Fix',
 'Barstool Exit Animation Fix',
 'Centurion OAR',
 'Precision',
+'First Person Equip Pitch Fix',
 'First Person Motion Sickness Remover Regular Attacks',
 'Fix Vanilla Attack Annotation',
 'GP Offset Movement Animation', 
@@ -347,6 +350,7 @@ Select:
 'Slow sprint bug fix', 
 'SkyParkour 1st Person',
 'SkyParkour 3rd Person',
+'Swimming Extensions - Swimming Overhaul',
 'True Directional Movement - Headtracking',
 'TK Dodge RE / Ultimate Combat',
 'Animation Teleport Bug Fix',

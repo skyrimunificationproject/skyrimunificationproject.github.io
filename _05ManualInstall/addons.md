@@ -74,7 +74,7 @@ Delete SKSE/Plugins/PapyrusUtil.dll.
 
 ## Andrealletius' Jobs Overhaul
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.6` | Author: `AndrealletiusVIII` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109363) | Version: `1.8.1` | Author: `AndrealletiusVIII` | ![CAO]
 Download: | Main Files - AJO - Andrealletius Jobs Overhaul
 
 ![PostInstall]
@@ -191,7 +191,7 @@ Download: | Main Files - Immersive Aggressive Opponents
 Optional Modules:
    * None
 Which armor slots to check?:
-   * All, Exclude Stormcloak Gauntlets and Boots
+   * Cuirasses only
 ~~~
 
 ## Immersive Carcass Carrying
@@ -282,13 +282,19 @@ Pack the mod with CAO.
 
 ## Stress and Fear - Tweaked
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `3.3` | Author: `Blackspine18859` | ![Optional]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/180865) | Version: `3.5` | Author: `Blackspine18859` | ![Optional]
 Download: | Main Files - Stress and Fear Tweaks
 
 ## Stress and Fear - CACO Patch
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/119815) | Version: `1.2` | Author: `jp1224` | ![Optional]
 Download: | Main Files - Stress and Fear - CACO SUD Patch
+
+## Stress and Fear - Show in UI for the Character Menu
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/185819) | Version: `1.2` | Author: `lecdabster` | ![Optional]
+Download: | Main Files - Stress and Fear - UI
+| Optional Files - Stress and Fear UI - Update
 
 ## More Realistic Antlers for Carry Your Carcasses
 
@@ -376,18 +382,6 @@ Download: | Main Files - Patch for Sunhelm Survival and CCARA DAR
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75319) | Version: `1.1` | Author: `IWantATardis`
 Download: | Main Files - 2K Sunhelm
 
-## Survival Control Panel - Settings Loader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78593) | Version: `1.0.2` | Author: `MaskedRPGFan`
-Download: | Main Files - Survival Control Panel - Settings Loader
-
-## SunHelm Survival and Needs - Settings Loader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/78535)
-Download: | Main Files - SunHelm Survival and needs Alternate Start Mods - Settings Loader
-
-
-
 
 # Addons - Immersion and Survival - Final Steps
 
@@ -408,7 +402,7 @@ Note: Many patches for the below mods are included in the list's conflict resolu
 
 ## Snozz's Resource Pack
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.15` | Author: `snozz2004` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/110110) | Version: `1.16b` | Author: `snozz2004` | ![CAO]
 Download: | Main Files - Snozz's Resources
 
 ![PostInstall]
@@ -440,7 +434,7 @@ Download: | Main Files - Brittleshin Pass Overhaul
 
 ![MergedLg]
 ~~~
-The 3DNPC, and Helgen Reborn patches on this page have been merged into SUP CR Vanilla Location Overhauls.
+The 3DNPC, and Helgen Reborn patches on this page have been merged into SUP CR Resources.
 ~~~
 
 ## Broken Fang
@@ -451,7 +445,7 @@ Download: | Main Files - Broken Fang
 
 ![MergedLg]
 ~~~
-The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
+The Lux patch has been merged into SUP CR Resources.
 ~~~
 
 ## Embershard
@@ -461,7 +455,7 @@ Download: | Main Files - Embershard Overhaul 2.0
 
 ## Fort Dunstad
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144471) | Version: `1.01` | Author: `snozz2004` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/144471) | Version: `1.1` | Author: `snozz2004` | ![ESM]
 Download: | Main Files - Fort Dunstad (ESL)
 | Optional Files - Lux - Fort Dunstead Patch (ESL)
 | Optional Files - Lux Orbis - Fort Dunstead Patch (ESL)
@@ -474,7 +468,7 @@ Download: | Main Files - Fort Fellhammer
 
 ![MergedLg]
 ~~~
-The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
+The Lux patch has been merged into SUP CR Resources.
 ~~~
 
 ## Fort Greymoor
@@ -486,7 +480,7 @@ Download: | Main Files - Fort Greymoor
 
 ![MergedLg]
 ~~~
-The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Overhauls.
+The Lux and Lux Orbis patches have been merged into SUP CR Resources.
 ~~~
 
 ## Graywinter
@@ -498,7 +492,7 @@ Download: | Main Files - Graywinter
 
 ![MergedLg]
 ~~~
-The optional files are merged into SUP CR Vanilla Location Overhauls.
+The optional files are merged into SUP CR Resources.
 ~~~
 
 ## Halted Stream
@@ -510,7 +504,7 @@ Download: | Main Files - Halted Stream Camp
 
 ![MergedLg]
 ~~~
-The Lux and Lux Orbis patches have been merged into SUP CR Vanilla Location Overhauls.
+The Lux and Lux Orbis patches have been merged into SUP CR Resources.
 ~~~
 
 ## Redoran's Retreat
@@ -521,7 +515,7 @@ Download: | Main Files - Redoran's Retreat
 
 ![MergedLg]
 ~~~
-The Lux patch has been merged into SUP CR Vanilla Location Overhauls.
+The Lux patch has been merged into SUP CR Resources.
 ~~~
 
 ## Robber's Gorge
@@ -534,8 +528,14 @@ Download: | Main Files - Robber's Gorge
 
 ![MergedLg]
 ~~~
-The Lux/Orbis/Via patches have been merged into SUP CR Vanilla Location Overhauls.
+The Lux/Orbis/Via patches have been merged into SUP CR Resources.
 ~~~
+
+## Shimmermist
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/191216) | Version: `1.1` | Author: `snozz2004` | ![ESM]
+Download: | Main Files - Shimmermist
+| Optional Files - Lux - Shimmermist Patch
 
 ## Silent Moons Camp
 
@@ -552,7 +552,7 @@ Download: | Main Files - Skybound
 
 ![MergedLg]
 ~~~
-The optional files are merged into SUP CR Vanilla Location Overhauls.
+The optional files are merged into SUP CR Resources.
 ~~~
 
 ## Snowpoint
@@ -564,7 +564,7 @@ Download: | Main Files - SnowPoint Beacon (ESL)
 
 ![MergedLg]
 ~~~
-The optional files are merged into SUP CR Vanilla Location Overhauls.
+The optional files are merged into SUP CR Resources.
 ~~~
 
 ## Sunderstone
@@ -576,7 +576,7 @@ Download: | Main Files - Sunderstone
 
 ![MergedLg]
 ~~~
-The optional files are merged into SUP CR Vanilla Location Overhauls.
+The optional files are merged into SUP CR Resources.
 ~~~
 
 ## Swindlers Den
@@ -665,7 +665,7 @@ Download: | Main Files - Snozz Ryn Bleak Falls Tower mashup patch
 
 ![MergedLg]
 ~~~
-The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Overhauls.
+The Lux Orbis patch from this page is merged into SUP CR - Resources.
 ~~~
 
 ## Combo Patch - Snozz and Ryn's - White River Watch
@@ -675,7 +675,7 @@ Download: | Main Files - Snozz's and Ryn's White River Watch Patch
 
 ![MergedLg]
 ~~~
-The Lux Orbis patch from this page is merged into SUP CR - Vanilla Location Overhauls.
+The Lux Orbis patch from this page is merged into SUP CR - Resources.
 ~~~
 
 # A32. Addons - Vanilla Location Overhauls - JJerem
@@ -713,7 +713,7 @@ Several patches from this page are merged into the SUP CRs.
 
 ## Orc Strongholds - All In One
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150246) | Version: `1.2.1` | Author: `JJerem` | ![Merged] ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/150246) | Version: `1.3.1` | Author: `JJerem` | ![Merged] ![CAO]
 Download: | Main Files - Orc Strongholds - All In One
 
 ![PostInstall]
@@ -752,7 +752,8 @@ Spice of Life:
 
 ![MergedLg]
 ~~~
-All of the above patches except for Lux Orbis are merged into the SUP CRs.
+All of the above patches are merged into the SUP CRs.
+Delete Orc Strongholds - All In One.esp (we only use the optimized meshes).
 ~~~
 
 ## Orcish Lanterns for Orc Strongholds - Base Object Swapper
@@ -771,49 +772,6 @@ Download: | Main Files - Northern Scenery - Bleak Falls Barrow
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/94476) | Version: `1.3.9` | Author: `HeilingerKrest` | ![ESM]
 Download: | Main Files - Northern Scenery - Whiterun's Tundra
-
-## FuzzBeed's Asset Library
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/134092) | Version: `12.11` | Author: `FuzzBeed` 
-Download: | Main Files - FuzzBeed's Resources AIO
-
-
-## Children of the North Wind - Nordic Ruin Diversity
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147701) | Version: `7.3.3` | Author: `FuzzBeed` | ![Merged]
-Download: | Main Files - Children of the North Wind
-| Optional Files - Dragon Totem Legacy Version
-
-![MergedLg]
-~~~
-Any required patches have been merged into Vanilla Locations Overhaul CR. For modifying the list, you
-may need to download the Patch Collection and relevant patches.
-~~~
-
-## Deadly Dragon Lair Locations - FuzzBeed's Dragon Lairs AIO
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/129681) | Version: `2.1.1` | Author: `FuzzBeed` | ![Merged] ![ESM]
-Download: | Main Files - Deadly Dragon Lair Locations
-
-![MergedLg]
-~~~
-The Lux and Lux Orbis patches from this page are merged into SUP CR - Vanilla Locations Overhauls.
-~~~
-
-## Gorgeous Giant Camps Compilation - FuzzBeed's Giant Camps AIO
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125327) | Version: `2.2` | Author: `FuzzBeed` | ![Merged] ![CAO] ![ESM]
-Download: | Main Files - Gorgeous Giant Camps Compilation
-
-![PostInstall]
-~~~
-Pack the mod with CAO.
-~~~
-
-![MergedLg]
-~~~
-The Lux Orbis - Embers XD - Three Way Patch on this page is merged into SUP CR - Vanilla Location Overhauls.
-~~~
 
 ## Mage Towers of Skyrim
 
@@ -842,7 +800,7 @@ Download: | Main Files - Skyfall Sleeping Hist Tree Overhaul - LOD
 
 ## Fancy Skyfall's Sleeping Tree
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179330) | Version: `1.1` | Author: `Jeannetta182`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/179330) | Version: `1.21` | Author: `Jeannetta182`
 Download: | Main Files - Fancy Skyfall's Sleeping Tree
 
 ![FOMOD]
@@ -901,12 +859,10 @@ BleakFallsReCovered.esp |
 BleakTower.esp |
 Brittleshin.esp |
 BrokenFang.esp |
-Deadly Dragon Lair Locations.esp |
 Embershard.esp |
 Fort Dunstad.esp |
 Fort Fellhammer.esp |
 Fort Greymoor.esp
-Gorgeous Giant Camp Compilation - FuzzBeed's Giant Camps.esp |
 GraywinterWatch.esp |
 HAG - Occult Cradle Stone Tower.esp |
 HaltedStream.esp |
@@ -928,6 +884,7 @@ Ryn's Karthspire.esp |
 Ryn's Standing Stones.esp |
 Ryn's Ustengrav.esp |
 Ryn's White River Watch.esp |
+Shimmermist.esp |
 SilentMoons.esp |
 Skybound.esp |
 Skyfall Sleeping Tree Overhaul.esp
@@ -947,44 +904,6 @@ Plugin | Instructions |
 - | -
 
 
-
-
-# Z01. Conflict Resolution
-
-Reinstall or update/merge:
-
-## Skyrim Unification Project - Consistency Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev, ra2` | ![Core] |
-Download: | Main Files - Skyrim Unification Project - Consistency Patches
-
-![FOMOD]
-~~~
-Install Type:
-   * All In One
-Select AIO Install Type: (choose which options you have installed)
-   * Core (automatic)
-   * Addons - Survival
-   * Addons - Followers
-   * Addons - Armor and Accessories
-~~~
-
-Place these after the existing Core CR mods.
-
-## Skyrim Unification Project - Conflict Resolution - Addons
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
-Download: | Main Files - Skyrim Unification Project - ConflictRes - Addons
-
-![FOMOD]
-~~~
-Conflict Resolution:
-   * Survival
-   * Followers
-   * Vanilla  Locations Overhauls
-Other Files:
-   * None
-~~~
 
 
 [mod]: https://img.shields.io/badge/Link-Download-006000?style=flat-square

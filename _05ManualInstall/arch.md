@@ -101,18 +101,6 @@ BOS or no BOS:
    * Don't use Base Object Swapper
 ~~~
 
-## More Dynamic Less Clutter in JKs Riften
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125086) | Version: `1.1` | Author: `jepster`
-Download: | Main Files - More dynamic less clutter in JKs Riften
-
-![FOMOD]
-~~~
-Versions:
-   * 30percent less clutter
-~~~
-
-
 ## Ryn's Farms
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/72305) | Version: `1.2` | Author: `Ryn` | ![ESM]
@@ -125,7 +113,7 @@ Download: | Main Files - Settlements Expanded SE
 
 ## Snazzy Location Resources
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.40` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147670) | Version: `2.50` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Location Resources
 
 ![FOMOD]
@@ -205,7 +193,7 @@ Download: | Main Files - Cities of the North - Dawnstar
 
 ## Cities of the North - Dawnstar Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.9` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30885) | Version: `5.10` | Author: `Janquel` | ![Merged]
 Download: | Main Files - COTN Dawnstar Patch Collection
 
 ![FOMOD]
@@ -297,18 +285,13 @@ Download: | Main Files - Better Occlusion - COTN Falkreath
 
 ## Cities of the North - Falkreath - Minotaur Trophy
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/66118) | Version: `1.0` | Author: `SassiestAssassin`
-Download: | Main Files - COTNF - Minotaur Trophy Addon
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/174268) | Version: `1.0` | Author: `SassiestAssassin`
+Download: | Main Files - A Minotaur in Hakkvild's High Hall -CotN Falkreath
 
 ## Cities of the North - Winterhold
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/40088) | Version: `1.1` | Author: `JPSteel2` | ![ESM]
 Download: | Main Files - Cities of the North - Winterhold
-
-## COTN Falkreath - Unique Texture Paths - SUP Edition
-
-[![mod]](https://www.dropbox.com/scl/fi/qzo501zvmda8g2vqiym2s/COTN-Falkreath-Unique-Texture-Paths-SUP-Edition.7z?rlkey=o3lkgijl2iofta8035sa8ymaj&dl=0) | Version: `1.0` | Author: `repzik and ra2phoenix`
-Download: | Dropbox - COTN Falkreath Unique Texture Paths SUP Edition.7z
 
 ## The Lone Whale - JK's Skyrim Addon
 
@@ -332,7 +315,7 @@ Pack the mod with CAO.
 
 ## The Great City of Winterhold Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.10` | Author: `Czasior` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74560) | Version: `2.11` | Author: `Czasior` | ![ESM] ![Merged]
 Download: | Main Files - The Great City of Winterhold Patch Collection
 
 ![FOMOD]
@@ -482,9 +465,8 @@ There will be no files remaining and this is expected.
 
 ## Markarth Outskirts
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.6.1` | Author: `GGUNIT` | ![ESM] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/70213) | Version: `1.7` | Author: `GGUNIT` | ![ESM] ![Merged]
 Download: | Main Files - Markarth Outskirts
-| Update Files - Markarth Outskirts small update
 
 ![FOMOD]
 ~~~
@@ -503,8 +485,10 @@ Manually installed plugins:
 The following plugins are merged into Project Arch - Markarth:
 Lux Via - Markarth Entrance and Farm Overhaul CFTO patch.esp
 Markarth Entrance and Farm Overhaul - CFTO fixes patch.esp
+Markarth Entrance and Farm Overhaul - Clockwork patch.esp
 Markarth Entrance and Farm Overhaul - USSEP patch.esp
 Markarth Entrance and Farm Overhaul - Via patch.esp
+Markarth Outskirts - Beyond Reach patch.esp
 Markarth Outskirts - Immersive Citizens patch - CFTO.esp
 Markarth Outskirts - Immersive Citizens patch.esp
 Markarth Outskirts - Natural Waterfalls patch.esp
@@ -573,7 +557,7 @@ Download: | Main Files - RYFTEN DOWN - 1B Performence
 
 ## Snazzy Riften AIO
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.2.1` | Author: `gutmaw` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/147594) | Version: `2.2.2` | Author: `gutmaw` | ![CAO]
 Download: | Main Files - Snazzy Riften AIO
 
 ![FOMOD]
@@ -604,19 +588,17 @@ Several patches from the patch collection on this page are merged into the Proje
 
 ## The City of Crossed Daggers - Riften Expansion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168629) | Version: `1.8` | Author: `Marijn` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168629) | Version: `2.1` | Author: `Marijn` | ![ESM]
 Download: | Main Files - The City of Crossed Daggers - Riften Expansion
 
 ## The City of Crossed Daggers - Riften Expansion - Patches and Addons
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168629) | Version: `1.8` | Author: `Marijn` | ![Merged]
-Download: | Optional Files - Canal Defenses Add-on
-| Optional Files - Environs - The Shrines of Talos Patch
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168629) | Version: `1.9` | Author: `Marijn` | ![Merged]
+Download: | Optional Files - Environs - The Shrines of Talos Patch
 | Optional Files - JK's Pawned Prawn Patch
 | Optional Files - JK's Riften Outskirts Patch
 | Optional Files - JK's Skyrim Patch
 | Optional Files - Lux Orbis Patch
-| Optional Files - Lux Patch
 | Optional Files - Northern Roads Patch
 | Optional Files - Ryften Down Patch
 | Optional Files - RYFTEN Window Add-on Lux Patch
@@ -668,27 +650,6 @@ Miscellaneous:
    * None
 ~~~
 
-## Drengin's Solitude Patch Collection
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/104668) | Version: `1.6` | Author: `Czasior` | ![Merged]
-Download: | Main Files - Drengin's Solitude Patch Collection
-
-![FOMOD]
-~~~
-Mod selection:
-   * Bards College Rework
-Bards College overhauls:
-   * JK's The Bards College   
-Bards College Rework + JK's Bards College Patches:
-   * Allow autoselected
-~~~
-
-![MergedLg]
-~~~
-All patches are merged into Project Arch except for:
-   Bards College Rework - JKs Bards College patch.esp
-~~~
-
 ## JK's Blue Palace
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45324) | Version: `2.0.2` | Author: `jkrojmal` | 
@@ -696,7 +657,7 @@ Download: | Main Files - JK's Blue Palace
 
 ## JK's Blue Palace Terrace
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.3.3` | Author: `jkrojmal and czasior` |  ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/75965) | Version: `2.3.4` | Author: `jkrojmal and czasior` |  ![Merged]
 Download: | Main Files - JK's Blue Palace Terrace
 
 ![FOMOD]
@@ -783,7 +744,7 @@ Majestic Mountains:
 
 ## Grand Solitude Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.5` | Author: `Czasior` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/157450) | Version: `1.6.1` | Author: `Czasior` | ![Merged]
 Download: | Main Files - Grand Solitude Patch Collection
 
 ![FOMOD]
@@ -1644,7 +1605,7 @@ Pack the mod with CAO.
 
 ## Redbag's Shor's Stone - Some Useful Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163175) | Version: `1.8` | Author: `monkeyangie` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163175) | Version: `1.10` | Author: `monkeyangie` | ![Merged]
 Download: | Main Files - RedBag's Shor's Stone - FOMOD
 
 ![FOMOD]
@@ -1788,7 +1749,7 @@ Great Town of Ivarstead - TNotT patch.esp
 
 ## The Great Town of Ivarstead - SMIM
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35406) | Version: `2.0` | Author: `AgentW`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35406) | Version: `2.1` | Author: `AgentW`
 Download: | Main Files - TGT Ivarstead - SMIM
 
 ## Ivy - Ivarstead Well Addon
@@ -1818,7 +1779,7 @@ Download: | Main Files - The Great Town of Karthwasten - Farmhouse Textures
 
 ## The Great Town of Karthwasten Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37471) | Version: `3.3.2` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/37471) | Version: `3.4.1` | Author: `Janquel` | ![Merged]
 Download: | Main Files - The Great Town of Karthwasten Patch Collection
 
 ![FOMOD]
@@ -1857,7 +1818,7 @@ Great Town of Karthwasten - USSEP Patch.esp
 
 ## The Quaint Hamlet of Soljund's Sinkhole
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122627) | Version: `1.01` | Author: `Socalista` | ![ESM] ![CAO] ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/122627) | Version: `1.02` | Author: `Socalista` | ![ESM] ![CAO] ![Merged]
 Download: | Main Files - The Quaint Hamlet of Soljund's Sinkhole
 
 ![PostInstall]
@@ -1869,6 +1830,11 @@ Pack the mod with CAO.
 ~~~
 Several patches from this page have been merged into Project Arch.
 ~~~
+
+## The Quaint Hamlet of Soljund's Sinkhole - Voice Lines
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/197944) | Version: `1.0` | Author: `Socalista`
+Download: | Main Files - Quaint Hamlet Of Soljund's Sinkhole Voice Lines
 
 # C10. Addons - Project Arch - JK Interiors - Cities
 
@@ -2147,7 +2113,7 @@ Download: | Main Files - JK's Septimus Signus's Outpost
 
 ## JK's Sinderion's Field Laboratory
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.1.3` | Author: `jkrojmal` | ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/68154) | Version: `1.2.0` | Author: `jkrojmal` | ![ESM]
 Download: | Main Files - JK's Sinderion's Field Laboratory
 
 ## JK's Sleeping Giant Inn
@@ -2172,7 +2138,7 @@ with the new npcs are disabled in our list.
 
 ## Meshes Optimization Project
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.5` | Author: `ItzIvy`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160495) | Version: `1.5.7` | Author: `ItzIvy` | ![BSA]
 Download: | Main Files - Meshes Optimization Project
 
 ![FOMOD]
@@ -2203,6 +2169,9 @@ Vanilla Mesh Fixes:
 
 ![PostInstall]
 ~~~
+Allow MO2 to extract the bsas (or COTN files are overwritten)
+
+Delete meshes/architecture/solitude/sbridge.nif.
 Delete meshes/cotn/architecture/westskyrim/*.
 Delete meshes/cotn/architecture/winterhold/*.
 Delete meshes/cotn/landscape/bridges/cotn_bridge01.nif.
@@ -2233,6 +2202,11 @@ Download: | Main Files - ClefJ's Dawnguard LODs and Optimizations
 | Main Files - ClefJ's Morthal LODs
 | Main Files - Rodryk's Dragonbridge Fixed LODs and Optimizations
 
+## COTN Falkreath - Unique Texture Paths - SUP Edition
+
+[![mod]](https://www.dropbox.com/scl/fi/qzo501zvmda8g2vqiym2s/COTN-Falkreath-Unique-Texture-Paths-SUP-Edition.7z?rlkey=o3lkgijl2iofta8035sa8ymaj&dl=0) | Version: `1.0` | Author: `repzik and ra2phoenix`
+Download: | Dropbox - COTN Falkreath Unique Texture Paths SUP Edition.7z
+
 ## Selectively Unvarying Firewood
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159768) | Version: `1.1` | Author: `DrMonops` | ![Merged]
@@ -2257,7 +2231,7 @@ The patches are merged into Project Arch.
 
 ## JK's Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.29.1` | Author: `Janquel` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/35910) | Version: `5.30` | Author: `Janquel` | ![Merged]
 Download: | Main Files - JKs Interiors Patch Collection
 
 ![FOMOD]
@@ -2312,7 +2286,7 @@ Pack the mod with CAO.
 
 ## Snazzy Interiors Patch Collection
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.8` | Author: `czasior gutmaw GGUNIT` | ![Merged]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/91604) | Version: `2.10` | Author: `czasior gutmaw GGUNIT` | ![Merged]
 Download: | Main Files - Snazzy Interiors Patch Collection
 
 ![FOMOD]
@@ -2330,6 +2304,7 @@ All *except for*:
    Snazzy Grand Solitude - Lux patch.esp
    Snazzy Interiors - JKs Dragonsreach - Lux patch.esp
    Snazzy Interiors - JKs Palace of the Kings - Lux patch.esp
+   Snazzy Interiors - Karthwasten Hall - The Great Town of Karthwasten patch.esp
    Snazzy Interiors - Markarth AIO - Lux patch.esp
    Snazzy Interiors - Raven Rock AIO - Lux patch.esp
    Snazzy Interiors - Riften AIO - Lux patch.esp
@@ -2340,7 +2315,7 @@ All *except for*:
 
 ## So This Aint Right (S.T.A.R.)
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.20` | Author: `MissileMann` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/121047) | Version: `1.0.22` | Author: `MissileMann` 
 Download: | Main Files - So This Aint Right (STAR) - Patches by Missile
 
 ![FOMOD]

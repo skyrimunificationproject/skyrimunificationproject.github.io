@@ -17,6 +17,376 @@ description: Changelog and Version History
 {:toc}
 </details>
 
+
+# 1.6.0 - 2026-11-11
+
+Not save safe.
+
+![Added]
+~~~
+Core - PGLite
+Core - XPMF - Extended Projected Materials Framework
+Core - Auto Output Switch - Redux
+Core - Baked Goods - Skyrim Engine Fixes
+Core - DIalogue Movement Enabler
+Core - Inventory Interface Information Injector Improved
+Core - LoadAccel - Faster Data Load
+Core - Remember Lockpick Angle - Updated
+Core - Skyrim Souls RE - Unpaused Menus
+Core - Water Collision Crash Fix NG
+Core - Centurions Say Stop
+Core - TrueHUD Focus
+Core - B.O.O.B.I.E.S (aka Immersive Icons) - BOOKS
+Core - Map Menu Extension - Skyrim Souls RE Patch
+Core - Custodian - Dwemer Animunculi SFX Overhaul
+Core - No Lexicon Left Behind
+Core - Folded Rag Diversification
+Core - Samples of Stools - A Barstool Replacer
+Core - Book of Love Plus Plus - A Quest Overhaul
+Core - Diplomatic Dragons - Delayed Random Dragons
+Core - Mind of Madness Plus Plus - A Daedric Quest Overhaul
+Core - Promises To Keep Plus Plus - A Quest Overhaul
+Core - Say No to Werewolf (aka Companions Without Werewolf)
+Core - Missives - Boards Redone
+Core - Whiterun Basement Tiling Fix - Jorrvaskr - Dragonsreach - Honningbrew Meadery
+Core - Praedy's Apocrypha - More Optimized Book Stacks
+Core - Blended Roads
+Core - Happy Little Trees
+Core - Happy Little Trees Add-On - DynDOLOD 3
+Core - Happy Little Logs
+Core - Goat Meat - Vanilla and PBR
+Core - Horker Meat - Vanilla and PBR
+Core - Horse Meat - Vanilla and PBR
+Core - Venison Meat - Vanilla and PBR
+Core - Upper Class Furniture Upgrade
+Core - Hold Guard Armor SE
+Core - Financebros - Thieves Guild NPC Replacers
+Core - Granite Hill - Familiar Faces
+Core - Swimming Extension - Swimming Overhaul (Svimex)
+Core - 1st Person Equip Pitch Fix
+Core - Vanargannd Animations II - Sword Power Attacks
+Core - Faster Mining Animation (OAR)
+Core - Improved Innkeepers - Improved Dialogue
+Core - Audugan - Integrated All-Maker Stones of Skyrim
+Core - Freyr - Integrated Standing Stones of SKyrim
+Core - Mannaz - Integrated Races of Skyrim
+Core - Diverse Woodchopping Blocks - Base Object Swapper
+Core - Simplicity of Snow Sulfur Ash Moss
+Core - Vines Improved
+Core - Windhelm Objects SMIMed
+Core - High Poly and Improved Hitch Posts
+Core - Oblivion Interaction Icons - Patch Collection
+
+Addons - Stress and Fear - Show in UI for the Character Menu
+Addons - Shimmermist
+
+Adventures - The Gray Cowl of Nocturnal - Spelling and Grammar Patch
+Adventures - UNSLAAD - CoMAP Addon
+Adventures - Legacy of the Dragonborn - Phantasmal Chest Skyrim Souls Patch
+Adventures - DAC0DA - Rolls-On-Roads Visual Overhaul
+Adventures - DAC0DA - Yngol Visual Overhaul
+Adventures - Legacy of the Dragonborn - Relic Hunter - Familiar Faces
+Adventures - Miasma - NPC Visual Overhaul
+Adventures - Wyrmstooth - Familiar Faces
+
+Arch - The Quaint Hamlet of Soljund's Sinkhole - Voice Lines
+~~~
+
+![Removed]
+~~~
+Core - Auto Audio Switch
+Core - Lingering Subtitles Fix
+Core - MCM Unlocked
+Core - Recursion Monitor
+Core - Landscape Fixes for Grass Mods
+Core - Diverse Witcher Missives Boards
+Core - Icy Landmarks
+Core - Improved Companions - Questline Tweaks
+Core - Missives - The Witcher Board HD
+Core - Armor Variants Expansion - Improved Closefaced Helmets Patch
+Core - Simplicity of Snow
+Core - Ulvenwald Lite
+Core - Happy Little Driftwood
+Core - Ray's UHD Folded Rag
+Core - Improved Closefaced Helmets Lite
+Core - Semi-Open Guard Helmets
+Core - Setting on Sulphur
+Core - Shaders of Solstheim - Ash and Moss
+Core - Song of the Green - Fancy Pod
+Core - A Rose in the Snow - Reborn
+Core - Northbourne NPCs Resources
+Core - Northbourne NPCs of Falkreath Hold
+Core - Northbourne NPCs of Haafingar
+Core - Northbourne NPCs of Hjaalmarch
+Core - Northbourne NPCs of the Rift
+Core - Northbourne NPCs of Whiterun Hold
+Core - Northbourne NPCs of Winterhold
+Core - Pandorable's NPCs - Initiates
+Core - Pandorable's NPCs - Sovngarde
+Core - Pan's Nameless Hunters
+Core - Pan's Nameless Vampires
+Core - Pan's Nameless Witches
+Core - KS Hairdos - HDT SMP - 3BA Collision Sliders
+Core - Sassy Salt and Wind Hair Retexture - Pandorable's Patches
+Core - Collision Reset
+Core - EVG Conditional Idles - Smooth Moveset Patch
+Core - Customizable Faster Mining Animation
+Core - Guards Pose With Weapons
+Core - HSF Male Furniture Idles
+Core - Andromeda - Unique Standing Stones of Skyrim
+Core - Imperious - Races of Skyrim
+Core - Andromeda - Unique Standing Stones of SKyrim - Cleaned Textures
+Core - Imperious - Races of Skyrim - Cleaned Textures
+Core - Complete Alchemy and Cooking Overhaul - Settings Loader
+Core - Complete Crafting Overhaul Remastered - Settings Loader
+Core - EVG Conditional Idles - Settings Loader
+Core - Immersive Interactions - Animated Actions - Legacy Settings Loader
+Core - moreHUD SE - Settings Loader
+Core - Storm Lightning - Settings Loader
+Core - Timing is Everything - Settings Loader
+Core - Trade and Barter - Settings Loader
+Core - VioLens - A Killmove Mod - Settings Loader
+Core - Praedy's OCW - Lux - Optimized
+
+Addons - Survival Control Panel - Settings Loader
+Addons - SunHelm Survival and Needs - Settings Loader
+Addons - FuzzBeed's Asset Library
+Addons - Children of the North Wind
+Addons - Deadly Dragon Lair Locations
+Addons - Gorgeous Giant Camps Compilation
+
+Adventures - VIGILANT - Settings Loader
+Adventures - Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
+
+Arch - More Dynamic Less Clutter in JKs Riften
+Arch - Drengin's Solitude Patch Collection
+~~~
+
+![Updated]
+~~~
+Prerequisites - Creation Kit Platform Extended updated to 0.6.b821.
+Prerequisites - NPC Plugin Chooser 2 updated to 2.2.6.
+Prerequisites - DynDOLOD updated to Alpha-218.
+
+Core - Andrealletius' Papyrus Functions updated to 1.11.
+Core - Container Distribution Framework updated to 3.1.4.
+Core - Core Impact Framework updated to 2.0.9.
+Core - Crash Logger SSE updated to 1.27.0.
+Core - Currency Swapper updated to 2.2.2.
+Core - Description Framework updated to 3.0.0.
+Core - Dynamic String Distributor updated to 1.5.2.
+Core - ENB Extender and Helper updated to 1.6.0.
+Core - ENB Light Inventory Fix updated to 1.2.1.
+Core - FLICK updated to 1.8.1.
+Core - KiLoader updated to 1.2.2.
+Core - MCM Memory updated to 1.6.0.
+Core - More Informative Console updated to 1.2.3.2.
+Core - Native Mesh Light Flicker Fix updated to 1.7.2.
+Core - powerofthree's Papyrus Extender updated to 6.5.2.
+Core - Rogue's Gallery updated to 1.0.1.0.
+Core - SKSE Menu Framework updated to 3.23.
+Core - Skyrim Skill Uncapper updated to 2.2.4.
+Core - Alchemy Highlighting updated to 1.0.1.
+Core - Animate Bound Weapons updated to 1.0.2.
+Core - AnimObject Swapper updated to 2.0.0.
+Core - Better Jumping updated to 1.9.5.
+Core - Better Third Person Selection updated to 0.9.0.
+Core - Classic Sprinting Redone updated to 2.4.
+Core - Comprehensive Attack Rate Patch updated to 1.1.5.1.
+Core - Considerate Followers updated to 1.3.1.
+Core - Death Drop Overhaul updated to 1.3.6.
+Core - Death Idle Fix updated to 1.1.0.
+Core - Dialogue History updated to 2.5.0.
+Core - Enemies Respect Encounter Zones updated to 1.5.0.
+Core - EVLaS updated to 1.4.1.
+Core - Equip Enchantment Fix updated to 1.3.7.
+Core - Favorites Menu Effects Description updated to 1.2.
+Core - Floating Subtitles updated to 3.3.5.
+Core - Helmet Toggle 2 updated to 3.6.3.
+Core - Horizon Fix updated to 0.9.0.
+Core - KreatE updated to 1.5.2.
+Core - Loading Screen Truce updated to 0.01-AE1.3.
+Core - Main Menu Video updated to 1.4.0.
+Core - Magic Fixes and Tweaks SKSE updated to 2.5.0.
+Core - Multiple Rings SKSE updated to 1.0.2.
+Core - Multiple Rings SKSE MCM updated to 1.0.0.
+Core - Native EditorID Fix updated to 1.2.3.
+Core - No Grass In Objects updated to 2.0.3.
+Core - No Idle Vanity Camera SKSE updated to 2.0.1.
+Core - No Opposite Gender Animations NG updated to 1.2.
+Core - Papyrus Tweaks NG updated to 4.2.1.
+Core - Perfectly Valid Wards updated to 3.0.2.
+Core - Persistent Favorites updated to 1.0.7.
+Core - Photo Mode updated to 3.0.4.
+Core - Project Bro He's There updated to 2.3.
+Core - S.L.A.C.K. updated to 1.5.2.
+Core - Splashes of Storms updated to 1.4.0.
+Core - Stacks or Singles updated to 2.0.0. (moved positions slightly)
+Core - STB Quick Hotkey Cast updated to 1.3.
+Core - Stuck on Screen updated to 0.3.2.
+Core - Stuck Underwater Visuals updated to 0.2.3.
+Core - Widescreen Scale Removed updated to 1.1.1.
+Core - Yes I'm Sure NG updated to 1.8.
+Core - USSEP updated to 4.3.9b.
+Core - Absorb Dragon Soul Lesser Power updated to 1.1.1.
+Core - Racemenu Enhancer updated to 2.3.0.
+Core - SmoothCam updated to 1.8.1.
+Core - Character Menu updated to 1.4.
+Core - Show Player In Inventory updated to 3.0.4.
+Core - Tween menu Overhaul updated to 1.2.1.
+Core - moreHUD updated to 5.4.7.0.
+Core - moreHUD Inventory Edition updated to 2.2.4.0.
+Core - TrueHUD Inventory Injector Patch updated to 1.5.
+Core - Knotwork updated to 2.1.2.
+Core - Loading Menu Overhaul updated to 1.1.
+Core - Modern Wait Menu updated to 2.2.0.
+Core - Quest Journal Overhaul More Mod Support updated to 2.7.
+Core - Unsearched Corpse Indicator updated to 2.0.0.
+Core - Vel'dun UI updated to 1.0.8.
+Core - Vel'dun UI Overhauls Updated to 1.0.7.
+Core - Vel'dun UI Patches updated to 1.0.8.
+Core - Flat World Map Framework updated to 1.9.991.
+Core - Draugr Don't Breathe SSE - position updated
+Core - After the Civil War updated to 2.7.2.
+Core - BUVARP RE updated to 1.3.8.
+Core - Delayed Burial Plus Plus updated to 1.12.
+Core - Granite Hill Cut Content Restoration updated to 1.7.
+Core - Miscellaneous Plus Plus updated to 1.07.
+Core - The Heart of Dibella Quest Expansion updated to 1.09.
+Core - Favor Quests Separated updated to 2.12.1.
+Core - Missives - Blacklist Expanded - FLM updated to 1.3.0.
+Core - Cloaks and Capes updated to 1.7.
+Core - Armory Extended Saints and Seducers updated to 1.1.
+Core - Beyond Skyrim Wares of Tamriel updated to 1.5.4.
+Core - New Armory Series Argonian Weapons updated to 1.6.
+Core - DynDOLOD DLL NG updated to Alpha-43.
+Core - Assorted Mesh Fixes updated to 0.148.
+Core - Inveterate Imperium updated to 1.1.
+Core - Skyking Signs updated to 2.2.
+Core - Icy Mesh Remaster updated to 3.40.
+Core - Vanaheimr Landscapes AIO updated to 8.1.
+Core - High Quality Ivy for Tree Stumps and Logs updated to 1.2 (changed from Ulv to Happy Little Logs)
+Core - Embers XD updated to 3.3.0.
+Core - Embers XD Torch Edit updated to 1.3.
+Core - Stalhrim Armors and Weapons Retexture SE updated to 2.1.0.
+Core - Natural Waterfalls updated to 3.8.
+Core - Skyrim Bandit Expansion updated to 1.4.0.
+Core - Interesting NPCs Fixes and Tweaks updated to 6.5.
+Core - Interesting NPCs Text Fixes updated to 1.4.
+Core - Familiar Faces updated to 2.0.
+Core - Children of the Hist updated to 2.03.
+Core - Zoldyg's Inigo updated to Final.
+Core - Female Hands Redone - added No Rim Lighting patch.
+Core - Facial Hair by Khisartin Standalone updated to 1.1.1.
+Core - SkyParkour updated to 3.6.7.
+Core - CBPC updated to 1.7.3.
+Core - Draw Fix updated to 1.4.4.
+Core - Goetia Animations Conditional Shouts updated to 1.4b.
+Core - Vanargand Animations II Unarmed Pugilism Stance updated to 1.2.
+Core - Arm Movement Animations updated to 3.0.2.
+Core - Axarien's Animations updated to 6.0.
+Core - Dynamic Female Hand Warming updated to 1.7.
+Core - Dynamic Female Ledge Sitting updated to 1.4.
+Core - Dynamic Female Rail Leaning updated to 1.3.
+Core - Dynamic Female Swimming Idles updated to 1.1.
+Core - Dynamic Female Table Leaning updated to 1.2.
+Core - Dynamic Female Wall leaning updated to 1.4.
+Core - Follower Interact with Gestures updated to 1.0.5.
+Core - NPC Animation Remix updated to 2.4.2.
+Core - Organic Player Animations updated to 2.1.0.
+Core - Player Character Gestures updated to 2.3.1.
+Core - Hearthfire Multiple Adoptions Expanded updated to 2.06b.
+Core - Missing Follower Dialogue Edit updated to 2.7.
+Core - Honed Metal updated to 1.27.
+Core - Simple Follower Framework updated to 2.2.2.
+Core - Wait Your Turn Redux updated to 1.1.0.
+Core - NPC Spell Variance updated to 2.7.5.
+Core - NPC Spell Variance Apocalypse updated to 10.2b.
+Core - NPC Spell Variance Odin updated to 3.1c.
+Core - Wintersun updated to 3.3.0.
+Core - Experience updated to 3.7.4.
+Core - Dynamic Thing Alternative updated to 0.6.
+Core - Missives Quests Raise Disposition updated to 2.2.
+Core - Thieves Guild Plus Plus updated to 1.71.
+Core - CBBE 3BA Vanilla Outfits Redone updated to 6.0.3.
+Core - CBBE 3BA VOR WACCF and ACE updated to 1.4.5.
+Core - Frost Atronach SE - added alternative shader flags file
+Core - Pleasing Polygon Increase Whiterun Farm Fences updated to 1.3.1.
+Core - Vanaheimr Landscapes AIO ERM Patch updated to 3.0.2.
+Core - Whiterun Objects SMIMed Dragonsreach Stairs updated to 0.5.
+Core - Bodyslide and Outfit Studio updated to 6.1.0.
+Core - JContainers updated to 4.3.3.
+Core - Mfg Fix NG updated to 1.0.10.
+Core - Lux Patch Hub updated to 7.2.
+Core - Northern Roads Patch Collection updated to 1.41.1.
+Core - Object Categorization Framework Some KID Patches updated to 4.2.1.
+Core - SFCO3 Patch Collection updated to 1.23.1.
+Core - Threads of the North updated to 2.0.2.
+
+Addons - Andrealletius' Jobs Overhaul updated to 1.8.1.
+Addons - Stress and Fear Tweaked updated to 3.5.
+Addons - Snozz's Resource Pack updated to 1.16b.
+Addons - Fort Dunstad updated to 1.1.
+Addons - Orc Strongholds AIO updated to 1.3.1.
+Addons - Fancy Skyfall's Sleeping Tree updated to 1.21.
+
+Adventures - The Wheels of Lull updated to 6.0.0.5.
+Adventures - Miasma updated to 1.2.4.
+Adventures - Midnight Sun updated to 2.13.
+Adventures - Shadelight updated to VKimono [sic].
+Adventures - The Frozen Heart updated to 0.12.
+Adventures - Legacy of the Dragonborn updated to 6.11.09.
+Adventures - Legacy of the Dragonborn Patches updated to 6.10.10.
+Adventures - Legacy of the Dragonborn Patches Creation Club updated to 6.0.14.
+Adventures - Legacy of the Dragonborn The Curator's Companion updated to 7.0.11.
+
+Arch - Snazzy Location Resources updated to 2.50.
+Arch - Cities of the North Dawnstar Patch Collection updated to 5.10.
+Arch - Cities of the North Falkreath Minotaur Trophy - Mod source and files changed
+Arch - The Great City of Winterhold Patch Collection updated to 2.11.
+Arch - Markarth Outskirts updated to 1.7.
+Arch - Snazzy Riften AIO updated to 2.2.2.
+Arch - The City of Crossed Daggers updated to 2.1.
+Arch - The City of Crossed Daggers Patches and Addons updated (+Shrines of Talos, -Lux)
+Arch - JK's Blue Palace Terrace updated to 2.3.4.
+Arch - Grand Solitude Patch Collection updated to 1.6.1.
+Arch - Redbag's Shor's Stone Some Useful Patches updated to 1.10.
+Arch - The Great Town of Ivarstead SMIM updated to 2.1.
+Arch - The Great Town of Karthwasten Patch Collection updated to 3.4.1.
+Arch - The Quaint Hamlet of Soljund's Sinkhole updated to 1.02.
+Arch - JK's Sinderion's Field Laboratory updated to 1.2.0.
+Arch - Meshes Optimization Project updated to 1.5.7, BSA Extract tag added
+Arch - JK's Interiors Patch Collection updated to 5.30.
+Arch - Snazzy Interiors Patch Collection updated to 2.10.
+Arch - So This Aint Right (S.T.A.R.) updated to 1.0.22.
+~~~
+
+![Bugfixes]
+~~~
+SUP HPH Facegen 1.6.0
+   - Fixed texture paths on hair on Cidhna Mine Expanded, removed unused modules
+
+SUP Gameplay Overhaul 1.6.0
+   - Added placeholder records for Cloaks and Capes to avoid injection
+   - Removed edits conflicting with Skyrim Revoiced / Flowrifto from Quest Tweaks.
+
+SUP Consistency Patches 1.6.0
+   - Removed esp replacer for Cloaks and Capes and updated relevant records in patches
+   - Restored Dragon War and D.U.I. levels and stats to mod defaults
+   
+SUP Conflict Resolution 1.6.0
+   - Many many landscape and object fixes.
+   - Fixed destroyed inn textureset issue in Wyrmstooth
+   - Fixed misaligned Blue Palace model in Vigilant
+   - Potentially fixed ability to enter Project AHO level through sealed door
+
+SUP Project Arch 1.6.0
+   - Fixed a few architecture issues in Whiterun
+   - Removed smoke in Markarth to avoid turning on and off / be consistent with vanilla Markarth
+   - Manually made edits to Markarth worldspace exterior to avoid relying on copied LOD objects
+   - Many many landscape and object fixes.
+~~~
+
 # 1.5.2 - 2026-09-04
 
 Save-safe from 1.5.1.

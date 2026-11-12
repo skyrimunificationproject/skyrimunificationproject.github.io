@@ -405,6 +405,11 @@ Decals:
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/125416) | Version: `1.0` | Author: `Decaroidea`
 Download: | Main Files - Gray Cowl of Nocturnal - Misc Item Description
 
+## The Gray Cowl of Nocturnal - Spelling and Grammar Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/195296) | Version: `1.0` | Author: `cricketchick25`
+Download: | Main Files - GCON Spelling Fixes
+
 ## The Gray Cowl of Nocturnal - Betalille's Hammerfell Quests Bundle
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/89977) | Version: `1.0.5` | Author: `Betalille` | ![Merged] ![ESM]
@@ -446,7 +451,7 @@ Download: | Main Files - Draugrs - SE by Xtudo - Tools of Kagrenac 2K
 
 ## The Wheels of Lull
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `6.0.0.3` | Author: `trainwiz`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/748) | Version: `6.0.0.5` | Author: `trainwiz`
 Download: | Main Files - The Wheels of Lull SE
 
 ![FOMOD]
@@ -827,8 +832,8 @@ Pack the mod with CAO.
 
 ## Miasma
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/149879) | Version: `1.2.2` | Author: `Renacles` 
-Download: | Main Files - Miasma 1.2.1
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/149879) | Version: `1.2.4` | Author: `Renacles` | ![CAO]
+Download: | Main Files - Miasma 1.2.3
 
 ![FOMOD]
 ~~~
@@ -845,9 +850,9 @@ Pack the mod with CAO.
 
 ## Midnight Sun
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163295) | Version: `1.74` | Author: `Kittytail` | ![QAC] ![ESM]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/163295) | Version: `2.13` | Author: `Kittytail` | ![QAC]
 Download: | Main Files - Midnight Sun
-| Update Files - Midnight Sun - Update
+| Misc Files - Midnight Sun - Update
 
 ## Midnight Sun Paper Map for FWMF by Limon
 
@@ -864,9 +869,15 @@ The .esp is merged into SUP Addons - Adventures.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/90737) | Version: `1.4` | Author: `Penrutet` | ![ESM]
 Download: | Main Files - Morthal Barrow
 
+![FOMOD]
+~~~
+Patches:
+   * None
+~~~
+
 ## Shadelight - The Treasure Sea
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108508) | Version: `VFarshores1.2` | Author: `r4bblerous3r` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/108508) | Version: `VKimono` | Author: `r4bblerous3r` | ![CAO]
 Download: | Main Files - Shadelight - The Treasure Sea
 
 ![PostInstall]
@@ -926,7 +937,7 @@ Download: | Main Files - The Forgotten City
 
 ## The Frozen Heart
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.10.3` | Author: `wSkeever and Kreiste` | ![CAO]
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/159911) | Version: `0.12` | Author: `wSkeever and Kreiste` | ![CAO]
 Download: | Main Files - The Frozen Heart - Main File
 
 ![FOMOD]
@@ -1516,11 +1527,6 @@ The esp is merged into SUP CR - Adventures.
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/103181) | Version: `1.1` | Author: `Matcm149`
 Download: | Main Files - VIGILANT - Saint Alessia Statue Replacer
 
-## VIGILANT - Settings Loader
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/69353) | Version: `1.2.0` | Author: `MaskedRPGFan`
-Download: | Main Files - VIGILANT SE - Settings Loader
-
 ## VIGILANT - Tweaks
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/102544) | Version: `1.0` | Author: `Decaroidea`
@@ -1703,6 +1709,11 @@ Silent Voice:
 Pack the mod with CAO. (to remove loose facegen, it will create a new dummy plugin)
 ~~~
 
+## UNSLAAD - CoMAP Addon
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/191779) | Version: `1.0` | Author: `JarlSputnik`
+Download: | Main Files - UNSLAAD Map Markers
+
 ## UNSLAAD - Delayed Start
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/57966) | Version: `2.1` | Author: `Aelarr`
@@ -1776,8 +1787,8 @@ Download: | Main Files - Unslaad Weapons and Armors Retexture SE
 
 ## Legacy of the Dragonborn
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.10.2` | Author: `icecreamassassin` | 
-Download and install via MO2 archive: | Main Files - Legacy of the Dragonborn V6
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/11802) | Version: `6.11.09` | Author: `icecreamassassin` | 
+Download and install via MO2 archive: | Main Files - LegacyoftheDragonborn
 
 ## Relic Hunter - Guildmaster Start
 
@@ -1874,25 +1885,6 @@ Install Tools:
 The esp from this mod is merged into SUP Adventures Resources.
 ~~~
 
-## Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/74810) | Version: `2.0.1` | Author: `MelwenMods`
-Download: | Main Files - Legacy of the Dragonborn - Craftloot Sort and Storage FormList Patches
-
-![FOMOD]
-~~~
-Requirements:
-   * All autochecked
-Patches:
-   * Check all
-Creation Club:
-   * Allow autochecked except Survival Mode
-Official Patches:
-   * Allow autochecked
-Unofficial Patches:
-   * Allow autochecked
-~~~
-
 ## Legacy of the Dragonborn - Dragonmail Cuirass Enhanced
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/43130) | Version: `1.0` | Author: `AgentW` | 
@@ -1962,7 +1954,7 @@ Download: | Main Files - LOTD Paintings
 
 ## Legacy of the Dragonborn - Patches
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.9` | Author: `The Legacy Patch Team` | 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/30980) | Version: `6.10.10` | Author: `The Legacy Patch Team` | 
 Download: | Main Files - Legacy of the Dragonborn Patches (Official)
 
 ![FOMOD]
@@ -2006,7 +1998,7 @@ Delete meshes/dbm resources/museumsign.nif.
 
 ## Legacy of the Dragonborn - Patches - Creation Club
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.13` | Author: `Jelidity and icecreamassassin`
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/31563) | Version: `6.0.14` | Author: `Jelidity and icecreamassassin`
 Download: | Main Files - Legacy of the Dragonborn Creation Club Patches
 
 ![FOMOD]
@@ -2040,6 +2032,11 @@ Guildhouse:
    * Allow autoselected
 ~~~
 
+## Legacy of the Dragonborn - Phantasmal Chest Skyrim Souls Patch
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/173523) | Version: `1.0` | Author: `ArcticPinou`
+Download: | Main Files - Phantasmal Chest - Skyrim Souls - Patch 1.0.0
+
 ## Legacy of the Dragonborn - Plaques Retexture
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/45904) | Version: `1.0` | Author: `mashanen` | 
@@ -2063,7 +2060,7 @@ Download: | Main Files - Legacy of the Dragonborn - Snazzy Excavation Tent
 
 ## Legacy of the Dragonborn - The Curator's Companion
 
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.9` | Author: `icecreamassassin` 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/38529) | Version: `7.0.11` | Author: `icecreamassassin` 
 Download: | Main Files - Legacy of the Dragonborn - The Curators Companion
 
 ![FOMOD]
@@ -2113,6 +2110,16 @@ Download: | Misc Files - Betalille's Hammerfell Quests - Familiar Faces
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/164145) | Version: `2.0` | Author: `Julian`
 Download: | Main Files - Dac0da - RS Children Patch
 
+## DAC0DA - Rolls-On-Roads Visual Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/168203) | Version: `1.0.0` | Author: `Foamimi`
+Download: | Main Files - DAC0DA - Rolls-On-Roads Visual Overhaul
+
+## DAC0DA - Yngol Visual Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/176691) | Version: `1.0.1` | Author: `Foamimi`
+Download: | Main Files - DAC0DA - Yngol Visual Overhaul
+
 ## Foamimi's Glenmoril NPC Visual Overhaul
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/109643) | Version: `3.0.2` | Author: `Foamimi`
@@ -2143,6 +2150,16 @@ Download: | Main Files - Legacy of the Dragonborn Visual Overhaul
 Pack the mod with CAO.
 ~~~
 
+## Legacy of the Dragonborn - Relic Hunter - Familiar Faces
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `2.0` | Author: `Axarien` 
+Download: | Misc Files - Legacy of the Dragonborn - Relic Hunter Start FF
+
+## Miasma - NPC Visual Overhaul
+
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/196068) | Version: `1.0` | AUthor: `Foamimi`
+Download: | Main Files - Miasma - NPC Visual Overhaul
+
 ## Project AHO - Familiar Faces
 
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `1.1` | Author: `Axarien` 
@@ -2163,8 +2180,14 @@ Download: | Main Files - Vigilant - Alessia - HPH Version
 [![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/98608) | Version: `1.1` | Author: `SassiestAssassin`
 Download: | Main Files - Vigilant - Lamae Bal HPH Replacer
 
-# B08. Addons - Adventures - Late Loaders
+## Wyrmstooth - Familiar Faces
 
+[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/153533) | Version: `2.0` | Author: `Axarien` 
+Download: | Misc Files - Wyrmstooth - Familiar Faces
+
+
+
+# B08. Addons - Adventures - Late Loaders
 
 ## Antique Statue HD
 
@@ -2249,31 +2272,7 @@ Download: | Optional Files - 3D Coin Piles - SE by Xtudo - LOTD - JS - SMIM
 
 # Z02. Conflict Resolution
 
-Reinstall or update/merge:
-
-## Skyrim Unification Project - Consistency Patches
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev, ra2` | ![Core] ![Adventures] |
-Download: | Main Files - Skyrim Unification Project - Consistency Patches
-
-![FOMOD]
-~~~
-Install Type:
-   * All In One
-Select AIO Install Type: (choose which options you have installed)
-   * Core (automatic)
-   * Addons - Survival
-   * Addons - Followers
-   * Addons - Armor and Accessories
-   * Addons - Adventures
-~~~
-
 Place these after the existing Core CR mods.
-
-## Skyrim Unification Project - Addons - Adventures
-
-[![mod]](https://www.nexusmods.com/skyrimspecialedition/mods/160547) | Version: `1.5.0` | Author: `rev and ra2phoenix` | ![Core] ![Adventures] |
-Download: | Main Files - Skyrim Unification Project - Addons - Adventures
 
 ## Skyrim Unification Project - Replacement Plugins - Addons - Adventures
 
@@ -2286,9 +2285,6 @@ Replacement Plugins:
    * DBM_CloaksOfSkyrim_Patch
    * DBM_RoyalArmory_Patch
 ~~~
-
-
-
 
 
 # Adventures - Final Steps
@@ -2356,7 +2352,6 @@ LegacyoftheDragonborn.esm |
 LegendsOfAetherium.esp | 
 Memorable Bounties - Witcher Inspired Quests.esp | 
 Memorable Stories.esp |
-Midnight Sun - Update |
 MoonAndStar_MAS.esp |
 MoreToDoHestrasNest.esp |
 MorthalBarrow.esp | 

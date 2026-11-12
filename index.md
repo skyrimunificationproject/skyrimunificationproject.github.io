@@ -17,12 +17,12 @@ Skyrim Unification Project is in brief, a modular, multi-tiered modlist that all
 ### SUP CORE
 
 - The list is balanced around the Kryptopyr suite of mods: WACCF, CACO, CCOR.
-- Gameplay overhauls by Enai: Imperious, Ordinator, Odin, Apocalypse, Triumvirate, Sacrilege.
+- Gameplay overhauls by Enai: Mannaz, Freyr, Ordinator, Odin, Apocalypse, Triumvirate, Sacrilege.
 - Our custom Skyrim Unification Gameplay Overhaul, incorporating enemy and loot tiers similar to SRCEO and MLU, using a new leveled list system that may be familiar to OWL users but was developed independently in parallel.
-- Vanilla-lite combat with Valhalla and Wildcat for difficulty management
+- Vanilla-lite combat with Valhalla and Precision
 - TrueHUD and Vel'dun UI for a modern interface
 - A curated choice of graphic overhauls designed for consistency and reasonable performance.
-- A custom blend of Nature of the Wildlands, Ulvenwald Lite, and Aspens Ablaze.  Grass provided by Witchy Wilderness.
+- A custom blend of Nature of the Wildlands, Happy Little Trees, and Aspens Ablaze.  Grass provided by Witchy Wilderness.
 - Painstakingly hand edited patching together of Northern Roads, Lux Via, and others
 - Vanilla quest overhauls and expansions
 - CBBE 3BA Nevernude outfits for a reasonable default figure, TNG Nevernude males (no bodyslides)
@@ -45,8 +45,8 @@ Immersion and Survival module:
 - SunHelm, Campfire, Footprints, Simple Hunting Overhaul, Dirt and Blood, Books of Power, Stress and Fear, and more. While this is installed in the full list, SunHelm can be easily disabled in its MCM, and the rest are opt-in or fairly unintrusive.
 
 Vanilla Location Overhauls module:
-- A selection of specific locational overhauls from Snozz and Ryn and others (currently covering Whiterun Hold)
-- Skyrim-wide overhauls with Ryn's Dragon Mounds and Standing Stones, and Fuzzbeed's Children of the North Wind, Deadly Dragon Lairs, and Gorgeous Giant Camps.
+- A selection of specific locational overhauls from Snozz and Ryn and others
+- Skyrim-wide overhauls with Ryn's Dragon Mounds and Standing Stones
 - All mods patched into landscape and navmesh of Adventures
 
 ### SUP Project Arch
